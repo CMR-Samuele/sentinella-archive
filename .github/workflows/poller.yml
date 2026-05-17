@@ -45,10 +45,11 @@ jobs:
             git commit -m "chore: update archive $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
 
-      # 6. Pubblica archivio su R2 (unica fonte servita dal Worker gate).
-      #    Repo privato → i dati NON sono mai su github raw.
-      - name: Upload archive to R2
-        run: npx --yes wrangler@4 r2 object put sentinella-data/articles.json --file=data/articles.json --content-type="application/json" --remote
+      # 6. Pubblica archivio su KV (unica fonte servita dal Worker gate).
+      #    Repo privato → i dati NON sono mai su github raw. Niente R2/billing.
+      - name: Upload archive to KV
+        run: npx --yes wrangler@4 kv key put current --path=data/articles.json --namespace-id="$CLOUDFLARE_KV_ARCHIVE_ID" --remote
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_KV_ARCHIVE_ID: ${{ secrets.CLOUDFLARE_KV_ARCHIVE_ID }}

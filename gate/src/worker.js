@@ -15,10 +15,10 @@
  *
  * Binding (wrangler.toml):
  *   env.LICENSES  KV   allowlist
- *   env.ARCHIVE   R2   articles.json
+ *   env.ARCHIVE   KV   archivio (chiave "current" = articles.json)
  */
 
-const ARCHIVE_KEY = "articles.json";
+const ARCHIVE_KEY = "current";
 
 function cors(env) {
   return {
@@ -86,13 +86,13 @@ export default {
         return json({ error: "invalid_or_revoked" }, 403, env);
       }
 
-      // Autorizzato → servi archivio da R2.
-      const obj = await env.ARCHIVE.get(ARCHIVE_KEY);
-      if (obj === null) {
+      // Autorizzato → servi archivio da KV.
+      const body = await env.ARCHIVE.get(ARCHIVE_KEY, "stream");
+      if (body === null) {
         return json({ error: "archive_unavailable" }, 503, env);
       }
 
-      return new Response(obj.body, {
+      return new Response(body, {
         status: 200,
         headers: {
           "Content-Type": "application/json; charset=utf-8",

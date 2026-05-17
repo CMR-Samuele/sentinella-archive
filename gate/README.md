@@ -3,16 +3,18 @@
 Backend di protezione. Tutto passa di qui; l'app non contiene segreti.
 
 ```
-[Action poller] --articles.json--> [R2: sentinella-data]
-[App utente] --Bearer license-key--> [Worker gate] --KV allowlist--> 200 / 403
+[Action poller] --articles.json--> [KV ARCHIVE: "current"]
+[App utente] --Bearer license-key--> [Worker gate] --KV LICENSES--> 200 / 403
 ```
+
+Storage su KV, non R2: nessun billing/carta richiesti.
 
 ## Threat model
 
 | Minaccia | Mitigazione |
 |---|---|
 | Sorgente pubblico → gate bypassabile | Repo **privato**. Nel client solo GATE_URL. |
-| Dati scaricabili da github raw | Repo privato + dati serviti **solo** da R2 via Worker. |
+| Dati scaricabili da github raw | Repo privato + dati serviti **solo** da KV via Worker. |
 | Key estratta dal binary store | Key è **per-utente**, revocabile singolarmente. Compromessa → `revoke`. |
 | Confronto key lato client | Nessuno: la key È la chiave KV, lookup server-side. |
 | Token rubato resta valido | Nessun JWT/TTL: revoca = delete KV = **403 immediato**. |
@@ -27,28 +29,30 @@ Prerequisito: account Cloudflare.
 cd gate
 npx wrangler login
 
-# 1. Bucket R2
-npx wrangler r2 bucket create sentinella-data
-
-# 2. KV allowlist — copia l'id ritornato in wrangler.toml (campo id)
+# 1. KV allowlist — copia l'id in wrangler.toml → REPLACE_WITH_LICENSES_KV_ID
 npx wrangler kv namespace create LICENSES
+
+# 2. KV archivio — copia l'id in wrangler.toml → REPLACE_WITH_ARCHIVE_KV_ID
+npx wrangler kv namespace create ARCHIVE
 
 # 3. Deploy worker
 npx wrangler deploy
 # → annota l'URL: https://sentinella-gate.<tuo>.workers.dev
 ```
 
-### GitHub secrets (per upload R2 dalla Action)
+### GitHub secrets (per upload KV dalla Action)
 
 Cloudflare dashboard → My Profile → API Tokens → Create Token →
-template **"Edit Cloudflare Workers"** o custom con permesso **R2 Storage: Edit**.
+custom con permesso **Account · Workers KV Storage: Edit**.
 
 ```bash
-gh secret set CLOUDFLARE_API_TOKEN  --repo CMR-Samuele/sentinella-archive
-gh secret set CLOUDFLARE_ACCOUNT_ID --repo CMR-Samuele/sentinella-archive
+gh secret set CLOUDFLARE_API_TOKEN       --repo CMR-Samuele/sentinella-archive
+gh secret set CLOUDFLARE_ACCOUNT_ID      --repo CMR-Samuele/sentinella-archive
+gh secret set CLOUDFLARE_KV_ARCHIVE_ID   --repo CMR-Samuele/sentinella-archive
+# CLOUDFLARE_KV_ARCHIVE_ID = id del namespace ARCHIVE (passo 2)
 ```
 
-Poi: `gh workflow run poller.yml` → l'archivio finisce su R2.
+Poi: `gh workflow run poller.yml` → l'archivio finisce su KV.
 
 ## Gestione utenti
 

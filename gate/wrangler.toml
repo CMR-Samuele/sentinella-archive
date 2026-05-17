@@ -4,16 +4,18 @@ name = "sentinella-gate"
 main = "src/worker.js"
 compatibility_date = "2025-05-01"
 
-# R2: archivio servito da qui (caricato dalla GitHub Action, mai da github raw)
-[[r2_buckets]]
-binding = "ARCHIVE"
-bucket_name = "sentinella-data"
-
 # KV: allowlist license key. value = JSON { name, active, createdAt }
 # Dopo `wrangler kv namespace create LICENSES` incolla qui l'id ritornato.
 [[kv_namespaces]]
 binding = "LICENSES"
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "REPLACE_WITH_LICENSES_KV_ID"
+
+# KV: archivio. unica chiave "current" = contenuto articles.json.
+# Caricato dalla GitHub Action. Niente R2 → niente billing/carta.
+# Dopo `wrangler kv namespace create ARCHIVE` incolla qui l'id ritornato.
+[[kv_namespaces]]
+binding = "ARCHIVE"
+id = "REPLACE_WITH_ARCHIVE_KV_ID"
 
 [vars]
 # Origin consentito per CORS. "*" se client non-browser. Restringi a tuo dominio app web.
