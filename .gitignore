@@ -2,3 +2,4 @@ node_modules/
 *.log
 .wrangler/
 .dev.vars
+examples/.last-articles.json
