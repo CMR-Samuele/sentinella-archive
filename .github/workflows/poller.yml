@@ -1,0 +1,46 @@
+name: Sentinella Poller
+
+on:
+  # Gira ogni 30 minuti
+  schedule:
+    - cron: "*/30 * * * *"
+  # Permettiamo anche esecuzioni manuali dalla tab Actions
+  workflow_dispatch:
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # necessario per git push
+
+    steps:
+      # 1. Checkout del repository
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Setup Node 20
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      # 3. Installa dipendenze (solo production)
+      - name: Install dependencies
+        run: npm ci --omit=dev
+
+      # 4. Esegui il poller
+      - name: Run poller
+        run: node src/poller.js
+
+      # 5. Commit e push (solo se data/articles.json è cambiato)
+      - name: Commit archive update
+        run: |
+          git config user.name  "Sentinella Bot"
+          git config user.email "bot@sentinella.local"
+          git add data/articles.json
+          # --quiet esce con 1 se non ci sono diff → || true previene il fallimento del job
+          git diff --staged --quiet && echo "Nessuna modifica" || \
+            git commit -m "chore: update archive $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
