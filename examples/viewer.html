@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sentinella — Archivio Tesla</title>
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body { font: 15px/1.5 system-ui, sans-serif; margin: 0; padding: 1.5rem;
+         max-width: 820px; margin-inline: auto; }
+  h1 { font-size: 1.3rem; margin: 0 0 1rem; }
+  /* Banner stato: il colore dice subito se qualcosa e andato storto */
+  #status { padding: .8rem 1rem; border-radius: 8px; font-weight: 600;
+            margin-bottom: 1.2rem; display: flex; gap: .6rem; align-items: baseline; }
+  #status small { font-weight: 400; opacity: .85; }
+  .ok      { background: #1f7a341a; color: #1f7a34; border: 1px solid #1f7a3455; }
+  .warning { background: #b9770e1a; color: #b9770e; border: 1px solid #b9770e55; }
+  .error   { background: #c0271e1a; color: #c0271e; border: 1px solid #c0271e55; }
+  .loading { background: #8884; color: inherit; }
+  ul { list-style: none; padding: 0; margin: 0; }
+  li { padding: .6rem 0; border-bottom: 1px solid #8883; }
+  li a { text-decoration: none; color: inherit; font-weight: 600; }
+  li a:hover { text-decoration: underline; }
+  .meta { font-size: .8rem; opacity: .7; }
+  button { font: inherit; padding: .4rem .9rem; border-radius: 6px;
+           border: 1px solid #8886; background: transparent; cursor: pointer; }
+</style>
+</head>
+<body>
+  <h1>Sentinella — Archivio notizie Tesla
+    <button id="reload" title="Ricarica">↻</button></h1>
+  <div id="status" class="loading">Caricamento…</div>
+  <ul id="list"></ul>
+
+<script type="module">
+const OWNER = "CMR-Samuele", REPO = "sentinella-archive", PATH = "data/articles.json";
+const API = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH}`;
+const CACHE_KEY = "sentinella:last";
+
+// Stesse soglie del modulo client.mjs
+function describeStatus(d) {
+  const n = d?.totalArticles ?? 0;
+  if (!d || n === 0) return { level:"error", label:"ERRORE", detail:"Nessun articolo nel database" };
+  const ageMin = d.lastUpdated ? Math.round((Date.now()-new Date(d.lastUpdated))/6e4) : Infinity;
+  const ageTxt = ageMin<60 ? `${ageMin} min fa` : ageMin<1440 ? `${Math.round(ageMin/60)} h fa` : `${Math.round(ageMin/1440)} g fa`;
+  if (d._source === "cache-locale")
+    return { level:"warning", label:"OFFLINE", detail:`Rete assente — dati locali (${ageTxt})` };
+  if (ageMin > 360) return { level:"error", label:"DATABASE FERMO", detail:`Ultimo agg. ${ageTxt}. Action forse rotta.` };
+  if (ageMin > 90)  return { level:"warning", label:"IN RITARDO", detail:`Ultimo agg. ${ageTxt} (atteso ogni 30 min)` };
+  return { level:"ok", label:"AGGIORNATO", detail:`${n} articoli — aggiornato ${ageTxt}` };
+}
+
+async function load() {
+  const statusEl = document.getElementById("status");
+  const listEl = document.getElementById("list");
+  statusEl.className = "loading";
+  statusEl.textContent = "Caricamento…";
+
+  let data;
+  try {
+    const res = await fetch(API, {
+      headers: { "Accept": "application/vnd.github.raw+json" },
+      cache: "no-store",
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    data = await res.json();
+    data._source = "github";
+    try { localStorage.setItem(CACHE_KEY, JSON.stringify(data)); } catch {}
+  } catch (err) {
+    const cached = localStorage.getItem(CACHE_KEY);
+    if (cached) { data = JSON.parse(cached); data._source = "cache-locale"; data._error = err.message; }
+    else {
+      statusEl.className = "error";
+      statusEl.textContent = `ERRORE — impossibile caricare: ${err.message}`;
+      return;
+    }
+  }
+
+  const s = describeStatus(data);
+  statusEl.className = s.level;
+  statusEl.innerHTML = `<span>● ${s.label}</span><small>${s.detail}</small>`;
+
+  listEl.innerHTML = data.articles.slice(0, 100).map(a => `
+    <li>
+      <a href="${a.url}" target="_blank" rel="noopener">${a.headline}</a>
+      <div class="meta">${a.sourceName} · ${new Date(a.publishedAt).toLocaleString("it-IT")}</div>
+    </li>`).join("");
+}
+
+document.getElementById("reload").addEventListener("click", load);
+load();                 // auto al caricamento pagina
+</script>
+</body>
+</html>

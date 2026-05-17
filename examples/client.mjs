@@ -67,12 +67,68 @@ export async function loadArticles() {
   }
 }
 
+/**
+ * Valuta lo stato dell'aggiornamento. L'app mostra questo all'utente
+ * per sapere se qualcosa e andato storto.
+ *
+ * Soglie: cron gira ogni 30 min. Tolleranza prima di allarmare:
+ *   ok        dati da GitHub, lastUpdated < 90 min (max ~3 run persi)
+ *   warning   da cache locale (offline) OPPURE lastUpdated 90 min–6 h
+ *   error     lastUpdated > 6 h (Action probabilmente rotta) o 0 articoli
+ *
+ * Ritorna { level, label, detail } — level: "ok" | "warning" | "error".
+ */
+export function describeStatus(data) {
+  const n = data?.totalArticles ?? 0;
+  if (!data || n === 0) {
+    return { level: "error", label: "ERRORE", detail: "Nessun articolo nel database" };
+  }
+
+  const ageMin = data.lastUpdated
+    ? Math.round((Date.now() - new Date(data.lastUpdated).getTime()) / 60000)
+    : Infinity;
+  const ageTxt =
+    ageMin < 60 ? `${ageMin} min fa`
+    : ageMin < 1440 ? `${Math.round(ageMin / 60)} h fa`
+    : `${Math.round(ageMin / 1440)} g fa`;
+
+  if (data._source === "cache-locale") {
+    return {
+      level: "warning",
+      label: "OFFLINE",
+      detail: `Rete non disponibile — dati locali (${ageTxt}). ${data._error || ""}`.trim(),
+    };
+  }
+
+  if (ageMin > 360) {
+    return {
+      level: "error",
+      label: "DATABASE FERMO",
+      detail: `Ultimo aggiornamento ${ageTxt}. La GitHub Action potrebbe essere rotta.`,
+    };
+  }
+  if (ageMin > 90) {
+    return {
+      level: "warning",
+      label: "IN RITARDO",
+      detail: `Ultimo aggiornamento ${ageTxt} (atteso ogni 30 min).`,
+    };
+  }
+
+  return {
+    level: "ok",
+    label: "AGGIORNATO",
+    detail: `${n} articoli — aggiornato ${ageTxt}.`,
+  };
+}
+
 // --- demo standalone ---
 if (import.meta.url === pathToFileURL(argv[1]).href) {
   loadArticles()
     .then((d) => {
+      const s = describeStatus(d);
+      console.log(`[${s.level.toUpperCase()}] ${s.label} — ${s.detail}`);
       console.log(`Fonte: ${d._source}`);
-      console.log(`Articoli: ${d.totalArticles} | aggiornato ${d.lastUpdated}`);
       d.articles.slice(0, 5).forEach((a) =>
         console.log(`  • [${a.sourceName}] ${a.headline}`)
       );
