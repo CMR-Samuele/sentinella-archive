@@ -1,5 +1,1662 @@
 {
-  "lastUpdated": null,
-  "totalArticles": 0,
-  "articles": []
+  "lastUpdated": "2026-05-17T18:31:01.297Z",
+  "totalArticles": 184,
+  "articles": [
+    {
+      "id": "8cfabe3a8ffb7d15",
+      "headline": "Tesla-Woche 20/26: Giga Berlin wächst, FSD-Shuttle Eifel, Musk in China, „Optimus gratis“",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-17T05:37:18.000Z",
+      "url": "https://teslamag.de/news/tesla-20-26-giga-berlin-waechst-fsd-shuttle-eifel-musk-china-optimus-gratis-66795",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "d33dd654c96814d3",
+      "headline": "Tesla pubblica i dati sugli incidenti dei suoi Robotaxi: risultati contrastanti",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T22:22:25.000Z",
+      "url": "https://www.vaielettrico.it/tesla-pubblica-i-dati-sugli-incidenti-dei-suoi-robotaxi-risultati-contrastanti/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "6209f67e5393574e",
+      "headline": "SpaceX Raises Starlink Prices: Monthly Plans Now $5 $10 More in Canada and the US",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T21:49:10.000Z",
+      "url": "https://driveteslacanada.ca/news/starlink-price-increase-us-canada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=starlink-price-increase-us-canada",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "8780ec9bfaddb1db",
+      "headline": "Tesla Hosting “Celebrate Electric Summer” Events Across Canada and U.S. This Month",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T19:01:49.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-celebrate-electric-summer-events-canada-us-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-celebrate-electric-summer-events-canada-us-2026",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "919f715d34c6dce1",
+      "headline": "Tesla Model Y Gets Rare Price Increase in the U.S.",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T17:11:47.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-model-y-price-increase-us-may-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-y-price-increase-us-may-2026",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "2714dd87757b8630",
+      "headline": "Tesla (TSLA) raises Model Y prices by up to $1,000 — first increase in two years",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T16:02:39.000Z",
+      "url": "https://electrek.co/2026/05/16/tesla-tsla-raises-model-y-prices-first-time-two-years/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "9a1b0561375fdf8b",
+      "headline": "Tesla Model Y prices just went up for the first time in two years",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T13:17:00.000Z",
+      "url": "https://www.teslarati.com/tesla-model-y-prices-just-went-up-first-time-two-years/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "f2f59b8cbdee4998",
+      "headline": "Elon Musk explains why he cannot be fired from SpaceX",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T13:05:08.000Z",
+      "url": "https://www.teslarati.com/elon-musk-explains-why-he-cannot-be-fired-from-spacex/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "d4f767cd3e0b8a78",
+      "headline": "Tesla discloses two Robotaxi crashes to NHTSA",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T12:38:33.000Z",
+      "url": "https://www.teslarati.com/tesla-discloses-two-robotaxi-crashes-nhtsa/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "9804abad9e9141db",
+      "headline": "CEO Interview: How Ionna Is Taking On The Tesla Supercharger Network",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T10:00:00.000Z",
+      "url": "https://insideevs.com/features/796067/ionna-ceo-interview-charging-progress-2026/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "17e132f6557a0dab",
+      "headline": "Testing the entry-level Model Y: Where and how Tesla stripped back its bestseller",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T10:00:00.000Z",
+      "url": "https://www.electrive.com/2026/05/16/testing-the-entry-level-model-y-where-and-how-tesla-stripped-back-its-bestseller/",
+      "sourceId": "electrive",
+      "sourceName": "Electrive"
+    },
+    {
+      "id": "315dcb82d9220be7",
+      "headline": "Tesla Full Self Driving (Supervised) Now Permitted in Belgium",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-16T02:30:58.000Z",
+      "url": "https://cleantechnica.com/2026/05/15/tesla-full-self-driving-supervised-now-permitted-in-belgium/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "643400c9c0d40dc0",
+      "headline": "SpaceX targeting June 12 for NASDAQ listing: Report",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T23:17:24.000Z",
+      "url": "https://driveteslacanada.ca/spacex/spacex-ipo-june-2026-nasdaq-spcx/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spacex-ipo-june-2026-nasdaq-spcx",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "fec90fb3f7b84202",
+      "headline": "Tesla’s Robotaxi Crash Reports Are Now Unredacted — Here’s What They Show",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T21:33:36.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-unredacts-robotaxi-crash-data-austin/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-unredacts-robotaxi-crash-data-austin",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "2fe9d5c6e180180a",
+      "headline": "Tesla Slashing Down Payments Loan Terms in China Amidst Dropping Sales",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T20:12:04.000Z",
+      "url": "https://cleantechnica.com/2026/05/15/tesla-slashing-down-payments-loan-terms-in-china-amidst-dropping-sales/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "bdc25ba68803dd55",
+      "headline": "Will Investors Still Love The Tesla Brand If Its Not An Electric Vehicle Company?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T17:51:46.000Z",
+      "url": "https://cleantechnica.com/2026/05/15/will-investors-still-love-the-tesla-brand-if-its-not-an-electric-vehicle-company/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "9457877a0468132c",
+      "headline": "Tesla reveals two Robotaxi crashes involving teleoperators",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T17:13:26.000Z",
+      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "d737aa9c81ec33ca",
+      "headline": "Rivian launches R2 configurator in the U.S. with pricing, colours, and Launch Edition details",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T16:57:07.000Z",
+      "url": "https://driveteslacanada.ca/news/rivian-r2-configurator-launch-package-pricing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r2-configurator-launch-package-pricing",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "e8af2f2cc216f822",
+      "headline": "Canada’s EV market rebounds as sales jump nearly 75% in March",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T16:05:34.000Z",
+      "url": "https://driveteslacanada.ca/news/canadas-ev-market-rebounds-as-sales-jump-nearly-75-in-march/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=canadas-ev-market-rebounds-as-sales-jump-nearly-75-in-march",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "31764a39aba51912",
+      "headline": "Australian Judge ‘Gobsmacked’ at Tesla’s lack of progress in class-action suit",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T15:37:13.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-australia-class-action-discovery-warning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-australia-class-action-discovery-warning",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "6ebd161049d5d2b0",
+      "headline": "Tesla finally reveals what happened in 17 Robotaxi crashes",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T15:04:45.000Z",
+      "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "f67a5f2c94181c5f",
+      "headline": "Tesla Cybertruck chosen by Kazakhstans elite security force: heres why",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T15:03:27.000Z",
+      "url": "https://www.teslarati.com/tesla-cybertruck-chose-kazakhstan-elite-security-force-here-why/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "e660317ab2f1b11e",
+      "headline": "J.D. Power Study Shows Gas Prices Are Boosting EV Adoption",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T14:55:00.000Z",
+      "url": "https://driveteslacanada.ca/news/ev-consideration-study-2026-gas-prices-rise/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ev-consideration-study-2026-gas-prices-rise",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "6d42a06692021752",
+      "headline": "Tesla Cybertruck Joins Kazakhstan State Security Fleet for Global Summit",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T14:07:00.000Z",
+      "url": "https://driveteslacanada.ca/cybertruck/tesla-cybertruck-kazakhstan-ots-summit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybertruck-kazakhstan-ots-summit",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "df322cab35cedc34",
+      "headline": "Tesla grabs massive Las Vegas warehouse for interesting Cybercab project",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-15T12:53:50.000Z",
+      "url": "https://www.teslarati.com/tesla-building-massive-cybercab-car-wash-las-vegas/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "dc80b541bae5895b",
+      "headline": "Tesla Solar Roof is on life support as it pivot to panels",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T21:37:12.000Z",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "5dd8ec844a4d00f7",
+      "headline": "Tesla puts Giga Berlin in Plaid Mode with new massive investment",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T16:14:42.000Z",
+      "url": "https://www.teslarati.com/tesla-puts-giga-berlin-plaid-mode-new-massive-investment/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "d18a9590c6d75b46",
+      "headline": "Tesla Is Now Testing A Virtual Waitlist For Superchargers",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T15:21:17.000Z",
+      "url": "https://insideevs.com/news/795797/tesla-supercharger-virtual-queues-tk/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "8b8cff371e7b4d98",
+      "headline": "Honda gives up on all-EV future: Not realistic",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T14:51:20.000Z",
+      "url": "https://www.teslarati.com/honda-gives-up-on-all-ev-future-not-realistic/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "703d9ea3dc28e5ff",
+      "headline": "Tesla Has Sent Cybercabs Around The Country — Not Clear Why",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T12:59:24.000Z",
+      "url": "https://cleantechnica.com/2026/05/14/tesla-has-sent-cybercabs-around-the-country-not-clear-why/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "a2f762c0710b0e79",
+      "headline": "Delta Airlines rejects Starlink, and the reason will probably shock you",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-14T12:58:40.000Z",
+      "url": "https://www.teslarati.com/delta-airlines-rejects-starlink-reason-will-shock-you/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "09cd77df668c9d7a",
+      "headline": "BYD Exported More Vehicles In April Than Tesla Sold Worldwide*",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T21:54:39.000Z",
+      "url": "https://cleantechnica.com/2026/05/13/byd-exported-more-vehicles-in-april-than-tesla-sold-worldwide/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "6397f08361643290",
+      "headline": "Tesla gathers 93,000 FSD miles in a country where FSD isnt approved heres how",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T15:27:35.000Z",
+      "url": "https://www.teslarati.com/tesla-gathers-93000-fsd-miles-country-where-fsd-isnt-approved-heres-how/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "092f5904fae488ef",
+      "headline": "Elon Musk reveals how SpaceX is always on board Air Force One",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T14:58:46.000Z",
+      "url": "https://www.teslarati.com/elon-musk-reveals-spacex-always-on-board-air-force-one/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "845485aea6d0cc91",
+      "headline": "BYD surpasses Tesla as worlds top energy storage deployer",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T13:51:55.000Z",
+      "url": "https://electrek.co/2026/05/13/byd-surpasses-tesla-energy-storage-bess-benchmark-2025/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "a31f2d0d47ce71d0",
+      "headline": "Tesla expands Grünheide battery cell plans to 18 GWh annually",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T08:39:11.000Z",
+      "url": "https://www.electrive.com/2026/05/13/tesla-expands-grunheide-battery-cell-plans-to-18-gwh-annually/",
+      "sourceId": "electrive",
+      "sourceName": "Electrive"
+    },
+    {
+      "id": "5b66251e05d2a0d1",
+      "headline": "Aktuell: 750.000 Tesla Model Y aus deutscher Fabrik, 250 Mio. Dollar für Batterie-Produktion",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T05:03:00.000Z",
+      "url": "https://teslamag.de/news/750000-tesla-model-y-aus-deutscher-fabrik-hoehere-batterie-produktion-66773",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "f8ab92b4763f70f6",
+      "headline": "Automakers share in Chinas NEV market in April: BYD ranks first with 21.4%, Tesla falls out of top 10",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T02:51:34.000Z",
+      "url": "https://cnevpost.com/2026/05/13/automakers-share-china-nev-market-apr-2026/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
+    {
+      "id": "0f9850776fc5815b",
+      "headline": "Tesla rolls out new loan scheme in China as April retail sales dip",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-13T01:51:48.000Z",
+      "url": "https://cnevpost.com/2026/05/13/tesla-rolls-out-new-loan-scheme-in-china/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
+    {
+      "id": "e2480030603a0407",
+      "headline": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T18:14:58.000Z",
+      "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "f7bf240828cd8aae",
+      "headline": "Tesla moves Basic Autopilot features to paid FSD where available",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T17:20:20.000Z",
+      "url": "https://electrek.co/2026/05/12/tesla-removes-basic-autopilot-netherlands-fsd-only/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "b5f4b052f9a01b7d",
+      "headline": "Tesla finally launches Supercharger virtual queue pilot after fights broke out",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T15:43:25.000Z",
+      "url": "https://electrek.co/2026/05/12/tesla-supercharger-virtual-queue-pilot-5-locations/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "61e0a11a2dfbf29e",
+      "headline": "Aktuell: Letzte Tesla Model S Model X gebaut, Event zur Auslieferung kurzfristig verschoben",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T15:07:37.000Z",
+      "url": "https://teslamag.de/news/letzte-tesla-model-s-model-x-produziert-besteller-event-besteller-kurzfristig-verschoben-66756",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "030777c98b261fe2",
+      "headline": "Tesla invests $250M more in Giga Berlin battery cells, boosting capacity to 18 GWh",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T14:33:48.000Z",
+      "url": "https://electrek.co/2026/05/12/tesla-giga-berlin-250-million-battery-cell-investment-18-gwh/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "9e770742b0cee722",
+      "headline": "Tesla Robotaxis convenience issues are hiding the real safety bottleneck",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T13:43:50.000Z",
+      "url": "https://electrek.co/2026/05/12/tesla-robotaxi-convenience-issues-hide-safety-bottleneck/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8a569e514f10af92",
+      "headline": "Teslas April China retail breakdown: Model Y continues to dominate with nearly 90% share",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-12T08:22:36.000Z",
+      "url": "https://cnevpost.com/2026/05/12/tesla-apr-2026-china-retail-breakdown/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
+    {
+      "id": "e1728b2ab14a8a40",
+      "headline": "Tesla China retail sales fall 10% in April despite reports of 36% surge",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-11T13:16:15.000Z",
+      "url": "https://electrek.co/2026/05/11/tesla-china-retail-sales-decline-april-2026-wholesale-misleading/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "7375493ae917fe8d",
+      "headline": "Tesla-Woche 19/26: 4680-Frust, Europa-FSD im Abo, April-Boom, Semi gefragt, teure Terafab",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-10T05:33:06.000Z",
+      "url": "https://teslamag.de/news/19-26-tesla-4680-frust-europa-fsd-abo-april-boom-semi-orders-terafab-kosten-66750",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "98282478217a9319",
+      "headline": "Tesla Semi battery sizes confirmed: 822 kWh and 548 kWh officially revealed",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-08T15:27:18.000Z",
+      "url": "https://electrek.co/2026/05/08/tesla-semi-battery-size-822-kwh-548-kwh-carb-official/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "2f909439f8ce5960",
+      "headline": "Aktuell: Tesla will FSD-Option in ganz Europa vor Ende Mai nur noch im Monatsabo anbieten",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-08T05:00:24.000Z",
+      "url": "https://teslamag.de/news/tesla-fsd-option-ende-mai-ganz-europa-nur-monatsabo-66743",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "2edb862f5e3b3c30",
+      "headline": "Tesla Model Y first to pass NHTSAs new ADAS tests — but they test the basics",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-08T03:18:33.000Z",
+      "url": "https://electrek.co/2026/05/07/tesla-model-y-first-pass-nhtsa-new-adas-tests/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "1ac3c8d9dd909d44",
+      "headline": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-07T20:10:48.000Z",
+      "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "89f733ba7f344f14",
+      "headline": "Teslas 4680 battery cells are underperforming and frustrating buyers",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-07T16:50:40.000Z",
+      "url": "https://electrek.co/2026/05/07/tesla-4680-battery-cell-performance-data-shows-cant-build-own-cells/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "530a37577722b435",
+      "headline": "Aktuell: EU-Ausschuss über Tesla-Assistenz FSD informiert – skeptische E-Mails im Vorfeld",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-06T05:33:57.000Z",
+      "url": "https://teslamag.de/news/eu-gremium-beraet-zulassung-tesla-assistenz-fsd-skeptische-mails-vorfeld-66737",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "c1a705727c2e86a6",
+      "headline": "Tesla Semi lands 60-truck order from port drayage fleets in California",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-05T17:20:36.000Z",
+      "url": "https://electrek.co/2026/05/05/tesla-semi-60-truck-order-forum-mobility-port-drayage/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "c1dbefeeca22bd0a",
+      "headline": "Tesla reaches 10 billion FSD miles — is theres a magical milestone for autonomy",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-03T18:16:23.000Z",
+      "url": "https://electrek.co/2026/05/03/tesla-fsd-10-billion-miles-no-magical-milestone-autonomy/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "6493eb6de827d6e6",
+      "headline": "TechCrunch Mobility: How do you issue a ticket to a robotaxi?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-03T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "e319ea0e0a633254",
+      "headline": "Tesla-Woche 18/26: Semi in Produktion, FSD Light global, Musk-Milliarden, ID.3 vor Model Y",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-03T05:12:41.000Z",
+      "url": "https://teslamag.de/news/18-26-tesla-semi-produktion-fsd-light-weltweit-musk-milliarden-vw-id3-vorn-66728",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "ee7cb99aedb0bb36",
+      "headline": "1966 Ford Mustang converted into a Tesla with working Full Self-Driving",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-02T14:08:10.000Z",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "1c8ba26c79242589",
+      "headline": "This Tesla owner won $10k in court for Teslas FSD lies. Tesla is still fighting him.",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-02T14:00:00.000Z",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "4a6886a0d4147a33",
+      "headline": "Tesla launches Model 3 RWD in Canada at record-low $39,490 ($29,000 USD) from China",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-02T03:06:10.000Z",
+      "url": "https://electrek.co/2026/05/01/tesla-model-3-rwd-premium-canada-record-low-price-giga-shanghai/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d04a2b1198577e89",
+      "headline": "Tesla launches Basecharger for Semi, reveals $188,000 Megacharger",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-01T16:06:18.000Z",
+      "url": "https://electrek.co/2026/05/01/tesla-semi-charging-business-megacharger-basecharger-pricing/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "e809a39f7d7e52f2",
+      "headline": "Tesla (TSLA) reveals $573M web of transactions between Elon Musks companies",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-01T11:42:22.000Z",
+      "url": "https://electrek.co/2026/05/01/tesla-tsla-web-transactions-musk-companies-spacex-xai-10ka-2025/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "37d17a4ffb61d2fc",
+      "headline": "Tesla Robotaxi unsupervised fleet finally shows some signs of ramping up",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-30T09:48:49.000Z",
+      "url": "https://electrek.co/2026/04/30/tesla-robotaxi-unsupervised-finally-signs-ramping-up/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "282935d7419be7fd",
+      "headline": "Aktuell: Tesla kündigt Light-Version von FSD 14 für ältere Elektroautos auch außerhalb USA an",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-30T05:18:52.000Z",
+      "url": "https://teslamag.de/news/tesla-light-version-fsd-v14-aeltere-elektroautos-ausserhalb-usa-66721",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "9b69beeeef7664d7",
+      "headline": "Tesla Semi: first truck rolls off high-volume production line",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-29T22:10:05.000Z",
+      "url": "https://electrek.co/2026/04/29/tesla-semi-first-truck-high-volume-production-line/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "b5c41f3e91ff27ea",
+      "headline": "Tesla Semi hits the port: drayage operator MDB launches 3-week freight pilot",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-29T17:12:49.000Z",
+      "url": "https://electrek.co/2026/04/29/tesla-semi-drayage-operator-mdb-pilot-port-freight/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d4247bb69fe82568",
+      "headline": "Tesla promises FSD V14 Lite for HW3 cars internationally to appease growing tensions",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-29T03:03:43.000Z",
+      "url": "https://electrek.co/2026/04/28/tesla-promises-fsd-v14-lite-hw3-international-markets/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "9e0e3e8e429d7961",
+      "headline": "Aktuell: Tesla registriert neue Aktien im Wert von 115 Mrd. $ für alten Bonus von CEO Musk",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-28T05:18:41.000Z",
+      "url": "https://teslamag.de/news/tesla-registriert-neue-aktien-wert-114-mrd-bonus-ceo-musk-66717",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "49b7c66b5fc0ea6f",
+      "headline": "Tesla files to deliver Elon Musks $56 billion pay package – ending the saga",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-27T10:57:37.000Z",
+      "url": "https://electrek.co/2026/04/27/tesla-files-deliver-elon-musk-56-billion-pay-package-shares/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "3e3e0be010a2230b",
+      "headline": "Tesla finally launches Robotaxi app on Android, nearly a year after iOS",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-27T10:11:47.000Z",
+      "url": "https://electrek.co/2026/04/27/tesla-robotaxi-app-android-launch-year-after-ios/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "5a7c2a822f735441",
+      "headline": "TechCrunch Mobility: Elon’s admission",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-26T16:03:00.000Z",
+      "url": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "cefc41717b162eb1",
+      "headline": "Tesla-Woche 17/26: Cybercab-Start, Grünheide-Jobs und -Preise, FSD-Fragen, Super-Akkus",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-26T05:51:26.000Z",
+      "url": "https://teslamag.de/news/17-26-tesla-cybercab-start-fsd-fragen-gruenheide-jobs-preise-super-akkus-66702",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "51c7ba0a78083843",
+      "headline": "Aktuell: Tesla Cybercab in Produktion – Musk kündigt neue FSD-Hardware und -Software an",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-25T04:55:33.000Z",
+      "url": "https://teslamag.de/news/tesla-cybercab-in-produktion-musk-neue-fsd-hardware-und-software-66687",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "aad4c5769aca6343",
+      "headline": "Tesla offers 1 year of free Supercharging, claims ~40% premium for non-Tesla EVs",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-25T01:00:21.000Z",
+      "url": "https://electrek.co/2026/04/24/tesla-model-3-free-supercharging-non-tesla-pricing-premium/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "34365ca6a0f02b38",
+      "headline": "Tesla claims boost Giga Berlin production 20%, but numbers dont add up",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T23:11:52.000Z",
+      "url": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "3770fcf7994008d2",
+      "headline": "Tesla drops Musks $29B interim award after Delaware court restored larger pay package",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T13:40:33.000Z",
+      "url": "https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "eae916a317783940",
+      "headline": "Tesla Model YL prototype spotted on US roads for the first time",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T12:12:56.000Z",
+      "url": "https://electrek.co/2026/04/23/tesla-model-yl-prototype-spotted-us-roads-first-time/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "2ae531b62c303ecb",
+      "headline": "Tesla (TSLA) quietly discloses $2 billion AI hardware company acquisition buried in filing",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T10:57:03.000Z",
+      "url": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "cc17170ddf268aad",
+      "headline": "Tesla announces HW4 Plus with doubled memory — will HW4 follow HW3 to the grave?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T09:33:22.000Z",
+      "url": "https://electrek.co/2026/04/23/tesla-hw4-plus-upgrade-will-hw4-follow-hw3/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "fcdfaf560f51384f",
+      "headline": "Aktuell: Tesla kündigt Umbau von E-Autos mit alter FSD-Hardware an, Autonomie noch später",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T08:43:41.000Z",
+      "url": "https://teslamag.de/news/tesla-umbau-elektroautos-alte-fsd-hardware-autonomie-noch-spaeter-66684",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "20cfb0341888141d",
+      "headline": "Tesla confirms Cybercab production has started despite delays in unsupervised driving",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T07:09:26.000Z",
+      "url": "https://electrek.co/2026/04/23/tesla-cybercab-production-starts-no-nhtsa-2500-vehicle-cap/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "61cb04e36c46cf67",
+      "headline": "Tesla pushes Optimus V3 reveal later this year again",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-23T00:15:59.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "dfe744616ce0ff75",
+      "headline": "Tesla just increased its spending plan to $25B — heres where the money is going",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T23:56:52.000Z",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "1451433e8dec3592",
+      "headline": "Tesla will build factories just to retrofit millions of HW3 cars it said could do FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T23:06:58.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-will-build-factories-just-to-retrofit-hw3-cars-it-said-could-do-fsd-but-cant/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "cd35c159defdf3ba",
+      "headline": "Elon Musk admits millions of Tesla owners need upgrades for true Full Self-Driving",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T22:39:58.000Z",
+      "url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "b94004a01f5452b4",
+      "headline": "Tesla Q1 2026 Financial Results and Q&A Webcast",
+      "excerpt": "Start of call: https://youtu.be/qO7T5zgRvXM?t=415",
+      "publishedAt": "2026-04-22T22:34:58.000Z",
+      "url": "https://www.youtube.com/watch?v=qO7T5zgRvXM",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "b5e4c6f8940decb6",
+      "headline": "Elon Musk pushes Tesla Roadster unveil again — now maybe in a month or so",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T22:34:49.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-roadster-unveil-delayed-again-earnings-call/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "115d999463eb9826",
+      "headline": "Elon Musk pushes unsupervised FSD for consumer Teslas — again",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T22:23:24.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-elon-musk-unsupervised-fsd-consumer-cars-q4-delay-again/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "55d5262cc5f0c42f",
+      "headline": "Tesla seems to say Robotaxi launch will be pushed back in 5 US cities",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T21:22:22.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-seems-to-say-robotaxi-launch-will-be-pushed-back-in-5-us-cities/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "80c9ef3e0e2ce51e",
+      "headline": "Tesla (TSLA) pulled questionable levers to make Q1 2026 financials look good",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T21:19:19.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-one-time-benefits-warranty-tariff-refunds-margins/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "047eb7a6e03b85b9",
+      "headline": "Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T20:57:21.000Z",
+      "url": "https://techcrunch.com/2026/04/22/tesla-q1-revenue-rises-driven-by-ev-sales-and-fsd-subscriptions/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "af34e82baae310ad",
+      "headline": "Aktuell: Tesla übertrifft Erwartungen zu Umsatz und Gewinn pro Aktie in Q1 2026 deutlich",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T20:48:18.000Z",
+      "url": "https://teslamag.de/news/aktuell-tesla-uebertrifft-erwartungen-zu-umsatz-und-gewinn-pro-aktie-in-q1-2026-deutlich-66656",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "2201fc6ac9980e77",
+      "headline": "Tesla (TSLA) releases Q1 2026 financial results: slight beat on earnings",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T20:06:41.000Z",
+      "url": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "47b634934b268dc1",
+      "headline": "Tesla lithium refinery discharge contains toxic metals, drainage district demands halt",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-22T00:25:59.000Z",
+      "url": "https://electrek.co/2026/04/21/tesla-lithium-refinery-toxic-metals-wastewater-texas/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "384f13baa3fc4909",
+      "headline": "Teslas California sales crash 24% as states EV market plunges to lowest since 2021",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T21:24:57.000Z",
+      "url": "https://electrek.co/2026/04/21/tesla-california-sales-crash-24-percent-q1-2026-ev-market/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d34bd42742b254af",
+      "headline": "Tesla is supposed to imminently unveil its new Roadster after years of delays",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T14:05:02.000Z",
+      "url": "https://electrek.co/2026/04/21/tesla-roadster-unveil-imminent-after-years-delays/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "39c032283c05d2a3",
+      "headline": "Tesla submits plans for first Robotaxi-only Supercharger stations",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T13:32:45.000Z",
+      "url": "https://electrek.co/2026/04/21/tesla-first-robotaxi-only-supercharger-stations-arizona/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "7a43251c5f573caa",
+      "headline": "Tesla (TSLA) Q1 2026 earnings preview: the growth story is dead",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T09:06:08.000Z",
+      "url": "https://electrek.co/2026/04/21/tesla-tsla-q1-2026-earnings-preview-wall-street-expects-growth/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "0bd8c36d59e42fcf",
+      "headline": "Vorschau: Tesla-Gewinn und Umsatz in Q1 wohl gestiegen – Fragen zu Roboter, Robotaxi FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T05:02:44.000Z",
+      "url": "https://teslamag.de/news/tesla-gewinn-umsatz-iq1-wohl-gestiegen-roboter-robotaxi-fragen-66654",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "3995321cd8c63f99",
+      "headline": "Tesla Cybertruck becomes first AC vehicle-to-grid asset in California through PGE",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-21T01:18:42.000Z",
+      "url": "https://electrek.co/2026/04/20/pge-tesla-cybertruck-first-ac-vehicle-to-grid-california/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "7f4c009c87453317",
+      "headline": "Tesla settles another wrongful death lawsuit, but not about Autopilot this time",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-20T23:30:28.000Z",
+      "url": "https://electrek.co/2026/04/20/tesla-settles-wrongful-death-lawsuit-speed-limiter-not-autopilot/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8efb5ed095a321e1",
+      "headline": "Tesla-Woche 16/26: Cybercabs ohne Lenkrad, Euro-FSD, schnelle Terafab, Cybertruck-Zahlen",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-20T06:44:27.000Z",
+      "url": "https://teslamag.de/news/tesla-16-26-cybercabs-ohne-lenkrad-euro-fsd-schnelle-terafab-cybertruck-zahlen-66641",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "d6ddd20df920c384",
+      "headline": "Teslas Robotaxi expansion looks like another stock pump before earnings",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-19T17:34:05.000Z",
+      "url": "https://electrek.co/2026/04/19/tesla-robotaxi-expansion-dallas-houston-stock-pump-earnings/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "dc106413578ce7a6",
+      "headline": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-19T16:01:00.000Z",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "96628001067e6a39",
+      "headline": "Tesla owner uses emergency solar to trickle charge after running out of battery in desert",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-19T02:24:22.000Z",
+      "url": "https://electrek.co/2026/04/18/tesla-model-x-solar-charging-atacama-desert-chile-pan-american-highway/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d18e02283c0efa07",
+      "headline": "Tesla brings its robotaxi service to Dallas and Houston",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-18T21:37:15.000Z",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "f2ee6c3431e24093",
+      "headline": "Tesla launches Robotaxi in Houston and Dallas with tiny geofences",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-18T18:58:12.000Z",
+      "url": "https://electrek.co/2026/04/18/tesla-robotaxi-launches-dallas-houston-small-geofences/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "379c6e38f749a4d6",
+      "headline": "YouTuber buys stripped Tesla Model 3 go-kart for $2,000 — it still has 212-mile range",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-18T18:14:37.000Z",
+      "url": "https://electrek.co/2026/04/18/youtuber-buys-stripped-tesla-model-3-go-kart-2000-212-miles-range/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "aa4ff2c654efa018",
+      "headline": "Tesla tells HW3 owner to be patient after 7 years of waiting for FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-17T17:43:37.000Z",
+      "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8d287b04c19cd0a4",
+      "headline": "Aktuell: Neuer Tesla-Chip AI5 laut Musk bereit zur Produktion, vorerst nicht für Elektroautos",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-17T04:58:25.000Z",
+      "url": "https://teslamag.de/news/musk-neuer-tesla-chip-ai5-bereit-produktion-nicht-fuer-elektroautos-66631",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "0bdbc6be581ed043",
+      "headline": "Tesla is facing up to $14.5 billion in lawsuits — and its only getting worse",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-16T20:20:12.000Z",
+      "url": "https://electrek.co/2026/04/16/tesla-facing-up-to-14-billion-lawsuits-deep-dive/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "c38cacbfb5036461",
+      "headline": "Tesla makes Signature Edition buyers sign no-resale agreement with $50,000 penalty",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-16T15:34:00.000Z",
+      "url": "https://electrek.co/2026/04/16/tesla-signature-edition-no-resale-agreement-50000-penalty/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "0cbf8660b3a4dcdd",
+      "headline": "Tesla Cybertruck sales inflated: SpaceX bought 1,279 units",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-16T14:00:12.000Z",
+      "url": "https://electrek.co/2026/04/16/tesla-cybertruck-spacex-1279-q4-sales-inflated/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8fd72dfb356df242",
+      "headline": "Tesla Full Self-Driving crashed through railroad gate seconds before train",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-15T16:44:10.000Z",
+      "url": "https://electrek.co/2026/04/15/tesla-fsd-railroad-gate-oncoming-train-texas-owner/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "ea5617e18a795d65",
+      "headline": "Tesla taped out AI5 chip, Musk says — nearly 2 years behind schedule",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-15T14:23:11.000Z",
+      "url": "https://electrek.co/2026/04/15/tesla-ai5-chip-taped-out-musk-ai6-dojo3/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "f8cd3e949f1ac593",
+      "headline": "Tesla adds streaks, other stats to track how often drivers use Full Self-Driving software",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-14T14:33:50.000Z",
+      "url": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "c4ca3ea7781f9347",
+      "headline": "Tesla FSD Europe launch backlash: HW3 owners launch claim site",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-14T13:46:58.000Z",
+      "url": "https://electrek.co/2026/04/14/tesla-fsd-europe-hw3-owners-dutch-claim/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "403008356dfd75da",
+      "headline": "Tesla launches Spring Update 2026 with Hey Grok, new Self-Driving app, and more",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-13T20:40:28.000Z",
+      "url": "https://electrek.co/2026/04/13/tesla-spring-update-2026-hey-grok-self-driving-app-pet-mode/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "a8f3f4383e12ddea",
+      "headline": "Rivian R2 vs Tesla Model Y spotted side-by-side: Detailed size comparison",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-13T19:49:38.000Z",
+      "url": "https://electrek.co/2026/04/13/rivian-r2-vs-tesla-model-y-size-comparison-efficiency/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "b5360ae64f146848",
+      "headline": "Key evidence disappears from Tesla involved in bizarre crash",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-13T13:41:35.000Z",
+      "url": "https://electrek.co/2026/04/13/tesla-norway-crash-evidence-stolen-network-card-missing/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "cd7d1bf743cda2cc",
+      "headline": "TechCrunch Mobility: Who is poaching all the self-driving vehicle talent?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-12T16:06:00.000Z",
+      "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "920e40f95a782172",
+      "headline": "Tesla doing final Signature Series run of Model S and X Plaid — starts at $159,420",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-11T19:45:29.000Z",
+      "url": "https://electrek.co/2026/04/11/tesla-signature-series-model-s-x-final-run-pricing/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "76e2c83ff23810ef",
+      "headline": "Tesla gets FSD Supervised approved in the Netherlands — heres what it means",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-10T21:57:47.000Z",
+      "url": "https://electrek.co/2026/04/10/tesla-fsd-supervised-approved-netherlands-rdw-europe/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "84519c9ec6c4f082",
+      "headline": "EV prices drop again as the gap with gas cars hits a record low",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-10T19:27:07.000Z",
+      "url": "https://electrek.co/2026/04/10/ev-prices-drop-again-gap-with-gas-cars-hits-record-low/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "0bacc23ec441bd42",
+      "headline": "Tesla China denies developing new smaller, cheaper SUV — but take it with a grain of salt",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-10T13:58:45.000Z",
+      "url": "https://electrek.co/2026/04/10/tesla-china-denies-new-smaller-cheaper-suv-development/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "02042a821c6c6e44",
+      "headline": "Tesla adds Chinas Sunwoda as fifth global EV battery supplier amid margin pressure",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-10T13:13:49.000Z",
+      "url": "https://electrek.co/2026/04/10/tesla-adds-sunwoda-fifth-global-battery-supplier-cost-pressure/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "0c419b1d79509119",
+      "headline": "Tesla (TSLA) retail sales crash 16% in China in Q1 despite rising wholesale numbers",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-09T19:59:38.000Z",
+      "url": "https://electrek.co/2026/04/09/tesla-tsla-china-retail-sales-crash-q1-2026-wholesale-misleading/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "813556961ccc0624",
+      "headline": "Musk says Tesla FSD v15 will far exceed human safety — he said the same about v12 and v14",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-09T17:30:44.000Z",
+      "url": "https://electrek.co/2026/04/09/elon-musk-tesla-fsd-v15-safer-than-humans-same-claim-every-version/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8c821fedaded048e",
+      "headline": "Tesla cracks down on FSD hacking devices, remotely shuts down access",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-09T14:40:54.000Z",
+      "url": "https://electrek.co/2026/04/09/tesla-cracks-down-fsd-hack-devices-remotely-disables-access/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "84d62f8f83a4fa5f",
+      "headline": "Tesla (TSLA) reportedly developing new smaller, cheaper EV after killing Model 2",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-09T13:10:07.000Z",
+      "url": "https://electrek.co/2026/04/09/tesla-reportedly-developing-new-smaller-cheaper-ev-after-killing-model-2/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d31f60431dd9c141",
+      "headline": "TSLA stock slides, Supercharger prices, and whos REALLY behind Elons big chip fab",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-08T22:10:16.000Z",
+      "url": "https://electrek.co/2026/04/08/tsla-stock-slides-supercharger-prices-and-whos-really-behind-elons-big-chip-fab/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "1dd3d045128bc6c8",
+      "headline": "Teslas new Supercharger for Business tool reveals $940,000 all-in price",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-08T17:26:11.000Z",
+      "url": "https://electrek.co/2026/04/08/tesla-supercharger-for-business-configurator-pricing/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "30137c5f498910ac",
+      "headline": "Musk falsely claims Tesla FSD is 10X safer than humans, complains about lawsuits",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-08T16:20:07.000Z",
+      "url": "https://electrek.co/2026/04/08/musk-tesla-fsd-10x-safer-claim-doesnt-hold-up/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "c72ca1025c36c5fd",
+      "headline": "Tesla (TSLA) down 20% in 2026 — JPMorgan sees another 60% downside",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-08T13:18:28.000Z",
+      "url": "https://electrek.co/2026/04/08/tesla-jpmorgan-145-price-target-60-percent-downside/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "2ad37cd92f0705ff",
+      "headline": "Tesla FSD v14.3 rolls out with MLIR rewrite, 20% faster reactions",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-07T21:52:43.000Z",
+      "url": "https://electrek.co/2026/04/07/tesla-fsd-14-3-rolling-out-mlir-lattner/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "2cbf1aaeea530819",
+      "headline": "Tesla wont really build its own chip fab — Intel is going to do it",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-07T13:56:02.000Z",
+      "url": "https://electrek.co/2026/04/07/tesla-terafab-intel-joins-foundry/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "e70b782e210c8b58",
+      "headline": "Tesla driver passes out drunk on Autopilot — arrested for DUI",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-07T13:32:46.000Z",
+      "url": "https://electrek.co/2026/04/07/tesla-autopilot-drunk-driver-vacaville-passed-out-dui/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "67cb4623c5c0a0b4",
+      "headline": "TERAFAB | The Largest Chip Manufacturing Facility Ever",
+      "excerpt": "Tesla, SpaceX, and xAI are launching the most epic chip-building effort ever - combining logic, memory and advanced packaging under one roof. Terafab will close the gap between today's chip production and the future's demand - a future among the stars. Join us on our journey – https://terafab.ai [K…",
+      "publishedAt": "2026-04-06T18:58:08.000Z",
+      "url": "https://www.youtube.com/watch?v=Txt3Wodav1o",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "6d596df8b47858cc",
+      "headline": "Why safety regulators closed their investigation into Teslas remote parking feature",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-06T18:17:23.000Z",
+      "url": "https://techcrunch.com/2026/04/06/tesla-actually-smart-summon-nhtsa-investigation-smart-parking/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "d2fd5a395722bb6c",
+      "headline": "NHTSA closes Tesla Smart Summon probe after 159 incidents",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-06T13:37:13.000Z",
+      "url": "https://electrek.co/2026/04/06/nhtsa-closes-tesla-smart-summon-investigation-159-incidents/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "888164be2ddfd09f",
+      "headline": "Xiaomi poaches Teslas delivery operations manager in Europe ahead of 2027 launch",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-06T12:54:24.000Z",
+      "url": "https://electrek.co/2026/04/06/xiaomi-poaches-tesla-operations-manager-europe-delivery-logistics/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "4e377cfbc186a3ed",
+      "headline": "TechCrunch Mobility: ‘A stunning lack of transparency’",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-05T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "563a7d87982ea55e",
+      "headline": "Teslas Texas factory workforce reportedly shrunk 22% in 2025",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-03T20:43:25.000Z",
+      "url": "https://techcrunch.com/2026/04/03/teslas-texas-factory-workforce-reportedly-shrunk-22-in-2025/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "8add96e41ac0d97a",
+      "headline": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-03T16:48:09.000Z",
+      "url": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "a9a4e32b6bca3ed4",
+      "headline": "Tesla’s cheaper vehicles aren’t helping its declining sales",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-02T14:18:42.000Z",
+      "url": "https://techcrunch.com/2026/04/02/tesla-deliveries-cheaper-vehicles-model-y-3-sales/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "0c4ef9cac75c94f6",
+      "headline": "Tesla (TSLA) Q1 2026 deliveries miss expectations at 358,000, builds 50,000 excess vehicles",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-02T13:09:09.000Z",
+      "url": "https://electrek.co/2026/04/02/tesla-tsla-q1-2026-delivery-results-misses-expectations/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "175b4577869e6dc9",
+      "headline": "Tesla confirms Model S and Model X production is over — only ~600 left",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-01T18:17:30.000Z",
+      "url": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "75014f087bd9df02",
+      "headline": "Xiaomi hires Teslas former head of sales in China to lead its auto retail push",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-01T14:34:21.000Z",
+      "url": "https://electrek.co/2026/04/01/xiaomi-hires-tesla-former-head-of-sales-china-kong-yanshuang/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "6923952d04220d49",
+      "headline": "Tesla FSD v14.3 launching this week, Musk claims last piece of the puzzle",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-04-01T13:56:44.000Z",
+      "url": "https://electrek.co/2026/04/01/tesla-fsd-v14-3-launch-this-week-musk-last-piece-puzzle/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "450681dc198d5c07",
+      "headline": "Tesla expands unsupervised Robotaxi area in Austin with only a handful of cars",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-31T21:04:44.000Z",
+      "url": "https://electrek.co/2026/03/31/tesla-expands-unsupervised-robotaxi-service-area-still-only-handful-vehicles/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "0f33eadf9d4dc789",
+      "headline": "Tesla named on Irans 18-company target list threatening Gulf operations",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-31T17:32:18.000Z",
+      "url": "https://electrek.co/2026/03/31/tesla-irgc-target-list-gulf-operations-threat/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "3d019b62933bc1f3",
+      "headline": "Tesla showroom in Sydney torched in suspected arson, 3 vehicles destroyed",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-31T13:44:23.000Z",
+      "url": "https://electrek.co/2026/03/31/tesla-parramatta-showroom-fire-arson-suspected-3-vehicles-destroyed/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "100cef0b8e8475f5",
+      "headline": "Teslas head of customer experience leaves for Coinbase as talent exodus grows",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-30T19:47:26.000Z",
+      "url": "https://electrek.co/2026/03/30/tesla-customer-experience-head-leaves-coinbase-talent-exodus/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "2b5ed11437c8977c",
+      "headline": "Another Tesla Cybercab production leader leaves as exodus continues",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-30T14:28:53.000Z",
+      "url": "https://electrek.co/2026/03/30/tesla-cybercab-assembly-leader-mark-lupkey-leaves/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "11f69d84c4456536",
+      "headline": "Tesla carelessly promotes Full Self-Driving for driver losing his eyesight",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-29T18:31:32.000Z",
+      "url": "https://electrek.co/2026/03/29/tesla-promotes-cybertruck-buyer-losing-eyesight-fsd/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "b6820a89753ddd32",
+      "headline": "TechCrunch Mobility: When a robotaxi has to call 911",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-29T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "0979b42407fa3675",
+      "headline": "Tesla (TSLA) publishes Q1 2026 delivery consensus: 365,645 vehicles expected",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-26T18:57:46.000Z",
+      "url": "https://electrek.co/2026/03/26/tesla-tsla-q1-2026-delivery-consensus-365000-analyst-estimates/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "ed66387b55d58311",
+      "headline": "Elon teases a van, Tesla sales tumble, and there is no Robotaxi in California",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-26T00:30:38.000Z",
+      "url": "https://electrek.co/2026/03/25/elon-teases-a-van-tesla-sales-tumble-and-there-is-no-robotaxi-in-california/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "4c29d647a7c6da6a",
+      "headline": "California regulator confirms Tesla is not operating an autonomous vehicle service",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-25T18:47:49.000Z",
+      "url": "https://electrek.co/2026/03/25/california-regulator-confirms-tesla-not-operating-autonomous-vehicle-service/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "fca042e2ff33afcb",
+      "headline": "Tesla is coming out with something cooler than a minivan, says Elon Musk",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-25T15:21:17.000Z",
+      "url": "https://electrek.co/2026/03/25/tesla-is-coming-out-with-something-cooler-than-a-minivan-says-elon-musk/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "5914b8a974cd8de2",
+      "headline": "Tesla files site plans for massive Giga Texas expansion including ecological paradise",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-24T21:13:46.000Z",
+      "url": "https://electrek.co/2026/03/24/tesla-giga-texas-site-plan-ecological-paradise-terafab-north-campus-travis-county/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "d1c261cc3da0bd3a",
+      "headline": "BYD outsells Tesla in Europe for second straight month as gap widens",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-24T13:13:54.000Z",
+      "url": "https://electrek.co/2026/03/24/byd-outsells-tesla-europe-february-2026-registrations/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "42c57013f9806f8e",
+      "headline": "Tesla Semi has a million-mile battery, claims Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-23T18:59:24.000Z",
+      "url": "https://electrek.co/2026/03/23/tesla-semi-jay-leno-garage-new-details-production-specs/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "ece050f8b5a50311",
+      "headline": "Tesla patent reveals dual-battery system for trailer-mounted range extender",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-23T16:21:33.000Z",
+      "url": "https://electrek.co/2026/03/23/tesla-patent-dual-battery-range-extender-trailer/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "506c6633d6194a70",
+      "headline": "TechCrunch Mobility: Uber everywhere, all at once",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-22T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "057f87277d532061",
+      "headline": "Tesla and SpaceX announce $25B Terafab chip factory — heres why it reeks of desperation",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-22T14:46:29.000Z",
+      "url": "https://electrek.co/2026/03/22/tesla-spacex-terafab-chip-factory-ai-desperation/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "949320d26db254f1",
+      "headline": "TERAFAB",
+      "excerpt": "Join Us: http://terafab.ai TERAFAB: the next step to becoming a galactic civilization Together with SpaceX & xAI, we're building the largest chip manufacturing facility ever (1TW/year) – combining logic, memory & advanced packaging under one roof. To harness as much power as possible from the Sun,…",
+      "publishedAt": "2026-03-22T03:15:59.000Z",
+      "url": "https://www.youtube.com/watch?v=HcxEGykMZc4",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "f7cb91a3090f43aa",
+      "headline": "Tesla delays FSD approval in Europe again, now expects April 10",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-20T14:07:41.000Z",
+      "url": "https://electrek.co/2026/03/20/tesla-fsd-europe-netherlands-approval-delayed-april/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "4955409271babcb5",
+      "headline": "Tesla (TSLA) reportedly in talks to buy $2.9B in Chinese solar equipment for 100 GW US push",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-20T13:38:28.000Z",
+      "url": "https://electrek.co/2026/03/20/tesla-tsla-2-9-billion-chinese-solar-equipment-100-gw-us-manufacturing/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "ccb8fb03ebb71e9c",
+      "headline": "Tesla is one step away from having to recall FSD in NHTSA visibility crash probe",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-19T13:58:19.000Z",
+      "url": "https://electrek.co/2026/03/19/nhtsa-upgrades-tesla-fsd-visibility-investigation-3-2-million-vehicles/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "a1f42fbc59fe58ff",
+      "headline": "Tesla says FSD was off before Cybertruck crash — but the video tells a different story",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-03-18T17:19:47.000Z",
+      "url": "https://electrek.co/2026/03/18/tesla-cybertruck-fsd-crash-video-musk-logs-overconfidence/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "4604aaee366fb6a5",
+      "headline": "Push to start (literally)",
+      "excerpt": "",
+      "publishedAt": "2026-03-11T20:32:06.000Z",
+      "url": "https://www.youtube.com/shorts/xplLMHeO-W0",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "577aa7f4bf50da69",
+      "headline": "Getting railed",
+      "excerpt": "[Actions performed by trained professionals in a controlled environment - Do not attempt]",
+      "publishedAt": "2026-03-06T21:10:32.000Z",
+      "url": "https://www.youtube.com/shorts/EEnjv8ApXtA",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "751ef73ecdc09077",
+      "headline": "Getting railed | Cybertruck",
+      "excerpt": "Cybertruck makes for a pretty good terrain park [Actions performed by trained professionals in a controlled environment – Do not attempt] 📸 : kove_sr Teslab_ct alexandre_fpv",
+      "publishedAt": "2026-03-06T20:07:30.000Z",
+      "url": "https://www.youtube.com/watch?v=zZHOpr3O-D0",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "70656b06e44610ba",
+      "headline": "Model Y Achieves 5-Stars in Every Category",
+      "excerpt": "",
+      "publishedAt": "2026-02-10T20:20:02.000Z",
+      "url": "https://www.youtube.com/shorts/nUVAY8IwU88",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "53339188846c4bc2",
+      "headline": "Sleep flat with CyberTent",
+      "excerpt": "",
+      "publishedAt": "2026-02-09T18:31:30.000Z",
+      "url": "https://www.youtube.com/shorts/wZ1QDXeYb6M",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "c60edd2f83ab7787",
+      "headline": "Tesla is now in Africa | Morocco launch",
+      "excerpt": "",
+      "publishedAt": "2026-02-06T19:50:13.000Z",
+      "url": "https://www.youtube.com/shorts/wqATgTmPA8M",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "0af11d5fcb59b5e6",
+      "headline": "Cyber skijoring",
+      "excerpt": "(Trained professionals – Don't try this at home)",
+      "publishedAt": "2026-02-05T18:21:36.000Z",
+      "url": "https://www.youtube.com/shorts/uEv9OHv3pnw",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "9246384fd21530b4",
+      "headline": "Introducing Tesla Solar Panels",
+      "excerpt": "",
+      "publishedAt": "2026-02-04T21:23:07.000Z",
+      "url": "https://www.youtube.com/shorts/9V_4QOpmmZQ",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "67a10a764259c274",
+      "headline": "Model Y AWD is here",
+      "excerpt": "",
+      "publishedAt": "2026-02-04T01:50:45.000Z",
+      "url": "https://www.youtube.com/shorts/g2yofR9OYE0",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "83c1f0fdb950c4cb",
+      "headline": "Introducing Tesla Solar Panels",
+      "excerpt": "New Tesla Solar Panels & Tesla Panel Mount now available - https://www.tesla.com/solarpanels Solar Panel: – 420W – Uses same cascading cell technology as our Solar Roof cells to create 18 power zones (3x more than conventional panels). This reduces energy loss in shaded conditions & produces more e…",
+      "publishedAt": "2026-01-31T00:06:41.000Z",
+      "url": "https://www.youtube.com/watch?v=7sxdv5H9uAU",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "43dbbff7f9c0917a",
+      "headline": "Tesla Q4 and full year 2025 Financial Results and Q&A Webcast",
+      "excerpt": "Start of call: https://youtu.be/oK0UZEE9GPo?t=299",
+      "publishedAt": "2026-01-28T23:36:53.000Z",
+      "url": "https://www.youtube.com/watch?v=oK0UZEE9GPo",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "726c0ef14e76d8bd",
+      "headline": "Falcon wing doors can squeeze where your body can’t",
+      "excerpt": "",
+      "publishedAt": "2026-01-27T19:58:40.000Z",
+      "url": "https://www.youtube.com/shorts/7yjMshYGkms",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    }
+  ]
 }
