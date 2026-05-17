@@ -44,3 +44,11 @@ jobs:
           git diff --staged --quiet && echo "Nessuna modifica" || \
             git commit -m "chore: update archive $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
+
+      # 6. Pubblica archivio su R2 (unica fonte servita dal Worker gate).
+      #    Repo privato → i dati NON sono mai su github raw.
+      - name: Upload archive to R2
+        run: npx --yes wrangler@4 r2 object put sentinella-data/articles.json --file=data/articles.json --content-type="application/json" --remote
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

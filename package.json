@@ -4,7 +4,12 @@
   "description": "Archivio storico notizie Tesla — backend serverless via GitHub Actions",
   "type": "module",
   "scripts": {
-    "poll": "node src/poller.js"
+    "poll": "node src/poller.js",
+    "gate:deploy": "cd gate && npx --yes wrangler@4 deploy",
+    "key:add": "node tools/keys.mjs add",
+    "key:list": "node tools/keys.mjs list",
+    "key:disable": "node tools/keys.mjs disable",
+    "key:revoke": "node tools/keys.mjs revoke"
   },
   "dependencies": {
     "fast-xml-parser": "^4.3.6"

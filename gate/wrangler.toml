@@ -1,0 +1,20 @@
+# Cloudflare Worker — Sentinella Gate
+# Deploy: cd gate && npx wrangler deploy
+name = "sentinella-gate"
+main = "src/worker.js"
+compatibility_date = "2025-05-01"
+
+# R2: archivio servito da qui (caricato dalla GitHub Action, mai da github raw)
+[[r2_buckets]]
+binding = "ARCHIVE"
+bucket_name = "sentinella-data"
+
+# KV: allowlist license key. value = JSON { name, active, createdAt }
+# Dopo `wrangler kv namespace create LICENSES` incolla qui l'id ritornato.
+[[kv_namespaces]]
+binding = "LICENSES"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+# Origin consentito per CORS. "*" se client non-browser. Restringi a tuo dominio app web.
+ALLOWED_ORIGIN = "*"
