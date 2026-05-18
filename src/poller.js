@@ -35,6 +35,25 @@ const FEEDS = [
   { url: "https://www.electrive.com/feed/",                              id: "electrive",        name: "Electrive",           teslaOnly: false },
   { url: "https://cnevpost.com/feed/",                                   id: "cnevpost",         name: "CnEVPost",            teslaOnly: false },
   { url: "https://www.vaielettrico.it/feed/",                            id: "vaielettrico",     name: "Vaielettrico",        teslaOnly: false },
+
+  // ── Aggiunte ──
+  // Tesla-specifici nativi
+  { url: "https://www.theverge.com/rss/tesla/index.xml",                 id: "theverge-tesla",   name: "The Verge — Tesla",   teslaOnly: true  },
+  { url: "https://electrek.co/guides/tesla/feed/",                       id: "electrek-tesla",   name: "Electrek — Tesla Guide", teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+site:jalopnik.com&hl=en-US&gl=US&ceid=US:en", id: "jalopnik-tesla", name: "Jalopnik — Tesla",  teslaOnly: true  },
+  { url: "https://news.google.com/rss/search?q=Tesla+site:tesla.com%2Fblog&hl=en-US&gl=US&ceid=US:en", id: "tesla-blog",  name: "Tesla Blog",        teslaOnly: true  },
+
+  // Generici → filtro keyword "tesla"
+  { url: "https://insideevs.it/rss/articles/all/",                       id: "insideevs-it",     name: "InsideEVs Italia",    teslaOnly: false },
+
+  // Senza RSS nativo affidabile → ponte Google News RSS (RSS 2.0)
+  { url: "https://news.google.com/rss/search?q=%22Tesla%22+investor+relations&hl=en-US&gl=US&ceid=US:en",          id: "tesla-ir",         name: "Tesla Investor Relations",     teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+press+release&hl=en-US&gl=US&ceid=US:en",                      id: "tesla-press",      name: "Tesla Press Releases",         teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+production+and+deliveries&hl=en-US&gl=US&ceid=US:en",          id: "tesla-deliveries", name: "Tesla Production & Deliveries", teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+when:30d+site:reuters.com&hl=en-US&gl=US&ceid=US:en",          id: "reuters-tesla",    name: "Reuters — Tesla",              teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=TSLA+stock+site:reuters.com&hl=en-US&gl=US&ceid=US:en",              id: "reuters-tsla",     name: "Reuters — TSLA Markets",       teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+NHTSA&hl=en-US&gl=US&ceid=US:en",                              id: "nhtsa-tesla",      name: "NHTSA — Tesla",                teslaOnly: true },
+  { url: "https://news.google.com/rss/search?q=Tesla+site:cnbc.com&hl=en-US&gl=US&ceid=US:en",                      id: "cnbc-tesla",       name: "CNBC — Tesla",                 teslaOnly: true },
 ];
 
 const DATA_PATH    = "data/articles.json";
