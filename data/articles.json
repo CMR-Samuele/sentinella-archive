@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-05-19T22:15:29.175Z",
-  "totalArticles": 1330,
+  "lastUpdated": "2026-05-19T23:40:00.875Z",
+  "totalArticles": 1340,
   "articles": [
+    {
+      "id": "54fae722f7e52313",
+      "headline": "Teslas Former AI Lead Goes To Anthropic",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-19T22:44:36.000Z",
+      "url": "https://cleantechnica.com/2026/05/19/teslas-former-ai-lead-goes-to-anthropic/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "fe3f6c6a6d421964",
+      "headline": "SpaceX picks Goldman Sachs for lead left position on record-breaking IPO, sources say - CNBC",
+      "excerpt": "SpaceX picks Goldman Sachs for lead left position on record-breaking IPO, sources say CNBC",
+      "publishedAt": "2026-05-19T22:34:54.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZV9CajFHN2J6ckZsT0QzUDlJUm9BY01BZ0hPd2tHUDNWcnpJc0RweXdXN3ZsZ0I4NjBWeG1nalFTOEc4b2lHeUxPNHo1ZWM5Q0JSSW1JNXBIRktWS3pUWE5OdlZERXp3T2hvdFZ4UjFfaWlGZTJIUDZxT01HSWZTUXpaRXpFcmstZWNNaFhZV211OTNlUmFsR1pVVnljajFUSUlWWDBR0gGrAUFVX3lxTE5CTHFCTEVHZVMzQXF5T1FSSFpVdTB0dThWb2pUM0dydEN3aVZsYjVjTDZGN0NiOHlDUmtLY3Bhd3NvVi1TTnBRV2ZEdF9xc2xTSlhHZ0tQTnVHWnFJWjRTYUJyVFdHbDdmZ1lhNEVOTUcwODlITU1JU1RRNFRXbHVRQ3lyaG91NDZqbWt2dlNtNGxfYU5QaURjdDU5OGFWZUdGbjFBakdfRWoybw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "72f1bdd2569c2add",
       "headline": "Elon promises FSD by years end, but Einride has L4 autonomy for big trucks TODAY",
@@ -19,6 +37,24 @@
       "url": "https://electrek.co/2026/05/19/elon-promises-fsd-by-years-end-but-einride-has-l4-autonomy-for-big-trucks-today/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "200c3a040a0377f9",
+      "headline": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean' - Yahoo Autos",
+      "excerpt": "Two Tesla Robotaxi Crashes In Austin Are Putting Fresh Pressure On Elon Musk's EV Giant As Youtuber Says It's Time To 'Come Clean' Yahoo Autos",
+      "publishedAt": "2026-05-19T21:31:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmtFNlNqc3V3a21pV0RORGl5NG4yTGZVRTdHZy1mVENhSFRNaXZ6N2tpSzhzNnlhbC1BYjdObkhIRmRjNjg1U0ZwemZVUkFlcFNhLWlvbVFQejQyeS0xa1A0SnhiQ1FYNUdsRFdrUzd4SHoxVU81Y3pBaTBQY2QzY2I0b3gwUVptVWJTYTNIR3drQnE3ZnJKallUU2hESXNZZEE?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "b7bafd9217e0e543",
+      "headline": "GM to start assembling Chevrolet Groove and Aveo in Mexico, in shift away from China - Reuters",
+      "excerpt": "GM to start assembling Chevrolet Groove and Aveo in Mexico, in shift away from China Reuters",
+      "publishedAt": "2026-05-19T21:05:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDA3dEU0RURTdUllVGstcVI5VnlXdWZmUnQ0REd2alpyU2JLNnRXVkJHSDhqZ0dDeWYta3RqeW45aDhpQnNtZjJyeWcwdmFMbWpFQWNCYlhBMVBQSTNvVmJiTnRNNHNfWWhMWHZweTc4MS1KRlhJMlhHZWxaa2dTeENxb3kteE9fSmMyOF9pT1ZzMkZZQ25OYWlTTlItbkhXN3FoTWFQS19aLXQyREtkaURlN2pPZnRGNExjWXRQXzJzYWpIWjczRGFSWQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "cdba741fce4801fa",
@@ -262,6 +298,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXRLSlB4YU9Fb3h0QkhNQUtJVlg4Q01vQWdZNUJSNlNHcnhWdE0xZFA0anUyQ1EtRmN6cW55bWpkM1dGTmpNVjRkSG5tekhKS1pURW5XcGdYaXJGemI3bzZyc0wyRGRjc0stLUJKTkFIM3c4eXlHS1l4TTVuemtQX1JKbTNRWHB4NzI0VW1WOUg2bk1pTWViRmkxWUZLazhvNk9BZHdQMEtrUmZJNHJpM0tPaFVEOGcwdk1PMzZzQ2s?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "e65af8c950ebaf2e",
+      "headline": "These Cars Deserve Better Names - Jalopnik",
+      "excerpt": "These Cars Deserve Better Names Jalopnik",
+      "publishedAt": "2026-05-19T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2JVaWw1c2dpaDVoT2VlelpCb2ZuOTJWZF9BTXk0WjdQZTRVUHcweHYybVBVSjRsNFJleXN1OFJWV29wak5rR2xHaVRIWHhlcEFpNC04ZERoVFpIczJ6YVFHVkJjdzRDSGQ3eWtJYUt1VlR6RGREUUtOTDlyNzJlY0lOdHA1N0U?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c6c20b49580eb86c",
@@ -5538,6 +5583,15 @@
       "sourceName": "Electrek"
     },
     {
+      "id": "0801c181c4c6a76c",
+      "headline": "Dan Ives: Tesla is now more an AI company than a car company - CNBC",
+      "excerpt": "Dan Ives: Tesla is now more an AI company than a car company CNBC",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTRST3IyYkNhUjY3Mi1IQldqZXVQZGcwc3VzX3VGa1g4eTJiYWx4aXprakxNOHNTYkRoYWdEemd1WHA4OWJWZlQtQnB1RjFYRG0zcVIzZnhud3E4SVJpMW5IWEd6WFFISldjU016MDhhbXBhWXliTkJNRHJFZ21JRUJ4SVJxUDVJZWU5b0tIcWJLNGh3Y0xRSHJiTVhQMHVPX1Jseg?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "4d330f18619edca5",
       "headline": "Intel lands Tesla as first major customer for 14A chip technology - Reuters",
       "excerpt": "Intel lands Tesla as first major customer for 14A chip technology Reuters",
@@ -9831,6 +9885,15 @@
       "sourceName": "Tesla Investor Relations"
     },
     {
+      "id": "e3f27fb92160794f",
+      "headline": "Kia Is Offering A Little Cash To Tesla Owners Who Switch To An EV6 Or EV9 - Jalopnik",
+      "excerpt": "Kia Is Offering A Little Cash To Tesla Owners Who Switch To An EV6 Or EV9 Jalopnik",
+      "publishedAt": "2024-09-10T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTIzeXB6TDQxazFqT3JXeGhwUUJ6eC1idHo2aFluVlJhN0FQcGxfOC1lS1hEbUZscTJVTG1ycVh6WGZyZ1Vqb3EzRHhLblBlMGo4c2dvTnJlSGpSc1RWaDVTMUZMWkRTa0FIYlhzR1BOcnJ4OVdNS3JKTnlWWUpFWVhNdGI5Y3VrY0dQSnNHTDAwRDhJdGZ3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "196c7db10186c3b6",
       "headline": "Tesla confirms robotaxi event to take place in LA, opens shareholder ticket lottery - driveteslacanada.ca",
       "excerpt": "Tesla confirms robotaxi event to take place in LA, opens shareholder ticket lottery driveteslacanada.ca",
@@ -10380,6 +10443,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "4fb47bd230a63621",
+      "headline": "Tesla workers shared sensitive images recorded by customer cars - Reuters",
+      "excerpt": "Tesla workers shared sensitive images recorded by customer cars Reuters",
+      "publishedAt": "2023-04-06T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM2lfQU1MVkNrSDdJNkI0bmFiTFBYclN1TmFzOU0yMFpLRjI3MGVYSjVkYzdaSUJmVWtiVjFtcWxPY0pMa3NJTDhGU2ltSFRqelJ5TUVXSzVkcVRiQ0xvRGl6cXQyRFVLSVpqN3Z4dVA1TEJlYWRTc2JOUF80N2pCNUZYSXVaMi1MRHlYQ3ZnTlhEWHFyVEJYdmFLUFc5OHVHWG5ZVEVHQzBqX1dnVTFv?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
+    {
       "id": "9137890f6533db2e",
       "headline": "Elon Musk's $14 trillion warning: Tesla CEO unveils 'master plan' for renewable energy - CNBC",
       "excerpt": "Elon Musk's $14 trillion warning: Tesla CEO unveils 'master plan' for renewable energy CNBC",
@@ -10918,6 +10990,15 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3R3b09jek5hMzZUYlRKVVpQa2tuQ0NBRWs5WFoxWUcwNnFUNE1XNjdhTG9lckJZSGNyb29pRGRXdmU2RFJVM0RtMWYtNWxRYlpSWlAxSE1VclJScTJiWVo5VGplcnZlckhNRzFGRUVuR0FFcExJNlNSSFZNSktjOHJqS0ZlR3dxQy1mUU0tTlJtQlN4MGtZNUNHUdIBoAFBVV95cUxPc1pkR3hDZThIS2ZjQVJrOXlZZG1GZXNtbHhBR1FHVlpjYTQwUjZFQTlYSGs0dk5xbnRSdkZTSHpaaXM2SENacTNiZ2lfeWxsSkFIV2RPc0QzX0g4QzFxUUM5MVZQNGVHaWY2WE9GWHZYenl1X01MVWotX3E3Z3d1V0V1eUFZNksycmdNb212UTFQc2ppSHlDOXgyNkF0LVd6?oc=5",
       "sourceId": "tesla-deliveries",
       "sourceName": "Tesla Production & Deliveries"
+    },
+    {
+      "id": "05cf90368705f418",
+      "headline": "Best Reviews 2021: The 2021 Tesla Model Y Is The Universal Daily Driver - Jalopnik",
+      "excerpt": "Best Reviews 2021: The 2021 Tesla Model Y Is The Universal Daily Driver Jalopnik",
+      "publishedAt": "2021-12-31T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVMzLTBDU1piWU45M0wzRGlPR0ZObmpKcFpnVFNKT3BCNTB4dVZzUm5GdHlZVHk0SFo2OU5aYkFLeGp4UTdzQnA4SWlMVnhmQjNSZmY0aWRSSFQ4V3IwMU9HcmdGNDBjR0J2aGx3T19ORFBCd2ZNcG5vVEhYX2tCUEpQUzM1bkdneDJWOXBOcnh2YzhCNkE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "a326c802e4e1fd8b",
@@ -11663,6 +11744,15 @@
       "excerpt": "Here are 5 alternatives to Tesla's Model 3 CNBC",
       "publishedAt": "2017-08-01T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUpuSFlMQ2QxTGZuZkdPdE9mbTdyME1zRVhFMHpMeHYySEY5ZHI5VVNrYW1nZkJTVU8xLXN5dGMzVF92ZzNIWVlmYmxHbmdfWGFJUHFwT092XzZvZkxqaTZyX2h2bWFmSjZVbV9sR0cyV0ZLbEsyTGZqdXVTTHpvNFhENFQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "46e3038d4521deec",
+      "headline": "Check out NVIDIA Corp's stock price (NVDA) in real time - CNBC",
+      "excerpt": "Check out NVIDIA Corp's stock price (NVDA) in real time CNBC",
+      "publishedAt": "2017-07-30T19:34:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oYzZvTnBzNElXWTh3SERGby1VMGVVWFZTekRWQk5WcmVwZjFWcWVBMFZyWll2NXdXQlRhZzR4Ym14dml4WmJ3?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
