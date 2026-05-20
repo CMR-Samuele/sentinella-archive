@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-05-20T16:52:52.229Z",
-  "totalArticles": 1469,
+  "lastUpdated": "2026-05-20T19:23:52.338Z",
+  "totalArticles": 1485,
   "articles": [
+    {
+      "id": "784dd839944b332c",
+      "headline": "Tesla Deploys New ‘Quiet Charging Zone’ Feature at San Francisco Supercharger",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-20T18:44:40.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-quiet-charging-zone-volume-warning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-quiet-charging-zone-volume-warning",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "a74d0a3221a2c9f5",
+      "headline": "Teslas Full Self-Driving software is creeping into Europe",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-20T18:32:06.000Z",
+      "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "a9dc9a441ebbaaa2",
+      "headline": "Tesla scales back driver monitoring with latest Full Self-Driving release",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-20T17:24:08.000Z",
+      "url": "https://www.teslarati.com/tesla-scales-back-driver-monitoring-latest-full-self-driving-release/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "7f6223bb7b79a7ea",
+      "headline": "Tesla cant seem to figure out the power of its new cheap Model 3",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-20T16:56:14.000Z",
+      "url": "https://electrek.co/2026/05/20/tesla-model-3-canada-acceleration-changed-three-times-one-month/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "7f6223bb7b79a7ea",
+      "headline": "Tesla cant seem to figure out the power of its new cheap Model 3",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-20T16:56:14.000Z",
+      "url": "https://electrek.co/2026/05/20/tesla-model-3-canada-acceleration-changed-three-times-one-month/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
     {
       "id": "a5ae7091e7b6c6a3",
       "headline": "Don't fight AI, HSBC CEO tells staff as banks begin job cuts - Reuters",
@@ -48,6 +93,15 @@
       "sourceName": "CleanTechnica"
     },
     {
+      "id": "297b4a9f7861efff",
+      "headline": "Jeep And Land Rover Could Become Cousins As Stellantis And JLR Partner Up For U.S. Market Cars - Jalopnik",
+      "excerpt": "Jeep And Land Rover Could Become Cousins As Stellantis And JLR Partner Up For U.S. Market Cars Jalopnik",
+      "publishedAt": "2026-05-20T15:05:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWFGcUxscGlPVldMVEFIR05ZbWo4bEJRYU5Ra0VaaTVXQlJxN0VRakJKWV8tOGJGZHVaQjZhYjlVMXB6OTcwNEt1clEtQjRWLW80Q3ZhbUdCNlFoeU9XVEdBdGFHM2xWZHN1a2ZqYmFYX19fdThxNXV6c0Q2MFBiYUFB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "1c3af20e03d0673b",
       "headline": "Tesla opens Q2 2026 Supercharger Voting as Q1 winners revealed",
       "excerpt": "[object Object]",
@@ -57,6 +111,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "d99772386ea1fb93",
+      "headline": "Jeff Bezos says there is ‘no truth’ to the ‘buy borrow die’ tax strategy - CNBC",
+      "excerpt": "Jeff Bezos says there is ‘no truth’ to the ‘buy borrow die’ tax strategy CNBC",
+      "publishedAt": "2026-05-20T14:56:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IWmpvd3dHZmQwV3hTQjh6ZTNsNG9QX2s4Qy1yend4M1RUeTYydTJkNnFFSnJjcl9HSUFTeEVwUVIyZml1Q1hZdmVCcnp3YjFiM0Z1c3FLUDB2ZUNwaDFMNzI1RdIBaEFVX3lxTFBPMWJ3Z3AxbUxoN1l5WlREYVVTQzZrYjQ1cHRoYkctcHFMZDNmY3MxT3NyajdGYWktc0FHc3kwS3B0NExFM1ZQZ2piNDRFMTNKekRHcG1oLUZoMV9fYzd6M014aDRGTks5?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "09d3efb7fd192013",
       "headline": "Teslas European FSD rollout expands to Lithuania",
       "excerpt": "[object Object]",
@@ -64,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-fsd-lithuania-rollout/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-lithuania-rollout",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0f59a759d0abfb0e",
+      "headline": "These Are The Cars That Scream 'I Peaked In High School' - Jalopnik",
+      "excerpt": "These Are The Cars That Scream 'I Peaked In High School' Jalopnik",
+      "publishedAt": "2026-05-20T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3dnWVd5U01Kck5jcHhyclhPWGozUDdyZ0pHTUEwei04Nk1qSl9UZUthaGpZOFROZmxsSlF4VXF2UXZXRkRZNmVUV3pzd1hMS295a2xlWGg4NEFYejdxTExycHNWVlNtdEd5VnFPczFNMzlaMWh3XzVsTXdjUTRJSjhidUE4aUZTcm9V?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "aa295d31b67019e5",
@@ -597,6 +669,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "63958a88d9349afa",
+      "headline": "Ford Takes The Bronco Upmarket By Teaming Up With Bougie Outdoor Brand Filson - Jalopnik",
+      "excerpt": "Ford Takes The Bronco Upmarket By Teaming Up With Bougie Outdoor Brand Filson Jalopnik",
+      "publishedAt": "2026-05-19T16:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkRFRYS3NJR3A2SkhjM2REUDlyT1RoTnUydVF6c05SNEc3Y2RNWmp2dGZMczJqSnN2Mzh6YUhBN28xejRsc3ZyQ2x4SmMzYUNGZjlwQWJrcFpZQ0xvTnR3SDl1Sno5UW9nT1pQV1dyc3Q0ZVRMSVJ3eU1R?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "a70129fc1d63d0d0",
       "headline": "SpaceX reveals date for maiden Starship v3 launch",
       "excerpt": "[object Object]",
@@ -928,6 +1009,15 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjZ3VTZkVzhyN3otbzRnOEJKMFNPaWdCekpRUlUxSW1uNXBxc1V5ajh0WGFETlJTSmJLQVBNRXo1TDNxSUhWNm1mNUZuSUdjTE5OeV93aHBXQVJPY3BwMDNSNFh6Z3NKNVd1T1VIREdUMXJnb2E2em92WjEyOW9ZTjJ1elN1V2QyWk5LRGVQT05fT2N3LVo3LXB5aF9xekQyZjdBcGxDeElmSHpnT1NaVkpLVDJKZWsxWFFmcENaeTJxbno4ZU9WSWZORVg4dnc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "bc3dfe4d183bbc37",
+      "headline": "How Saab's APC Opened The Floodgates For Stupendous Turbo Power - Jalopnik",
+      "excerpt": "How Saab's APC Opened The Floodgates For Stupendous Turbo Power Jalopnik",
+      "publishedAt": "2026-05-19T10:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrLTh6YmUxeHc5TmFGM3JnczNNUUgzcEYtV0xaNlB4UWZMYU52Qm1vWHpGT1lJLWdDdXFDUXZnb1Jyb2Q1b1k1UzhjNVp3cHZNcG5ZZDNfWHlDZk1qWlNaT0FTeEVLakVheUt3LV9sazJPSTZlVUttYmJtUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "751bb070eb46bcd0",
@@ -3468,6 +3558,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "8b519a986573d684",
+      "headline": "Cerebras shares skyrocket in debut as AI mania grips markets - Reuters",
+      "excerpt": "Cerebras shares skyrocket in debut as AI mania grips markets Reuters",
+      "publishedAt": "2026-05-14T19:00:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0RWNkR1ZVo1bF9Eem0xdEdhT080RURtem5xNVpDalRuZUMwTDZ6V19YQW41QXVaLW5tT2Y5SFZjdHNjR1JMWTBybW1xekJvajAxZXB0OW9vYk1pemN6UnFQeXRfRHFEX2FFNlNqdVdPcXJWVmxwOFk4S2diN1BaZFdTQ1V0MG9sajNpdnp2SW9PQm5IOXhDaVg3NzlzOENVVFZ4Sk42TV94bHc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "e6d6375d056570fc",
       "headline": "Chrysler Showed Dealers A Sub-$30,000 Compact Resurrecting The Pronto Name From Great '90s Plymouth Concepts - Jalopnik",
       "excerpt": "Chrysler Showed Dealers A Sub-$30,000 Compact Resurrecting The Pronto Name From Great '90s Plymouth Concepts Jalopnik",
@@ -5034,6 +5133,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "a5df9a7b774dae7b",
+      "headline": "Tesla recalls 218K Model 3, S, X, Y vehicles: NHTSA - MSN",
+      "excerpt": "Tesla recalls 218K Model 3, S, X, Y vehicles: NHTSA MSN",
+      "publishedAt": "2026-05-11T14:24:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdy1mUDA3TWNKY2NCTFNUbnU1dy0zTHZ1WUp1WEcyS1NGb3NLM2RaOFhFRWFXSU05ZzBiVWJmamM4QVJPVkctNXZGTWRiM1V3ZHhGaE5aWFN4Q1BwVEgzUXhkd3dXemw5QWhnSWVxbzNRSVVGZEN2dXJPMl9LWXNERHFmLUlKbV9Iak4yX1Z4TzBIb3RCQmwwRjJkOF8?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "e1728b2ab14a8a40",
       "headline": "Tesla China retail sales fall 10% in April despite reports of 36% surge",
       "excerpt": "[object Object]",
@@ -6159,6 +6267,15 @@
       "sourceName": "Electrek"
     },
     {
+      "id": "c573b837e21f2788",
+      "headline": "Earnings call transcript: Tesla beats Q1 2026 EPS forecasts, stock rises By Investing.com - Investing.com South Africa",
+      "excerpt": "Earnings call transcript: Tesla beats Q1 2026 EPS forecasts, stock rises By Investing.com Investing.com South Africa",
+      "publishedAt": "2026-04-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVpfb3ZfZDlNU1lySFpUcVhlZHlscFFIcVBoQWNYNVpjMHRDVEduMUhaUXRQZS1Jc3M0MGdoMFh1akc1UUFwNU5BMVhpX0M4V1ZibGJfWHhkbHJzN1Nhd0c1NlQxTm13WVZnaHJnMnN1U2VaMWlubndWNG5xOFJSTFZJWGVjRk1FV0tRRjVNQllBdVI4MXM4bmh3b1BjMGpWNTlZTjY1RVV0cldWWW9KcDVvcTZUcUlzQnVpOENkOVBfUnY4Y2N4UE1vYw?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
+    {
       "id": "830d81f5bee3b0c6",
       "headline": "Exclusive: SpaceX IPO filing shows Elon Musk can retain board control - Reuters",
       "excerpt": "Exclusive: SpaceX IPO filing shows Elon Musk can retain board control Reuters",
@@ -6409,6 +6526,15 @@
       "url": "https://electrek.co/2026/04/22/tesla-tsla-q1-2026-financial-results/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
+    },
+    {
+      "id": "82124e68f0fa6af0",
+      "headline": "Here are Wednesday's biggest analyst calls: Nvidia, Apple, Tesla, Alphabet, Cava, Netflix, Airbnb, Viking & more - CNBC",
+      "excerpt": "Here are Wednesday's biggest analyst calls: Nvidia, Apple, Tesla, Alphabet, Cava, Netflix, Airbnb, Viking & more CNBC",
+      "publishedAt": "2026-04-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakloN21BQ2EzOU9IaGdCNnFyeTQ1SE1OZjRxS2NkY3ktSmhQMVRXUEtoMGg5U2dBNHVtRnNaQ0VYaE5KSUJVS3ZFc2NmZE83TnNvT2pRVDZsOGpTajk0cFFTX1FlZ2pneHRwTlJub0p6QldESTI5RmJWeXZQRFJYVTBlSjFtZVhvWWxtLVUwT29iWDZkYWhwcVdjVThBRG83N2t2QXZsblJnQQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "930ca99784c93d17",
@@ -8679,6 +8805,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "b719f682919870d8",
+      "headline": "Veteran analyst delivers blunt 3-word take on Tesla after report - thestreet.com",
+      "excerpt": "Veteran analyst delivers blunt 3-word take on Tesla after report thestreet.com",
+      "publishedAt": "2026-01-04T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSV9TbkVQRjUzVEZXUTYwN2lwcHNoeFByTzJGSnE4OGs2XzRGcS13S19HUWxmeDBDNE1ZWWRrWld0eEZseklEbS1QdmlqcFlTRnpPUUNUMFp6cFRsRzdDeWx3cHVsR0VoQ2xsckNXeUxJVmRXR0NVOV9TNWRwM3hRcGx3d2ZLRC10LWd1bUJVaE9pX2lUaUtZNWJNM0RnNV9pSUkzWXFpNDlIOU0?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
+    },
+    {
       "id": "6687d1281eeb28b4",
       "headline": "Tesla Q4 production overtakes deliveries, shares tank - theweek.in",
       "excerpt": "Tesla Q4 production overtakes deliveries, shares tank theweek.in",
@@ -10135,6 +10270,15 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0YXQyaFRvUDdRcFdVbjItNGJKMUZoVjRDREViOEdpVTg0LTRNS3pnOTJMdEFwMWpTRzhyZG12T0l3dzV2WVByLU5rcVdvZVFqVW5JVm10MGxtTEpVbDRtMjAyel9fb2dNLUlFdURR?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "510160185d8b899f",
+      "headline": "Wall Street posts weekly gains, Treasury yields jump as upbeat jobs data ease economic fears - Reuters",
+      "excerpt": "Wall Street posts weekly gains, Treasury yields jump as upbeat jobs data ease economic fears Reuters",
+      "publishedAt": "2025-06-06T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OeGh5cW5nMUZ4bGhSNk5kUWRKVGlfMTVvMkZnVjh6ZDZlWTZQN1BhTWFzeGU2dGxBQWhnRUQxdUp5cURHZF9VNmhFamtDLXoxb3JMd1gwSU1vUEpScWxqV1NqNmRvQUthZE5yN2VaNEhXMmtpR1A5RXFhdw?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
     },
     {
       "id": "d180d24ec16ff639",
