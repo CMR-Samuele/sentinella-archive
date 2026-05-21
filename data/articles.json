@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-05-21T00:06:13.703Z",
-  "totalArticles": 1536,
+  "lastUpdated": "2026-05-21T04:52:19.407Z",
+  "totalArticles": 1562,
   "articles": [
+    {
+      "id": "25b4e229cfc709f4",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T03:42:45.000Z",
+      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
+    },
+    {
+      "id": "c6426cab1ab3ebcf",
+      "headline": "Oracle Exec Sues Tesla Over Full Self Driving Promises And Wins $10,600",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T03:15:24.000Z",
+      "url": "https://cleantechnica.com/2026/05/20/oracle-exec-sues-tesla-over-full-self-driving-promises-and-wins-10600/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "fc408987a150f9a3",
+      "headline": "The Problem With Teslas NON-Automatic Windshield Wipers",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T01:48:54.000Z",
+      "url": "https://cleantechnica.com/2026/05/20/the-problem-with-teslas-non-automatic-windshield-wipers/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "5e4ca579e3d1bfdb",
+      "headline": "SpaceX S-1 reveals Teslas Terafab deal is far from done",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T01:25:27.000Z",
+      "url": "https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "5e4ca579e3d1bfdb",
+      "headline": "SpaceX S-1 reveals Teslas Terafab deal is far from done",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T01:25:27.000Z",
+      "url": "https://electrek.co/2026/05/20/spacex-s1-tesla-terafab-macrohard-not-done-deal/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "0b68c1ab38eff4c6",
+      "headline": "BREAKING: Tesla confirms FSD availability in China after Musks Beijing visit with Trump",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-21T01:24:03.000Z",
+      "url": "https://cnevpost.com/2026/05/21/tesla-says-fsd-supervised-available-in-china/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
+    {
+      "id": "dcd851adb75d65e5",
+      "headline": "SpaceX reveals Musk company links, from Cybertrucks and jets to stock investments - Reuters",
+      "excerpt": "SpaceX reveals Musk company links, from Cybertrucks and jets to stock investments Reuters",
+      "publishedAt": "2026-05-21T01:24:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObTBsS21kRDROb05DY1ZGanlQMU5JMlJWNXl5QV9sZkx3U0hSMGFHOU0xeFJnekZLcHl3YlZCYV9XdHJ4d2xvR1E5WFJTVTBQc2NWWkVSYzVSSEtSb1RBVUVYSnZpTkFmaVN2TVY1UHhtZVhWZTdKelcyMmRlSG9iS3hxUmJZQ2hOSHI1WkMxdS1BdmJ6OGtWTktDSnJ0V1A4OHY2Wmd2bEo1QjdDV0tFWWk4Y083X1RQbTd4UUU2Z01qZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "58a8c7846ac4a078",
+      "headline": "Tesla Inc stock (US88160R1014): earnings reset keeps investors on edge - AD HOC NEWS",
+      "excerpt": "Tesla Inc stock (US88160R1014): earnings reset keeps investors on edge AD HOC NEWS",
+      "publishedAt": "2026-05-21T00:31:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2ZxYmx4cnB1SmZLZ2RYR1FQc0VmOUtDSTY4SW5lT2trTTNBTFNFSFg2WnFSZXZoUmVsQVl6XzFncTRTNWRIa1IxcFhnTWNPNFgxQlBadFFBWFNXUXUzOVpLYUNaS3lqbHpaLWNibWRPaHNtTTM1NTRTSWN2YzZEWWlRRGJ5OTlUbV8xb0FZT2ozZ1BhR0RqajdTUDB4cmNHR0ROOGVmc1dQNzZUVmxLVHVocFNocXNsT292WEk1NWdBaWxw?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
     {
       "id": "ff3a86518f756cd2",
       "headline": "SpaceX to Earn $15 Billion Annually from Anthropic AI Compute Deal",
@@ -10,6 +82,24 @@
       "url": "https://driveteslacanada.ca/news/spacex-anthropic-15-billion-ai-compute-deal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spacex-anthropic-15-billion-ai-compute-deal",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "06ac55b205fc3e02",
+      "headline": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date - CNBC",
+      "excerpt": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date CNBC",
+      "publishedAt": "2026-05-20T22:57:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSlpxbjU3QzVIZkEwbUYzOWg3NXMySXluNHVYOXBvNENVOEhPWEhCTjZvcFBVUjRGckJkWDRZVEUwS1NmWG1GZFdWX1FBNDNBa0xNRXI2WC14TndrQzFRRW5VRFhkeGRMdlhBQ05FMGNTQjBPM0JkMVRSSm5LeXRZRU1fVTdETjlqV1NaeWc3encwVWpyckx2VUM3VGp5UdIBowFBVV95cUxPOEY5ejVpbHNWRHFaYkIyYnktT2ZTNU1qRHVicGQ3bVlhMkhZR1RzZWFKVzh4eHd1Q3VRZjVFMTl2MXR5NndEQkJuc3duSTYwUmhwQ0V5Zk5YaGhvcHljZnRtMVR0eDctWnotYTB4M3ZEaUlZcjEtSHIyWlQ4T3ZTMkdMaHNGWkZYMkxLLVpsQTRSbkpPUElXdFJyd1hQVkxMbEo0?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "9d33f5f4d9485bce",
+      "headline": "Mercedes-AMG Shut Down LA's 6th Street Bridge For The Most Outrageous Car Reveal Ever - Jalopnik",
+      "excerpt": "Mercedes-AMG Shut Down LA's 6th Street Bridge For The Most Outrageous Car Reveal Ever Jalopnik",
+      "publishedAt": "2026-05-20T22:46:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEtpbG9yUE5PSlBIakl6TDlWQzQ5UU0xQ3cwQmNtUG9MdHRQSFZ6b3BHTkNLZGlTeVJkTDY4UlIzQzlMZVd0SEZFdThBZ1BMcmtKTGhxMDFnMzVlVU4tNUl2SGlhSEJ2NHlmMnFLdGo3LUlsOWJVN2VubXViNmVTWDVGbXhPMUhyaXJ0bWtrM19oOXJYOV9GZ2ZB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "6b6cf116def10384",
@@ -80,6 +170,24 @@
       "excerpt": "The 2026 SUVs With The Most Cargo Space Jalopnik",
       "publishedAt": "2026-05-20T20:45:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIS191X012cHRxSVZON2Z5YS12WGx2LXhKQW5KXy1HSUxmRjBmU3hLMmFPbTFGQ1lzejZTT3g4aDVjZmlmQXZMSzdfR2t1SlZoSnlCX3d1VXJQQ2wxcUZLZE1mVUhaRmw1c0szVzdYd1B2Ymxua0hDaA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "a9f499d7b29a0854",
+      "headline": "SUV Explosion Rocks Wall Street, No One Hurt Includling Stock Market - Jalopnik",
+      "excerpt": "SUV Explosion Rocks Wall Street, No One Hurt Includling Stock Market Jalopnik",
+      "publishedAt": "2026-05-20T19:21:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lV2h4cmFWdFA2cVZRamhsLW9xaXBNengxQ1pES0xfRmtxVWpSSl91UUk0aVlzQUxERmwyem9TZ0xEeldjVXF1SF9pUi1VMlkxZjk1RkpDYlY3VE9OVGtaTEpSUERVUG9waXZCSWFQOFYyZFk?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ab79b8fe339b51aa",
+      "headline": "Hellcat-Powered 2027 Ram 1500 Rumble Bee Is The Right Truck At The Wrong Time - Jalopnik",
+      "excerpt": "Hellcat-Powered 2027 Ram 1500 Rumble Bee Is The Right Truck At The Wrong Time Jalopnik",
+      "publishedAt": "2026-05-20T19:10:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTFFMcVJZWGtmWlpJeUlHVTcyUTkzV0NvNjFGX1NYa1hUNk0yaldyTWxsOTRQZExWQ1pwSHNCX0ZFZ2V5OHFtSXJKd1hjVHBSMUw1X254SmtBcEdibGd6SFVOeWpybTNHWjY4MVM0NFFwdGxkaW5LRmd2UVZ3N2RLWUJqa0JjWEtNeUN1VnlsbXFOb21Ka1E?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -172,6 +280,24 @@
       "url": "https://www.teslarati.com/tesla-full-self-driving-expands-europe-entering-second-country/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "9a048bda9fb36ee2",
+      "headline": "China's Xpeng launches 'future-facing' SUV to drive upmarket sales - Reuters",
+      "excerpt": "China's Xpeng launches 'future-facing' SUV to drive upmarket sales Reuters",
+      "publishedAt": "2026-05-20T15:36:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkVud204LUFzNE9ORzV6U20ybGJmbFU3M3JqNUxzeWpkUjEtZERWNlUzdm16d0NIVWxNZWJzcXRZZ3NDbDc1c1J4Y0ZWVjFJdlpmQTFWTjhQTC1ZSEt3NjZHaldZVVdLc1pNazBOUFdhRWxXMUpRZm4wNDdfODA1ZTVTampTZkF0bHJfT2dfb19WY3dMSzZXZTFNRzNyYUdXZ1NMLXVzeVpQMFNf?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "9a048bda9fb36ee2",
+      "headline": "China's Xpeng launches 'future-facing' SUV to drive upmarket sales - Reuters",
+      "excerpt": "China's Xpeng launches 'future-facing' SUV to drive upmarket sales Reuters",
+      "publishedAt": "2026-05-20T15:36:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkVud204LUFzNE9ORzV6U20ybGJmbFU3M3JqNUxzeWpkUjEtZERWNlUzdm16d0NIVWxNZWJzcXRZZ3NDbDc1c1J4Y0ZWVjFJdlpmQTFWTjhQTC1ZSEt3NjZHaldZVVdLc1pNazBOUFdhRWxXMUpRZm4wNDdfODA1ZTVTampTZkF0bHJfT2dfb19WY3dMSzZXZTFNRzNyYUdXZ1NMLXVzeVpQMFNf?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
     },
     {
       "id": "58bda5a2b32b1f91",
@@ -289,6 +415,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1gxZWRUZXQ3WEFhOG05NXBsTFdDMUROUThaaG8zNmxUWl81TC02OUtTSk84UDNPdzdwMEw4YlQzNy1XV3UwSDlTanJ3ZFg2ZElkenpTVWZPamQ4cnpQYU93ZDFUYTR2dVNKeWZyQjJGYUtZVzNOVHluZXFTaFk3SFdjeGxidFZJVFRYN0k1b25uRzcyM1RPZURqR3Q0bkFncHFfRTRBaGJQWEYyc28wOHMtX1lERmZnQzI0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "be330d9c1f8dffba",
+      "headline": "2027 Volvo EX60 Is An Electric Diamond In The Rough - Jalopnik",
+      "excerpt": "2027 Volvo EX60 Is An Electric Diamond In The Rough Jalopnik",
+      "publishedAt": "2026-05-20T13:05:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZElvOHlGQnZJaHJRcFl1NXpsYXc5R0gtdzZMOHRYZk1vN3RYOXh3YTZmSkZ3aWd1MjJYR0FqSmJyQkxhNHdDeXRiN28zZ3pkdnE1WlloV1JLb2ptaE5keE5YbmZjaHY1clpjcWJQYVdVSGU5QThzMm9tZWNFYUdUSmhtX0ZhSWU4bm9oSFg1QkpDYzJDXzFpUy1B?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "0a4a9aedc9e3a6ce",
@@ -1099,6 +1234,15 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERtU1ZJZlZUa0c1amFvZ3hQX3VUcVViWVhmVUpqaHF2TmlVYUpuUmZPUmRKZU5RbHdVZWFLWkJpcjZaRVdQMGg5eTdmQjZpd294RDEzTTNES25vREdwLWhhLTRvSjhPVDdZQ21fMldsSnVibGZOOF9WRS0ySkZhbHB4N3UwSzIwNllRenRzZ1E2UElQaUN4S3Nn?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "2b17d54e1060161c",
+      "headline": "Musk loses in court, Home Depot earnings, DOJ's 'lawfare' fund and more in Morning Squawk - CNBC",
+      "excerpt": "Musk loses in court, Home Depot earnings, DOJ's 'lawfare' fund and more in Morning Squawk CNBC",
+      "publishedAt": "2026-05-19T12:01:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHNzTXZwcTI5c1RPNHBXQllTa2lRaXJfRU9oRkNxMWhmeTJ3X1NCN1RueWJhVHBsZEdFQjFvMDZaajE4MWo5ZU02QXVZLS1zX1FrRk1EMm1hRWxUMDg2Wk5DMkJ2QXh2OTdTQ1d6UXhvT0I0SlBhX05uT0lXdE1DdGkxTdIBiAFBVV95cUxQWVpWM25VNFVrRHF4Q0xwTkxva2sya09KcDYzNFJ4c29ZVkU1X3Z3UmlMM1c1RkdoVjhIdExNQkZtT2d4cnhaR09qOXlOcVRxQWYwME9SZ1lyNlZZcjBEN2I5ME51TkpyTTV0WjF1a1N3dWg2bFpHZWNwTTdrM2xjeU14NUV0bzdp?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "1c70c2bcf4c4b792",
@@ -2051,6 +2195,15 @@
       "excerpt": "Nvidia reports earnings this week. Morgan Stanley is getting more bullish on the chipmaker CNBC",
       "publishedAt": "2026-05-18T10:45:06.000Z",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFFoYWZ5dWNTb3RZR0lyZEJaRFNCUzdDOXE1M3pCc1FfQ0Ftc3BFUnU1THBwUVNmNlBxa3RncU1tcUQ0T1pMVks0MFYtRmU5YXNPVHZwMm11MWxVUnE4WTdOTUVWZFdMZWZ4WUg0a2lJYlZ5MGx2WkZYQmpxcW1rNDdrRDFDRlJId3l4SnRKenVodWQ0TGFwWXZ3UVVNYjlzZUctcHBoUHNwZTh4MkE?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "15765c47e9139a66",
+      "headline": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO - CNBC",
+      "excerpt": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO CNBC",
+      "publishedAt": "2026-05-18T10:40:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SRUIyXzcxY1EzZlp6Q1M0RVNGc2Rfbml6MmVnWmZKWE92amR5Zi1teEV1cmJTdzJtWU80N3Vja1JZeWlVZ2NZYXNKVzhNZDBSdjlPZDNhcEdDLTJNOVhFWmFNZFIzNm5n?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
@@ -6420,6 +6573,15 @@
       "sourceName": "Electrek"
     },
     {
+      "id": "4c27381c4ad4c96e",
+      "headline": "Walter Isaacson: I definitely think you're going to see Tesla and SpaceX end up merging - CNBC",
+      "excerpt": "Walter Isaacson: I definitely think you're going to see Tesla and SpaceX end up merging CNBC",
+      "publishedAt": "2026-04-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUplemFNSkN0NS1RVnRMUDJ2R2FDRlpRU3pBWF82bmlVZUJ6cTNiUHFmeWlmM0tweEY1WmhSVS1NbWliLTBGdzV5SVhjODBkdm82X3Z3MFhrbExmbTZiLWlkSUxjM0ZWRkJrcFloVE9vejBjYUVvSTBpRnJxY0xwemFSdGpKMHdrc1ZFRkdMRko0TzRjRXowVXlsMUdBeHdHencySTFDa1FqbFpfNFZvSFNYX3lLVHh2a2QyQjVxUnlVeHhicUww?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "c573b837e21f2788",
       "headline": "Earnings call transcript: Tesla beats Q1 2026 EPS forecasts, stock rises By Investing.com - Investing.com South Africa",
       "excerpt": "Earnings call transcript: Tesla beats Q1 2026 EPS forecasts, stock rises By Investing.com Investing.com South Africa",
@@ -7599,6 +7761,15 @@
       "sourceName": "Tesla Production & Deliveries"
     },
     {
+      "id": "878a2f19e837f71d",
+      "headline": "Tesla Dodges NHTSA Probe on Smart Summon Feature - The Tech Buzz",
+      "excerpt": "Tesla Dodges NHTSA Probe on Smart Summon Feature The Tech Buzz",
+      "publishedAt": "2026-04-06T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaElqVlpJV3p2ZTlXc0hyU3VCU3JhZHhEMFNMdjlfZTJ3Ukk4WmtBekMwMlJpOWk1SXRsWGt3SWhGYldZeGVQSWsyLUY0elUyald2c2tpMTVoYTZma3N5dDNzNW45S0pQbUMxVTEwRmZHVXRsVlgzRlRuQV90NzV6aUlXZU5DTnRW?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "07657b4c1005aef0",
       "headline": "NHTSA Ends Investigation Into Tesla’s Summon Feature - Yahoo Finance",
       "excerpt": "NHTSA Ends Investigation Into Tesla’s Summon Feature Yahoo Finance",
@@ -8128,6 +8299,15 @@
       "url": "https://electrek.co/2026/03/24/byd-outsells-tesla-europe-february-2026-registrations/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
+    },
+    {
+      "id": "f77838b2c88242a1",
+      "headline": "Tesla FSD Investigation: Regulatory Scrutiny Intensifies Amid Robotaxi Ambitions - News and Statistics - IndexBox",
+      "excerpt": "Tesla FSD Investigation: Regulatory Scrutiny Intensifies Amid Robotaxi Ambitions - News and Statistics IndexBox",
+      "publishedAt": "2026-03-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3g4aHlLRDdKNnpBYlRCQUppb1RlYUo3c2NGc3ZhU1llYWh6elg5RHI5enBRZ1lneDJSbWZQTVZHTlh6TzVXTWdSa0NIMWhfR0Z0aEZSTk9TeEpqd3g5WEIxSmRRQWRoYU1wWVVTTWoxdkhqTU1zb3pKV2pCNUp3UGtFYlViYzNkb2xhUmNHSWQ4Ykp1Z01jZHktZnc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "7935194e5ee86277",
@@ -8963,6 +9143,15 @@
       "excerpt": "Government Tells Tesla That This Is Definitely the Last Time It Can Blow Off Deadline to Turn In Data On Why FSD Is Constantly Ignoring Traffic Laws Futurism",
       "publishedAt": "2026-01-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHZoY200ZEdsVlFOV3VqNzB0azNReWtjV1NFSDFGRHpEVkpERHIzaDYzSnRXdEdYNnhFdkJEZEhDUkpJNjhGSzhhSDcxUWI3U2ZpaTV6QkhZeDRyMEtaY0pBMnFOSEhTMDNmcjdlNHVsWXhsd3BLdWZBT0N3VzRoenZ4dXRNOU44dWN0Mjln?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "35129b3488a94be2",
+      "headline": "Tesla gets 5-week extension in US probe of Full Self-Driving traffic violations - Reuters",
+      "excerpt": "Tesla gets 5-week extension in US probe of Full Self-Driving traffic violations Reuters",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2JOZ3lRSHF4UndtSlVsN3pUb1RkbUJIY3Jxd1hQZ2JSUTB3cWtqd2Y0ZHc4OXN6RTA0VE5MUW43MDBISkp4NnlVTGU1Y0RfT19pWDdZZ0VEM0V1a2UyZkU4bXdxQzBPRmw1TEcwSGEtc19GSVVGVlpCcmhieWxUT2ZFclZRbkRVdTBTTXNya2hzc0xjS0Y0dzFaa1pCWDBDZ3NZOFhRZTVPakdhbG9RY2ZiaUtZempiSDg1VXJHemo1V0hz?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -10191,6 +10380,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "07c14d0da6c57591",
+      "headline": "NHTSA probes Tesla over delayed crash reports tied to driver-assistance systems - CBT News",
+      "excerpt": "NHTSA probes Tesla over delayed crash reports tied to driver-assistance systems CBT News",
+      "publishedAt": "2025-08-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEw5MFFtbm9PT0swaFU4NFpjbGMydHpJNVo4ZklIbHdyS0d4bTVienhtMHJTdnN2UkFRMFpkNGhvcDY3clY1YkhkRTVQTmpqMmRLVGhqbDRON1l3cl8wbmpmZ1NHTFozU0tlS3dSOXpkcF84UG56bm4xM3VBM0xodlNPby1VN19HWlVJOHJCVjZpV3d5TllaUjhzUjVzUFc2Ukp2WWVmYw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "fb972268ac72485b",
       "headline": "Elon Musk's Tesla reportedly slashes UK monthly lease fee as sales plummet - CNBC",
       "excerpt": "Elon Musk's Tesla reportedly slashes UK monthly lease fee as sales plummet CNBC",
@@ -10421,6 +10619,15 @@
       "excerpt": "Tesla, Rivian Report Q2 2025 Production, Delivery Totals Autobody News",
       "publishedAt": "2025-07-03T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUxsa000aDhJX01XeVlpZmEybUZYUGRKcEJ6T1RubG9Hd0Y1dVFHR2NjNjhmckVFMV84M1VpeGRHUHVzQ1lwSnloaUpaZDN0T2dfcHJjTFBGb181dlY0ZlBjclZOU0xKai1oeG5Eank0N2h1ajlHVjNDMTNqck4xYUdaQlRPZ1duVFlzOEFwZ3JQdw?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
+    },
+    {
+      "id": "230309d5055e3894",
+      "headline": "Tesla Q2 2025 Deliveries: 384,122 Vehicles - TeslaNorth.com",
+      "excerpt": "Tesla Q2 2025 Deliveries: 384,122 Vehicles TeslaNorth.com",
+      "publishedAt": "2025-07-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiTVVNdmRZaFlqLXpjQTV3VFJ4STE2LXB3UzBwUjlubnVIVDE2X2hwTkRQS2haRGdHU0F5d00yVVhYbVFQamFqTDVYdHoweE9abDBjUjk2MGVvUU5kd2g5WFNXOVNlRnliVUhB?oc=5",
       "sourceId": "tesla-deliveries",
       "sourceName": "Tesla Production & Deliveries"
     },
@@ -12585,6 +12792,15 @@
       "sourceName": "Tesla Blog"
     },
     {
+      "id": "210ef97e35593d8c",
+      "headline": "Cybertrucks, new factories in focus as Tesla set to report record earnings - Reuters",
+      "excerpt": "Cybertrucks, new factories in focus as Tesla set to report record earnings Reuters",
+      "publishedAt": "2022-01-25T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1IxazJnbnh5VkdRV2xycDFHYkVVRUVXQ2dvWmZBZzlKSWlMUTFZOFRBUWRERVcxVlVhdllMbHlva0VxYXlKQkQ3MF9JLWtjN0xlVWd4UEd6TjRtc3FjdERBTnA5eTdKWTBJejk2b1VEZEtiV050QWxvR1hKeTVnMFFTTXVOR0ZoZWhhYzZyNFc3TFZaN19fS0E3dFlINmZrWXhUc2NUaUdMb2hpUzZkQ2w5SnlfY1NTSGtHME5Jdm1XaVd3am1zOEJ3?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
+    {
       "id": "5da4ddb926db24a6",
       "headline": "Introducing Plaid Track Mode - Tesla",
       "excerpt": "Introducing Plaid Track Mode Tesla",
@@ -13359,6 +13575,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "0647caf9b51495a3",
+      "headline": "Elon Musk promises to take question from this YouTuber on Tesla earnings call - MarketWatch",
+      "excerpt": "Elon Musk promises to take question from this YouTuber on Tesla earnings call MarketWatch",
+      "publishedAt": "2018-05-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOXRkLXhGNFdLME5qd3ZpdDlKLUUzYjRxNVJ1MjBkQTVSNW5GbWZfZVNqZGxEcTFYY2ZyVmNNUXdHWTQzSndFNnMydzR1Nzdvc1Z2VUNOZ3hnaDdtQTR2ZUp6Nl84LVdCeFZOQUJoVFl1OXpPMUYxSzc1eEE4NGQ0ZHNCaTlCS21NMmtKUUFCUlVLZVgxamNwZVNRanctNzJzcm1oQ1J0ZGpoYU1ZSjJ2UThvd294U2NYSU5LU1JrVQ?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
+    {
       "id": "4790bf34b7d685bc",
       "headline": "Elon Musk is stressed, says he's sleeping on Tesla factory floor and has no time to go home and shower - CNBC",
       "excerpt": "Elon Musk is stressed, says he's sleeping on Tesla factory floor and has no time to go home and shower CNBC",
@@ -13472,6 +13697,15 @@
       "excerpt": "Check out Intel Corp's stock price (INTC) in real time CNBC",
       "publishedAt": "2017-08-05T09:52:05.000Z",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXeGVqbmpCZDM1QU4tTFk1eENoWi1TYkt3TjBXWEEzclY0S0h1c3kyUXBXaGFGUXNQdXMzWlVBc1RhSFJsRkhN?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "2e98ee244f86f6d4",
+      "headline": "Check out NIO's stock price (NIO) in real time - CNBC",
+      "excerpt": "Check out NIO's stock price (NIO) in real time CNBC",
+      "publishedAt": "2017-08-04T10:00:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLUWtBNkEwcEtHdVF6MVhTdjRnQ3dKbTctZ2NjZGRBbTNhUW9FU3pQRmkwUEpIMWhtOVlFNEdYbzZpcnF6LWc?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
