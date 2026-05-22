@@ -1,7 +1,115 @@
 {
-  "lastUpdated": "2026-05-22T12:04:12.806Z",
-  "totalArticles": 1784,
+  "lastUpdated": "2026-05-22T15:30:52.614Z",
+  "totalArticles": 1826,
   "articles": [
+    {
+      "id": "dac0d63d6f428001",
+      "headline": "Tesla Cybercab: hate it or love it, it is the most efficient EV ever",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T15:17:18.000Z",
+      "url": "https://electrek.co/2026/05/22/tesla-cybercab-most-efficient-ev-ever-165-wh-mi/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "dac0d63d6f428001",
+      "headline": "Tesla Cybercab: hate it or love it, it is the most efficient EV ever",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T15:17:18.000Z",
+      "url": "https://electrek.co/2026/05/22/tesla-cybercab-most-efficient-ev-ever-165-wh-mi/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "baa43135e2a1360e",
+      "headline": "Tesla recalls over 14,000 vehicles. See the affected model - USA Today",
+      "excerpt": "Tesla recalls over 14,000 vehicles. See the affected model USA Today",
+      "publishedAt": "2026-05-22T15:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWhhOG02RFZzQmpzRjJMRDNOYVB4SmJhNVhyMTFoYjR2elZzRTFnRFlITnoxYy1lWl9RQlZPN0FjQmd2M0IyR3JIWFZyVVQwc0pfam41U2JEdHFGNlhJOHh5aFF0MlVEeXA3TWJFRlZ1VVRFbUxPWk0yNVVja2tfY2JwLTJMc3VKbi1vdkhQdGs2ZFotNFVhRVlQMDFlQ00?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "070a0270f42dfd09",
+      "headline": "Tesla removes one-time FSD purchase option across Europe and the UK",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T14:48:39.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-removes-fsd-purchase-option-europe/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-removes-fsd-purchase-option-europe",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "213eca9e155fe95f",
+      "headline": "Tesla renames FSD again in China ahead of software roll-out",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T14:37:34.000Z",
+      "url": "https://cnevpost.com/2026/05/22/tesla-renames-fsd-again-in-china/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
+    {
+      "id": "9c744174d0ad9825",
+      "headline": "Tesla FSD, nuovo via libera europeo: anche la Lituania approva la guida assistita",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T14:27:37.000Z",
+      "url": "https://www.vaielettrico.it/tesla-fsd-nuovo-via-libera-europeo-anche-la-lituania-approva-la-guida-assistita/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "8823c8bd2557533c",
+      "headline": "Tesla (TSLA) Recalls 14,575 Model Y SUVs Over Missing Weight Cer - GuruFocus",
+      "excerpt": "Tesla (TSLA) Recalls 14,575 Model Y SUVs Over Missing Weight Cer GuruFocus",
+      "publishedAt": "2026-05-22T14:27:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEk1eEZCX3BYMU5YY0Nzc0ZkcDVZLTRyTWFtM19OYmFQSDBFUURUcVhqcy1xdF9oa0poNjdiZ0xJOG9KODRkRlEweXhOcUdVNUdic0Vpd1JKamVwbllSVWliRkdpOFYtZ19xSExobHQyOXZGWERkN2Z6ZVRqOW9uR1Q3dG0wTXZ6QXpDay1RbjZSTkVNRGdBc1hMSEdoZDhFcjRuWnhtWDg2cDB6OXdoTC11eUIwaTkz?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "2a59758207fee0e8",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T14:03:29.000Z",
+      "url": "https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
+    },
+    {
+      "id": "276b7cc970321eb5",
+      "headline": "Tesla recalls thousands of Model Ys at risk of... missing a sticker - The Verge",
+      "excerpt": "Tesla recalls thousands of Model Ys at risk of... missing a sticker The Verge",
+      "publishedAt": "2026-05-22T14:03:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjE1dlJ5NF9PV21TM0xhSU1wWlR1cTR3aDJSdktJeW9QXzJZajIyYndaTk1wZ05wX3I1UEliRkxLc1NEYkxuNnVhS01yOVZObXU5aEkyVkhad1NYbzFCdG83TEM2aVVSRjAwcE9zeXhzYndidVpvR3REa3cwZE04V3IxZFltS1FEbG40?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "04161beb2daecff3",
+      "headline": "Waymo Suspends Freeway Rides After Robotaxis Flee From Police and Enter Flooded Roadways",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T14:02:00.000Z",
+      "url": "https://driveteslacanada.ca/news/waymo-freeway-service-suspended-safety-concerns/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=waymo-freeway-service-suspended-safety-concerns",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "72b7e222f6af353d",
+      "headline": "Chicks hatch from artificial egg as US company aims to revive extinct species - Reuters",
+      "excerpt": "Chicks hatch from artificial egg as US company aims to revive extinct species Reuters",
+      "publishedAt": "2026-05-22T13:32:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzVmTlBNRURKLU9oVndZTWc3ZzZvSlZJX2hJTklrUGlKQU1hWFJRNUJ6NWNNTXc5UlMyek1vSndsNU9LVFJhN1V3U3dTRzR2Q1FVRzVka0FfRFlvTnhsSjI5RERoM1V6dl9DcGhMOFRBdVBhb1FHTEY0OWVJd3RRR0o1d19JYThhTFRlX21EWm1GZHdBVkl2WTVWRl92dXZ4Um9UVi1DSEFZZ3BSNEg0?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "66931694fd71ca90",
+      "headline": "SpaceX bought hundreds of millions in Megapacks from Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-22T13:27:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-spacex-megapack-ai-partnership/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-spacex-megapack-ai-partnership",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "e8a2087b882e77ee",
       "headline": "Tesla recalls 14,575 Model Y SUVs over missing weight certification label - Yahoo Autos",
@@ -30,6 +138,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "44f6bc4f5d9bf20a",
+      "headline": "Xi hosted Trump, then Putin: Spot the differences in Beijing - Reuters",
+      "excerpt": "Xi hosted Trump, then Putin: Spot the differences in Beijing Reuters",
+      "publishedAt": "2026-05-22T10:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PME5pNHNGbEdJOEJZNGhIaXpsQ29tY2FNbUhFOUxfRWEtWkY1WmtLSjI4NlFhVlE5MkxfUDVWMEo5eHcwRHY1b3V4NWpzc2M0LUxHU0R6VDhFaElxNHM0X1dXQWpHV1djcVE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "0fb8721393ae1d89",
       "headline": "Tesla is recalling 14,575 Model Ys because they may be missing a sticker",
       "excerpt": "[object Object]",
@@ -46,6 +163,15 @@
       "url": "https://electrek.co/2026/05/22/tesla-is-recalling-14575-model-ys-because-they-may-be-missing-a-sticker/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "9e834e03e3362437",
+      "headline": "Tesla is recalling 14,575 Model Ys because they may be missing a sticker - Electrek",
+      "excerpt": "Tesla is recalling 14,575 Model Ys because they may be missing a sticker Electrek",
+      "publishedAt": "2026-05-22T09:55:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXNEUHIxNWhqNGEtUE5SdFZBT245Vy1ZOWNEcjZNNmF6MFVnMWpWNG43QmIyRkk3b3RMT1Y1aVhPS29ObjFkNWlsNmRZSmpoX1BEYzhWX2JvLXVjV0FnaG05UG5kclA1QURPakI4WV8xaHFiSXJaZ1RoWGx6dWMxSVBoUzdPYzVhWWk1b0hKdGlac09CczRkalh2WS1USHAxZElpNFJn?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "32f96c21c61552be",
@@ -282,6 +408,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "209acb225915bd5d",
+      "headline": "Stellantis unveils $70 billion strategy pivot under Filosa, with blitz of 60 new products - Reuters",
+      "excerpt": "Stellantis unveils $70 billion strategy pivot under Filosa, with blitz of 60 new products Reuters",
+      "publishedAt": "2026-05-21T20:55:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLTBnaTdQLTljM0xPVXV5d1RHTGFCR1A4QXlBT3Z2aVJCVHFiYjZHemo1aGJ5VlFpdWlxRURCd0ZTVFpMTmxQM0hWVFBVUjdBd1RERHVCTUZ5WjJtTnN3NXFUYjUxNjZBWnlFek1CeFF5NkFWYjEzYmhiSDcxMW93bk4yV0VhTG85aDI0c011cUdJTWI3MkhDelRtSFBES2dtMjNSY2NuUzlHdWVFYXBDR3NuZEt3Ulo2TUxlMk9kczU0Wlkta1d4YjBjdUVyWUhXODFKejJmeC0?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "165c617dccffa4af",
       "headline": "Rudolf Diesel, Inventor Of The Diesel Engine, Mysteriously Vanished In 1913 - Jalopnik",
       "excerpt": "Rudolf Diesel, Inventor Of The Diesel Engine, Mysteriously Vanished In 1913 Jalopnik",
@@ -336,6 +471,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "b0de8a684ff76ed6",
+      "headline": "Spotify cranks up AI push with Universal Music deal, lays out bold growth targets - Reuters",
+      "excerpt": "Spotify cranks up AI push with Universal Music deal, lays out bold growth targets Reuters",
+      "publishedAt": "2026-05-21T19:43:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHh0djRiMGwtYnVIdm0yZ0FWZzRUVDFkU01kZGk3TW4ybEZQU0txZVZMUzZKcUhRVFEwcWlrUno4eHBmWTZZWWVfZWg2MGJJOXNsdmpjZDd4OUFsUDM1ckF3MTY5cUp6dFFCdnNlLUJ6czZMUHFUZ3RfXzA4X1pWV1VsWlNjR2UzNTNTVXVQaFRiWDlaUzZMX21XOFZjOEUtNXQ2UlV0S2ZlcTRYR1FwX1gzYW91RjJGYVZXeUpuVGtCeTBycTdpZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "ff5b9710e255d1bc",
       "headline": "US to invest $2 billion in IBM, other quantum computing firms - Reuters",
       "excerpt": "US to invest $2 billion in IBM, other quantum computing firms Reuters",
@@ -343,6 +487,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVhYclhIYl9QU3VlMEl5ZjlMTVR3b2dBSEdrY1BRS1NSZFo4c3N0RXFtSHExR0FZa1QycDdBWHVtZDZ3eGdBZXF0ZVpYdkRxVFk5N2FzUzFhS2M0bndveUc3MGd5ZWdYTFUxQVpiS2VPdnpSYk94VnQ1MXVNMlk1alJVZFVpNm9veUpMbnFGN3lwTm1NbzJvSWp4MFFSTkE0MlROOWJ3WXdHQW9CNk9YbDVvYTVqOWZvNEE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "ec7a450a6b30d857",
+      "headline": "Police Seize Stolen Corvette After Pursuit, Driver Claims It's His And Steals It Back From Impound Lot - Jalopnik",
+      "excerpt": "Police Seize Stolen Corvette After Pursuit, Driver Claims It's His And Steals It Back From Impound Lot Jalopnik",
+      "publishedAt": "2026-05-21T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFl5VFh6Q2tMTklzSl9pcXFzSlRQd0F5U0xQd1UtUzZwSkZqRTNyS3VxbjRLMWlJbGxlTzR1ZWxmNGFPSGpIRFhpR0dkVkJPY1o1V0VqaWVUc21vM0p4aURxS0pDLU92REZjb0FzejZUZzVCcXo2cm5NbkcwZUdGMGE0WkZjZWFtTU5OcklhQlZkdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "58b2d26ff0aebc5a",
@@ -361,6 +514,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUhKckpmZWlyamE4cTJaMlUtMzZud1hBTEZOVlh5ckJVZmRlN0htMnAxbHotUW93QTZZMi1IWGpNMnptUFBkM2tsdlRjLXZmUjE0UzFreGRsS3QydEVPelEySmpGUlhnY2ZmWVJKZmdoRkYtOVNrUnloMzlQdXVXT0RxalFzUEJYX3hjY1F1NzlCekY4Y2pYeUcyd3V6b0tMazNxNGVhQ1jSAa4BQVVfeXFMUHBDdWdPWk90UFdiRU14LTBzRnNRa2dFUko4UG1Mam5mMmQwaE41aWx1MGdJVlBUZkFSSF9XSUt5dGdGWkpBbzhxMjRhdm5CWHlJakNiTGpucHZUN0J0UUxseEdfQ3Z6VnI4WDZYRC16S1EyWXp1a0RiRS00cXZ0dzdzNURmZHFZbzQ0dWQyVDBqdjhDdWRFWjJ5aUhEREduUjhIcmczT1lLaTVWd2Fn?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "09c3f1fa3b5b298f",
+      "headline": "Robin Flips Ford Dealer The Bird By Making Its Nest In A Sold F-250 - Jalopnik",
+      "excerpt": "Robin Flips Ford Dealer The Bird By Making Its Nest In A Sold F-250 Jalopnik",
+      "publishedAt": "2026-05-21T18:45:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTS1od0RzSmFzNG91UmZ3QlNKOG1DU251SXhrYUt0RjlzWkdLUFJnaWlyekFWdGkxZlVwVlBhOFNpXzJGMVJ0dlJITWNZSFZjSWhSSm1lMVM4OXFVQURBc3JtbDgxTmJhTEsxc3htdjh6ODZWbW00dVFJYzUzZERESTNFYm05RWtYMmRxMXdIMEJrUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "b0c2eb418cbdbd34",
@@ -406,6 +568,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2dXQjlZS05nVFA1QXBKNzdOTnplR1JKQWtWY1lKRnFnQXkzNnZnLWhmcUJyVW01clJHVndFdEFmTmN0T3BGeTFZQS1hUURrOGVkeWNwajlBa2JKejNKWDJPZU9PVTY1MG5jYWF1VjV4YUxYODNzNVR6S011ZG9SU2R5ZHFjZmtnNUFkY2N1S1hXV0tLZHRN?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ca210a6a4fd1e397",
+      "headline": "Trump administration pivots to buying stakes in critical sectors - Reuters",
+      "excerpt": "Trump administration pivots to buying stakes in critical sectors Reuters",
+      "publishedAt": "2026-05-21T17:39:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVVUcFZXSlFWTXhaQ1dYWXRRM3FucWhvbC1DcklRYWk0NU50REZyUUlSSTEwZlRSVzRuaU1MMHpYVzJyZEx1ak10MWN1SDBsQktYalNJZWt3UmZhTFNnN1RSaFNKZ3NkbXhZdjJpZ1g2OC1HaHRoa0F3Z00tMVVIMTA0OU5NbGFKSFpsUVdkWlFXaVN0VmlKd0NURkU0NTA3TVpXU2Y1SjZ4cjc3bndqbFgybjdrOWN4cEZONFNDQmZjemRtUmkxYTJkWHN1UEd3?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "ae3224fd4444e98a",
@@ -732,6 +903,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "0f73207b5a33a52b",
+      "headline": "Tesla Releases FSD Beta 11.3.1 to Employees; Addresses NHTSA's Concerns - Not a Tesla App",
+      "excerpt": "Tesla Releases FSD Beta 11.3.1 to Employees; Addresses NHTSA's Concerns Not a Tesla App",
+      "publishedAt": "2026-05-21T10:34:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnk5YVUzY2hDdVI4STJoUXdCdjVUcDJ2eHZZVUtpb3RqbDN1Ukl5WHp2dEN1bGM4eW9fQ0Vyb0lnd2dleG9QX0prX0J3Sk1Na0Z1Vm5WQnZURFFIWnd2dGc5ZlBMX1BaNlpxU3pyT01WYnFrRnRlLW9wbU1IeXVvaS1rMUxpcTZVX1E?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "9aa6296f0dee7e29",
       "headline": "Families weigh moves with gender-affirming care access under assault in US - Reuters",
       "excerpt": "Families weigh moves with gender-affirming care access under assault in US Reuters",
@@ -975,6 +1155,15 @@
       "sourceName": "Tesla Investor Relations"
     },
     {
+      "id": "302233e271fc0cc3",
+      "headline": "Elon Musk's X loses Australia child protection compliance lawsuit - Reuters",
+      "excerpt": "Elon Musk's X loses Australia child protection compliance lawsuit Reuters",
+      "publishedAt": "2026-05-20T23:34:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODIzS0ZzNllRR1BXckFzTTVVNzV6emd2ejdSNmphX3ZQY1ZhRFpnZmpyaW1MeFRVaDB3a1FxTmRleGVVcE9wdHh0V0pYXzBzajFfcGJBUnZFajU5emxfRi1ud25VYlFWY2dFYndPQlhkcFpyVmVuWEtYWDBfZElSOGJTc0FDaE9hR3NyQTRpNHFjNm9FaXBMZ0VKdnp6Q1NVTGNQUVRQUkFrTEg4ZGtja1VybUx4dmZzZUhvQ0FmVmc0U3Zp?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "344da4d1315198b2",
       "headline": "Is It Okay To Go Through The Car Wash With A Tonneau Cover On Your Truck? - Jalopnik",
       "excerpt": "Is It Okay To Go Through The Car Wash With A Tonneau Cover On Your Truck? Jalopnik",
@@ -1182,6 +1371,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "2a67b6377dc4fa07",
+      "headline": "US working with small biotech firm on experimental Ebola treatment, HHS official says - Reuters",
+      "excerpt": "US working with small biotech firm on experimental Ebola treatment, HHS official says Reuters",
+      "publishedAt": "2026-05-20T19:10:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWY2M3FDX2thd3JBaTFzdzcxV3UxajZaQUk0aDJQbkV6QWdhMU5sUWVMc0xRSXp4X1RGdWZSMy10bEI5Sy1ReWJFR2RMel8tU0cwYWlCZk1hckV3TnBqeWM5VWk5OHhhUmx5WUdLc2dQa3dJRjJrNEpnR24za3p5YVZaNzRCNEpScC02VnRERDBUOWZzRUFrWnZEQU1KRVRzX1JTYWlJeXZfQ18yOWZSdzBReDRtakp1QlQwRUYzLXphYlpMN3N4WlZxMA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "784dd839944b332c",
       "headline": "Tesla Deploys New ‘Quiet Charging Zone’ Feature at San Francisco Supercharger",
       "excerpt": "[object Object]",
@@ -1218,6 +1416,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "1c2bd50406de46bc",
+      "headline": "Ukraine to beef up northern defences over Russian offensive plans - Reuters",
+      "excerpt": "Ukraine to beef up northern defences over Russian offensive plans Reuters",
+      "publishedAt": "2026-05-20T17:43:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHJPT1RtbWNaV2JuTWJOUFNYalhoR3lPOHpScWMzYXd5RkhvTnhKaHhsd1lHVVRHTHN1di13SnVQNEtOT2h3bzc0ajRaUFlfV2phNFRjOVRwY214cEpUMnk1RDZPdlpHSGJfS29WNGtUV0llU0xKNjY5S2ZONGJJS0tPWEE4RHp0WDRmdEhyTUZTN3V3Q255eEg0OWxFSVpuMXlXdlFKbUNmOFh1cW5pcmFaeElWVWRtYTB0TzNxVjFDWlE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "a9dc9a441ebbaaa2",
       "headline": "Tesla scales back driver monitoring with latest Full Self-Driving release",
       "excerpt": "[object Object]",
@@ -1225,6 +1432,15 @@
       "url": "https://www.teslarati.com/tesla-scales-back-driver-monitoring-latest-full-self-driving-release/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "bfdf40ba58872086",
+      "headline": "Court won't block Rhode Island hospital from releasing transgender care records to Texas judge - Reuters",
+      "excerpt": "Court won't block Rhode Island hospital from releasing transgender care records to Texas judge Reuters",
+      "publishedAt": "2026-05-20T17:13:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnlXZDZiRzNJY29SSHFqdTJ1ZU1MRjZEQ1ZKWHFJMW55eGkzUmkyUkZIZ0I2dTlodnlRZnlfcTV6WC1Pak52d3BNb0l5elJ6SmZfUUpQYjJVdkt5TVloZDlxaVVrbTRSQXR3bnZVMC1qOEJNSmdMTVNqMzZEdXVzMURNbUFFWVF5SW9pVGNid19zZFRaVXRBbGFfcFM3Ym80U1NlVWdsbW5SWGoyX01BNTJqTDAwTFRDYkNNY3lPal9CUmp4LXlRWW15MWY?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "afa258fe14b12650",
@@ -1549,6 +1765,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVJqc0dMMGxHSjRUNUpra0UxSFdlSjEtTFJMZElGdG5QOGN6NXZTS0xsODU3blpJZ1h1ZzktQ0lqNUkyS0tOZWdrTXQ3ZnJWa2t2Z2xrVHcwbk9mRUJQLUZSclFfeUFvQVM0ejBmd01HdzRDT0hpZWR2WmJ0UWJoRlpTY9IBiAFBVV95cUxNRWZyWHlzcHU5djR4cWxvMlVDZERYb3VGMzltcUlkQ0hKNG5WMktYUnVYZ0YxTGlrMmFpeGRwSkNSanZjVmhvQkZROFN1Mm1iUVVNNk92b3kwSENpZS1Eb3g5MGpvOXpORE9UVTFvQ0drQ2U4THM2THlEaGlybzlyM1JsR0NDMUxo?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "d4317c5cf6967bd2",
+      "headline": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery - Reuters",
+      "excerpt": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery Reuters",
+      "publishedAt": "2026-05-20T11:51:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWdsQkU0QVJWQTRMYTdTWk1RMzlPaG9rZmZLNjZRZ185aFdoRy1oR2JwMzFQb0gtdGJIUVBwM3BrZlFnVkQyN0N0aDAyMUF6OUNLTFM0Zm00ZFRaeUp2WVFUaHlFZUhVSC1lMGJUTGhvVzFaMEJmdm1rUFYyempCWWxIYTRZNk10U0lfQ1JDQWRYQzdRc3puYU8yd0NqZVVNVWdKR3VKanktS0g4NUhXeTE2WVViM0twRWdRVDNXNWsyUQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "ef54d87edd69ebc9",
@@ -2100,6 +2325,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "f4ffc73af9d80b7d",
+      "headline": "Lawyer barred from Harvard morgue scandal case over fake AI citations - Reuters",
+      "excerpt": "Lawyer barred from Harvard morgue scandal case over fake AI citations Reuters",
+      "publishedAt": "2026-05-19T16:14:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkNUeEdiTWUzZU9sR1F3WjBQalN4czhxbTc2WTQ5Z0NBcnAtSklxU21NZEdEbE12MlNPVkhUOGVLV3ZXbXBRM2ZKeFlqZzNONnRxaVdmWGdOaTVMcHNMZlJjVFFLQkYxQW0wTmI1cUNaS1dYX0V5NXE1bWVKc3gwV2tVNFBjWnJxdUFEUW4yS1Z4U2RXb01RaXg0dTFfSnJMam44X2YybWZURjVWbnJDSWp6a0htZEFa?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "63958a88d9349afa",
       "headline": "Ford Takes The Bronco Upmarket By Teaming Up With Bougie Outdoor Brand Filson - Jalopnik",
       "excerpt": "Ford Takes The Bronco Upmarket By Teaming Up With Bougie Outdoor Brand Filson Jalopnik",
@@ -2550,6 +2784,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "cf4903236452435d",
+      "headline": "At least six killed in southwest China after truck falls into river in heavy rain - Reuters",
+      "excerpt": "At least six killed in southwest China after truck falls into river in heavy rain Reuters",
+      "publishedAt": "2026-05-19T09:35:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTFJQQUxuTzBSTk1YVElUT0J6YUJLTkxyMkdRb1hhR3Y1eHpMU0NtOVZydUdvUzc5ak4wTkh3TjFpWXNTdDNoaHkwTU1JR2JXaTlsMjZEYWppZ0lhc3hCekR0b08tMU1fVmdNMkZsdGFENG5oN3F1N2M3ckhNa0tmakxRTlczSVphS1B0UmtoNV9ZWUlLa3lGb28tYUZSX0p4QXpRdA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "5f2329b2e6599990",
       "headline": "Tanker delivers Russian LNG to China after almost six months at sea, data shows - Reuters",
       "excerpt": "Tanker delivers Russian LNG to China after almost six months at sea, data shows Reuters",
@@ -2784,6 +3027,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "52542bcee97df7f9",
+      "headline": "US health department withdraws vaccine advisory panel charter - Reuters",
+      "excerpt": "US health department withdraws vaccine advisory panel charter Reuters",
+      "publishedAt": "2026-05-18T23:50:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVZQZHF6cC01dlJkNGViRGdQY0FpUTIzNVJEMW5mQkVKc3pkZWdBWjI0dGQyS1V4M1VUdEFWZEJTS09neWVGbERRM1oyemNvVGd6Uy1aZ0RjWHFidmlaOWp3dWxReldTTWpRMmRGYjFCQ0F2Z29NYV8ydVJQWHVvUlBHLV9lbk1mWGo0MHN6dno1b3pHSUxYQWZTY3g3Sm1iakNpWkpMVlhqbWNzeTJJYmtkQXo?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "5e755a0db4c703c8",
       "headline": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting - CNBC",
       "excerpt": "CNBC's The China Connection newsletter: Three major shifts from the Trump-Xi meeting CNBC",
@@ -2861,6 +3113,24 @@
       "excerpt": "Adult dies of hantavirus in Colorado, state health officials say Reuters",
       "publishedAt": "2026-05-18T21:55:26.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXgtUFRRbWl0VTRLaGRicXc2R2ttdFo4ZlNxaUtaNm5zVlJiWmdEd1JEbVpVLTRaaFFvdGtfUEhDS0hiSEdEWlNhS0tWd0hmSUZZRU0wdTJNcmFuamkxQVZVanZ5TFFXaUUyWDVMb1V1bGZZZTFMRnNQREpGV1dSbVBpT2tiT2NaUXdZbjQwdFRYZG9aZzRONE1OLUNhaGNEVUcyeEl3OEdreE9HN0MtN0ZpcTh3UEtKajF1czctWGJ6NHFUUWZvMQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "4f80ebc27dd7f681",
+      "headline": "Bayer agrees to pay $133 million for PCB cleanup in two states - Reuters",
+      "excerpt": "Bayer agrees to pay $133 million for PCB cleanup in two states Reuters",
+      "publishedAt": "2026-05-18T21:19:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk4tRkdQZmlWNG53emVqWDRxVC14Z243bEk0akp4SXhuc0RySWU1NmNaVy1uVFNPcEpYQzNxYkNPVlBieUQyS2RGamZhbGpVLWJ5LS1oZ1lHM2k0VlpOS3NOSzBranBmdml0bzdQTGszWHBMSVpwaEh0N2FaR3puZV81OXAxSWhCc2FtT2RMYmppV0RDVUdDdjljdXVrRlduRy1NTmhjOA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "e7f46017aa0d3f22",
+      "headline": "Judge denies accused CEO killer Mangione's bid to toss gun, notebook evidence - Reuters",
+      "excerpt": "Judge denies accused CEO killer Mangione's bid to toss gun, notebook evidence Reuters",
+      "publishedAt": "2026-05-18T21:15:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjlEUng5T2tmZE5oNm9oRXJoakc1VUlPVTRpdGNsNGRPM3FoWTJBc1l2ZkdiYkVtZlVESGxBLWFOQXg5R3RYdi1RbERYYXBUX19CQTBVWmktR2FKazVPX05LajVZR3MxUWF0ZDFJVEZEVkVQd1ZfQ1c4UF9VaVNmUWd1eExoVDRGblptTlRuSW9UbTF0TXBxUlVNV3F2dHJLcVByTnpsMnpxdmxWMUtLRzVXc0w0RGVZcTZF?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -3203,6 +3473,15 @@
       "excerpt": "CDC says one American tested positive for Ebola in DRC Reuters",
       "publishedAt": "2026-05-18T15:38:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkI1bV93cDhPa3JEU3JyQ3dFWWw5cnAyZ21VYkdxdTNVelJuRVEyU0lSdTFnbFZmck1IV0ZJcDZRZFNCUmt2ZlEzOXNyRmJKcVlWRmx5cjZJMG90aC13MHJzNkVPV2tFWlRlNks5ai1QbmRHdVJQSzlnc1F4bWpGYklsZmxKdV9rUWdxZndSNDhRZXhZdlczeTJvYTh1X2JXeWZfVERxdWUxMWxybHNrcjBvWmZhd3JEaTRHNi15aXJDSXc3cThGWEZB?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "38d3cff89c936f6e",
+      "headline": "US states reject anti-vaccine bills as public health groups fight MAHA - Reuters",
+      "excerpt": "US states reject anti-vaccine bills as public health groups fight MAHA Reuters",
+      "publishedAt": "2026-05-18T15:26:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2ZtVmtsbUw1bVZDNkFPVUpXVEMycFJoa1kxdXBYSW1RanBYQkFCaWhyd2RCajJWcV81MDFTQjJ1ZXZ4dThNZHFKNE1adFpKNXhZNkszNFhYUWd4TnNCMWZUSkc3dXRBY0VLT0RnZk9Wbzhnd2lxV2d1Z1RVS3ZFOGNlRkVPVU9pa0d4R053OUUtZmVhalFidFRzdVlpVmFkTGY1d2JzQVR4a1g1bGtRMEhmcC1WbkVIb09LZw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -3738,6 +4017,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "09277c6f6bc2d013",
+      "headline": "Trump administration expects to strip hundreds at US health agencies of job protections - Reuters",
+      "excerpt": "Trump administration expects to strip hundreds at US health agencies of job protections Reuters",
+      "publishedAt": "2026-05-17T20:39:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHppaGJjWVZseVJNaHFRNFQxNWdoaXVMcTJQaldnNXBGbVZVZV9oOFpFcF8xaTlLcWlLYjVidWxMUlRUV1V6SFdXOHlQd2drY2dCMl9HUElOSnJLT0ZZa0c0ZU8ycktZZXVTenJ0UUNxRklRanBXZ0pvMjJtUXZxZ2dHOVBkSkVzRUd3T09hdUZkdFhobG1KTDVXeGNSV3VIVEZRZ2xoVlowd1RQTnRzeEloT2lNSkE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "c6ec50d96154cb70",
       "headline": "Mountain Home Air Force Base investigating aircraft collision in Idaho - Reuters",
       "excerpt": "Mountain Home Air Force Base investigating aircraft collision in Idaho Reuters",
@@ -4076,6 +4364,15 @@
       "excerpt": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports Reuters",
       "publishedAt": "2026-05-16T17:18:26.000Z",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLUVKcGZ2eWREVzY2eEFuckJSMjB2dWNIeGVFSzRNd0VKQU5qcklYb2Zyb1dIYnRVMTN1TDdtZFRiXzJyR3g5NHp6UmRYbmMwVU1JcE9JRnNSUU4wSHBGekc3RENFSjVOakFjLWJ6NzBBSE5yalFHU0x5aEl6eVpNSjZtaFZmaFFpUDBiLVdSZkQtaWhWak40UTl0Rk5PckVwbTRJbERJMFdfaXRTSzJMYmxwMU55Uk9fOE05d2VlVndzSm9RbmNXWS1lM25FdTZMSzBicFhhaXBEVThp?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "4371b038e81ff4d2",
+      "headline": "FDA drug center head fired after commissioner's exit, replaced by Davis - Reuters",
+      "excerpt": "FDA drug center head fired after commissioner's exit, replaced by Davis Reuters",
+      "publishedAt": "2026-05-16T17:13:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjdEQXZ0d1VBLTF3ZTZzSEtVemI3NkNlbmZETzd1R1g3dkpKT3F3X0N4ZGlPSFpMRDBTT2tkUU5ZclNjRVRIYUhaS19QdWhyaFdHbFJTeWwtVkd0d2RVeE5WZXUzNVNEbTVhU3lOa2FFTV94ck1QX2Y2MlRtUjlrUHVvMmJ1UWc1OHlZZFc3RnBNMzNZS1dJN28yQ1kyOUVJcWk2czU0MA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -4438,6 +4735,15 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3MzMVpOeWlndUdyWFJ4VUE4N21NRHRWdXMzZnVvNGhjb0t1bmwxYUlOckpoYmdvWXlIdlpld0VWNUcwVjJnVXJva0FEVmZRMkxsOGpDUnFQWE5VN3QtSFExR2xWVmJOYmQ4VXJTUXJwWFFXQU56ZHJjWVhVekRUME95a0FxT2x4XzlYTUJ3eHFPN1Zm?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "afc14a6a49f42498",
+      "headline": "NHTSA is asking Tesla for more information after 'phantom braking' complaints - Not a Tesla App",
+      "excerpt": "NHTSA is asking Tesla for more information after 'phantom braking' complaints Not a Tesla App",
+      "publishedAt": "2026-05-15T21:00:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUZKTU0zaWRZNVVNQ29yZkpSRGc2OHNhOEpqRHktT0lrSDRtNzFGMmE5TXd6NnhYNHcyUjY4djRnZ3lhQ1BxOExIWkpZRC1pemFrOU4xLWpoWFFXTkY0bWx5Smd6NkN4TTdtNWlaSHhsVndqWHpxeDFtZnB6elViSlFyb1dSMjdnWFZVd2U2LV9EdURQb1M5clptdUpaN0t3LU9EbXRZN1NEMkFTOGw3RExUS1RCeHJ0eXc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "2fe9d5c6e180180a",
@@ -5628,6 +5934,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "9e8790f381140b9f",
+      "headline": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit - Reuters",
+      "excerpt": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit Reuters",
+      "publishedAt": "2026-05-14T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckQtRG1PRWF5M3ZYU2dGb043NXpaSmd3UWt3cmdyeFJKc0J1aWRCbGVPbXZuYV9HUm9LSlhZQ2pRNUNSRlItS21YVC1xcWVMSDFncTRXRmFVN1Bhb2wyLWZIVjgzZTRTaGFVMW5reEtWN2gzRXlCWlB2TG55dWtqaGxMdjRsZjMtWUZLSWNiRmtIWGVpTlFXeFc3T3U3ZjVnLUFfZDV1YUhNY1UwT0dBaHlOamhLRzcyQVJjbg?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "cebf0c52a695d4c5",
       "headline": "Tesla’s robotaxi rollout features Texas-sized wait times - Reuters",
       "excerpt": "Tesla’s robotaxi rollout features Texas-sized wait times Reuters",
@@ -6040,6 +6355,15 @@
       "url": "https://www.electrive.com/2026/05/13/tesla-expands-grunheide-battery-cell-plans-to-18-gwh-annually/",
       "sourceId": "electrive",
       "sourceName": "Electrive"
+    },
+    {
+      "id": "a1482947783bf7ae",
+      "headline": "Walmart cuts 1,000 roles to simplify operations, source says - Reuters",
+      "excerpt": "Walmart cuts 1,000 roles to simplify operations, source says Reuters",
+      "publishedAt": "2026-05-13T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTDZCSzAwM3Z3bkc4VEgzcUxpUi1ieExFaUxLdm5jNHhTS3RxYXR1SUxQNUVBa1l6OE1Sc0lTS0p0R2JoTkl4X3p2aEI1NHB0SHNXVGpsWFFFSHhXazFzR0lDLWVoNG1URHFUcGFhYTRYSEt0akc2Mjd3Y3dCaklacW9OUHNYX1YtQmlFalB1d2R4eGQxa1JKNjVQOVBUUU5nN3gxajJYVEh6RWJRa2hKckZraEh2eWhKZnNPZVpIOFY?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "010e2c9748d9b7b3",
@@ -10038,6 +10362,15 @@
       "sourceName": "Electrek"
     },
     {
+      "id": "c1e4c4233bdfa563",
+      "headline": "Exclusive: Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say - Reuters",
+      "excerpt": "Exclusive: Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say Reuters",
+      "publishedAt": "2026-03-20T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQTExWU5Yek11R243dDlXTmh5Ti1VOFVXM2VIb184WHpvTlNzSGxQeHRQVDNGa2JtZUk3TGtULXgwQzBRbFFaTV9DR2VNNWk3MWptdEpDTHlRRkFyd2piYkdYMUh4MFdhU1pqM2l5LTB1TFBqUlRhSDVxVlFpWWpyM0pTRWJFajNtb1kyV2FGbjdIOXhBLUNFTWFuZjFFbDM0RlA3dTdqZWE1cDlUZXZaZUFid29JRVhROTNUVzhZcnNpT19GN2JneDRqd3NNbFJfR0RFY240QVo?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
+    {
       "id": "3078afd7f7abee6c",
       "headline": "NHTSA denies 2023 petition seeking recall of all Teslas over unintended acceleration - driveteslacanada.ca",
       "excerpt": "NHTSA denies 2023 petition seeking recall of all Teslas over unintended acceleration driveteslacanada.ca",
@@ -11595,6 +11928,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "6cd8192eaf62d2cb",
+      "headline": "Tesla (NASDAQ: TSLA) sets delivery and storage records; revenue $28.1B, FCF $3.99B - Stock Titan",
+      "excerpt": "Tesla (NASDAQ: TSLA) sets delivery and storage records; revenue $28.1B, FCF $3.99B Stock Titan",
+      "publishedAt": "2025-10-22T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWVZcFpmSTh4SjRtbHdjNmlVb3NmOXdwVU1fWGlRbS1lTTRTWEFXT2xDT0M4M2NMZTc2Zmw0V2JJLURwaW5uUWVIVldFeDJ5RHJHR2pSU2RoRUZHcXpXOGI2THBvWTlBMEhOUmJVWGx0dU5SbXBpMDlJWVBhR3pzb3dCSUgyNkZwY3FNdTlxT25LZ3pKS2RWZU5tWGhjMDg?oc=5",
+      "sourceId": "tesla-press",
+      "sourceName": "Tesla Press Releases"
+    },
+    {
       "id": "3a6f5d611d6c8578",
       "headline": "Major Unions, Progressive Groups Launch Public Accountability Campaign Targeting Tesla Over Musk Pay - AFT - American Federation of Teachers",
       "excerpt": "Major Unions, Progressive Groups Launch Public Accountability Campaign Targeting Tesla Over Musk Pay AFT - American Federation of Teachers",
@@ -12639,6 +12981,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "09ed1c2cddaffa74",
+      "headline": "Can Tesla Brake Pads Really Last 100k Miles? - Jalopnik",
+      "excerpt": "Can Tesla Brake Pads Really Last 100k Miles? Jalopnik",
+      "publishedAt": "2025-06-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94bnltbFR6dkxzZkh6R2JGSkRZSEdXc1FRSkxBVUZvYkJNcDI5WnBkZldQSjlLdVVweHBZMS1venlBTFl6aWdQMTBUX1MwTzJlcmJzWHA3VlRpWDlPTTRTOVdENm9Wb1liUjdFb3BXU3o3czcwQkFMbDdB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "4b65899080efe62a",
       "headline": "Musk's White House exit refocuses questions about Tesla, other businesses - Reuters",
       "excerpt": "Musk's White House exit refocuses questions about Tesla, other businesses Reuters",
@@ -13546,6 +13897,15 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlFNdjZhQ0ZXekF3T3YyeV9qcVVlb0tKQjQ2NFotb05jc1ZycElmbjh2V3NJUml4R1FQUVNqOTJ4ZWJVOUFUX3RjSXVITWRkRzBwMjk1bVF3TmZsUXlsdWtCaE1rREN3bjlhSXJqRlktakd0dDRkZmlOS1g3WlBjcmU2M0FjZEZiek9oMjVlcGxlNUNfMG5PZUJLV21GVjhjenFrQ2dsZzBYWldkMlNWTkxwdGxaSGlod1poT2dB?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "506bc18153bf17da",
+      "headline": "You Can Already Buy A Tesla For $25,000, They're Just Used - Jalopnik",
+      "excerpt": "You Can Already Buy A Tesla For $25,000, They're Just Used Jalopnik",
+      "publishedAt": "2024-04-25T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEc0N2xqQW9iRVYzWERmdmVDcldnVHN4YndmQU1IRzRRLS1iMG1lYTRuVUhfN3FUMHB5emtDcGlJRDNxdXMycTV4cU9aQXN2ZkM2V0dSY1AzNC1DSFBESmh1dmZkSVVuOEZvTDdPMmduZ3h5RXkwYVVKT0QyQTFvcjM3aXpLcm45ZVQwTU1CUzRwemw4?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "48f2431975faea6a",
@@ -14871,6 +15231,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "ef43bef653db0cdb",
+      "headline": "The First Tesla Could Have Been An Electric Scion xB - Jalopnik",
+      "excerpt": "The First Tesla Could Have Been An Electric Scion xB Jalopnik",
+      "publishedAt": "2021-04-07T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMndkYUhHQklmbE1aOWRZbE9oVGljXzNHUGVRai1KUzFXM2RUMVBUWlBMMXR4M3lFd3FVUGtuV3JGTUFBQk9mdmpCQjZweXBwR0FDTU13SmViNXpyakhPcDgwN3hjTVJwclVXWVNhaGlkeGtTQjVfUGlHM2dZT0ZzaVNpdjBNMXFCRGs3SXJONlhGNW8?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "f2f11eb5ea5a2ece",
       "headline": "Tesla delivered 184,800 vehicles in the first quarter of 2021, Model S and X production dropped to zero - CNBC",
       "excerpt": "Tesla delivered 184,800 vehicles in the first quarter of 2021, Model S and X production dropped to zero CNBC",
@@ -15290,6 +15659,15 @@
       "excerpt": "All The Big Claims Elon Musk Made About Tesla's Autonomous Driving Plans Jalopnik",
       "publishedAt": "2019-04-23T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc19CYWdDOU1Kbm5oS0pzM2hzYjJnY0RTSW5BbU9NRVkwR3JxVWxBNmd6aWkxQnhfdVJhb3JjTGt2WUZzcDhJeGp1aV9haHVIT1d0LWUtQ3pTZjFxZWlBSnJzTk1aQ2JuSm84Mk1ESlBYRTZvQnNHWmQ3V2lKSFB3bC11MU9reUpZMU1vUlpvclVsbHE2bmlJ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "fe99aba4ce19739b",
+      "headline": "We Dug Into A Tesla Model 3 And Chevy Bolt To Learn Their Secrets - Jalopnik",
+      "excerpt": "We Dug Into A Tesla Model 3 And Chevy Bolt To Learn Their Secrets Jalopnik",
+      "publishedAt": "2019-04-03T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUVuWnNoeHlReUIyMjd4YThwdDNHSHMyWVo2MDc3TXdNNC1nYk01SFQxTzU2ZnpsQnhiQzFyVnZmRTNLVThFSWpjbmtJalhNdWRSLVM0VmYtMC1qRDZ5eEtob1gwZExvcVZVZVpRclNMQ3pRcGJFc1pSR2p5aU94STBqOFZWMFdGbEFsbEhqUFZTNVRoa2c?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
