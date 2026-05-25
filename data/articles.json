@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-05-25T05:04:11.392Z",
-  "totalArticles": 2152,
+  "lastUpdated": "2026-05-25T09:11:13.751Z",
+  "totalArticles": 2167,
   "articles": [
+    {
+      "id": "211b06a720ac0c97",
+      "headline": "Lo strano caso della Tesla che scatta e ricarica sempre più piano",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-25T07:35:00.000Z",
+      "url": "https://insideevs.it/news/796823/tesla-model-3-canada-accelerazione-ricarica/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
     {
       "id": "4daf13ee2eef9770",
       "headline": "These Are The Only New Diesel-Powered Trucks And SUVs Available In America Right Now - Jalopnik",
@@ -89,6 +98,15 @@
       "excerpt": "Here's How Much A 2021 BMW M4 Has Depreciated In 5 Years Jalopnik",
       "publishedAt": "2026-05-24T14:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNmRCZUhwYnExSWdSVV8xRFdNZmduN3l6NGtGRnZWbHJyUzNOVVpKWngyUFM5WElieHJ5LUNUd1JENk9uUVJfRHJpdW5YQUEtd1prLUxzV2t6UXNoVWxxcWpnbmZqWXlxTk9nTTYtMjZMeTg?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "99c0162f2c389112",
+      "headline": "What Games Do You Play On Road Trips? - Jalopnik",
+      "excerpt": "What Games Do You Play On Road Trips? Jalopnik",
+      "publishedAt": "2026-05-24T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81NFoyX2NPa3NvOTlwbGJobzJCS2oyaDFpUUZOTDhqZ1FRSzk4N2Y0SVZ2NFVVTE9mYkhiTm4zczVwQVpuamZvc3JCVXh4cmNTZ0hPVFl3aDhnU2EwdHhWNjNvVzRIZkgtaU90LUJJMU1DRDg?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -847,6 +865,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenNSQ3lkUEFPV0xCNXZOVndlLUtfNnJwY0ZwMkZNVEF0TGJuT1lxcW9XWDRmeTV0QjZFWUVCb3BXZkNaaDZqNUs4MW9TY0Z4cWQ3RUJfblNDUjdQUUtiTnJVR0UzeEdZUGtBVDZtQkNPdkpPdGVvaWEyYmtJbWpzWGVzWTRBLUxRdUpjWkd0SjAwQQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "5d097f880ca0c62b",
+      "headline": "This generator stock will get a boost from the AI infrastructure boom, says Jefferies - CNBC",
+      "excerpt": "This generator stock will get a boost from the AI infrastructure boom, says Jefferies CNBC",
+      "publishedAt": "2026-05-22T12:03:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGIwUkVfTlB2T1NDZC11WHpXMUVLeklvOGN3Q1cxakQ1QWlGZXFNcS1UVk1SU0NaQmxjM0ZfM25qVno2TFFHbXdPWmZlSTJyY2U5ZHM1d01xNV9CM3VHTGlsT3BsRGxkNFVOZndIblFkZFo1THR5M2l0eDViblJ5TkxLZEpKVUpGZFkzQUdJLUlkQ3NKa05XeU45QlZVSm5hQW1weHdfOUVXb2J1dV8zbnRSaFlPR1ZXa3JYVDVn?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "e8a2087b882e77ee",
@@ -8164,6 +8191,15 @@
       "url": "https://electrek.co/2026/05/11/tesla-china-retail-sales-decline-april-2026-wholesale-misleading/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
+    },
+    {
+      "id": "6338a9073338f930",
+      "headline": "GM advances safety tech to lower crashes, UAW halts strike vote, Tesla Model Y passes NHTSA tests - CBT News",
+      "excerpt": "GM advances safety tech to lower crashes, UAW halts strike vote, Tesla Model Y passes NHTSA tests CBT News",
+      "publishedAt": "2026-05-11T13:00:54.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85c2pOZFBOcS1STG1Sa3dPdFpieW5Bbl9aRklRcnFocW9FTGMxVjZ2S09FMVp1NFBRUnJrQ1FmdU5KbmtzTFBRUlN3MmFHRkFWTmxUbTAzRWxVVWZodm5EWEJ0ekttN3FVUWZSdg?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "913f877d7b025ef2",
@@ -15816,6 +15852,15 @@
       "sourceName": "Tesla Investor Relations"
     },
     {
+      "id": "6990cfbb0ae70d01",
+      "headline": "Tesla slashes price of its premium driver assistance option by half in U.S. - CNBC",
+      "excerpt": "Tesla slashes price of its premium driver assistance option by half in U.S. CNBC",
+      "publishedAt": "2024-04-12T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXNOSHVwUzVpT1BNUm1Cc1FfWFFYeS1HWnNVeGFHa204bXI2cmNsNERqMVMtQ1V2SXZKNmF0YUhVQmZzWlVTWmxkSllrM19yMU9nVVNOdUk0TFZFandCMGFiU3RfMVpOenNJSXlnZnhQYW0wYk5IZmFPNWtabmR3UXpqd1NDRldXY3pCbFJJTzQyWHpWUWRJVTh6Z3Fna0RJRHpOOUx2UdIBrAFBVV95cUxNT0NBSk1zQVR3N19TT3hGdDVtSzZvVkQ5V1V1TGd4b3IyakdnZlVEdzJlbUpNZ191QXhBMnhGQXN6d0ZUZ3FGODdFelpVLTFoWHRteS1nLTFLY1VOZTF2WnMxNUJjZEk5cXYydHh4S1BKT2JKT2lyekktX1JFOHRvaXBDWl9sUUpkT3QtYVJFR0lWN1Q1NDZzbGpyb3RyOUt6ZXlMcE4zMnJqUUJ1?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "908e7a5f1cb42b48",
       "headline": "These Graphs Show How Much Tesla Is Struggling To Sell Cars Right Now - InsideEVs",
       "excerpt": "These Graphs Show How Much Tesla Is Struggling To Sell Cars Right Now InsideEVs",
@@ -15904,6 +15949,15 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOF9iZ3psb1hDWG9FYjhQMmh1QjNPU1VwRTJaSHZudWV6dUhLMVpRYk5oOXo3amtrT0ZwdzBDWkQ4UmZKT2ZycTZaMi1BX0RoNHBqcGFpajl3YTd4WUpEVlpESTc0b0EwM2FfQklYNmRVNEVIVFpNcmNFRlozbWZmSVRtODVhb0d0VjY0Mkc2cnlsNTdZNkE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "8bb3d2fb0780159f",
+      "headline": "GM hires ex-Tesla, Google exec to replace retiring head of manufacturing - CNBC",
+      "excerpt": "GM hires ex-Tesla, Google exec to replace retiring head of manufacturing CNBC",
+      "publishedAt": "2024-03-12T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWJmcEJ6VlotTFd2eDlXOTVvMmFBNEZkcFIyaFY3NVRaVy1WWEozd3pvUGVWNGdiNVF0WUFiVXFwVDcwb241cC1FVjJIaXhKTUlZaVcwMGw0MWhQNHd2Z2ZORzRxWHBydWdRODRabWhEdjh2N2RUQkVKVjBTQ3lLV0M3cU9sVzI5TUxEXzRYNmhPUdIBlwFBVV95cUxPajJaV2x5WlhpTGR0ZlNrUHdiWW9uZ3NubWdyWVlNRTE0cjFIU1BTZWx1amtjZ0pjekJPSXAxQTNpVDNoZWUwQklITk00S3JGUW9IQW5QbmNfRTR1NjFSZFFucmNaeXdpTkhDVzdXVDV3Ul96Tk9JZ05fbWd5b01nemwyVUJPOUE3ZXEyMEFEUFJkR1ZsM0hR?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "06637b6c4a6c5033",
@@ -16363,6 +16417,15 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWE94UFkwT1EwTGRGQTBMYV9KYlU5Y3hjNzB3aFczTU83NlRTZTVGUnJsNk52a3JnQjJlMUJUalByMkpuZDBJQWlDT3pjYTY0T0Y1REFEaWR6c2ZDeUNFMGZleHFrTkR2bFgzLTFfdjMyemxoY3prcg?oc=5",
       "sourceId": "tesla-deliveries",
       "sourceName": "Tesla Production & Deliveries"
+    },
+    {
+      "id": "70a0414152f40e72",
+      "headline": "Dan O'Dowd on Tesla full self-driving: This software has 'horrendous safety defects' - CNBC",
+      "excerpt": "Dan O'Dowd on Tesla full self-driving: This software has 'horrendous safety defects' CNBC",
+      "publishedAt": "2023-06-29T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREh3Tm1GWEpMeXhCWEdicEpHRWZBU0YzdnlnWi1rczRfd1N4TVVtd3lBZ0wyWFBvTXl2VEhhNjFMMGl2OGFDaENZWGNkeEc5RUZJU0hKdHR5U1NJcjBmT2dfT1BUZUE4TTFEUXRvem5tMnNJX3lsa2pkcVdpNnVaWDVpU1FLVWVpNVpWcDI0MUhYTTNYMGw5b3RySzhJdnIyT0FaT1Q3MTl6WGFYSElpc3NzUzExRzNKUVlwdHlnbUc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "4b0a32dd13bdebc9",
@@ -17373,6 +17436,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "6f40841785e80a44",
+      "headline": "Elon Musk picked a Twitter fight with Bernie Sanders over tax policy - CNBC",
+      "excerpt": "Elon Musk picked a Twitter fight with Bernie Sanders over tax policy CNBC",
+      "publishedAt": "2021-11-15T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUhrVUN5MnE3aTBkLUdZNVlEekpEdDRlV29zZGJJaTFtaC1iWEJhQi1Ra2lFNzk4UU1YaTdOY1FGTWFnWGFLTDVuNzllMVY5c2hKN3JmalE5MHp1Mi1ETDkydjc5ei13eWdydm9DQjc5SUxvU3cxbDEydmtZSHJxWEd1b0NkQ1lGNGFUNlBCV2pWZVlJWllrOWNBS1BKOVNYVmdSSHBYQ2vSAa4BQVVfeXFMTnJHVjQzVzMwSV9uM0FWR2xNem9tRHRmX0kzRjlWU2FGdkpQNGRnT0FJZ09Lc0xKbFM4Y044bS1rTzJoN1U3emViZ2VZeDBvMkFCdGNrOTVxZlBBR3lOcGxBYjFoNUhyV04xd3YxZDBSWnc0U1F1NHZYUHJraDBZQ0lPQlQ1dVd1TWRxdlBKYlZYT3U1NzBqcll6N3lRWDhwTjV1UGh3YW1MMkZrR2NR?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "c813d50e494ef8ae",
       "headline": "Elon Musk sold about $6.9 billion in Tesla stock this week - CNBC",
       "excerpt": "Elon Musk sold about $6.9 billion in Tesla stock this week CNBC",
@@ -17524,6 +17596,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UR0llNzE5Q3d5WkdyYlBFZEQ2TGhKTjFkcWVZWnRIdTdfTFNKMV9PVjN5N1hRdG5TUGdicnU5UEdPZUtxSUtDeldJbTZ1QnVXQmpKTk4wLWZ0Vld6LTlPOTN5Vk44Nnc?oc=5",
       "sourceId": "tesla-blog",
       "sourceName": "Tesla Blog"
+    },
+    {
+      "id": "33022abbde63c27f",
+      "headline": "Onetime big Tesla bull Chamath Palihapitiya says he sold his position - CNBC",
+      "excerpt": "Onetime big Tesla bull Chamath Palihapitiya says he sold his position CNBC",
+      "publishedAt": "2021-09-29T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjUtWEF5UVVlcEFmNGpqdWZuRE5kUkpJWDJoMzZfdEYyRlZvcXMtLVFXaUxWVDRUZ1Nnd0d0em5QblZ4amNsOGw3NlczZU9vejFiQlF4bVhnQ2F6bms2WnZBMF9vSTNHVkplWGZNM0ROYmthNlEwbENON2t3bWpNZk1lRWpST0ZuRUQwZUhYNVpHSWNMS1FpdjZSR19jbDVHd3FrXzlXMEE0Z03SAbABQVVfeXFMT0NHMTBIeVprNVo0d0R0anlxWmI2d3JGNFFfcFZNSFFUb0RFa2tQWjZNSldub05pS3VQY3JhYm9xRlpkX0R5dEhuZ2FQYkRON01CZmkyX2hXblRNVUFxMTlNNGZYZ2duaV9iajBnT1lfYVFHdTh1c2pCYmpIQTM5cGpsbUhyQkhhRFhDZ1l1NERMLVUtcENObndaRHNzc256cmRXTFBIUkJULXZTVk1iNkQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "803844df334a6264",
@@ -17706,6 +17787,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "534899eb2948de60",
+      "headline": "Ark Invest's Cathie Wood sees Tesla reaching $3,000 per share by 2025. Here's a breakdown - CNBC",
+      "excerpt": "Ark Invest's Cathie Wood sees Tesla reaching $3,000 per share by 2025. Here's a breakdown CNBC",
+      "publishedAt": "2021-03-21T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNalVPVVBtcTFKczBud0VSM1plSmlYYVZFX3ZpTTRVS2hyZHhKNWI3SHpvRnp1UmNzS1hWbl9GWmh3T2RDc2NEVHpEQWJ2SV9udmhfSExaNWh6T0I0b2dPeHBBektOdDh0eHlfNHNlRExWVURrNnYwMGZPRjJXOG10U3ZXRmFfSzVTNWxsZEFhb1pDclFEdlduMGNjeHo4c2E2X0s3WmZMTlRiN2xVYktVcjc1VTRSNU1HTTYyMThn?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "46f48feb7e4a4a19",
       "headline": "Cathie Wood's Ark expects Tesla stock to reach $3000 by 2025 - Reuters",
       "excerpt": "Cathie Wood's Ark expects Tesla stock to reach $3000 by 2025 Reuters",
@@ -17731,6 +17821,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHo2Rmd3UlBTRlczNUZTdTRoSjc4b1g0VHVRbTZkQWFqNzAzcE1QMGNDR2tvWmVfZHZWMU1aR2ZrN2V5MGp4eVBjcEg1cmV6a3VxNl9EUmE5bEhRd3NMX3hrOVFnWk11MkZWYVRwV0o5RHBneldWYWhOMnVhVktyQlozNTRzcWxFRExETHZTY2U?oc=5",
       "sourceId": "tesla-press",
       "sourceName": "Tesla Press Releases"
+    },
+    {
+      "id": "745c4dc4e939f46b",
+      "headline": "Bitcoin surges above $46,000 to record after Elon Musk's Tesla buys $1.5 billion worth - CNBC",
+      "excerpt": "Bitcoin surges above $46,000 to record after Elon Musk's Tesla buys $1.5 billion worth CNBC",
+      "publishedAt": "2021-02-08T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3R0ZXlxRVlyakZNNVd5ZTdsWVluYnJtUkNWWFNYMlJBd2FvRUI1bFVobWRROXpPSjVPdjB1VnFacnZUbW1OY0trSEFtdWwtN19lS05kUW1VMFJsUno1cUJVOG9jMmx1dXBYVFdvMDAwRllWRXdpdWxPLWxLd2JlUnBrdmR6Q1hMd1N4NENzR3dYcmktTzNZc05fdEdfeXpBTDBfOG81NWg4U3UyV1gtRW1xbHhpNkVvNmEw0gHAAUFVX3lxTE1TNmdCRHJuaWs3R2VabEMyOVR0ZFN0SUxFaTVHMnVSclJqUGhRVWpEWG5vYklxd3FUR3FwNmtlcXhiRVM2X20yWGo3OTUtZl8yYVhCZ01Ydk5uWGkxa2dRemJ2dldueDVYNWswQV9OcHFvZGhhZ2lxUlppNlhpMzlFY210d01wa0o4TDktTTZfemVpNnFhTm8tUnR4WDhoekRJT215VmFMUXptcjFBSjRkdGtGN1VZX0R0Q0hHNVkyNw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "ada992fa0fba22f2",
@@ -18066,6 +18165,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "2db714d0971b1c10",
+      "headline": "Tesla spikes on earnings beat, says Model Y production underway - CNBC",
+      "excerpt": "Tesla spikes on earnings beat, says Model Y production underway CNBC",
+      "publishedAt": "2020-01-29T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mRTJPek1ocUxsSVg1QjZJU0lDcjJ5N0FQUlA2N3BWalFPcGVtcFpRLXhVdERCeXR1X2NfSVR2UWpJNnlRQUR6UmpKRHZkeXlTZ3d6cnJSZ2xicHBjTDBabF9nTVg4bzFQNTBmMWRUR1Nmd9IBd0FVX3lxTFAtZ1doX2Vjb1kydHc1bUhEeXpZcXV3Z2ZUZU1pM0xZV1R3Q0p5ZVhYbTBXUm1DN1NPaXNWTjZfQk1KeVMzcUtyOThKRVdwMjJYQVVDMVdvcVdoMlk0eFZMQXFlM3NlM0x5S3lyRlVZRWdhNU1TdUhj?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "57387e58966f7b18",
       "headline": "American World War II bombs found at Tesla's new German site have been defused - CNBC",
       "excerpt": "American World War II bombs found at Tesla's new German site have been defused CNBC",
@@ -18089,6 +18197,15 @@
       "excerpt": "Tesla reaches all-time high CNBC",
       "publishedAt": "2019-12-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EQUlyb19EWm93WHdjS2kwVmhLQTNzaklpYWp0Z3E2WTdFNGpsX0NUZGs3aFBQOGJzbkwzbHR0U1BKekxjalVFRjlaOUxVSmJ0Nm1DM3ExLVNQWm1lMWJmVWFoVFVuUTJWMElTYmF5XzhXLXNnc0kwRtIBfkFVX3lxTE5sVzVEQTVZYVA5TWRCSklHT0pjZGFxOWZ1eVYzZkV1bVU4elFzQUVHRmVjVU5nV0NMSGgwUXN5QzJCY1JmdHdCQ0c3eGVfT2MxR2hsOHdvUFNDb1B6elZSOGV3ZFhzdl91cnZ6YU9Wb1FwWnB6cnVzWHVfbDl4dw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "ef88a9db14e662f3",
+      "headline": "Check out this footage of a Tesla Cybertruck driving on a Los Angeles freeway - CNBC",
+      "excerpt": "Check out this footage of a Tesla Cybertruck driving on a Los Angeles freeway CNBC",
+      "publishedAt": "2019-12-09T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVR1SWR3WGhCTEtydHpBMkdMeWJZbEZRUzFvZkp3ZldtTmFUejh4OGcxZVppWmF6X21hejgzOTgwd1lEckhpMHdtR0FSWE1JTTZ0RGdIa2dQYS1tTjg5Ulh0UTlKUmxubmtTYndPM19MTWREM1M2WG80ZUFMTG1HSllseDFCRjRjNndDcjRXYmVZU3RiRlhkbGxpN2F5dnRiVktucWlBay11S1VK?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
@@ -18507,6 +18624,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "3cbd517217453b36",
+      "headline": "Here's Why The Glass Roof On The Tesla Model 3 Sometimes Looks Orange - Jalopnik",
+      "excerpt": "Here's Why The Glass Roof On The Tesla Model 3 Sometimes Looks Orange Jalopnik",
+      "publishedAt": "2018-10-31T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWhmVlpQYm1qUDVTdTlkdk9nMjhEeFVOa0VZTHBLaE83cjRFRDEtY1N1UWtQbF9faTNoekc1LVJrRnlJUGZ0OTc1Z3lYajhpNm91SS1sblBHZEFURHZuY05fZFdZQTRKSTNxYnNpQ1RLRlpBVTBxelRySlphck8zZEJxNFFLVi1rZ3NJQllKYUJoQWMxS2Q0?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "f5f425ea55c2ea2b",
       "headline": "Oracle founder Larry Ellison discloses big personal stake in Tesla - CNBC",
       "excerpt": "Oracle founder Larry Ellison discloses big personal stake in Tesla CNBC",
@@ -18773,6 +18899,15 @@
       "excerpt": "Tesla employees say automaker is churning out a high volume of flawed parts requiring costly rework CNBC",
       "publishedAt": "2018-03-14T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVENUYmRxMmZ6TV81TXd4V09xTVljLUN1STZCUWt1MGZMdGNaZV9lYkZpN2VfZFZxd0ZxMjdDeXVvclJWR3hOaHRBQzVaekVKRGZjZ1YxU24zX3ZaTE42WlFuaV9TcVNrZ21KT2xjMjdPdjd5VjFmWjFZX0JzRlR6Y3pRUjdyOF8zS3hzY2tpZV9YQ21JTFI0MGRB?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "76efcad7ac603226",
+      "headline": "Tesla posts narrower-than-expected loss, says it's on track to meet Model 3 production goals - CNBC",
+      "excerpt": "Tesla posts narrower-than-expected loss, says it's on track to meet Model 3 production goals CNBC",
+      "publishedAt": "2018-02-07T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNER6bm1BX3ZXNVpSdTdJcVVLQzUxVjFieXBub0hTWVNwbkN5Z1NGalM3VHFiMU1fUzl6TFdfNE91ekU3SkdVMmMycExPeWJhYnNSdmkwVnVJcHRhZGRRdHhQMlRkZHp1eW9V?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
