@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-05-29T22:50:33.300Z",
-  "totalArticles": 2812,
+  "lastUpdated": "2026-05-30T00:08:58.984Z",
+  "totalArticles": 2822,
   "articles": [
+    {
+      "id": "be0c411370c35901",
+      "headline": "This Tesla owner won a $10k refund in court for Teslas FSD lies (Updated)",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-29T23:40:00.000Z",
+      "url": "https://electrek.co/2026/05/29/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "be0c411370c35901",
+      "headline": "This Tesla owner won a $10k refund in court for Teslas FSD lies (Updated)",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-29T23:40:00.000Z",
+      "url": "https://electrek.co/2026/05/29/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "700a12742375d851",
+      "headline": "Teslas Own Workers Reportedly Wouldnt Trust FSD To Drive Them Around",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-05-29T23:37:00.000Z",
+      "url": "https://www.carscoops.com/2026/05/tesla-fsd-safety-claims/",
+      "sourceId": "carscoops",
+      "sourceName": "Carscoops"
+    },
+    {
+      "id": "a6dd0d6b70187d78",
+      "headline": "Driver, 87, dies after Tesla on Autopilot mode crashes into pond - AOL.com",
+      "excerpt": "Driver, 87, dies after Tesla on Autopilot mode crashes into pond AOL.com",
+      "publishedAt": "2026-05-29T23:35:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRFJSYnBSSjlSVThoX2lCaGRWb1NoSEh1LXFRVVNhVENCR21vT01lY25fS1hkeTRSMHBDMHBzOG85dFJ5UU9hbUY2U1NYa0ExYXJuNDF3ZjZxdkk0TXBvUGRkbGRjVFFhQnc1bXR1ZUNpVEJxcVRJcjZhTXcxTHM?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "5315f6c1b927b647",
       "headline": "SpaceX Lands Another Massive Pentagon Deal Worth $4.16 Billion",
@@ -10,6 +46,15 @@
       "url": "https://driveteslacanada.ca/spacex/spacex-sb-amti-space-force-contract/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spacex-sb-amti-space-force-contract",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ee1c000de535d2b2",
+      "headline": "8 Of The Wildest Cummins Swaps Of All Time - Jalopnik",
+      "excerpt": "8 Of The Wildest Cummins Swaps Of All Time Jalopnik",
+      "publishedAt": "2026-05-29T20:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVEVzSGV0bHVUcWQ5SGRfNkszM3pyQk5LNXdCRldxZTMtcFBkTmEwRFpSN3Q1SVhKRVRNbEVTRzNETFlZMXE1Y0RBZ1gwZDVWUmM0QlZUX0tOSV9NYmcwSzcxNzBZLXp2OEVkYzZXUk9FUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "afb5892b164b70c5",
@@ -28,6 +73,15 @@
       "url": "https://cleantechnica.com/2026/05/29/tesla-spacex-merger-getting-real/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "31235d877810e865",
+      "headline": "A New V8 Dodge Charger Hellcat Is Coming Because Nothing That Popular Ever Truly Dies - Jalopnik",
+      "excerpt": "A New V8 Dodge Charger Hellcat Is Coming Because Nothing That Popular Ever Truly Dies Jalopnik",
+      "publishedAt": "2026-05-29T19:21:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlByamFYbG14ME1ER0hEWjgyb0FDazVVOUtiOGJOUDNueXRpN2hlcWNJdmVjZTFxUWc4a0xGOHBXcFJ6R0xGS3ZCcGUwLVVjM0RQcUdKXzJYR1VZUjlPM3JfbFU5RmQ5NWluU2hac1d6UjFIZDcyOXdJdlFGc2YxS1RReUVvYVlUS2VURk1n?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c3ff49b1be305e1e",
@@ -251,6 +305,15 @@
       "excerpt": "Why more young people are taking mini-retirements Reuters",
       "publishedAt": "2026-05-29T11:26:16.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmhQR0lmZ2NkUlFLbHlycmVfeXhXZHJUdGoyckh5RE9aZmZqbTduNFJDdzNyeHF3T0FIRkVncXlkVDJJWVMzMlpyanhXaG8yMGlkaEJqbTZjbjlPQ1UyNGVSSTRsWENOUC1QaEtaRGQzXzdmNm5yWDd4ODhZeDNHWTQ3RUFxYW9EWjlvOHdHTTYwZEIxVE90bDJHdmFNYjF6V3otYUR6aEJsZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "1e85c6d606b2b7ec",
+      "headline": "Stellantis plays down European scope for JLR and Tata partnerships - Reuters",
+      "excerpt": "Stellantis plays down European scope for JLR and Tata partnerships Reuters",
+      "publishedAt": "2026-05-29T11:04:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHhIaTFIb2ZXUmtSQkdINDdlbklTS2tLcHN3dzZBY05CQWFIb2lrTHNPWHhkWmtyd1JfVkFTZkFxYWFweVZuRkhRdmcwNnYzS1BTT1oxUDFCdmdfNXhCM29LeVdwMU0wSjdSZTN1WllwY0VTT1E1RS0yWlVUMHlQbkxuS3FvdjFQaWhxVDBRZExEdElVTDlYSW5mSm5yVjhmdXl4Yk5EQzBRaVQ4UUNUWlA1b1plTXp3NUxJZXB1NkVMQQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -2458,6 +2521,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeUZLSFFwRkNWM0RpRzJOeFNBTjYwd09HYW1idG0zbEtZUlEtd1Zjal9GbjVPcE1fR2xVaHQ0c1pEMGVEMVJnVDRKUUVGX1BTdXZWcXJVV01xZWRBcjVOSmhnQk9fYnpjWW9mSXV5am5NY3BncE94RkpxTG4xcDFISVdHdmVwTU9tWGtR?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "2ed139d828dde902",
+      "headline": "Target pushes deeper AI adoption, reviews usage‑based pricing, India head says - Reuters",
+      "excerpt": "Target pushes deeper AI adoption, reviews usage‑based pricing, India head says Reuters",
+      "publishedAt": "2026-05-25T16:49:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdVoyamhWNWF3djdNZ1VhYV85RWZ5Tm95cTZHdGFGOE5wWldPaTRlVjBmYkR3ZXhKa29zYWRzTTJUWGxaZlppQi04WnVSaUJpd2RoeUdDX25QU04zSTlhWUlpQUNDWnpBT0ZEbXNhR0piMmw2SzRZOC1Nd1JmZThBSHZudFM2Zm12UzBlQjlXRWtrLXR2NEhXMUVjU1VwSG1BQWgzTlJkb0hwMmcxMTgzcEFZYV9rYm1nR0x4THlwSGdjd0dkQ0dNaWk0eUNsYkZHV3k2YQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "f8f4f75a0a584540",
@@ -21891,6 +21963,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "1d45a4b32cde178c",
+      "headline": "Tesla Production, Deliveries Graphed Through Q3 2022: New Record - InsideEVs",
+      "excerpt": "Tesla Production, Deliveries Graphed Through Q3 2022: New Record InsideEVs",
+      "publishedAt": "2022-10-03T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzWGRra2N5VUhYTm1mNHdmSjFKa3JTaEZ3cVhvb2hUUUc4Y2VoMUhkRjNzdFc0elhQenpYbVB6T04tYkRSbi15S2Zka0VTbzVDbFVWM0pra3RQZjBwQkR0UUxCUEZmanllTGdXQTBvUURWeVhoQU9HTw?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
+    },
+    {
       "id": "5ac19fee54b3cc52",
       "headline": "Tesla slides on widening delivery and production gap, demand worries - Reuters",
       "excerpt": "Tesla slides on widening delivery and production gap, demand worries Reuters",
@@ -24947,6 +25028,15 @@
       "excerpt": "Top 8 tidbits around the Tesla-SolarCity deal Teslarati",
       "publishedAt": "2016-06-22T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44SVJBTVNTTDhNeGFhUXk0OXpweXh4cVF5Vm00c1ZZazQ3Z2dtNDEwX0tRYXBLNUJMck9RcWgtVTNXOEZ2MlRUTFBCTTRGSDZVYks1a0lTNC1tajl2YnB0b2NJdmpkaGpyblI0VTlVUHBLaWdrUEJJ?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
+    {
+      "id": "dbdab897f70965cc",
+      "headline": "SolarCity Opens 5th Maryland Operations Center - Tesla Investor Relations",
+      "excerpt": "SolarCity Opens 5th Maryland Operations Center Tesla Investor Relations",
+      "publishedAt": "2016-06-16T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM29QalpXSmxwUm5taXZNaThraGREN1ZIUzRDQnYwSjhFa01HdGJYLUptZW1HaWpLeFNwcVdPRnd3d0JLUVdkNUFtazRkbzZXYlY0cmpRZmdzLUVqV3dHSnhrR2kxVWs0SnEza1I5azEtdF9zdXJZZkFSNkI0U2xVRGRHV01fY3pl?oc=5",
       "sourceId": "tesla-ir",
       "sourceName": "Tesla Investor Relations"
     },
