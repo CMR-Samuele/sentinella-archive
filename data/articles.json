@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-06-05T18:23:50.820Z",
-  "totalArticles": 4137,
+  "lastUpdated": "2026-06-05T20:24:28.402Z",
+  "totalArticles": 4150,
   "articles": [
+    {
+      "id": "56e5fb42f7f2214d",
+      "headline": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-05T19:51:00.000Z",
+      "url": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "56e5fb42f7f2214d",
+      "headline": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-05T19:51:00.000Z",
+      "url": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "bd53c58f013eb127",
+      "headline": "Tesla Roadster unveiling gets pushed again, but new event details emerge",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-05T19:40:15.000Z",
+      "url": "https://www.teslarati.com/tesla-roadster-unveiling-gets-pushed-again-new-event-details-emerge/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "105a52e21279fda4",
+      "headline": "GMC Made The Hummer X For Me And My Climbing Polycule, And We Don't Want It - Jalopnik",
+      "excerpt": "GMC Made The Hummer X For Me And My Climbing Polycule, And We Don't Want It Jalopnik",
+      "publishedAt": "2026-06-05T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYVHZHVDN2ZnhzRTF2UGxVSW9jVks4MUU5STJnR2NkdmJ3S1dEUlFhaFFQNHpKcXpBM0VpWHVPazdIV3NEeWU0V1NaZkxQQUdKbVMxaUJVWmNMNlN6V3ktSkx1UmdRRHhETmNjc19BcWxWdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "a00f077484d78793",
+      "headline": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
+      "excerpt": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers CNBC",
+      "publishedAt": "2026-06-05T19:20:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "707e90a082e2a1b2",
+      "headline": "SpaceX is set to be a 'seminal event' for the stock market next week. Here's what's ahead - CNBC",
+      "excerpt": "SpaceX is set to be a 'seminal event' for the stock market next week. Here's what's ahead CNBC",
+      "publishedAt": "2026-06-05T18:55:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmFyRWwxZklmZ0NrQzVpeTlDYmZOdnR4aWZJT2JVQm0wTVljNTlLbzR3RmZ6VDhhM1FWTGZ4a0ZtN2lXVFNJSS1yMkxFNUdoUGwwelYza08xWGxFaWpzeDBkUEJ6ZUZSOU9RTEpPcWhVTm9NVEZfU3RjRjlhVlRjNW5DSmNMU0F4ZUthU1oybmNBOFhZTlRId1RPRUU1a09McDBEY2tjdzF4SHo3RUphVU5NLURJZ3FQcThTOXhB?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "19bd45758d01aa54",
       "headline": "Tesla Model 3 has a tasty Supercharging incentive, but its ending soon",
@@ -10,6 +64,15 @@
       "url": "https://www.teslarati.com/tesla-model-3-tasty-supercharging-incentive-ending-soon/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "c1e7ea636fbc62fc",
+      "headline": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC",
+      "excerpt": "Trump administration, OpenAI discussing possible government stake in the AI startup CNBC",
+      "publishedAt": "2026-06-05T17:58:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "82a6b1919c14cdbc",
@@ -73,6 +136,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-grand-prairie-service-delivery-center-robotaxi-support/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-grand-prairie-service-delivery-center-robotaxi-support",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "3aff683f62f259c0",
+      "headline": "Volkswagen Hints At Bringing The Regular Golf Back To The U.S. With The Help Of Mexican Production - Jalopnik",
+      "excerpt": "Volkswagen Hints At Bringing The Regular Golf Back To The U.S. With The Help Of Mexican Production Jalopnik",
+      "publishedAt": "2026-06-05T16:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXpKb3ZyRDVCRHFpSU1hRExVeXlZRTh1bGhEc1ItRV9BeGVQSkRWTXlxM1RIallPYnUtbWFGVUI1dFNpRXVtLWRpSF83U0gyVzNfTndxVFpfZzVlczFkdU9pWTdnbGw3U194QkM1VmlwT2hVWk5rVzg2YTNsdzBtdkNzNVd5V3hGRkE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "148af807b572426f",
@@ -566,6 +638,15 @@
       "excerpt": "Qantas weighs order for 20 Boeing or Airbus wide-body jets, sources say Reuters",
       "publishedAt": "2026-06-04T21:04:57.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0hUd0hYNVZmMk5YM0x4VU1GWlJCd0UtV3ExZEhWbVhBQTEwQkFianpyX1U0dENoaEQtWWR3M3lCNldxZ2JOU3Fjd2lBVHVNRld0bXZKeFZtNkxST0JrY04zUHlUamZRbkRQako0c0FLMF9MUjU3OE5RSzRUZGhHQk5ybUhhMGIxa1lSRU9aektSSzRDcmhSb3U0NjNoTnQ4UjhKVXMxMnhocmp5UXRtZmU4czg2NG92anRoclVSUlFaX0h3VzFYTg?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "644fd1c648e3e048",
+      "headline": "Russian-run Zaporizhzhia nuclear plant says Ukraine launched drone attacks - Reuters",
+      "excerpt": "Russian-run Zaporizhzhia nuclear plant says Ukraine launched drone attacks Reuters",
+      "publishedAt": "2026-06-04T21:04:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzdiaTJhQXRwSlFTbi1wRnI0R2xINFpWUzBGZW9tQjJ4NDBNRDhZc3VXSDBVcW1Ha0V4TmswLUxYazVfYmdwSUo5UmlqWVJaUVJhbU5wREFUNXVjbl9PMkZWMkVVZURHam1yUE5tMUc1a01FdkYyQlF4enpraUFLZzdndWJNdC1UMVZSaHNTeGJNY0NWWkdfSGxiUGxGeFVmNFpud3B4UzdnOWZ1eXFsWDBqcnFNeTZhd3lsOTBZLW5SVjZZ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -2964,6 +3045,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "fcb70136f6001a32",
+      "headline": "Victoria's Secret soars 50% as turnaround powers upbeat annual forecasts - Reuters",
+      "excerpt": "Victoria's Secret soars 50% as turnaround powers upbeat annual forecasts Reuters",
+      "publishedAt": "2026-06-02T19:25:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMldhT2VEWVZtRUJ2QUdzTXpTUDFxRUJMeXllVTF6Y3psX054bG1RUk9tbVh0bG5uYk5CMEJEM014QmVnV2Riald6c25hSnV1UGFaeHhFUzd6LVVQM0JiblN0Sk56dUxZdGdjRFJ6Mkl0SDM0bnYtZGtoVFBkekRhbmRQajJPRTBmZEw4NlI0cnZvdlBDZlhhNU42S1E0VFB4QjZCb3ZPS1hGWG1odVlHYklaMktFUkJwTU1v?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "53388e5602c27219",
       "headline": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
       "excerpt": "[object Object]",
@@ -3104,6 +3194,15 @@
       "excerpt": "Stellantis deepens France investment with new Peugeot EV production Reuters",
       "publishedAt": "2026-06-02T17:10:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldBTVdDTkhfSjQtOUxXUHgtY0Rtd1RzTVY2ZEFkbjNEOUw5MnBaSUNIX2J1eExlZXdpSV9fUE5fUkhqWHliQlRQT3NNd1JYTktnNzVYeTk2bWt2OGgyei1oMnpPSE1vZEE1dDRRdE5kMnBCc1BxOGM1Q3lKaEE5X25PRmxkTjRHUmFaMkVrbUdTTU5BQ1hwV2t6c1Zhdw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "0d3ee764bb23e935",
+      "headline": "UniCredit says it met its goal in Commerzbank bid as stake reaches 34% - Reuters",
+      "excerpt": "UniCredit says it met its goal in Commerzbank bid as stake reaches 34% Reuters",
+      "publishedAt": "2026-06-02T16:59:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUE2MVF2YnJrZDZORmNtTlpEYXE3Z2hZQ1dMeGxhLXExUVFDT3JzcGo0RTVRdURSVUcxNU1LZldHMG5Sdkx4RUJ4VkFQXzF3ZmgwU3BYeVd6N2QzVmNRTGxFVzdWSWZzQjlUT3l0bHpSSUJFaWN2Z2JLQTFTdnJUS1ZJdnNuUzF0WW1QVlczN3RKOWo2YjBhMFRmVXNnczRFMXJaYnp3N05wbk1WYmlWbA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -3522,6 +3621,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "27714dc1fbecab1c",
+      "headline": "This medtech stock began trading less than a month ago. Goldman Sachs thinks it could double - CNBC",
+      "excerpt": "This medtech stock began trading less than a month ago. Goldman Sachs thinks it could double CNBC",
+      "publishedAt": "2026-06-02T11:46:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMDZRcFZJX3VfdjlVcWY0MXM3SkJXQlFGcG45STRnZm5scTVjM21iNDNqLVBWT1ZMMUdMVk9wNGVBNHZxM1k1WnBlb0JibHZCblhrM0FEMlRDZ3EwbUZnTHVOd2dkSlFCRzJWc1Z3M1VzcDFZWnVHQlFQWWFKTUgzbVBqTmhWaC1RSjR3VldZMUMwOHM?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "6a47737288ab45a3",
       "headline": "Tesla China May wholesale volume reaches 85,982 units, highest this year",
       "excerpt": "[object Object]",
@@ -3590,6 +3698,15 @@
       "excerpt": "Pope Leo names EWTN executive as first woman to lead Vatican communications Reuters",
       "publishedAt": "2026-06-02T11:18:58.000Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0pvdk1IeHAzOTB0RlQ0VDJCOV9qWXNsN1p6Q3g3WElaRENISl9ybDE4R1JKb2QwY1g4UnZsajBoWDhjOW9hZGRDS2o2S2xMQUg5NnRLUjJKQlRSUGp2eFMwMVVjRktCVjB2blFBZi1WSnhELS1zTzY4dTJsakdPNktCZWI1ZUFiVHk1LVBjbFd6OXkzMmlnTllVM3A3aHNqSjMxLU9zNktDYm4yVUNfU25TZ0RQZ18tcWRoNm15SENlMURidThN?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "677c250f659cc244",
+      "headline": "Arm Holdings CEO says US would have difficulty banning AI CPU chip exports to China - Reuters",
+      "excerpt": "Arm Holdings CEO says US would have difficulty banning AI CPU chip exports to China Reuters",
+      "publishedAt": "2026-06-02T11:16:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjRRLVZMQTdLX3M2eXV5WGREX1hwWmdkX1RUV200QmNzOURBVzJwV3hCYlZ3TXJJRTF0dG84bVZobUdMR1JsZWhBclJzUXdya1luQWt6YTBmbklTbUFzekxnM1QtS0NlbkZhUk9jeEFZWUQzclNiSEt4aGlVaWNGWUJ6QnFKdm1SRFhKVVQyR2MzV2RTMXlfRS1IeXdkTFZENUQ4VGRKOWFtTVBBNC1LX1Y2S29qbC1BMkVpSDFXQXZ0Z3duWlhJ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
