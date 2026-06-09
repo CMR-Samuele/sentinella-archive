@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-06-09T10:33:37.363Z",
-  "totalArticles": 4567,
+  "lastUpdated": "2026-06-09T13:43:59.212Z",
+  "totalArticles": 4582,
   "articles": [
+    {
+      "id": "725ebd053e531a0e",
+      "headline": "Tesla says FSD is 3.5x safer than human drivers in first European safety report",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-09T13:23:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-safety-netherlands-3-5-times-safer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-safety-netherlands-3-5-times-safer",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0f48c8e410434f77",
+      "headline": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla - CNBC",
+      "excerpt": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla CNBC",
+      "publishedAt": "2026-06-09T13:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzS2tVaVp1RHZhMjY5MTNGdWY4MUlKT1NJNGRvb3Z1SnNFcG9YdnB5Umtqb3BUcEVfNGlOTDJVV2JGTUlLUVlwanVkUlB3bjJEaTJNY05SNjVfSC1pZ05adXpMVXp2MmJkanFfME1ZWnhkVVdFQVRZ0gF8QVVfeXFMUE5jQkpFSlM1VlVhQmtHcXByanFsYVBLVk1ScTlLUE5hMThHdlU1cXRUVUFfRWJCWFIzQTNjRDFHYVcxYVU4MUd4WlN1M1NmSnctSk5UZldtazduaEhiQjBzQWNYNUFYNUpVYXp1VmFSRmw3UXNhOUV5WWlveA?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "53e1383fb3f2f60c",
+      "headline": "2027 Rivian R2: Will a smaller, less expensive electric SUV make Rivian the next Tesla?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-09T13:00:00.000Z",
+      "url": "https://chargedevs.com/newswire/2027-rivian-r2-will-a-smaller-less-expensive-electric-suv-make-rivian-the-next-tesla/",
+      "sourceId": "chargedevs",
+      "sourceName": "ChargeDevs"
+    },
+    {
+      "id": "9622b9a3f153467a",
+      "headline": "2027 Rivian R2 Is Even Better Than You Hoped - Jalopnik",
+      "excerpt": "2027 Rivian R2 Is Even Better Than You Hoped Jalopnik",
+      "publishedAt": "2026-06-09T13:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53a1VrLUJKSmNSc2NBTzJUWHR3SlIyZjNJanMwdHBlOUZoNkZERVFZUjRjcUlOT0dkeWM0ODZjS3BoY1lzWFlrZFFHSnoycVVtVG1kX3ctV2Rua0NBRlB4VjlmX3doMFE3UlVOM2RIdVJoaE5ldnp0ODNCU3ZwT2M?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3285c08e89150691",
+      "headline": "Under the Trump crypto playbook, the family always wins. Investors don’t - Reuters",
+      "excerpt": "Under the Trump crypto playbook, the family always wins. Investors don’t Reuters",
+      "publishedAt": "2026-06-09T10:27:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "1c539ae0de7583b7",
+      "headline": "Parsing the Trumps’ crypto profits, investors’ losses - Reuters",
+      "excerpt": "Parsing the Trumps’ crypto profits, investors’ losses Reuters",
+      "publishedAt": "2026-06-09T10:27:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaldDZTk4YzQxVFFjdGF1eHJ2akRLYU5hSXZ2NnF1aXlPdThtREVXR0c1bDdNM1RPNC1iM1RpeGNVSU0yMEJQaERrWXZDNHR4Q0VMWW1QTU1GdFY0Ul9BWGpXUWpDVGZvQ00zSkowa0dMVkhiQk5vLWNXcnFyMnZ4TTluSmVWV1U5SzMyb2FvT1JreXpVWklJQ2VvOWJTUQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "f4dce0420bb5ca84",
       "headline": "Short-sellers to tread carefully as Musk's SpaceX debuts - Reuters",
@@ -30,6 +84,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "ff6c743b94528374",
+      "headline": "Mark Carney's trade push collides with reality of US dependence - Reuters",
+      "excerpt": "Mark Carney's trade push collides with reality of US dependence Reuters",
+      "publishedAt": "2026-06-09T05:01:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXBWS2JsM0VrQ25OZS1GMXFIOEs1RGhrdnhfaVNtQjZnc1JPT29KV1RSSmtGNXZlU0psNkNDVDI1VzRMV0Yzbm5ObzJVdlRXR2NtVVA0SjVzMVB5UURoRkdyamp5cFdzNEdOUjlqWUtMSmVMSFphaWpyNnNYeHZCVHdtcl85N0IwdlEzeFI3ZDRRZE1nWHNLRXNtN19wdU5xSjFIcDF0aw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "e288ff76e9974c3b",
       "headline": "This Is The Last Car Part DIYers Should Attempt To Build Themselves - Jalopnik",
       "excerpt": "This Is The Last Car Part DIYers Should Attempt To Build Themselves Jalopnik",
@@ -53,6 +116,15 @@
       "excerpt": "How To Maintain Your Backup Camera (And How Expensive It Can Be If You Don't) Jalopnik",
       "publishedAt": "2026-06-09T01:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2lOZFpNSmxMd3JBamRCVUxJdnpLRy1FczdTamVXMVUyUzN6UWNLTUxmQnRmWW5fT1gwSkt6eTYxVHdMc196UnV0LWN1YTVuMWdzck0tR3RPTlk2dERhVUdOZTluLXROUVZLbXJoRkVnTEpFSkgxZXRvR2VEREpHYWk1cEVYbm55QzdjbzFB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "470c5d59440227bf",
+      "headline": "Why Ford And The U.S. Postal Service Both Use The Same Kansas City Cave - Jalopnik",
+      "excerpt": "Why Ford And The U.S. Postal Service Both Use The Same Kansas City Cave Jalopnik",
+      "publishedAt": "2026-06-08T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanJGR3dLZmVjLWJOQWtaNi05ZjVYVW85YXRsVXZ5aGFEZS1fdXFrRkk3VUI2X2wyQlhiVzl2dEl5aXFySHR3Tlo4c1dUVXQ2Sml6eWVmX01kTHBHM3phaE1Da2dPZXhPVERMbUxjVEl3dEJIVHJ4TlJrR0d4N2hZOUlKVDBFS3RFbi1zeA?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -145,6 +217,15 @@
       "url": "https://www.teslarati.com/tesla-model-y-south-korea-beats-kia-hyundai/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "d19a6d48698c0138",
+      "headline": "New International Border Crossing Could Quietly Open This Week To Avoid Trump's Ire - Jalopnik",
+      "excerpt": "New International Border Crossing Could Quietly Open This Week To Avoid Trump's Ire Jalopnik",
+      "publishedAt": "2026-06-08T18:34:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1NnRZVEhFTlh1azhfaDYyUGdIdmQzRlpCb0paVUNqaEJPelZfbjRQMF9LeDdxNFlHeDZhZDRTczBNanQtNmJRR2R3SVI1ZWE4dEVmT3V2VFdBNldtNmFGOVlLUlpNNEk2TVlYaFpqNWc0QmhkLXNEb0lzVHZIQQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "3b43b36f6ef5dbfb",
@@ -271,6 +352,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-china-retail-sales-surge-may-demand-fears-wrong/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-china-retail-sales-surge-may-demand-fears-wrong",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "cd8f928c2d6213a9",
+      "headline": "Soaring fertilizer prices dim Brazilian farmers' edge over US rivals - Reuters",
+      "excerpt": "Soaring fertilizer prices dim Brazilian farmers' edge over US rivals Reuters",
+      "publishedAt": "2026-06-08T14:48:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTRJN0N3YTkwemFtSTJzRjRZWnJXVHJFRWRGZGNEeF8zQXZJVXVSRXlHRnJUYVRtdXZEZjhUXzljSGZRTEUzWVRnZTZLSFF0Q1AydVY0TDc1WTRLSHB4OTRWVDB6bkcyZkxhNUJ3UmlFMDRReXNfendtMV9UZncxUHhzZXk5Y29OMWJnSTBKM0ZwRjdhSFpnakJSMlJkamlrZEhETE1UVmN0akgweDBZWWFzeDhuWkg4N3c?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e2fdeb4e799bf7df",
@@ -1821,6 +1911,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "3e30090e12568873",
+      "headline": "US imposes sanctions on Cuban president, Treasury website shows - Reuters",
+      "excerpt": "US imposes sanctions on Cuban president, Treasury website shows Reuters",
+      "publishedAt": "2026-06-04T20:44:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXk2ZUh2VE54ZXNtVkZXUmx4SmJFUnBqajhoRm85ak1lak5KVnc1cVQ0d19KalNsczFZV2F6ampHX2twNG1mcVpwWEZLRVlrRzJsVmtOMENocHNNWXVTU1FKN2NrcGtBY2MxcVlaTHJoVmJpRi1hWVB0akRuR2V2YXJoUFRaTXRRc2JFVzFkcElVdUdzWUt4U1pHQnVzVjMtMXRsc3JNMFRIX0Y5UlNj?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "a06fad9e166c55a7",
       "headline": "Summit Therapeutics to Participate in the 47th Annual Goldman Sachs Global Healthcare Conference - Yahoo Finance UK",
       "excerpt": "Summit Therapeutics to Participate in the 47th Annual Goldman Sachs Global Healthcare Conference Yahoo Finance UK",
@@ -2251,6 +2350,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY002cVN5dW5qZXNCOWJ4OGNvSlBwYV9pcDZCTUwxYUZlSmtvRzNueUR5QXMzMHI5bjNmanZnTXZEMHpoZEw1b0tRQ1JxdmxtN1ZmMVc1ZzhOVVNmd3o3REdTcW5xZWdSVm9iMzNKTGZQOXlHOEF1RUg3TkN2ejlIUXE1U2cybVpDWUF2RzlubDJieGpUSVNjU2R4Y21ueHRDZmJ3NWdZaVoyYklyeGc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "636320f3ccb63ba1",
+      "headline": "Tesla’s Self-Driving Claims Hit A Pothole - Forbes",
+      "excerpt": "Tesla’s Self-Driving Claims Hit A Pothole Forbes",
+      "publishedAt": "2026-06-04T13:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWdnTWlRSkhkLWd3TVprRllFQ2t2bzZDaEtaT0VJUE93djdQcFE1QUdtb0t1eXQxOU9zZWxndGlnMEM5aXZwRVd4N2FURmtDWU9fRVZkTTNGRHdiS0hKWFR6RUcxOHR0TVhsTGNiZnNBNm95ZGxwME12Wks0UHRrSlllQ0dKQ012dGpkcWpQUzRCT3c?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "24ffbafca07eedfc",
@@ -27363,6 +27471,15 @@
       "sourceName": "Tesla Press Releases"
     },
     {
+      "id": "14a887625f8e0547",
+      "headline": "Tesla Buys Time On FSD Probe: NHTSA Grants Five More Weeks To Review Over 8,000 Potential Traffic Violations - Stocktwits",
+      "excerpt": "Tesla Buys Time On FSD Probe: NHTSA Grants Five More Weeks To Review Over 8,000 Potential Traffic Violations Stocktwits",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZlJmNE50V29WTHJMVjhuT3hKWmVkd0l2aC1qZEl1YWJkZG1UVnZIQnl1NlhWVUtwTXpNWGYwX2RsVDZ6NHNLa3JPeF9BRFFMMVdoeVFkZFFjR0ZqUzFPdGJIaGJDQUpSSFYxYndaN2EyTXdmQmVxV2FrOFI3SEVRbXAwbU96aThNanE1RmZkeXlIRkVBODR1VndtOUxCTDJwRFJmR2dQU2hIdDJzNzNTdW1JUk5xQXBfaWFpOW42MDFkbWtGRWgxOEU5U0xPanBFVzR1QzQ5N0VQdUo0aVM3alZyTnpYOGFGNWxXRUVZcTkyY2tMcklSRVo1UGlQLVAt?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "5751d098790123e0",
       "headline": "Western automakers outsourced supply chains for decades — now Chinese rivals have the cost edge - CNBC",
       "excerpt": "Western automakers outsourced supply chains for decades — now Chinese rivals have the cost edge CNBC",
@@ -28079,6 +28196,15 @@
       "excerpt": "Government Tells Tesla That This Is Definitely the Last Time It Can Blow Off Deadline to Turn In Data On Why FSD Is Constantly Ignoring Traffic Laws Futurism",
       "publishedAt": "2026-01-18T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHZoY200ZEdsVlFOV3VqNzB0azNReWtjV1NFSDFGRHpEVkpERHIzaDYzSnRXdEdYNnhFdkJEZEhDUkpJNjhGSzhhSDcxUWI3U2ZpaTV6QkhZeDRyMEtaY0pBMnFOSEhTMDNmcjdlNHVsWXhsd3BLdWZBT0N3VzRoenZ4dXRNOU44dWN0Mjln?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "4d8677f5f3afadce",
+      "headline": "Tesla Pores Over 8,313 Potential FSD Traffic Violations - Transport Topics",
+      "excerpt": "Tesla Pores Over 8,313 Potential FSD Traffic Violations Transport Topics",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0M4QXJpUEdfclJCdTRsUjhVYkZzTEd0aFA3b1N4NTZfMnQzWVNXcnF2VWsteTB1X3BzUHFDNk1OS3FiVXVTaURqMGdQa2hWcjJveDdwZXZmd2c2clFVNC1EVFFfc2l4NjBvZkhJRmx4dXE3OXVxX1hxcVpBSGkxYTFPNktFRlNwYllfZjh0NA?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -28891,6 +29017,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa2hPNmtjVlJiRFQ3ZXJUeEpMbXBvR3dRMkpINVlzWlQxMXpYa2x3VnF0SF9VMks5el92OWh4Tkx1U1E1OFhVcFZsZnMtOUVkLXo4enRSWVl1SkE3c3NpV0hEcFdqVnp6SWViTDhMSmcySm9TdXUxQzZEMmNOc2ZyUl9ybXNVTWFucVhvX29XeDhiUmJHZzVUSk1TTndMdzlCSi1YS21hYUxFTHVmNUx4aUJVNUR5b1ZFekJiaGhZdmtIV1U?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "aa6728a8cb0bf7e8",
+      "headline": "Jim Cramer examines 'stalled' stocks Apple, Meta and Tesla - CNBC",
+      "excerpt": "Jim Cramer examines 'stalled' stocks Apple, Meta and Tesla CNBC",
+      "publishedAt": "2025-12-11T08:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTV2owbkctWDZ1LTlNczgwT3RiZTVIbUo3Q0FRNFVVUEE4aWxFQXY0V1hGQ2ROaWdKSzg5YUt4TzlZTmdYSlQ5NzdnTFlQOVM2R1BLd1NBZnhuMERvTEFZSVJNcTNqZG9uandFQWRpMldrVGdSVmRv0gF8QVVfeXFMUGV4Mkp3ZjR2MEJFbkd1TjBCY2dyUHpBbFJsY29kMUp5U2FyMUpRVUktb0ROZWt3NGhNV3MwQVdaT3FIX0FsZi1VM3F3V1poT0Mtb1A3RmN3cnJ5NlNWY1B6NGRIck5nSkU1VUdoT1RoV01lSWVJMlR6OHNNSQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "da608a076aebf389",
