@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-13T15:16:25.446Z",
+  "lastUpdated": "2026-06-13T16:55:11.528Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "e9c244e599bde43c",
+      "headline": "Tesla Robotaxi Can Be Geofenced Around Emergencies and Road Closures",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-13T16:45:03.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-robotaxi-geofence-emergencies-road-closures/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-robotaxi-geofence-emergencies-road-closures",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "eed7d2f94f1adb73",
+      "headline": "Stock Market News - CNBC",
+      "excerpt": "Stock Market News CNBC",
+      "publishedAt": "2026-06-13T13:28:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aUzVMTThVN0pvb3RTS0FEQ0Fic2puR01RdHNWYVpSUFI1V1pMcG9Wa2xkUVc5eHA5aVI4MXVsaTFKUQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "5d3c7f3cf822b298",
       "headline": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate - CNBC",
@@ -28,6 +46,15 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUJUTno3dTlEMElXY0drWVYzZVdoTnFyanRTam5NWnMyWVJTelhNVWhFYTZBakpyNXBOU1RUbmlNeklHekx4bU1VN0k4dVQ4MlB4WUE4SUl4VTNUbE53aWlJS3dNTGRZVVc1OGJURzQtcWxRcmJVSXlpSjVOTW5RbEVNa0dBM3hyVE0yYUJUWGNzQnlDbk85NFdhYlZHX1dNUmpicy00RdIBrAFBVV95cUxQX3g5SV9ieDhiajZncjJUX3I2SlRvYWw4S2wtTUhhSHVteEtHbWYyYUZRbGRmeGMta0w4dVZhT0dreE52UVMzMklaYm5PUmszNU5wcnVPN0dDY1hHeGxXNjZHM1hqWFVmRUE0R3ZMeGZYZGtTTmRKZFVaT2FVM19MT3ZDeHRzZnlRdG4xN1NaX2lZU3E4cXJwTWhQd3h4cnZITHd6ZEloc29iWmp6?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "99d9a01ab8df2ade",
+      "headline": "Toyota Prius Vs Camry Hybrid: How Do Their MPGs Compare? - Jalopnik",
+      "excerpt": "Toyota Prius Vs Camry Hybrid: How Do Their MPGs Compare? Jalopnik",
+      "publishedAt": "2026-06-13T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlNHZXVFQ2NGcXpoRzJwTWYwQlFKRzJRZ3VvcFVVOHcwRmNqVUIzTzZEZnNlYkxKWHdlNk10UFlScDN6cENPTkZUQU1YYUx2eEJEUGZ2WmRDS2NBbkE2dGJQZHI2WDhOSVFUNXFTaTBtWUhlRmRqNzdPSU9pdWRqRUFWVjk5WGNKenc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "7d0f3e87b9fb63b9",
@@ -44972,33 +44999,6 @@
       "excerpt": "Tesla unveils electric semi truck, vowing to redefine trucking CNBC",
       "publishedAt": "2017-11-16T08:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTngtbTRNZFBpOTZkQlp0MWcxRTFYLXhXTXl3WmxtXzhLZDl4NlRqem04em5XMGIxZFVRTFNWM2dUd1dEakY5alg5MFRWelVYeU9NWnNOU2FKLUptTEktd3hMT3RIUUZlYlZWU3NGTkY0bnpZX0h3V2lEN0g2ZzgxSzVOd3l6OGdmbWdqREtEam1WRUJHUHdKTFdhT19DaFU?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "ba550a79b7e6659e",
-      "headline": "NVIDIA Chosen by Every Major Computer Maker, Every Major Cloud - NVIDIA Newsroom",
-      "excerpt": "NVIDIA Chosen by Every Major Computer Maker, Every Major Cloud NVIDIA Newsroom",
-      "publishedAt": "2017-11-13T08:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd3FfU3JOMldsR29mQ0N3REFPMk82TTVwdFRwbDV2cVFscUNBWk9CdnBTdk5ydFlSazg5X1M5NFNiaGl3dExBVFNYWkFVRGd3MTV0RkxkMERjWFowVWkwQ2lPdGs3U0RMaFNfV0JOMFRpWXZieUdNdkhUV05mT1hId19aQ2JkY05Tc1RaT1VCdFRGbVY5TkJXckZxN3A?oc=5",
-      "sourceId": "tesla-press",
-      "sourceName": "Tesla Press Releases"
-    },
-    {
-      "id": "df757f0d936dd75e",
-      "headline": "Tesla is taking big investors for a joy ride in the Model 3 - CNBC",
-      "excerpt": "Tesla is taking big investors for a joy ride in the Model 3 CNBC",
-      "publishedAt": "2017-11-10T08:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVk0RGNleGZWaV81SE02bENWT05fLXpra0dmcC1EUUJMVFAydUZ4UVZ5aFZaak9EcG1Uc1otRGdqNzJzam5HNmpqTnVPbVJXY0MwV0FlS2djODJNU2oteHoySVRkYkMtRHR1dmhreF9tWFFkZUdhNXRFaE0yRk9kOHlsSlVmdVl4b0JHNW1tY1VlbDZ0aHhVc0JsbXQxalJfUVNr?oc=5",
-      "sourceId": "tesla-ir",
-      "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "a861f318e6c50e8a",
-      "headline": "Tesla bought a company to help automate its factories - CNBC",
-      "excerpt": "Tesla bought a company to help automate its factories CNBC",
-      "publishedAt": "2017-11-08T08:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHd3b3I3cTRFVklnU0RuTGNoQ2cyMUUxeVhZOVNQd05oU3FMTnFWSXV1bjQ2V0ozQWhhenN4MEpkbjFZbEszR0dEUTZlLUpQN2tabUxaT2lLX2hYekNyZ1NPT0hYSWsyVDFIOWZHNklMMjJzaDhLcG5uRUlabTB0bW81ONIBiAFBVV95cUxQQi1sX0JzdlY0eHlaVm14bUJWMlJ2eWRYdk5PdmhlWHZmMTAyaXBUMFFxdTF4UjVhT3ZkT0pQdllxcVNZUzRzYU9xWUxubnQzM1NvcE5zdU9JZHRHTlloYVF3TUZ3NGhEekQxaklydWUyLVlwMEo0dFFGa3Y2S0Z2NzU2X1Y3M3A4?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     }
