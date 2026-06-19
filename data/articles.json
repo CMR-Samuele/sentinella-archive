@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-19T04:09:55.207Z",
+  "lastUpdated": "2026-06-19T09:18:57.875Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "73bcc9e5447e41e7",
+      "headline": "Tesla Club a Civitavecchia: raduno aperto a tutti",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-19T08:51:55.000Z",
+      "url": "https://www.vaielettrico.it/tesla-club-a-civitavecchia-raduno-aperto-a-tutti/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "d10b9832450f1ba1",
+      "headline": "Aktuell: Tesla-Chef Musk übt Bonus-Optionen von 2018 aus – rechnerischer Wert 115 Mrd. $",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-19T05:05:29.000Z",
+      "url": "https://teslamag.de/news/tesla-chef-musk-uebt-optionen-bonus-2018-aus-rechnerischer-wert-115-mrd-dollar-66905",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "ab34b7b77d7d62b1",
+      "headline": "Usano teste di bambole per ingannare la guida autonoma di Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-19T05:00:00.000Z",
+      "url": "https://insideevs.it/news/799103/tesla-fsd-errore-bambole/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
     {
       "id": "9ed30b134cd0ed75",
       "headline": "7 Common Objects That You Might Leave In A Hot Car That You Really Shouldn't - Jalopnik",
@@ -57,6 +84,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "a55813c0a9e49dc4",
+      "headline": "Carvana Quietly Bought Several Stellantis Dealerships And Now Sells New Cars Too - Jalopnik",
+      "excerpt": "Carvana Quietly Bought Several Stellantis Dealerships And Now Sells New Cars Too Jalopnik",
+      "publishedAt": "2026-06-18T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzJ2RnV5aXRFcDRqUjR5aW1scEJGUURJeGlkbEF3LUNrX2ZUVTE0VEJUUEFGT1RHVFNGT3ozbHJBblV2VE40LUJuRTNCRmUyQlBMVGREZEMzU010ZklKUklld2hWLWprYkdfMmFaZGZuY01GeFFscGw4eWdQTlI4ZGFxZllnUUJLdzk1bnVaZmY?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "24b28dce34203cb5",
       "headline": "Tesla faces Full Self-Driving pushback in EU over speeding",
       "excerpt": "[object Object]",
@@ -82,6 +118,15 @@
       "url": "https://www.teslarati.com/tesla-teases-grok-integration-banish-fsd-3-months-elon-musk/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "92b009101062bc59",
+      "headline": "Porsche Is Taycan Away The Cross Turismo And Sport Turismo Wagon Options - Jalopnik",
+      "excerpt": "Porsche Is Taycan Away The Cross Turismo And Sport Turismo Wagon Options Jalopnik",
+      "publishedAt": "2026-06-18T16:45:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONDdla042OEZialZWMGRwTnNYT0VQRG44MHZSek85U1lqV2o1ODJYZ2tlOEdVbk9LSFp0S1otU0dLQk5pT2ZjQTkxLUZKb0UxN09mOTZ4ZV8yOGFDeWtsazZTTVl1bU5HbGFDaDk3SktzNS1DS3VFd2lyVWItMVJoV1FuWnV2X3NXa3RmOXNVVjN4VEVYdVE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "9377e91dbf659159",
@@ -350,6 +395,15 @@
       "excerpt": "US announces targeted visa restrictions for some Ethiopians Reuters",
       "publishedAt": "2026-06-18T12:40:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEFiLVYwNnowSEd4TFR2M3BlUmtOR0V4M1AyRWtzeERYREZvMnVPZDBLY3psZkZkeU80eUh4dmx1eGZUY3lKVVlIczFJMDA0R1IteFRIeTc5aWMyT3AzT2tkSEJZTkJlMVhERl94RENVVUFoek95N21wcHFSeVJFNXoxeVMyc0dvMUdZclc3WG1iU1h6cWc3YjExc080LUVzWHNieWNIaw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "896a65024f460527",
+      "headline": "Czech central bank delivers first rate hike in four years - Reuters",
+      "excerpt": "Czech central bank delivers first rate hike in four years Reuters",
+      "publishedAt": "2026-06-18T12:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHZUU1BjcGZMM0pQY2FfQVlBYXd3NXBFMVF2dENVWktYZmV2c1pTb054bUlyNk5NaFN6QnNuMTVPcGhqbFNnWV92SnpzY1JtMGJnS1FzaFJaUnlROUNaTHlxdTV5MlVoVjFBaV9EUDFCUGFMTW1MYlNzR2ZMVDRkWEdBeFp3N3NFN09GOHU1dEpBYzFKY1UzemNrT21qaS1X?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -2584,6 +2638,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWFyU3VRb0dkS2F5MnFudExNY1dUaTFybzhJSF9kSXRfUVBSR2IwaWd2bEZ0U1JuUmx3dTkzN252RndHQ2JJaG1tVlZ6LWpWTEFWMjdWMm14Vlc5bGVyZEVQT2NZODhLOE83dzZVUmVDRXM4b3NWZkdod2lPQl83VTdMbXpmNjNvSEMzLTliaUZuZw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "690a640393152e05",
+      "headline": "UBS expects no Fed easing this year; sees hawkish tone in June meeting - Reuters",
+      "excerpt": "UBS expects no Fed easing this year; sees hawkish tone in June meeting Reuters",
+      "publishedAt": "2026-06-16T10:21:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdU84Vm45TVNBWGIxZC03QUQxNVdKcm9wUTBNaE11LXZZSnlseGVSS1pVUnJnTzI2ZFo0VWxmYlRhOWU5V1JTSUVRUi1oZVpXVjZEQTFmVzlSdV9PdEE1b1BCSlUyQ3JNN2p6OFNHcURTOEZfR2IwZks3NXFnSV84MGJPTDdlYkhZTW1vSkdKeXg0ZjRrb2V1NEE0Q1hielNiNmFHSVFoaUVnM3BBM3NfaQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "a19e61f4f75fe003",
@@ -44938,69 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQczVkMjJpR0ZIWUlQQzM2anNHUnIwZEdmb2UzRGp4MFVKLVNPcTc4dHBYQkoyVVltNGlfY2pnTFowbzJWQURpM0R0Uktydnd5Qkc1MWg1QUNaOTV0VXRfcDlyQS12bzhIOHlXY3FZWHBXQkppZVN1NG44NC1LYXJmbzJYMExaUnlnQ2hZZnRJQko3c0diRGZyZElULVBNY25sTlZ4NVFMMEFBVUVRdHN5Mm9qMFdqMThWZGljLVY0a3JQOVNnYmxfV2VDeVR2Q0VycmRTYXFqMA?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "e4e0c7b6faef17c5",
-      "headline": "NY State Senators Urge Comptroller DiNapoli to Begin Pension Fund Divestment in Tesla, Inc. - The New York State Senate (.gov)",
-      "excerpt": "NY State Senators Urge Comptroller DiNapoli to Begin Pension Fund Divestment in Tesla, Inc. The New York State Senate (.gov)",
-      "publishedAt": "2025-03-11T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzVPb00wakxMVDJxcWFnd0pOelU4SGFJeXVzZTlpa0hEWEliR0RxT3JDZExwcEhHLVVtdm9mdTNJcXB6aHdnQ3VCeU9xdTlrU3gzclNKUWNkekRPb2cxUnRUb3AzMFdqa2h5V1lGZi0wR0k2akRvd2J6OGdydTRqUE5FcExnc2VpRmdTcEJuU3JxelR4aEptREcyOXh4TUsya2VwSDFnLVpIVmJpRWQ3cXVKMm9sNXBt?oc=5",
-      "sourceId": "tesla-press",
-      "sourceName": "Tesla Press Releases"
-    },
-    {
-      "id": "035d58019166cbd2",
-      "headline": "Ron Baron says he won’t sell a single personal Tesla share amid the EV play's big decline - CNBC",
-      "excerpt": "Ron Baron says he won’t sell a single personal Tesla share amid the EV play's big decline CNBC",
-      "publishedAt": "2025-03-11T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVkFFZHN5bk5qajEyNS00U3kwbFo2YnQyZEQyNXFQVjhjMU1hdU9XaWwtMmFRU2hZTGMzRGxTc0FURmNBVlVuSUhhbVNwMXAtdVFBQUxUbFk4NTF6bDdaM2lOUURIMGJDNHJMU0VhdXhpcXlXMnRWWlVma2steE9HcXNYcEtKOXpEeWtqWjlmZ3l5dE5RNFZvMWJlR0JjQUcwSzh3YUI2amYtbnRmaEtjMNIBtgFBVV95cUxOeGtMeURHY3hzNk5XdmFoUk9zekJOM2UzenRSd2NaZUNNbUNrZ3lBTUNLV01BSkZVYzIwM3hrRU9ndlFTeW42ZHVwTFdiUnB3TXhYSzFTMjJKNU15TXdQTTVBdVE2WFZmYllkbFg4b1lXaVlCMWN5eExGQkJDRnBnRGF2WVYxMlAwMzQwaFNnOWVYWnJOczNoOXBzbFFlNl9fNy1RaGJqZlBUR2ZYZnhuZU43SjBPdw?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "b3826cbf2a6656be",
-      "headline": "Tesla Stock Is Down 45 Percent And Still Dropping - Jalopnik",
-      "excerpt": "Tesla Stock Is Down 45 Percent And Still Dropping Jalopnik",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXBSNjBKS2c1ek9oRl90cXktamlxcG90UTJ1TXhRQ0I4VWZlcFMzWXBWd0MyYi15MWloVERkREFSaWdDbHpwRVhDT3hPemg2UnVkazJudlBmeXpMc09SeFNoZkdqdGRscjNGRkllOEo3QXB2OXlEekRBZmVCblpFZXBR?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "3d6178cc550f8030",
-      "headline": "DOGE chief Elon Musk says he's running businesses 'with great difficulty' as Tesla shares tank - CNBC",
-      "excerpt": "DOGE chief Elon Musk says he's running businesses 'with great difficulty' as Tesla shares tank CNBC",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWXhHV3l1VnNKMFdzTnNMRjd6Y2FfV2drRS02b1ZZbHhJbkFYc3duVU1HOE1iV19NMi12Z3ZlOVZrbG1SOVZ1djJkOTFEdHV3MkhEWFBJQlNwaU5kaGdoMkhfcjVmRXRCLVhHT2IzNVRCc0XSAXhBVV95cUxPR3FBZ3FFNmtHVXhDSW5LUzlnOEdkNjlIbFptaEgtMG9ReXFQLXpfUmFSMnhvT0hTc3VIb29pLTZBakFzTVg1dHNlczhnT0w5bVhqcGQ2cHhZMHZ5ZlNTX3RXRWtMYlFXMnNfNUNZV1B1NFhQRkFLLUI?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "b17d872f50d82046",
-      "headline": "Baird's Ben Kallo: Potential Tesla buyers may think twice if 'cars are in jeopardy of being keyed' - CNBC",
-      "excerpt": "Baird's Ben Kallo: Potential Tesla buyers may think twice if 'cars are in jeopardy of being keyed' CNBC",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeE1HRTFBTWtzN2xld056VFZWRTNOU0hIdHVOVm9GbmVfOVlYQ0F6OGxCa0R1aVBOMlBacVAwTG5ON1FiUTBlMHpVSm9VYmtkSzAwRVFfWVI4X1RRVW1kcjd5clRab2t5XzBubkFtVEF2ZFV0NXRyb2VoUHNWcmFCOXFLbE93cUtoQUFqRmNtekdYVFc5NHRZQUVUWnJMZnJIVUJBTUE1WHA2XzNvRmtXcVoyM0pjMEtpSU04Y3ZJS2dLYjZxLURyQTM4UkJxelhnelZGUVZHd05raXdYb0E?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "b6c041b84ae33d80",
-      "headline": "Tesla’s stock defied gravity for years. Is Elon Musk’s EV party over? - Reuters",
-      "excerpt": "Tesla’s stock defied gravity for years. Is Elon Musk’s EV party over? Reuters",
-      "publishedAt": "2025-03-10T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2ROeGxod29KNHpBQ3J6SkNURmFzN0JOX2I3VFMtVC1VNFJ0OU1EX1hZVG1VM2U0ME4yYlU5RFVvOUJPcnlmUVdtWjRaR1psMGhnMHhicFRJOXFKcG4tS0dHSGJaQXRVSktscFhOOFNZd243S0dXZ0dicFZnQmNkazFjNDV6RVREU1M4SF9ZS1J5YUx5cnhqQURUYkZ5UURnV2dhMkwxWjdtZ3BDLVp6aTlLZUxpZHcxMWxyelM5WXlTNEZqaHc?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "fb821ed57a0d0c16",
-      "headline": "Why Did Automakers Stop Making Cars With Pop-Up Headlights? - Jalopnik",
-      "excerpt": "Why Did Automakers Stop Making Cars With Pop-Up Headlights? Jalopnik",
-      "publishedAt": "2025-03-08T08:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzA2Ykw2dHhJcTZtMWVsR00yMzU5N2lLRWd1Vy03V3Q0dnNvbWVOY1BIMi15b1VNTGlsdVlLdlFDS2FaUExpQjExTThfUFZsYURhc3ViZS1VZkJJTFM4cG9zZHRWQnBROWoxWTNhV1dPZEptZ2plNHBPWTN2a3QweVZGSDd1cElCc29nRGIwcWxVTVl2dTJSVVE1TQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
