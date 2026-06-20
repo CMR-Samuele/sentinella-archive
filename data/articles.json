@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-20T10:57:07.514Z",
+  "lastUpdated": "2026-06-20T12:27:29.723Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "0b003530417f6123",
+      "headline": "A Tesla Model Y Battery Test Looked Bad. Then The Degradation Almost Stopped",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-20T12:22:40.000Z",
+      "url": "https://insideevs.com/news/799342/tesla-model-y-lfp-degradation/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
     {
       "id": "729d27b8f130c681",
       "headline": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks",
@@ -118,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/porsche-shelves-the-taycan-cross-turismo-and-sport-turismo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=porsche-shelves-the-taycan-cross-turismo-and-sport-turismo",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0e361923eb2305d5",
+      "headline": "The riskiest SpaceX stock trade of all had a big first week - CNBC",
+      "excerpt": "The riskiest SpaceX stock trade of all had a big first week CNBC",
+      "publishedAt": "2026-06-19T15:31:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMFpFeENNVHlmdFRFSG40ZWo1dnZMbktNaFFaaTFlbklTWnRhWVdXTm5ERURKdHJVRjBkQ1p5dXZ3N0JYYUNaRHotdmJmbEFTSHJqV3RnWmloelVMNVBZbDl3cmpVaHdmZF9nMUgwSk_SAXZBVV95cUxPWlhDNzU5S0VfQkRiUUhGd25Ha3FiMWF1TW9WeXRJdlFORWN1eTloWVktZVhnQkdwVnZwS0dsbF80aU5fOERIV3YtNHJLOGUzZmtmRkVSSTJKdjZwTDlBWEQzanBRYzJNR001cVhPSFVxVm1NS2pn?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "c9f55d7c0a98b397",
@@ -4548,6 +4566,15 @@
       "sourceName": "Teslarati"
     },
     {
+      "id": "fdc582e7f59f06d0",
+      "headline": "Fire engulfs historic Kyiv monastery after Russian strike - Reuters",
+      "excerpt": "Fire engulfs historic Kyiv monastery after Russian strike Reuters",
+      "publishedAt": "2026-06-15T07:01:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMWF1dlJITXNiVHhORDdyU0V1OVpZNzZXVDQ3Z1FhT1docnR6bm5YYU1FUHcyWHh3akI4RW9jX1N3UWtmS2ZQeFZLTVFwUXMwanF0d3ltMjRvRVBfRFFhRWRldlExT2M?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "860f29d902716414",
       "headline": "Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm - Moomoo",
       "excerpt": "Xiaomi delivers on Tesla’s decade-old robot charger vision with new home robotic arm Moomoo",
@@ -4555,6 +4582,15 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2d0SG84NGl6Y2ZPRlRtVHE4cV9pR3JCTnowdmV1bnBpOWhsZ1kxSzRsN2tYMnB4Rm5NeENEUkpZNzBYdEFfUGdlb2F5ZjNNemRCMUh1UGJjUGp0WHU5R1d3cFhYMEJCaHFtdjdjdWJEdjdLT1lZZThYdzFQUFE3dE5HWkk5bHB1Vi1uZ19Xdkx0eEo4VkZDMGxGbWp2UHhkZ3ZDMzIzeGdVVEpKN0E5Mmt3?oc=5",
       "sourceId": "tesla-ir",
       "sourceName": "Tesla Investor Relations"
+    },
+    {
+      "id": "b8346d461ca0789b",
+      "headline": "Scotland's Tartan Army marches in Boston after World Cup win - Reuters",
+      "excerpt": "Scotland's Tartan Army marches in Boston after World Cup win Reuters",
+      "publishedAt": "2026-06-15T06:58:54.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5SXNOU283cTNQV1dYaFlIZmF2emZ2SXFHQ3JER3BLM3YzX0t3cWR4VXYycFZXZVNHNmFGS29nYUV5Z2QtOVViYXJHenN0ZkltU0ZmTk5JQkFRVWJ4WVBMT2dfell5cjA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "962c489938bc6922",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVFCTGFOZnVDbXFaQ0dhVjlnNWdXN3VlRzNIMUxRcEVoR0RJTFh0SHlucklWck9rZXJ6ZXBHcXpNMGZRM3NUWkhJSWdua2hvQXp1WnJuRW9OdS10OUJYb0cxMzNFdkF0Z21qNENoclBjd3FId0pJeWFEZXA1ZkNqejVnR1JiZDU4NC1iVTNJQkhNQVo4RmtfWm15U2lGY29WWW1vZUwxelR3VnB0c1htMHFLa3dDdGVkWDQ5TlA4aTNzYldENjV6N3B4ZXJyTUpE?oc=5",
       "sourceId": "tesla-ir",
       "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "c307695afc96f899",
-      "headline": "Tesla (TSLA) releases first quarter 2025 earnings results - Teslarati",
-      "excerpt": "Tesla (TSLA) releases first quarter 2025 earnings results Teslarati",
-      "publishedAt": "2025-04-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXpqaTZtb0x5QWwxYWJZSGtMTmtIaVJNX2h3SXlEVjBHLTFRNGd5RnMwWGgzTEZmU3hNVkQ0N0hRUG9WcjBUbVJPcTVEaUFDdjZ0WlBJdnlWVHA0TURuczNISG9CMGQzS1dZUmYtVnQ3V1VrODRhLVI4QUFIWm9RUjUwS3RvdGFyX2c?oc=5",
-      "sourceId": "tesla-ir",
-      "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "ab20c2535ee25e24",
-      "headline": "Tesla shorts up $11.5 billion for the year with positioning bearish - Reuters",
-      "excerpt": "Tesla shorts up $11.5 billion for the year with positioning bearish Reuters",
-      "publishedAt": "2025-04-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkFZMW9CVzBZa2NLcTZ2SnNjRkFOU2UtbGxoanhtTU4td0NMZXhBa214WjZuWTdQclF3X29oN1BVQ0U4NWJWWVhuTHlOUGZaRXFHYzZJbmt5WnllOFRRUHQ5TXJXNFNnTU5uLXlYem9TbW5OOTBjR2tLVWNwVGQxY3NySUloa2psWVVEQ1NpdFdxbThoWVhsSDNCbjg4WXh3T05xcGw0OFRPMGx0VkhPUXFKajNQbGdFNjFhVWQ4Uzc?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "2a9a6bfb1a870eba",
-      "headline": "Here's what Elon Musk said about tariffs and their potential effect on Tesla - CNBC",
-      "excerpt": "Here's what Elon Musk said about tariffs and their potential effect on Tesla CNBC",
-      "publishedAt": "2025-04-22T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclVRNTZkeEhCaHRyU25ZZWl1Qml0Q0lLc0JLNXZHTTZtNEVVdkdhSGJmTUdWNDF4ZUpwMi1sSGxCWHU5RFVHSVFLTU9WZmx0MzBYT0JXTkgtTnlZSjVOemk5SGxtdnI3WGpYVjNWdzdrd2d6YXZjRWU0aW1WZ2JTRHhFN2ZBXzJSYkhZcG1yTDFMRGhMeTI5UndPaVJtbGNrSjRKZXk0cjNBd9IBrwFBVV95cUxOdVpYV0JNeFdjNFdua0V4V0h1bkFQbFpOVjlnRWcxWW1sNU13OU5kSXZwM2hSWXAwWVJsUFVnc2N2aDlPeHFqb1U0WC1PWmw0bWhNOXVUZGR5cUJHWEIySkIwOG0tZzhRRmoza2pwajJkTzRrS1B0bkRPbllwNmx4OVJfb1ZIZkluSzFFT2ZkY1dzWlFfZnRsMEw2bmRGcDFwOHRxbmZWbkVnQnMwZmNn?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "d5bd272c711c1563",
-      "headline": "Tesla Once Again Delays Cheaper Models - Jalopnik",
-      "excerpt": "Tesla Once Again Delays Cheaper Models Jalopnik",
-      "publishedAt": "2025-04-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtVHNjWjNMQzUtcDlROFhabmNmNE5MNW5sNjJubWo1Z0JPYUVkd21wNDdNYzZJUm5PZG9KMHlyWWdqQzBkMTg3NldrTnYxVkNwUElEa1dHeU5Fc09pQjFDRU1Ub2VobHVLcFNOa0Zn?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
