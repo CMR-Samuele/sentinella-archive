@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-06-19T22:55:41.206Z",
+  "lastUpdated": "2026-06-20T04:50:35.205Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "729d27b8f130c681",
+      "headline": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-20T03:50:16.000Z",
+      "url": "https://cleantechnica.com/2026/06/19/rivian-to-challenge-tesla-fsd-later-this-year-ceo-thinks/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "4ccdaa69cf82a2be",
+      "headline": "Despite All The Smack Talk, Tesla Copied BYD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-20T00:15:59.000Z",
+      "url": "https://cleantechnica.com/2026/06/19/despite-all-the-smack-talk-tesla-copied-byd/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "8f6880f213bbbfce",
+      "headline": "Volkswagen Dune Buggy, Chevy Nova, Harley-Davidson Breakout 114: The Dopest Cars I Found For Sale Online - Jalopnik",
+      "excerpt": "Volkswagen Dune Buggy, Chevy Nova, Harley-Davidson Breakout 114: The Dopest Cars I Found For Sale Online Jalopnik",
+      "publishedAt": "2026-06-19T20:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFF2WkxCUENxd29jeG5abHhQLWdNTDg1SDVwWlE1ZlRsQzg4bTViZ1NwV2M0c1RfMnNSdW5aZ3FxTHk0UDl3ZWp2cGNfSTFTR0w4TVlWeVhiMWRtekdNYjE2dm5QMTJrdUVCdjU4UXBOYWxmb0lFUzFEc3I2bEx4NmFhVjB5Q21Pb3BtNThmdzk3OWhicmxN?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "3775c15bcb4cf220",
       "headline": "Ford Can't Even Get Recalls Right, Has To Re-Recall Over 387,000 Vehicles For A Second Time - Jalopnik",
@@ -2577,6 +2604,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "9b3f257bb1deaebf",
+      "headline": "These 30-Year-Old Cars Should Still Be On Sale Today - Jalopnik",
+      "excerpt": "These 30-Year-Old Cars Should Still Be On Sale Today Jalopnik",
+      "publishedAt": "2026-06-16T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFZzMjNhQzBpcmh5cWl1T19uTXoxc3g2TGRMRXNjUkphaFRqcHk5RUZWclJDaTMxdzFOYkxCVnNxRWxJU0U0OEE2eEJwSEo4T1JJcUJOdTFtVkFBRnRmOGlRYld2cEVKa3RWanBJN0lzU2JrTUZNVi1oQURRR1pxOXdPcndfVlNZclpFd3Y5SkJfVFY4ZEpDaw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "3c4b8a142d47ac15",
       "headline": "Tesla under fire: Senators demand probe into Tesla Full Self-Driving safety data - Latest news from Azerbaijan",
       "excerpt": "Tesla under fire: Senators demand probe into Tesla Full Self-Driving safety data Latest news from Azerbaijan",
@@ -4852,6 +4888,15 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncW9zbnozMllBWk5OUmF3QnMxZDlfUEdBTHRjT2FQTW04cG9xZzRya24tRmVwZGg2MlhlM2dmWWFsaDZ0U1B2bTh2b0k5bUFqNndQRmtEa3FSNlBIWVFPU3lBaGY4UUgyczZR?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "eb5eaf79ada24149",
+      "headline": "British army intercepts Russian shadow fleet tanker off UK coast - Reuters",
+      "excerpt": "British army intercepts Russian shadow fleet tanker off UK coast Reuters",
+      "publishedAt": "2026-06-14T12:44:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RmZSSDd5WW5mM2JNYXFPM0trRGNPck1OZ3UwUmc5RnZTSFhiWXF0d2ltTElnSjhSUUpKdUVBMjlWVVdkZFhJaUtSajBlVDVlbTRnRURuWHhEQVA4WnQ5ejdPeC1yQlE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "eeb32c59e35a158f",
@@ -44956,51 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnBfV1NDWkRldE5XYzYwT3JZRDFQRVpMQUFzQXNsQVBGeTZTSGtTRUFDQnJ5TllNbExMNk04TUx0eE5JQjBOY1RGcTFoR1YzTkpKdEFuZ20xMjJjYkRaVkMyUEFoamZiTkhDVHM1cm1QVHBBbHZ5TmlSbW5mdWpJZU9iaFcyQWJic1gwZTl5VlZVdXp0UDhSR0pfcVowUlhpQ2dUQldGel9CY0UyeXRoYmhoRXNHdVRoVjR1Q2lrcmRhekFfeXBWbVBEWk1UeFhJUXNCRWhB?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "83faa7f808e5a4fd",
-      "headline": "Tesla (NasdaqGS:TSLA) Reports First Quarter 2025 Vehicle Production & Delivery - Yahoo Finance",
-      "excerpt": "Tesla (NasdaqGS:TSLA) Reports First Quarter 2025 Vehicle Production & Delivery Yahoo Finance",
-      "publishedAt": "2025-04-16T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlF1RllsSTJJaGZTMlhmeXEtYy1EaTU1MHVBemRwblV4cFNZUGRfdGl4Mk53TmFPSW1LcE91U1VxRlNJdDNxcEctWEEwaGNEcGtvVGJjMFJFQzJsTjVxYW9EczNvSndqMHppYkZhVy1IQk03TFZTYl9yV1d1UHFWeVFSclpLdw?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "fbb30d6101e5db44",
-      "headline": "Tesla Odometers Could Be Overestimating Mileage By As Much As 117%: Lawsuit - Jalopnik",
-      "excerpt": "Tesla Odometers Could Be Overestimating Mileage By As Much As 117%: Lawsuit Jalopnik",
-      "publishedAt": "2025-04-15T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3lwVmsyZHVOUDhUQjNIRjFZd19kUmMyNnBxLVJYYXBETWpkNDJKdVFCWjdyNlFGZDNFR0N4SDVBUzVBWkFsbWNNTVdkMUFPdm1iNE1OSUY3TXRJejJueF8xSmdvNEFJRndKVzlmTmVYRXY0QXZ3M2RzbVp6TFd6S1l6bVJ4Zw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "f942d76e1b24d428",
-      "headline": "Former Tesla Head of Investor Relations Martin Viecha Joins Skyryse as Strategic Advisor - PR Newswire",
-      "excerpt": "Former Tesla Head of Investor Relations Martin Viecha Joins Skyryse as Strategic Advisor PR Newswire",
-      "publishedAt": "2025-04-15T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTBvTHpVRjhBUUhDWmF5QVZ2QTNLZFFJOWNFT25ydXFRZWN6Um5FNVdvWTFIYlFjLUxPWmFmZkMwS2V0Wm9tRjdIOGp6YXdhVkYyNnNzMUZBaklnSGZoLUpEdGVrNE5pVzg3M1BfN01TMlpaQjFwVjBDUG1KSWJLdm1rRGQxWTV3enZoc1MybmhVUWtLWXVBVk9qMms5Y3NNWE5oaUlJN2lZZFhKWlF0T0dkWkpXcXVqOWRhdV9FdDd2NmNrSE5FTEtzRmI0YzBtVWxFNVZsSFZsUkpk?oc=5",
-      "sourceId": "tesla-ir",
-      "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "d309a281d12e0066",
-      "headline": "Tesla earnings: See the electric vehicle maker's recent results history and projections - Business Insider",
-      "excerpt": "Tesla earnings: See the electric vehicle maker's recent results history and projections Business Insider",
-      "publishedAt": "2025-04-11T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQWJrUDhFcVpXUDQteE1jRzN6a2RONzZ4R2ZBTFpfbHB3MWFSLVFZdUZ4RXdqRDJLc3BhV0FfNmNBanIza2FtQ3lGZVhSTml1bkw5QTI2YVRlUQ?oc=5",
-      "sourceId": "tesla-press",
-      "sourceName": "Tesla Press Releases"
-    },
-    {
-      "id": "c9a6ce1003f2c614",
-      "headline": "Stocks making the biggest moves premarket: Tesla, Stellantis, U.S. Steel, CarMax, Delta Air Lines and more - CNBC",
-      "excerpt": "Stocks making the biggest moves premarket: Tesla, Stellantis, U.S. Steel, CarMax, Delta Air Lines and more CNBC",
-      "publishedAt": "2025-04-10T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWlfMWM0c1hfQ05ZMWl2QlEyR1d1MmlrLXI1enB6S0RCUGp3a0dreERHUV9sZFFmSFRlM0l4MzBCTXY3dmF6NGkxX1pmNmJhaGQ3Vk1hcGRyQVdaT3VDZ0xySThhb3RlSnlMT1hOaUc3Q0p2Y3gwYnNDSzZfSDg3TncwaTJ5U1BoZEU1eXdxXzNyNmQxOGM0ZFU0cUVTUUE?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
