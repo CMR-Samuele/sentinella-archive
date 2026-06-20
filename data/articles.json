@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-20T17:54:10.674Z",
+  "lastUpdated": "2026-06-20T19:23:59.116Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "254991a3ddbf938e",
+      "headline": "TSLA.F - Reuters",
+      "excerpt": "TSLA.F Reuters",
+      "publishedAt": "2026-06-20T18:05:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wVU9HMFQweEs3cVpUR19nT1M2MV9fd01TcnhQLUJFMU9QbXNLWU4zbHQxOFhyLWtUX0EwZUhjX0I0V2R4TWZGM20wMFNXOEdqVTJvNmpUM1ZwQ2pSZEZDdkFGcktraS12S0JnSldRYWlRV1I3SHlqaw?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
     {
       "id": "752caac05a656fb0",
       "headline": "WattsApp Increases Rewards with Triple Play Program and Tesla Model Y RWD Giveaway",
@@ -2089,6 +2098,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlFtNUpmVDZmaE1FYUc0YldHQk5aY1VZRFZ5OTAycHI3Wk9oSzlWZEk3OHFLZ19admNESFlDbC1IWV9Hd1M2NEEzOEJMVTdSZjlPeFIzRXpKVnJTc2NPSjEyQVM2cW9WeE9kUEJ3b2dFQUQ5NkNPek5LTVp1b2l2WF81MDIwZkJYN0tQM3NEUWxibUFFd3czOUJHR2l2d1Q1Q0hVQ0VR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "0374fc4328ef1446",
+      "headline": "Tesla faces EU scrutiny over disputed FSD safety data - MSN",
+      "excerpt": "Tesla faces EU scrutiny over disputed FSD safety data MSN",
+      "publishedAt": "2026-06-17T01:24:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYnE4V2VXVUg5SHNIR0xodFFESGlpbU13US1aX2RJc1hIS1NoMjVnSmVaMmc3d3NWUTZpTWI1WVdrUElFUVhCakJiMm9KYmJRWUZkVTdMM3ZlWWRWcnZPa0ZFR180NnRSSWJTQnFaTmdpR1Z1dHBGVjMtbmMwcUtMbGhOSERXcXpLWUZYNDVxUWlDVFJsckxrbFhNMDNraVIxSDd1X2lxRWp6bTdmeGJCR0dPU0locDdkc3BBQ0lhQ0l4T0dSaXhEaFhCZVFadFgzRXVvX1dRT1NkYjFPQk9LcVEzT2ZJWUZRU0J3?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "183a96f299fe7ea6",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlhUYjFEV0JBSHZHOWtKcFlqajg4TjJ2b0x2VWQtdEFPSnJqZWhmVllpck9Qd2ZrYXVaYVFoUW5uU2U1RzdQV1plS25NcWgxSmtmdjlQckR5REViNFhVVjNwNnFNTzRISzRlSkl6Zkc0NVdKU21GeU1IM2pvSHpocUJScG9CMElNNlJhQWgxanR3UlFLbXV1RFRfUHBxWDFoWE5fYzJWaTVETXRpRnlqSGFjUjE4X0ZQdXF6Rm5kU2ROQVBrSllQell5bVNRRExRa1U3bVpMdlRmM0U?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "36c8cc1f9bcb70ef",
-      "headline": "Investors relieved Musk will refocus on Tesla, but worry about brand damage - Reuters",
-      "excerpt": "Investors relieved Musk will refocus on Tesla, but worry about brand damage Reuters",
-      "publishedAt": "2025-04-25T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlF1dGRLNmdEekwyRWNMWXBYcm5nc20wel9xRnFHc0NqS25YTjFLVzZuRHZRN05YR3BQaGtkSTJBVGZ0cHF2NXBueW9EeFZoLWpCcnR5RTJqRTNlNXZGYVU5WUdJQzIzbUZRSi1zTDFaVm4yYUNGVVNrMFNHRUlXdWg2c0todG9YUGpmNzN4S1hfdGE0QjVUMWUzelJIT1VSTk1LeW5pamFrNm1PclVRSE1POEN3UQ?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "ee0fc5af01803faf",
-      "headline": "Half Of Americans Hold Negative Opinions Of Tesla And Elon Musk - Jalopnik",
-      "excerpt": "Half Of Americans Hold Negative Opinions Of Tesla And Elon Musk Jalopnik",
-      "publishedAt": "2025-04-24T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTNvRnV0ak5mOUxUWk5hOW9lZV9EZ3cxZ0pCUW1ScFZ5anVXSU4zR2VidHhOY0pRdC10aXR4WFNsOVJFTHRIMTBtVlJZUVYzWU9QZVI4QnpkMmpDMlNRZ2ZDZmFUZ05BYWVLRGNtc0k5ZEU4d3AtcjJYNWFGbkNXZDVjaTV3RXpVcENqWnZHTQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
