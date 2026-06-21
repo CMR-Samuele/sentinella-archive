@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T08:45:38.271Z",
+  "lastUpdated": "2026-06-21T11:45:12.712Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -73,6 +73,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSmhPaEpKMEhsZWZkSlIxcU5TMjJjM09pOWtxczE3emVPcEFvbUF4TG5JS1dHb29UZWM4OGJJbldObWJ5RXVQNTZyNkhTZ1Z3Nld4dkozMFBMNnN6bTJ4TjVjQzlmV0tvNFBCdTFDWUxGRXpzN2pRRm1wT0o2WDVVckY2b0hUUVNhRVNB?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "21214098f3a10d45",
+      "headline": "Tesla robotaxi rear-ended while stopped at stop sign, NHTSA filing shows - MSN",
+      "excerpt": "Tesla robotaxi rear-ended while stopped at stop sign, NHTSA filing shows MSN",
+      "publishedAt": "2026-06-20T23:50:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNTkdLc2JPSGViWjk3ZHBNelQ3OXAwU2U1bTJFWW5DUTZMeldwODZ1RHZPc3EtdXdtc0puR3lBeXZjRWptQmhaMjVoU0lHV3YwNGNjQWVBRTFQcFBydzNlSk9JeVdVS3RTMUhmUnozY2laal80VWFWWFhmR2pNQWZLcWxDdndfLUlYbzFsMXBqV2NnZDFZTWJEX2ZQSDVxTEtCWnZFREdWOHoxQzZFNE5scExhTkJvMjhuSGlTNjVzTF94NXlZY29SX3VXRWJZWDNpSmhEN21pNHcwVlI2U2w2bXhUVUJaUEZsSUtDdE9vVXRuWDhQdHJWeXl0bWJoN19WdGlSQUdZdjloRUxDSkVlX0lsbzR6RmdDYndBYzRaRzFYNHhNRktCOXg0dlpjYUdyVGF1dFRhbzRiMjl5UEE1ei1ZSWlOV2c4VnY4SW14dE5yS1R6aklTdGh6enEyRXJ2VUZBajN2Q0JHb3FqdGt6akRtV1lteVZHOE9FTU9mNVNZekhNNnZ0T0xIMmpUWUR0Xy13Rw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "7443373cf1509422",
@@ -1466,6 +1475,15 @@
       "excerpt": "Exclusive: Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait Reuters",
       "publishedAt": "2026-06-18T04:01:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkFsTXBwaXJRQWstaHh0MDlFV1FidE1nX0tVS2U1T2h5XzFDSnVTaGpRWW9oMFF3ZG5FTGVQeTNYTkd2VUs3V3doU1B3MkI4M1l2eFZlVzZZY1BXbk1EdkNLNU9KRFd4Mm5ReDBDaHNPME1oZ3BnSUpmOVVnVjBLTG5kSE93MThiM3VEbDJackZtT29ZTWc5cWJ4YW40R3QtcWM2ak9vLVZhVXJCSlZNUkdWeV9MYzA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "39d7d0badc5d2e9f",
+      "headline": "China's DSC Holdings seeks up to $62 million in Nasdaq share sale - Reuters",
+      "excerpt": "China's DSC Holdings seeks up to $62 million in Nasdaq share sale Reuters",
+      "publishedAt": "2026-06-18T03:43:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWNzcnp2V05Td0x0RHNXOHQwcGhwaUJlV0t0WjU5RHF4M1pKSDhyU09UMTFGMEZTUDFDRTlvRFJRM1JZRUVDUmdmel9HZlhUZG5YcXRfQ2p4Z3diOEpybE0xeGFJZXlpNTFwWjAxX1RuRVB5NHdRR0xhUnh6OEVxZUZRMmQ1T1Y1a3c1OGItc3pHOXlua3RZd2pfdzdPLXl1bGJIRUI4TjF3NUxhQjJiYXRR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44981,24 +44999,6 @@
       "excerpt": "Kraken launches tokens to offer 24/7 trading of U.S. equities Reuters",
       "publishedAt": "2025-05-22T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORGk1SFJaZkdmaTdNTkloNENpRGk4Wlg3SXFKLVoyNHRFOVJqeVBvTk9yNnRIdWt1U2VtNjZ5aHBjWnpvMi1jV1VtMGJKcXhBcHFjUzlvWWxoR2xyZXhGOTJqbXkyanFXQkpPU1RhRVNuUUhyaUkxYU1NOXV2NGtSM0V6QW5ibzQwQkFEYklJTUdOVXc2QnNzdkZwMDRnbUNaTFRhYXktS2JYQmNtdURvMjB3enlxUThjN05nZnp3bmJmWU9pN2FjY1QtN0YyZnhVR1I0Z29B?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "7cc3021081a30d42",
-      "headline": "Watch CNBC's full interview with Tesla CEO Elon Musk - CNBC",
-      "excerpt": "Watch CNBC's full interview with Tesla CEO Elon Musk CNBC",
-      "publishedAt": "2025-05-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTgwdHV5TXF5enR6YjAwby0zNjZmQWh3Y0duVi1mUTJNaUlIaERqd01qeFZyOXRDa2JoVTE4VmFfd1poMVV5RWJOY0hybndJU1FpRVZ2RFVjdmNBY0oyYldWUEd1T2dYZFZGQWlTcnhzRGVkNno2VVljc2twWW96ZGFZYVR0QWJCZG11ZV82LTlrcHU1SjFkOHhn?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "280682682cfda1aa",
-      "headline": "Wall Street stocks slip, rising US Treasury yields in focus - Reuters",
-      "excerpt": "Wall Street stocks slip, rising US Treasury yields in focus Reuters",
-      "publishedAt": "2025-05-20T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjFOSkUyYTZ4RUQ4RmJFVGdTN1FPMEQ3dU9ZZXpvYmZBR3cyTG5xNW5sdUJrQ3lyRy1EZmtYMEtjY3Azem1hcHl3bF9mS0xHRHZSd2RYNnFCblJSbWJaa05kbDViWUgxdFdUNFJsOVE3T1J1andVNC1mNENpeWJfOThxeHBLMUduek1iRGVpb3ZoVmtzYmRhT2VXUTB2a1RNaVdxQw?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
     }
