@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-06-23T21:56:04.329Z",
+  "lastUpdated": "2026-06-23T23:08:53.843Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "9dd5bcd6b387bfd0",
+      "headline": "Tesla Improves Charging Passport and Launches Free Supercharging Competition For 2026",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-23T22:40:14.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-free-supercharging-competition-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-free-supercharging-competition-2026",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "70da9919ed38712c",
+      "headline": "Tesla Refutes Autopilot Role in Fatal Texas Crash - Let's Data Science",
+      "excerpt": "Tesla Refutes Autopilot Role in Fatal Texas Crash Let's Data Science",
+      "publishedAt": "2026-06-23T22:20:14.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNemZhRGF5VGFEZmJhOGtOZXlWMWNaS0RmVDNlUFFBM0QtWmUzMENYS3M2TlYtU3NUOFM2VTdMaG1Qc2Q4RXBFM3QxRG1iLUtrZ09hUkF6enM3QU5GcExqVm8zUms4Wkdzak5lZXpIN0JwRUcwSWVONE1Tdml6bUNSZ2tvVFo2RHN2ZHdzckdGY0hCU29oUHc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "39aa6c252bec4c8b",
+      "headline": "Tesla signs historic $5 billion Megapack deal across UK and Italy",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-23T22:19:56.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-25gwh-megapack-deal-natpower-uk-italy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-25gwh-megapack-deal-natpower-uk-italy",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0f5347faf5cb0e96",
+      "headline": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports - Reuters",
+      "excerpt": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports Reuters",
+      "publishedAt": "2026-06-23T21:39:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1BkQ0VuVVRQS1dyNXlUd19NMEtTTTNhYVoxT2ZGUm9CMmx6NVIwVVp4d1RKQ2pJclpJM3E5aXVPQm5jMVNJSG5mYWNuRU5ZNU5fTEV4Z2h0T3Q1MGZYbW9ZemRRZ0hTblpwOVJaRnpMNWdoa3QwMlpYVmFHQjEzQ055dk90Q0VmZmEwckJGa09DRnlYR1NqTU9zZjVNS29fRlVwMXlPV1NTNFlLOENpSzRR?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "7647de3b87ba531d",
       "headline": "Tesla being investigated after car drives into home, killing 76-year-old woman - CBC",
@@ -181,6 +217,15 @@
       "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo",
       "sourceId": "tesla-youtube",
       "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "b8d447df82bedbec",
+      "headline": "These Are The Cars That Best Epitomize This Great 250 Year Experiment - Jalopnik",
+      "excerpt": "These Are The Cars That Best Epitomize This Great 250 Year Experiment Jalopnik",
+      "publishedAt": "2026-06-23T17:10:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWNnSWVhOGd6cmxWMUVQMi1TQWllb1ZPakVsY0wzZ0F6eE5pNGFYUmJkbWpndDdjUlVaRUdWWjBITnFhLWljVkpJNUcwLXYzT0dVUDZiRTVGTXA5T1BvVXFYQ0xTN0NlSkU2T3lXNmZmYUV2V0N2cUUtQm9faDNwRWxIOXZmc09DcXJwMUVYRGl5S2c?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "56e6839f63520c06",
@@ -406,6 +451,15 @@
       "url": "https://driveteslacanada.ca/model-y/tesla-model-yl-fsd-v14-delay-australia-new-zealand/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-yl-fsd-v14-delay-australia-new-zealand",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0a81e0529de9e998",
+      "headline": "'Hybrids Are Having A Moment' As High Gas Prices Push Buyers Away From Gas Guzzlers - Jalopnik",
+      "excerpt": "'Hybrids Are Having A Moment' As High Gas Prices Push Buyers Away From Gas Guzzlers Jalopnik",
+      "publishedAt": "2026-06-23T14:27:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sWXV0dVk3RkdRXzdrNGFjQTk0akdaSXRja2ljZWg1ek96WGJoTW9vMGxINzRzUVJDUXliRFY1M2stQjRwaFpFRGNPQVJWanBKVjkzQ2x6WWRlSkFFOU9IRjkzOHZYQ1dCQXpOd0o3MExhN1ROZnFF?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "4efca0f97c51a821",
@@ -1119,6 +1173,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "4b6ac99864b7338a",
+      "headline": "NHTSA investigating after Tesla crashes into Texas home, killing woman inside - KVUE",
+      "excerpt": "NHTSA investigating after Tesla crashes into Texas home, killing woman inside KVUE",
+      "publishedAt": "2026-06-23T00:24:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaEhpbkVSSDBod2hNanNneWNRb3dUVVVkak1YV2NJbEx2WnF1SGJYMl9UaEhDRnJBa2Y5VjVvV01Id2ZHSXlmTENfMnV3OHJHYVM1cVF5NUhvNGdhQm55Zy15VmJMUWk2Q1dYUkdERXdjLUtnVEJwYldzOEFYZ0xBYS02RGV0QndybFJZd1ctOUFzYU40T2RfSVgtTXV0YUoyWTdqdHprdzB4TENOTlFkWGdHaWUySGp4TW01c3VNcHNCU3E5Z2NUeXFn?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "14c55e6c99fb78d7",
       "headline": "NHTSA investigating after Tesla crashes into Texas home, killing woman inside - KUSA.com",
       "excerpt": "NHTSA investigating after Tesla crashes into Texas home, killing woman inside KUSA.com",
@@ -1650,6 +1713,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "bd8706525fd8d290",
+      "headline": "US opens probe of fatal Tesla crash into Texas home - StreetInsider",
+      "excerpt": "US opens probe of fatal Tesla crash into Texas home StreetInsider",
+      "publishedAt": "2026-06-22T19:53:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclItZ2U1RnJrRy1ubng4MXRzOEhkMFJjam9Hak1QSDc0dlFQbVhjSE5KNFlCQWctS3FKUlZuanNkWGRvNWdnc0FKMzNBQVRTNFN1RHZ0Y0QxT1Zoa2hkWkpHWXFJdnA4TFB6Rmg2V3VRY0JaTU9OZ19iMUE4cUFiX0dZbjU3X2lOaC1fa1ZVdHVtQVpWMkUxNnJ3STEwX0lNbkhkTHFzNnk?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "c1f61f793499b084",
       "headline": "US opens probe into fatal Tesla crash into Texas home - Reuters",
       "excerpt": "US opens probe into fatal Tesla crash into Texas home Reuters",
@@ -2055,6 +2127,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "ad1a0064180488b3",
+      "headline": "Three ways Trump could get a stake in AI firms for the US - Reuters",
+      "excerpt": "Three ways Trump could get a stake in AI firms for the US Reuters",
+      "publishedAt": "2026-06-22T15:43:27.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk1wdmpHWjNYX1l2SVBUajlPZ1RxTXNvRXFzbkRLV3E1ZmR3TDhJdkROTnY3WDVvOUd0MVFaNFNlRjVfczBMazlsTDFidVduY1g4aVM2YmNnUzE4U0FCVzVyeUM3V0h6WTJxSzdDNDMtbW5rTkE4aHNva005T2twMjZqNV9EQjMzcDVBSDNvOUVudVdIRTZ1Zm15ZWJUV3VGT3c?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "6f023076a2c8e7d3",
       "headline": "Eastern and central European countries demand EU strengthens carbon fund for poorer members - Reuters",
       "excerpt": "Eastern and central European countries demand EU strengthens carbon fund for poorer members Reuters",
@@ -2087,6 +2168,15 @@
       "excerpt": "Chevron signs power supply deal with Microsoft for Texas data center Reuters",
       "publishedAt": "2026-06-22T15:36:07.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFNWZEJsNUZ0aEx2SXN0WEdxcXJ3U0xrOTRYTVc3a1p0VHJiS0lVS2l6VzFIUENxQmR4X09LUDBaRDBtWlJiM2M4bDVCTjNjbUdTZG1tdWpEcl9FTjJQei1Ld0V1cG9ha3RXOXRWVGREX0pMUUVYeVhhTklENzU5dVJDWURVZ2hqNnE0TWJDOGRsUkNuRTFfNjRfUzlLazAtZkFod2VwSjhvVXNEb09GaGV0U3RKVDZW?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "ee1b557572fd5bc7",
+      "headline": "Czech government plans to ban mobile phones in schools from 2027 - Reuters",
+      "excerpt": "Czech government plans to ban mobile phones in schools from 2027 Reuters",
+      "publishedAt": "2026-06-22T15:32:54.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3U0QW9nYXF4Q1JMbVJwZ25rZzY4VzZ6eWR3SWZPNnlYYTBQNHhRcFpXZXZpNTJpZnhLVDlpdEtxUUs3TFhVWjJkNEZaYlk4WHRBaEM0VWF4dW1qMV9IdVJQUW1QNGtmUHE2SWR5UHdaR2stb3AtMGJQRW1uQm5ZVUtyQWNZNDd1OGltbUQ0NnRxUmltcmxCRVJEQi1JZ2dOSG9DeUNZT1lZb3hBQndhampB?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -2393,6 +2483,15 @@
       "excerpt": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah Reuters",
       "publishedAt": "2026-06-22T13:47:27.000Z",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc05XcTduNWViSmxvQ01JM3FJRUItOWhMd2tWYm92ZXBzRWx4aXBiMnpTb1VhS3JTektSd2VSLUJhNktzSWtfd3NDUkxxa1RFdnFaS29WRjdLOGFvZXg2YWV6MU1xSUk2UUlvQ2MzX3g5c285QkY3ZEd2ZEhxTnEwZ25OeTJ5NnVVWkYtZ2t2cFR2NWtMY2pTU3dHd042SHFoUHY4VjFn?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "aef18dbd8dde257f",
+      "headline": "Upscale AI valued at $2 billion after funding extension - Reuters",
+      "excerpt": "Upscale AI valued at $2 billion after funding extension Reuters",
+      "publishedAt": "2026-06-22T13:44:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejN6UXVxNng1TXNSYl9aWlB4dktLdDlMWlpUVlJGeXhhSHJEN3BoSzR4UHlsUDh1T1lvT1JVOGk5Y095WGxUcmxVNzhiTFdlX1JuOXRuaEJpSS1YYlh6SnNOTHhjSkdjMnBPek1VNS1NOGkwQ3Frczkza2VMaXVsc2NpWGhrN2poMm9QdmIzckFUQXBCVHJ0eUMtZ2g?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44902,105 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkVjZhUFZRX1BQaTUxMTRSZEFsc1ptYnZrVy00aWlwakxsZG1nMGFTX25HS3pOWjJmLXdMU3JMT3h4THdCcVozdXQ3TmhLVWdQcTlHZDJuUmVsS1pDeVdodVdB?oc=5",
       "sourceId": "tesla-deliveries",
       "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "f7cfe258307c40f6",
-      "headline": "Tesla Q1 2026: Deliveries Fall Just Shy of Analyst Estimates - Not a Tesla App",
-      "excerpt": "Tesla Q1 2026: Deliveries Fall Just Shy of Analyst Estimates Not a Tesla App",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaEpJcDNjZE5zdmNJTDl4amhqM2NFR3VEOElZVkRvV2MyOHROSVhLTjJNZkJaUC01SEN3dEhCT0hzWW4tWFdwNWhGTXk5NThFX0tMUWJVdEhvRmlDX0YxdGVjenkwV2Fxcy1iNHJhYktHWThFcjJXdG9NYVZ1WnBzSlZnNXI5ek1pVUNTbkI3d1VIYlRm?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "e3e2c0298cde6c31",
-      "headline": "Tesla shipped 358,000 vehicles in Q1 as storage reached 8.8 GWh - Stock Titan",
-      "excerpt": "Tesla shipped 358,000 vehicles in Q1 as storage reached 8.8 GWh Stock Titan",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW5WWlF0bWN5T2gwMDRQNThOWXN3QjJjRndkWG5LZEEzUlpIN2lZZkItU0w2c0R2ekR2QUxNTFRDS0NWYUlzUktRdHR0M25Mc3RZMXBadWI3N25oOXFzaTdsalo1QUJDQWJILTNkT2ZSdXVFREpRYThjUmxjRy1kVGE0NEJZVy1qbUJIWWt5bUw4VUJfNDB6V1pEWVNpSnVMSldZ?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "0db105d35cb50d56",
-      "headline": "Tesla Misses Q1 Delivery Expectations as Production Outpaces Demand - driveteslacanada.ca",
-      "excerpt": "Tesla Misses Q1 Delivery Expectations as Production Outpaces Demand driveteslacanada.ca",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUS1MUXlkdmNQaUpQTk5mNFZmaGc3dFpNTmdYSWtUOVUweERudHh1NnBlLVdkTXRkNjNPUlR5aE5ycXRrZjBvaEFxaHlyZEhIYnlvT2hHcTFrSHRjYmloeVVMV1hROFozajhHQUlrYW5Hb1F4U0pETDlEVEhBYUloamg0S1NxMU5la2NxaTN1TWhoVWk3aGZVOFpUWFhQRVdKYVBV?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "a67e87d332f4fab7",
-      "headline": "Tesla's 358K Deliveries in Q1 2026 Miss Even the Most Pessimistic Expectations, Leaving 50K Unsold - autoevolution",
-      "excerpt": "Tesla's 358K Deliveries in Q1 2026 Miss Even the Most Pessimistic Expectations, Leaving 50K Unsold autoevolution",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWE1KT3E4clNlMWsyc3Mxdkc3Z2tBeWhKUEh2YkdsOUFMV1djUEdJRE9tMUR1cDBNXzEzaGRDYjc1UUZBaXVOdXVlZERfNEUyQjVEM3Uzdl9tMEtzS09pckpJeHRlb0hBbWdUcndIdTN5eC1uOHlyYnZES1ZERWNHTU1lSm1wVHptRDJFMl9Cd2NHTFF5UTBpcUlxanVldDVfQnA3RGNxMUdydWlwUHdWRTRHQlV1MXg0NFVCQk9GRV9mRXBJRmdxc05PLS1CdjE3SmZ3NVBiUG5jbHBz?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "120a2c0d7c6d3028",
-      "headline": "Tesla shares drop over 4.5% as Q1 deliveries and production miss estimates - Mint",
-      "excerpt": "Tesla shares drop over 4.5% as Q1 deliveries and production miss estimates Mint",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3hFWGV5RElSYndGVzJraWo3XzZPM0pGdE1LSGpUUU5ZOWxNTm55MmVudGt5WFdiR0staUdfS1ZZZ3ZBTjV6cEpKZEdqMXhENHpuRV9ZbHJ4aU9sMHFOX3RHczRWbWh5cm82MGQzalpGd01SU0pJZTBfTHh2WFhSWjVLcE1UR2Q4NDFVTUx6cGdCMndlS3J2Um1SdVVDQm42aVJXaFZ0M3dab0pzWlJuUmZLeWRYSWZTSHk4eTQ1YUROQzJCRGJ4Z3NkMGYwU3JtMkp6dlA2ZmJSbWPSAeABQVVfeXFMUHNfRjVLdnd1N1hrOGtwWUhmMjZRYXZjeDlPVlZqczVmOEtOSm9TZ1pfOW1hNHBMVFBuQ0Z1SlN3eDUxSi13RHEwSUhvcVgwV0FBZTZwelotQlNHSWxQd1QxbFljeUNDcno4cDRDVDlVMHhhMDJ3U3RZUm5ZeXl2cmtUdXZDQU9oSWwycElZeFZCcnMyQnFDcmdYOVVSTldSbEI3SkV1cjJxNmd1aV9YdHluVzFTbEN4VHN1UjR3eldRQ2JFYmh1RW1aRDVKZTNuZXEzNTl2bU5XdkVlSXV6YUM?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "284547083646d124",
-      "headline": "More concerning than the miss itself is the gap between production & deliveries: Dhiab on Tesla - BNN Bloomberg",
-      "excerpt": "More concerning than the miss itself is the gap between production & deliveries: Dhiab on Tesla BNN Bloomberg",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMEFiTXJ5VW9jZF9KS0Z3WXlyUnUyNG5ERWdOcDZMVUlpS1JHM3RYbEFOMUpUbXo4MklrR1ZrSlF6aFNJcXlVck1GMVdPbkMwSi0tT1JwajdNdHdVMG15OWludkotQ1hDZXlIT2MzR3pzeGc0akdwdjVfajZVbFZ5Y1I1VmdvY0JnLXJvWVFDNjVZM2dwdmhOQl9sUFJhOEVOeTZzcGNSN2xWbk9rbmtvYUVURFhkNDgtVDEycWpuTzVSREhhVUdYeXFRM1dVY0ZKX05XanFSMDJJV21ENUF0LWNiQkZRZjQ4VGc?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "8cbbf50cf9191f13",
-      "headline": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report - CNBC",
-      "excerpt": "Tesla's stock suffers steepest drop of 2026 on disappointing deliveries report CNBC",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaVA5eFM3MGF0bW9qYVhkRjBDNmFudTJIQWpuQzR3MkxaaVBnRE8tNlVYdkg5UGJrMnpSY0tiTnNIUmYwMXpWYW5TSzI4dWphclZjN1NhYmNiTTJCbjM2MGRaak5VMDRMc2FLUjNBcjdvNFdRRGZuUkdpMmF5WTRUbUEwc05keVlnemlv0gGQAUFVX3lxTFBXM3R4RWEyYnlCN2pneGItdVR4NDZUa0JmeGRoZ0lQa05idl9hd1NCLWJ6RjVsYTNyU3dKTmNySzZSQlIxQjkxWlZ4ZjZOT0tWNDYtSDBreFdoMnlQbklmQ3BpakdBUjFSQzJRWVNxVHNMcXdOMkJBZTdPWWEzaHRhWlh0OVBqZWt6WEo1SUlXMg?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "175b4577869e6dc9",
-      "headline": "Tesla confirms Model S and Model X production is over — only ~600 left",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-04-01T18:17:30.000Z",
-      "url": "https://electrek.co/2026/04/01/tesla-model-s-x-production-over-only-inventory-left/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "75014f087bd9df02",
-      "headline": "Xiaomi hires Teslas former head of sales in China to lead its auto retail push",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-04-01T14:34:21.000Z",
-      "url": "https://electrek.co/2026/04/01/xiaomi-hires-tesla-former-head-of-sales-china-kong-yanshuang/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "6923952d04220d49",
-      "headline": "Tesla FSD v14.3 launching this week, Musk claims last piece of the puzzle",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-04-01T13:56:44.000Z",
-      "url": "https://electrek.co/2026/04/01/tesla-fsd-v14-3-launch-this-week-musk-last-piece-puzzle/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "d6d835e321f5374f",
-      "headline": "Tesla March car registrations soar in key European markets, showing changing trend - Reuters",
-      "excerpt": "Tesla March car registrations soar in key European markets, showing changing trend Reuters",
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVczNkRNUXlDOEpLckN0NzJnd2RkNVJQaTFISTNpbmM3ckhhX2xjNlZ6QzdzQ2dRYVNpZ2daWll5a0FOek5IS3lyQnV6dE1GQWVvdXNFSk0zN0U1aUV6WDhLXy1oMjhtMktaeEFjNmR0cnphU3AtMWk2eENES040Q3F5QTRLVExYVjA3SUVja3FoUEJQMGpDUlhIUEkwMG1yYXVOZi1jMA?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
     }
   ]
 }
