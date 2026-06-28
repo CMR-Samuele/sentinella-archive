@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T08:26:51.342Z",
+  "lastUpdated": "2026-06-28T10:40:11.389Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -127,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-power-steering-investigation-closed-nhtsa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-power-steering-investigation-closed-nhtsa",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "9e20b278e1b37b5c",
+      "headline": "NHTSA is asking Tesla for more information after 'phantom braking' complaints - Not a Tesla App",
+      "excerpt": "NHTSA is asking Tesla for more information after 'phantom braking' complaints Not a Tesla App",
+      "publishedAt": "2026-06-27T16:29:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyMFN2QTQzOWh5M0tidnhVQU1lc1FEc05GSTdDRDJNalJ3SEJIc2JoSURNSFJXclVodDVuMUlqMnpuLWFaZ29EbXk1LTJGTEFpbXRxa0hXcw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "fabda56642f1267d",
@@ -44992,15 +45001,6 @@
       "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
-    },
-    {
-      "id": "7b86e234da5eb97d",
-      "headline": "Tesla finally reveals what happened in 17 ‘Robotaxi’ crashes - Electrek",
-      "excerpt": "Tesla finally reveals what happened in 17 ‘Robotaxi’ crashes Electrek",
-      "publishedAt": "2026-05-15T15:04:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWRoMmpUQzFMSEZKQWptRWI1eGZiTFFFbWdCM04zS0Q5QTlrWkVsSFlVZEZGcDFUTjh4cFNsYW5YYlZRSkdfTnFuT3FjNTF1ZzBkX2F5TEM2S2RsOTNEVk5uNlFDOWpheTFfdDdwVVZtZV9YRi05VXl2QS1zTDd6U3VLUWxndw?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
