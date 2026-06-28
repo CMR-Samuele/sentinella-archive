@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-28T21:37:30.394Z",
+  "lastUpdated": "2026-06-28T23:00:43.006Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "69055b8c74827ea3",
+      "headline": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it? - CNBC",
+      "excerpt": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it? CNBC",
+      "publishedAt": "2026-06-28T22:09:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUh3REZPS3hqb3pyMVlSSmU2LU03cTNVazRiN0JwVlhjaHY0NUtxbnZqZTlQOWNOS05zTlZhZEQ2dmJTZ3dpSU1TVmtxd3NNNE5pYzBKLTllbWkySjVmOGFGUU82dkQ2NmFYWkxlQU5wdXhNOGZVZDlpWEpuOUN1bGF0YmROdXpEY1U3TmgzWXl0Z2dqNm9OOXRUYkFrVnZI?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "b0c9f339ea447df6",
+      "headline": "Why You Won't Find This Tire Brand On A New Ford, Probably Ever Again - Jalopnik",
+      "excerpt": "Why You Won't Find This Tire Brand On A New Ford, Probably Ever Again Jalopnik",
+      "publishedAt": "2026-06-28T21:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IRlJwNjRWc0RqSzdvbWNMdTBYajdUT3B2a0NFZHRRS0ZDeFNLNEgtNFpWd3J4RktEUUlwWWJ6d3FPeVlBa3pCR3VER2hmbGhLb2ZES0pncnFkajE3c1p4ckFwYW5oTWJmbWRnNVl2VDRIYW5leHRYS2RB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "2ecad164504c8801",
       "headline": "TechCrunch Mobility: All eyes on Tesla FSD",
@@ -64,6 +82,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjY0Z0RlS3ZDQU94QzliQXBOYWwyZlEwUTREUVhTbkdhWkRxb3l4MUJWY3JhcjdPbWloSDBqZ3dyNkhOMENhaVQ5UTBiY2VqWTRuNm4zZGl0a1JUM3pZV0FOS2lsUk9COEVyZVdGV1VtVXpJa25vZkxqbndKSU9DUy0wcHhGb2VOVGpjbGd5d3I4bG92enJSLWxXa2VWMTktdHNKcnVRbHQ?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "f9d71ec3a5e7bfb8",
+      "headline": "This Was The Last Volkswagen To Roll Off The Line With An Air-Cooled Flat-4 Engine - Jalopnik",
+      "excerpt": "This Was The Last Volkswagen To Roll Off The Line With An Air-Cooled Flat-4 Engine Jalopnik",
+      "publishedAt": "2026-06-28T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOS14Ql9rNnJHR3JCcWJ2dU9Ja3NraF9GblRDdjBMUUlFdFZiTVExaThkWjFVMFR3X0ZTb29ZMjFlYWpuVTRFWENCaENYb0FTVTdqdEJ6dnVRaDZsNFp6ODZVLTl1MllTZVFtMnA5YTRjQjNUb2c2SGxMZ1FBZ1lmZXI1RTkxeUZPWjlZdUlB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "91608e32eb8e3788",
@@ -44972,33 +44999,6 @@
       "excerpt": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude Reuters",
       "publishedAt": "2026-05-15T20:03:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVld5aXdJMDExck1KamVPb2hGWkdEU0tQMFB4U3hPc0tieXR2amMtaVFzUW1taTYxYk51Z2VJem5Bd01xNE00RGY3dTlkSlhoZnB3VUZKMWZoeFJrM0I4eFMwSFZNVkoyVXJpd3A1dEItV0RtQjdUR2VLcl9GUmc5bmlHRWs0dnhPREN6aENIUlA2dFZzWFF2S25peUNrSVU5bkpoWXJlVk5pdXVpMUlFb0o4ZnRXZzdWZS1CUHlR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7821f8d7f056046c",
-      "headline": "Yields surge to one-year high as oil prices and inflation data rattle markets - Reuters",
-      "excerpt": "Yields surge to one-year high as oil prices and inflation data rattle markets Reuters",
-      "publishedAt": "2026-05-15T19:31:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWdKYkxGQjZyRUxLOGpWbXA2eUhubEVKOHB0QVdKdTA2N1pIaXlXQ1ZtQ29fcng5cFF0cXhZRGY3V21uOXE3ajNmUUJ5X2NsbEtKTmFFZDhNNnVMZFk1Y1poRU5WQkFzMDZETUtZVHN3b1lRaG1fcFNJSzFXendSMEpFUF9FcWhwdVRzSkpkQXpFU2l1b3g4aG1CdzJoVWVKb1psREhuTGlEdTlldTFBanJicUpSS2ZleXJ1Y2NoOEpsZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "acabeef9c0e22727",
-      "headline": "Salvage Yard Finds Nine Pounds Of Meth Stashed Inside A Junk Car's Door - Jalopnik",
-      "excerpt": "Salvage Yard Finds Nine Pounds Of Meth Stashed Inside A Junk Car's Door Jalopnik",
-      "publishedAt": "2026-05-15T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42WXNiUjVEZUhWc0NaOXkxbzlpNXJPLWltdGJGdlFQbU1NN0VkTkE0TnE5X1Myb19uWXRndkRhMlc0enNZZ1pBQVhwR0NfMzdBNDNXVnktRlZzNlY3elp5cGRhVGY1UVJvcU5uWi1hUGNsTEU?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d714f46ad4a86068",
-      "headline": "Behind the scenes of Trump's visit to China - Reuters",
-      "excerpt": "Behind the scenes of Trump's visit to China Reuters",
-      "publishedAt": "2026-05-15T19:18:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUIwdTVLSzlsR0p2anVjR0thelp4RDBDSzlDcXNaZE1qaExEWVJGNkdRYzRfSGRJLW5lZFl1d3d2em81eHN0aTF0Y1hIcDJNN0NoUjBMbExIcS11X3ZPeXlfZFVvSUZOWTVGeVREV3VwYUZpdXl4bi0wR1F4REhWZ2IyTQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
