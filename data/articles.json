@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-06-28T10:40:11.389Z",
+  "lastUpdated": "2026-06-28T12:15:31.261Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "968fcf4816dcc553",
+      "headline": "Squawk Box: Watch Interviews & Clips, Schedule, Latest News - CNBC",
+      "excerpt": "Squawk Box: Watch Interviews & Clips, Schedule, Latest News CNBC",
+      "publishedAt": "2026-06-28T11:00:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIWUp1WU9vYzdFVlc3WERhdHNHV052d1QwR0JwdEIzQUhOekVKX0l3Ni1VYXd2QmZZUWR4M180M0VkTjB3bEFzRW9YYw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "1e0965846c064816",
       "headline": "NHTSA Closes Tesla Power Steering Probe After Recall Fix - Benzinga",
@@ -44992,15 +45001,6 @@
       "url": "https://insideevs.it/news/796004/tesla-solar-roof-crisi/",
       "sourceId": "insideevs-it",
       "sourceName": "InsideEVs Italia"
-    },
-    {
-      "id": "6ebd161049d5d2b0",
-      "headline": "Tesla finally reveals what happened in 17 Robotaxi crashes",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-15T15:04:45.000Z",
-      "url": "https://electrek.co/2026/05/15/tesla-unredacts-robotaxi-crash-narratives-nhtsa/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
     }
   ]
 }
