@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-28T15:48:28.585Z",
+  "lastUpdated": "2026-06-28T17:09:22.225Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2ecad164504c8801",
+      "headline": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-28T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "a01f45115731d6b8",
+      "headline": "The 5 Coolest Cars Discovered At The Bottom Of The Ocean And Other Watery Graves - Jalopnik",
+      "excerpt": "The 5 Coolest Cars Discovered At The Bottom Of The Ocean And Other Watery Graves Jalopnik",
+      "publishedAt": "2026-06-28T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3ZzTVgwNVpCZ1FRMjhLZWdjdEU0dXNBR3hsVWNqd3VjeXl2T0o5OXQ4QmkwRFhxWm5XMTJOU1lUR3YxT0s2RUNpUTZrUS0zd2lSUG5UNTRtbXhUX21sUF9QTHh2U0Y5NzdqYkgtSWhtNTZkNm9BSmVHUzY5am9aamdDZWJ3MjJVdlp1ZG5ob0xQM2N5Zk5KaS1WUHR6RTlZ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "843fc707fbe0aa5e",
       "headline": "The Porsche 911 Carrera S Makes Every Day An Event - Jalopnik",
@@ -19,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vN3NYMVp5UGduX3NMclY2cGVFX1pfdHdaenZqOUctWHgtSGZpNVJNa19IaGxEbHZwbEM3TU83blNaUEFrTmRwRllIbU81bnI2UGRKY0NuUmpnTm5JbERsRXA5d2RKSjh5TG1jbVkycGs2TnZlZHU4eEctT0w?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "425b02d15077007e",
+      "headline": "Tesla faces new NHTSA probe after Model 3 crashes into Texas home - MSN",
+      "excerpt": "Tesla faces new NHTSA probe after Model 3 crashes into Texas home MSN",
+      "publishedAt": "2026-06-28T12:32:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPY2dtZlNKNE9CUENzZDREYWFEV0tCWkZwVWhGdF9KNS14ajVxVW1rQml1aXp3dFZ1bEhjUnhQUFRRbjVncGdyR3lQdmVPOWRSc3Y4bTE3OHZudlRPWnBtOUhNY09QQlVNRUNCYlg3NllpTUMyNFd2czNJQVViLWhuTlV0bW9kUUU0bGphb1NaVXFFbFNiSnNRZWk1ZlJIUUdSZ2R2RnpyMnFtYTNhemhVZy1UVWZKNkNUY3BhemMwbkExdF9VMGVubUdFdmNlZVE3NFUtbkY0TDF4ZVZmLWN1RmpCQkY1X0tLaW4zUGMwbEtabGlLbndpd2R3djVrVFMxMU05c09iUTNZeGlOYVdJQkpjOUZfOHdHMXBGYmU5ZHJhQ1hqVlF1b0VrZzZOTUxmS19SSEdEUVFEdk5ROVZKLUoxaTEtUHlCUDloWmI3OHUzcTZBUjFIWFZiTm5yVE9zUTdNbjdrLTQ0VW5N?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "daa9903de4f97448",
@@ -66,6 +93,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "d3e4a86131b0cab1",
+      "headline": "A Guy In Sweden Built An Inline-16 Out Of Volvo Engines And It Sounds Awesome - Jalopnik",
+      "excerpt": "A Guy In Sweden Built An Inline-16 Out Of Volvo Engines And It Sounds Awesome Jalopnik",
+      "publishedAt": "2026-06-28T09:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15djhQd2UyT3FvWTNfOVYxQkFLcnYxSFctdnRxOEVpZTNxVnlZNjVrSm5yVVpLRnZ1SkpxcGV5cGUyejk1Y2R6V1ZuaHBheDZfN0lwX0NXWGNNNVp5Q3hJUEQzVWVjLWdCRFBzbEpRbGY0SXZqNDRz?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "becceec625d76334",
       "headline": "Why Mazda Is Literally A God-Tier Name For A Car Company - Jalopnik",
       "excerpt": "Why Mazda Is Literally A God-Tier Name For A Car Company Jalopnik",
@@ -91,6 +127,15 @@
       "url": "https://teslamag.de/news/tesla-26-26-giga-berlin-boom-energie-deals-fsd-tote-rueffel-srf-semi-eis-66946",
       "sourceId": "teslamag",
       "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "8a56e2756945fb47",
+      "headline": "According To This Survey, More Americans Need To Learn How To Escape A Sinking Car - Jalopnik",
+      "excerpt": "According To This Survey, More Americans Need To Learn How To Escape A Sinking Car Jalopnik",
+      "publishedAt": "2026-06-28T04:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWtoWXNVVGUzM3JycnVjdnM5SVhaUHZJQUE4VHVWTjJhV2JfSXhXMmpGWkEyYTR6UUgxTnVudFpGSE9DMnM0UG5IbW55Wlo2a1lqWG91TTI4dHRvQlZVNFFSYlR2SkdVZjVvQTNJa1p2TjFPTVJmeFhZdFpldjJKQ0QzWUN5eS1kdW50SFItaFRwSmtrMVJjQTJQWDFRWjBRb2dQRk83NA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "fa0d9bb0f9425026",
@@ -1855,6 +1900,15 @@
       "url": "https://insideevs.com/news/799705/tesla-camera-airbag-deploy-early/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "72226f98d1c0fb13",
+      "headline": "U.S. proposes to drop brake pedal requirements for self-driving vehicles - CNBC",
+      "excerpt": "U.S. proposes to drop brake pedal requirements for self-driving vehicles CNBC",
+      "publishedAt": "2026-06-25T16:43:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpNZTRkR1daRmVFZnF5dEZ2bHZIbEVPRmhiY2FoSHRJZHBFaUZuLWRpQlRLcUZrVGdvSmZDVmZBVVVVSzBSRHQ2N2Fkdk5WZXctVUxqQWV3dU9pQ3p0OUlZS2l6Vlh4M1hIT0VzTnJkNklIc3B5Y3hBNFIzRGlYYWZuNHJpcEd0VEE2U01OLTNCOGpqc2p4T08zUndSMVlpd3JxajBFMzVselE?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "e9536f38b1aae5e7",
@@ -44947,60 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1ZLLTFKZDBDOENlQmotS2ZBdENLUEpkZEx3SHliR3lkcDBsSlhCSDZKR1RCeGpnSTRoN25TdlYwalFudW5Gcmpzay1nZUYxRGtDZGo3c3hWR3lVVTRiWko1VGdaOWQ1YjI5aEU4VXNIemVjb0w2ZDR3ZG50SnFDRk13T1EtNGZmVDZrdU9nS0ZLX25QQWRHNA?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "9457877a0468132c",
-      "headline": "Tesla reveals two Robotaxi crashes involving teleoperators",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-15T17:13:26.000Z",
-      "url": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch"
-    },
-    {
-      "id": "3b660c7c6205ebfd",
-      "headline": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record - CNBC",
-      "excerpt": "'Biggest bottleneck in the AI buildup' fuels DRAM ETF to record CNBC",
-      "publishedAt": "2026-05-15T17:01:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXg4SkJ4MlB3YWU5X29HSXJ1N1Y5MndJeS1NVUItVjNlaThHYzV1Z29aNlUwQjlrVV9MekpkNzJLajhvWDJKR0FxbFRPZkJia0pneXFQVXpDMHprZjl2SVhTZ3ZkQlNnbkFVekhFX3djd2NvcFgtdEtzXy1SRWRKaUM2ZHB5cjlTZ1JCTUc0ZXRTWUJQcmhHQTV4LW1lc0HSAaQBQVVfeXFMTTJlaDhSOTh4Z3ZYSTg3dFN5X2pOdGtvMjltRmlFbDU3N2V3MU52QzljSmF6OF9TNnBPb0I0SHlmektTSlliN0RhUHdXemh6QVRaXzJsLURicmd0c1VVMVliU0o0OWduSFRUVFF4dE9yYUh3aTFFcTRQa0ZxeFk3aVB4bmxlaER3SGk1d0JiRDh3RXREbl9XZy1JRzdVSjNiRWdKOVk?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "d737aa9c81ec33ca",
-      "headline": "Rivian launches R2 configurator in the U.S. with pricing, colours, and Launch Edition details",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-15T16:57:07.000Z",
-      "url": "https://driveteslacanada.ca/news/rivian-r2-configurator-launch-package-pricing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r2-configurator-launch-package-pricing",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "56d7e9792b3485b4",
-      "headline": "Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet - Reuters",
-      "excerpt": "Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet Reuters",
-      "publishedAt": "2026-05-15T16:54:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUF93LS1YQTVwa0hLUnJkdkhjdW5LMHp1b2d1a2N0MUhvYkMwQ214WnlKTjZJOTdYTi1hREZwbDVTdHZnVDBPYTFERlFWbG5ZbUd5QzA4WHFpSVp6VEltX3pvd1RnV0NZVDlpLUVHZmF4VDJhQ0F0cEZ4bHlvSlRzVEFOa3NLZjRRb2QtbUlFVndJbFpQM1BUSlZWeUJ3Y0lXeFRwdUNEcXJfbXYxMzdYbUtfQUpSc2NqQ2c?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e905bf010789ad78",
-      "headline": "America250-Themed Jeep Wrangler Launches With WWII-Themed Marvel Comic Book That's Guaranteed To Confuse 99% Of Buyers - Jalopnik",
-      "excerpt": "America250-Themed Jeep Wrangler Launches With WWII-Themed Marvel Comic Book That's Guaranteed To Confuse 99% Of Buyers Jalopnik",
-      "publishedAt": "2026-05-15T16:29:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLU5tSGZlRFZHTnNJVHd3RExqb2xDOGNnT183Mm9YMG5qaWJsc1JMTXcwUDdBU01CT0JpaWFHU2x6S2x0X2RlQ0RRN3BBQjFqaXNkaG54WVVHcDNqNEl6VXVpX3phQk4tbGQxeFFsNE1fSnVMUS1FaDQxVXlSM0VrMVl3ZGlmTktWaGduVVdibWcyUEZz?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "e901fc0b41fb9146",
-      "headline": "BP to cut pipeline gas trading team as LNG focus grows, sources say - Reuters",
-      "excerpt": "BP to cut pipeline gas trading team as LNG focus grows, sources say Reuters",
-      "publishedAt": "2026-05-15T16:14:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGlZdzJfUnRTT2hVX3Z4VnIwM2dOQ1hrTnJnTjhrS2FhWmQzTlBQNW5DUmFDTGgxUE9wdnpSY2h2X29qRTJGNk9zQ0RxcjRVZ0VvQVBJTWhtZjd6T0VPRkNHZEt3VklUbG5sS3JCTHo1YUc0MS1yakxYUGdpd2hJTkRsdk00a2poY3oyZENRanhhWDdKV09IdmRCUzdrUkJJTWlpR2lzV2hjVTFPS0xEWGNR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
