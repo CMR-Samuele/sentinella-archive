@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-06-28T23:00:43.006Z",
+  "lastUpdated": "2026-06-29T01:35:51.469Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3fde3bc85b37a901",
+      "headline": "Tesla Reports Q2 Deliveries in a Matter of Days. Here's the Number That Matters. - The Motley Fool",
+      "excerpt": "Tesla Reports Q2 Deliveries in a Matter of Days. Here's the Number That Matters. The Motley Fool",
+      "publishedAt": "2026-06-28T23:25:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFM1bmpUVm1YNTB5Nml2VGJnWmEwR1NQMWtDQ0F2RGlxRjZyTVh5ZUVGMXd2MFJScVRTV2ZSbFNyRWJRTC0yM2R0SzVMcmZtSnBGRkYyYkNhQ0w1M0dNdHJpQjRhUWlGOU1UMlhoUEtjN29hcnptTEZjV1RtVEdtQUpRdTg3cV95WWhrYkNvcE9BWGUtUUI5Zw?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
+    },
+    {
+      "id": "34bec20195e1dc7b",
+      "headline": "U.S. Space Force Is Learning To Scramble Rocket Launches Like They're Fighter Jets - Jalopnik",
+      "excerpt": "U.S. Space Force Is Learning To Scramble Rocket Launches Like They're Fighter Jets Jalopnik",
+      "publishedAt": "2026-06-28T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQalBQZDVibE92UFg2M1JnaW4yYWQtR1hGREdnOEhfaHNrRjRMZVJYTmhTc3ozQ1BGRnk5TVZsQ092MmRRVENrNDdLYklDaWRuSHRtSmh3VDJFSU9JVnpGRWhNWmpFQklHcEktQVJjbVVtSHdHVk91SFZ0d0tQU2xpNWFpbEIyQmdNNmIzRU5B?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "69055b8c74827ea3",
       "headline": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it? - CNBC",
@@ -12,11 +30,29 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "1ac3b0e8a82030d4",
+      "headline": "UK scraps plans to replace destroyers with focus on drone warships - Reuters",
+      "excerpt": "UK scraps plans to replace destroyers with focus on drone warships Reuters",
+      "publishedAt": "2026-06-28T21:35:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzhFemw3cUNOOHp6V3BHS1dSdS1xeXlES29oaERoZl9SUmx5amtoeV8ydk4zdnZ6T3lPRjEtX3B2X0JuX3V3aTk1VEc1S1M4ZFU5bVE4d0MtMG1MNktFVTFadE8tdk9Sa3BNbkRPQlFLemx6RWE1YXNpRU04c3dNbHN0enExRFFOc05STm45Mk1uNlc5S2J1dWFqRGc1WlY2SUNiX2hyekp3djJaRW9rX0FjTk43VWE3cFZJWEpuVTU?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "b0c9f339ea447df6",
       "headline": "Why You Won't Find This Tire Brand On A New Ford, Probably Ever Again - Jalopnik",
       "excerpt": "Why You Won't Find This Tire Brand On A New Ford, Probably Ever Again Jalopnik",
       "publishedAt": "2026-06-28T21:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IRlJwNjRWc0RqSzdvbWNMdTBYajdUT3B2a0NFZHRRS0ZDeFNLNEgtNFpWd3J4RktEUUlwWWJ6d3FPeVlBa3pCR3VER2hmbGhLb2ZES0pncnFkajE3c1p4ckFwYW5oTWJmbWRnNVl2VDRIYW5leHRYS2RB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3b5749dc1006b1ea",
+      "headline": "I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back - Jalopnik",
+      "excerpt": "I Put Apple CarPlay In My Wife's 2006 Toyota 4Runner And I'm Never Looking Back Jalopnik",
+      "publishedAt": "2026-06-28T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbE9Ld2h0Rm9LVExSeWZZZlNxclBKT2IwQzFpcUJKeXJVUlBrMWtqNGRmMW5BNFZtVzM1WnE3ZUl5S2RNZHBHajNKbnoxR1lkUDVmRlJ6Qkk5U2V0MHlrYmdNcEItN3VoUjRRT0dlU2pzQUthRzFsUC0wMTZzTFU?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -3322,6 +3358,15 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObE8wMHB6SWxmTTd2bEthNFR1bGRRcGIwQl9VcDR3SndzanFWUGhVTU5aSVpSWFVoeUxYSkRCYnlIbGFhZDN2MUF5amdsbnl4LUxRdDZCSDh4V01SdFpwOTZfZENzdEVBLVVMU0JuVWpjT2YzUWh1UVIyOHVZTWwtSWk4N1NJYzJlbzFMdUUtOW9RZEgzLVo3SEtiLWNJUTJHV1U4X0wwVG5zMURGOEI5Q0pUT2lvQQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "92b32c54924336f7",
+      "headline": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash - Yahoo",
+      "excerpt": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash Yahoo",
+      "publishedAt": "2026-06-24T17:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzVneXRLWEs1UmRYNlcyb2VlTEVpVHFfYmV1MWNYZkNBZDI1Vk5NQ1NYa2R5T082Z2NlSkhpUHlYZWdSUnVZaUU1VTlaU1F3MzktYmdta2JhNWVWMkgxdWU5a0RGcVdlb04yMTlmYXpqTm52eFFQTE10Qm41a0RwdXpiODk1X3BzS3RsYg?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "52a4c50442e3b6f1",
@@ -44954,51 +44999,6 @@
       "excerpt": "US plans to unveil criminal charges against Raul Castro next Wednesday, official says Reuters",
       "publishedAt": "2026-05-15T21:17:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2FEUUNVWnpTbGlwekZoVWRxYkFKRGJ2T2s3Vl9mdlJQeWlIS2xybWZ2dVhraUxtNUd0dkhST2hHbURPbVA4TFB3ZTVCZGFlR042bUlmQkRvWWVJcldsQXFGdlNyOWI1al9OOHhjcVJKWjE3VWx5WmQ1Wkotc0I1SC1uMlpVRVBwQkpyRnRNdzZ4dW1lNjBibUlmdmpuMmkxOUFlM2UxWDhDeTlVTVkxYVY3Z3FMSG0ybXMwaTJn?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3e1f20376c00394a",
-      "headline": "That Kursed Kars4Kids Commercial Is Banned In California Not Because It Sucks But Because It Lies - Jalopnik",
-      "excerpt": "That Kursed Kars4Kids Commercial Is Banned In California Not Because It Sucks But Because It Lies Jalopnik",
-      "publishedAt": "2026-05-15T21:01:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3MzMVpOeWlndUdyWFJ4VUE4N21NRHRWdXMzZnVvNGhjb0t1bmwxYUlOckpoYmdvWXlIdlpld0VWNUcwVjJnVXJva0FEVmZRMkxsOGpDUnFQWE5VN3QtSFExR2xWVmJOYmQ4VXJTUXJwWFFXQU56ZHJjWVhVekRUME95a0FxT2x4XzlYTUJ3eHFPN1Zm?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "afc14a6a49f42498",
-      "headline": "NHTSA is asking Tesla for more information after 'phantom braking' complaints - Not a Tesla App",
-      "excerpt": "NHTSA is asking Tesla for more information after 'phantom braking' complaints Not a Tesla App",
-      "publishedAt": "2026-05-15T21:00:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUZKTU0zaWRZNVVNQ29yZkpSRGc2OHNhOEpqRHktT0lrSDRtNzFGMmE5TXd6NnhYNHcyUjY4djRnZ3lhQ1BxOExIWkpZRC1pemFrOU4xLWpoWFFXTkY0bWx5Smd6NkN4TTdtNWlaSHhsVndqWHpxeDFtZnB6elViSlFyb1dSMjdnWFZVd2U2LV9EdURQb1M5clptdUpaN0t3LU9EbXRZN1NEMkFTOGw3RExUS1RCeHJ0eXc?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "2fe9d5c6e180180a",
-      "headline": "Tesla Slashing Down Payments Loan Terms in China Amidst Dropping Sales",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-15T20:12:04.000Z",
-      "url": "https://cleantechnica.com/2026/05/15/tesla-slashing-down-payments-loan-terms-in-china-amidst-dropping-sales/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "429e5e8d549b6b6c",
-      "headline": "Tesla Robotaxi Austin Safety Record: What NHTSA Data Shows - BASENOR - Tesla Accessories",
-      "excerpt": "Tesla Robotaxi Austin Safety Record: What NHTSA Data Shows BASENOR - Tesla Accessories",
-      "publishedAt": "2026-05-15T20:08:54.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbEpNcEFqeVRDVS1TNjVJeTExOEg3SWFFU2tpdDZQaVlUODcxa1JtMl9xWlM5NTdRNFJvOEZCZ2NFVmxJbDNMZEg1b0h2dkFRcXdOQVJmSVVQWHI3QmFBcjdMUkE2akMzdFk5alRyU2RHV3U4cXpWWWVhR1RBVlRJd1pQTHJhZXJUYXVnOVBMOFVjSXpPcHRv?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "f852344f679b62cf",
-      "headline": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude - Reuters",
-      "excerpt": "Israel, Lebanon extend ceasefire by 45 days as Washington talks conclude Reuters",
-      "publishedAt": "2026-05-15T20:03:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVld5aXdJMDExck1KamVPb2hGWkdEU0tQMFB4U3hPc0tieXR2amMtaVFzUW1taTYxYk51Z2VJem5Bd01xNE00RGY3dTlkSlhoZnB3VUZKMWZoeFJrM0I4eFMwSFZNVkoyVXJpd3A1dEItV0RtQjdUR2VLcl9GUmc5bmlHRWs0dnhPREN6aENIUlA2dFZzWFF2S25peUNrSVU5bkpoWXJlVk5pdXVpMUlFb0o4ZnRXZzdWZS1CUHlR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
