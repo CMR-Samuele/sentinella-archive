@@ -1,7 +1,124 @@
 {
-  "lastUpdated": "2026-06-29T11:57:49.916Z",
+  "lastUpdated": "2026-06-29T15:55:58.786Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2e3aaebd1c7d0f3f",
+      "headline": "NHTSA closed its power steering probe into 376,000 Tesla EVs after a recall fixed the issue - qz.com",
+      "excerpt": "NHTSA closed its power steering probe into 376,000 Tesla EVs after a recall fixed the issue qz.com",
+      "publishedAt": "2026-06-29T14:50:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03b292cHpzT2JZNDU4NWRSc2U4XzVGdEJ3Z2JVSU1rZ2Ywb3JFVzJ2MUpHNHRpVFNfSWsweUFvSElaVzN5dUxoSVBzOVlVM256dFZGNndfcGVCdTRLazJuanI0UklJRzN1QllxZ21oNXl5VzlpMjh3?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "bbb93f0163e56152",
+      "headline": "Tesla begins rolling out FSD V14 Lite to AI3 owners after 18-month wait [2026.20.5.1]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-29T14:46:44.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-v14-lite-hw3-early-access-rollout/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-v14-lite-hw3-early-access-rollout",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "bef78c82a3a59aff",
+      "headline": "Tesla Full Self-Driving v14 Lite Release Notes: new capabilities and features",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-29T14:29:09.000Z",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-release-notes/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "45e59aee1e726df1",
+      "headline": "Tesla Full Self-Driving v14 Lite for older cars finally gets released",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-29T14:10:52.000Z",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-for-older-cars-finally-gets-released/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "4a635a3749c5f12f",
+      "headline": "NHTSA closes Tesla power steering probe after recall fix - Yahoo Autos",
+      "excerpt": "NHTSA closes Tesla power steering probe after recall fix Yahoo Autos",
+      "publishedAt": "2026-06-29T14:05:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVk5qWFhoU1hFVzZtQjhZbmoxdkVjSGdBVWltb3FiUnI0RnM4Tm95MzR4R0pab1VZazNPUS0yWWk0a19rOGs1MUR1VXRETWh1TDFpS3YzWG1SYmRUWE1rODI5Qm5PRDBIM0RIQ3RUcGtTNDRvb2JQTmZra0xlUUNaZURGZWhIdlNyRlRCY1NkTnNDd1BXekgxQXEwNnR2dWF3MFE?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "4b4f2abc3e9e01eb",
+      "headline": "Tesla Cybercab Adopts 48V Technology but Passes on 800V Architecture",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-29T14:03:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-cybercab-48v-system-400v-architecture/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-48v-system-400v-architecture",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "efb520d67d521ca0",
+      "headline": "Which Car Was The Best Land Yacht Ever Sold In The U.S.? - Jalopnik",
+      "excerpt": "Which Car Was The Best Land Yacht Ever Sold In The U.S.? Jalopnik",
+      "publishedAt": "2026-06-29T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMm5CWDdSOGFoWm9KNWdoNkRNM2JUS1pTMHRkMk91WnhxcEozc2pyM0JZM0V2YVdOZkw4ZzAxMXI0TGdTeU1jcEpnX0duLW1YTlVoRUI3bFFJNXdUanFjakFtOFZUQWtxVFY3cUVoekRZazc1TW50QjBPc00wd3dEag?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "74a9c980caead780",
+      "headline": "Tesla Cybercab Includes External Microphones and Speakers for Emergency Interactions",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-06-29T13:17:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-cybercab-external-microphones-first-responders/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-external-microphones-first-responders",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "447ddde086d6787d",
+      "headline": "Future robotaxis may not need brake pedals under new proposal - TechSpot",
+      "excerpt": "Future robotaxis may not need brake pedals under new proposal TechSpot",
+      "publishedAt": "2026-06-29T12:47:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWld5T1I4Ni12N1ZRSV9aTC1OeHh5ZS1GU2E0YjlJa29UMHRvWFJfdk84TkM4TnY1STF0TFBxREo4TzNYTUN2b3I5a3g4R3VwTWdkbEJpUFhNQTJBNm5LWTg3dWNhYnR2cXE1dktFZEtqNW8tcVRUd0lpMUlaZWlHdFNzd1Y0aTBFeFFrYURjSnBBenky?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "974d8841a8d281c1",
+      "headline": "Tesla faces new NHTSA probe after Model 3 crashes into Texas home - MSN",
+      "excerpt": "Tesla faces new NHTSA probe after Model 3 crashes into Texas home MSN",
+      "publishedAt": "2026-06-29T12:41:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNM1RJS1A5WFpCTXdBUFBoblhHeXFHcy0tOWIyYWMyT3ZsNFNlQUdTRVptdVItN2FCTmRCeGdxNkF5SlY1RmladUtROU13RGhoTllZWEFKeDhLTVVOLXZuS1hyTHVTZ1VQSDdienllSHVkZU9pelhPaGpTc0NNYVB0dC1qamIxeDlkMEhJaWVYT0pXLWh6UnJzd09KTnZFc0UyUlBTVS15WE9TSUhwNnYtdFdaeDJOck4xZVh2Nmp1T3dtdm5TcWJUdDRvUy1CT2VWVUdGbE1Id3gxWFI5UFp0TllheWp2anljMFY0U1VBT1dNQk0yNjQ2UExHczV6VnVYNHo2N0dpYVFEQnB0bk9sWmp3LUlsTGZLWWlJaWVQRVNxYk9IQWRhLVZkMmthdzN0OFc0bk1mUEZoTUtzS285M0pqUDJ3OVFBM1lkQVMtMV9ZcjA3UF9jSGlKMEhJRllKMEx6anlkbEdqWUxKck5VbU5CaHZPWDF2Si1JOU9xcGN5OXZwNHJNVnk5WUI?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "9fc1bea6866f3b5a",
+      "headline": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more - CNBC",
+      "excerpt": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more CNBC",
+      "publishedAt": "2026-06-29T12:29:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVN3eUg1T2U0bUxMNURpSVF3VU5DWGNyUlBXZHpDTUo1SFJ1ZmRzU2thSW53VVlCSTJCdm1SZkdDUy1iSm9FVU8telV0RzFieGZZVWVlUVdwdlhjNzlKNE5LNHN6Rm5wUzZTNmZlZlkwTUtxcUFZSGtITFhYMnkwZWJHWmxxUUpPU0Z2YUZJTjA?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "b4e312fcf2fd7329",
+      "headline": "At $8,000, Would You Call This 1985 Toyota Mirage Camper Home? - Jalopnik",
+      "excerpt": "At $8,000, Would You Call This 1985 Toyota Mirage Camper Home? Jalopnik",
+      "publishedAt": "2026-06-29T12:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjdTNkdVSjN6ZkpSYm8xc0t2ejJiUE1QN1EydDlZbEdfRFlNTjhIZ19JcVlvT3JvaXFXTF9MTHJYaXp0SnRLTVZOZ0kyRUNwczJqa1hzQk9mc1ZqTVNLTWFHWWJ1NHJmSWdEYkJQcXRxdHU1cTdiYzBiM2dkZmdqa1JFSEMxWVBEN0JZ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "f9d35b6af49591f3",
+      "headline": "New Delhi offers residents $1,000 to scrap old cars for EVs to curb air pollution - Reuters",
+      "excerpt": "New Delhi offers residents $1,000 to scrap old cars for EVs to curb air pollution Reuters",
+      "publishedAt": "2026-06-29T12:00:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHFTWEdOenVOclRpNmdCNF9SV1RTeXZUaGRSUTlPNGhmaHQzWVVNN2FXcE9CZ1lGMUs2bkJCcVRiTkJwSFg4LVh1NTlwdzRBb2ZzbkZjaG9ESi1FMm1fNzdVaXJDMjFkcVBQalRDU09QSzUxX2R5TDg5MWYxNmRIeWFWZnhhR1liZVgwdGI5ajR5YkdJNWk4MDN3Tm5XX0RQREx3R2VjQzAybU1rTFhXR05LdThEQlB5?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "1349b4f50758bf55",
       "headline": "Here's How Much A 2023 Fisker Ocean Has Deprecated In Three Years - Jalopnik",
@@ -37,6 +154,15 @@
       "url": "https://insideevs.it/news/799636/degrado-batterie-auto-elettrica-usata-noleggio-tesla-model-3/",
       "sourceId": "insideevs-it",
       "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "643a096f73fb648d",
+      "headline": "What The Color Of Your Transmission Fluid Is Telling You - Jalopnik",
+      "excerpt": "What The Color Of Your Transmission Fluid Is Telling You Jalopnik",
+      "publishedAt": "2026-06-29T03:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uUUxNNjVMNzhDa3dvVGVCdzQxazlFaGVVZDFMVHROZ2pFcTFuRTc2bnRqWDRxSEQxRjNGMzJsa1ZmWGppT1o5eTNuVGw0cjRnZVVmdmpUVnFnZ1J5QkZHdUZVaTVuVjNnVVpRemlPSVJzbnFM?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "3dc08ae2a898ada3",
@@ -152,6 +278,15 @@
       "excerpt": "The 5 Coolest Cars Discovered At The Bottom Of The Ocean And Other Watery Graves Jalopnik",
       "publishedAt": "2026-06-28T14:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3ZzTVgwNVpCZ1FRMjhLZWdjdEU0dXNBR3hsVWNqd3VjeXl2T0o5OXQ4QmkwRFhxWm5XMTJOU1lUR3YxT0s2RUNpUTZrUS0zd2lSUG5UNTRtbXhUX21sUF9QTHh2U0Y5NzdqYkgtSWhtNTZkNm9BSmVHUzY5am9aamdDZWJ3MjJVdlp1ZG5ob0xQM2N5Zk5KaS1WUHR6RTlZ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "4796c28535139b19",
+      "headline": "What's The Best Daily Driver You've Ever Owned? - Jalopnik",
+      "excerpt": "What's The Best Daily Driver You've Ever Owned? Jalopnik",
+      "publishedAt": "2026-06-28T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTR1Y0FjY0t0V0Fxc3Q2ZElrN0dhNTUzVF9hSmJSUjIyQjBfVkxNTkxBWF8zUE5BTjlKQ1FjMjRHWnp1Y3J0WW8zQTJVQmZZNTdfQklHcnhucUlrMWhSenpmcnJSUUFLaVNjQ1FfX1BYOGxvcmdkQTZYM3Z2RzluQkFiZHY2WEJzVVJETw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -1551,6 +1686,15 @@
       "sourceName": "Teslarati"
     },
     {
+      "id": "981ba3c17586f19f",
+      "headline": "INVESTING CLUB MENU - CNBC",
+      "excerpt": "INVESTING CLUB MENU CNBC",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9weVpUdlYxN1h2bWdtckV0OFBnLWFqN2FXaGRTRDJzNDVDTzdOQkRUelJqcUdIX0Q3Sk5iZlpaOG12ZERUUklJUm00OA?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "327c90ae374398d1",
       "headline": "Airlines resume some Middle East flights but disruption continues - Reuters",
       "excerpt": "Airlines resume some Middle East flights but disruption continues Reuters",
@@ -2080,6 +2224,15 @@
       "url": "https://insideevs.com/news/799705/tesla-camera-airbag-deploy-early/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "b16d8cd7d1179d0a",
+      "headline": "AI Weekly: Micron boosts chip stocks, firms mull AI-related cuts - Reuters",
+      "excerpt": "AI Weekly: Micron boosts chip stocks, firms mull AI-related cuts Reuters",
+      "publishedAt": "2026-06-25T17:05:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQUFZFSmgza1VRSGtGT2RYREFvSXFrOTZ6UmRRU0MtNGxSQmNxaU1lajhvNjI2SmxZS245V0Nxc2pQY1VSdHVzVnpoTW1oaEhFVHF1Z1VlcjRGSXFoSTVqQVQtT2hhSW8?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "72226f98d1c0fb13",
@@ -5336,6 +5489,15 @@
       "excerpt": "Trump visits politically divided Pennsylvania in return to campaign trail Reuters",
       "publishedAt": "2026-06-23T17:07:55.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTFQbHY4R0tUM1NTb0ZIY1RsUmtWWjdvOGRtQ2tRd1ZrOHlONG1UREo0ZzNVTkNjS0dhalBIWXg5eC1sSUswT3ZFM0RHcnFKTkdCcUJjRF9yT3c1SHl3SEx3eGdES2JLTWlKRnAxNGsyUEJCQjJDRnRCSlhMRlpCQjNLX3ppSzhVVHhEUXhNNVg3aDdqVlhkaTJFUUVydlJjbkdMczdDWEVpUjVtRkd3bXprTm5BVUY0V04xMHdPNmZRYWREampaMw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "cec77eccaf38450c",
+      "headline": "Latest photos of face paint, flags and fervor: Fans at the 2026 World Cup - Reuters",
+      "excerpt": "Latest photos of face paint, flags and fervor: Fans at the 2026 World Cup Reuters",
+      "publishedAt": "2026-06-23T17:02:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaDRLVVlCaE9ZdktNUnZnNnk0Y1ZRdHd2UzFwR3EzOWtoNVZkZF9lSmZtQ0xOSklzWHBnRkNDLW9MbEo1NEc5TWpjcHhpOW8yQjNVNTl4YnllY1NMNnpacjBqRkVKNWhnY3JLdEJUWHR5c0tra2lRYURkRHU1NUtjT0hMYUR2MWNiSllfbEs1dzZfUnE3ZHVaRnA2Z2xNRUtVVUhOdzBnZWx4ZDZvMXhQTDBpMFNxNElpbkJESjh0R3h6Ml9pc3Qwdkx4dTNOSmxMMDZrOEVJdWhwbU1HekRWQVN2MUltMmM?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -20600,6 +20762,15 @@
       "excerpt": "Iran and Ukraine loom over G7 as France accommodates Trump Reuters",
       "publishedAt": "2026-06-11T08:09:59.000Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlFGOXNhVXV4amNCaDFmMVI2eWtrZk5YUTVubnVyWjZYalhsd1M0M1lqY2xzaG55V3k5dS04aHpub29zVnpSUjZCU0NwWWNURFR5SXJFRnZudzNoZTQ2VlZ1QkliRndxbVZLZExMbHVuNHp2S2Z0LWhLcVZHRlBfcmVlT2tObl84NDV2MzItcDJVX3FMTmZLdmd0QXl4WXA0?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "687c80708033b646",
+      "headline": "Latest photos: Team South Africa at World Cup 2026 - Reuters",
+      "excerpt": "Latest photos: Team South Africa at World Cup 2026 Reuters",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHpKLUo4YzVxYnhaQjBHRmZXZlpNa2RQS3N0ZjdKdnZ0ajFnV212SG5qaWNnTFcxb2hvT2ZKRjBfNEd6eFB1NlkxQ0pScmpkMjVXX21RSUNCQm1FcjNzR0M1UnFDRlNwZ2tXZHllYjNPRHotUXFGcE95U2ctQklXRHV3eGFiRjdkNFFCUGdFOGxyc1FtZ3JxdmpmTEp2ZWNtc05fYkpzZFExZ1h4cGVKOHRUR04tZw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44830,177 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSWZkZjVVR2JLVERPWmtHYnpzUlAtTFRjWGFTTXA3V0xpUG43ZFNHZ1RWcThBR2NsWUk4alBJcFVscktpcVhfZ3hUUjFNUFdqX3ZjcGhCOFFydXZIWlNpd3d5eFRjT012TDlzNXRsTmt2R1RLd3JKTmJIeF9uMlNYRmt4bjlCT09KS053?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d821e695df79ce37",
-      "headline": "Stocks like Nvidia have accelerating 'momentum,' Goldman Sachs says - CNBC",
-      "excerpt": "Stocks like Nvidia have accelerating 'momentum,' Goldman Sachs says CNBC",
-      "publishedAt": "2026-05-16T13:31:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0pFTDNlbmlwUjUtXzhfRGF0MUk2R0twbE9ia0xsMEsyU19wZmh1LUN5S3lDMTN4TV8xOTNERUhNYkJzSjk4RkVsLUtURXBLcXIzUDdXd0M5V3BLRGRkaDFTb05lNm4wTTVPZmVINUdweFV1akxrXzV0S1V0NGpqSlRzcHc?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "d0af03e9c6fc1c07",
-      "headline": "What Is The Weirdest Thing You've Ever Driven? - Jalopnik",
-      "excerpt": "What Is The Weirdest Thing You've Ever Driven? Jalopnik",
-      "publishedAt": "2026-05-16T13:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnZPVlZpczZ6MVBqV0E4SjlYTHB3UkxjV1ptR0NEWE1Ka21NZ2NwSkhBU3prbDRPTEhGZ01KcVFxZ2VuSjNncEtDUVRnTGw1RFRJZTE1Q0cyU2xtRFFoSXRkbnFwWVEyajVwV19yTXNYWVJKVGRVNk43Tlo3ZXEzVlVaaw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "9a1b0561375fdf8b",
-      "headline": "Tesla Model Y prices just went up for the first time in two years",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T13:17:00.000Z",
-      "url": "https://www.teslarati.com/tesla-model-y-prices-just-went-up-first-time-two-years/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "f2f59b8cbdee4998",
-      "headline": "Elon Musk explains why he cannot be fired from SpaceX",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T13:05:08.000Z",
-      "url": "https://www.teslarati.com/elon-musk-explains-why-he-cannot-be-fired-from-spacex/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "d0da57ff418d7d76",
-      "headline": "Tesla discloses two Robotaxi crashes to NHTSA - Teslarati",
-      "excerpt": "Tesla discloses two Robotaxi crashes to NHTSA Teslarati",
-      "publishedAt": "2026-05-16T12:46:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSQVMzOTVobkNMZEZyOU42eF9FSjJTVW9hVzc0Umo5S1lHUEhjY2tob0RxMlRxZGJPZEtsaTVDQzRFUTQ5bVJDUnBWQm1kWWRBZklUWmlpQzlRZy1XaVdCMVJvSEV6eTQxX1FOM1JoMFJaY3JNVDk4TQ?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "d4f767cd3e0b8a78",
-      "headline": "Tesla discloses two Robotaxi crashes to NHTSA",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T12:38:33.000Z",
-      "url": "https://www.teslarati.com/tesla-discloses-two-robotaxi-crashes-nhtsa/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "ba65c77ea460d0da",
-      "headline": "Company Combines Lidar And Cameras Into One Unit To Tackle Self-Driving Car's Biggest Problems - Jalopnik",
-      "excerpt": "Company Combines Lidar And Cameras Into One Unit To Tackle Self-Driving Car's Biggest Problems Jalopnik",
-      "publishedAt": "2026-05-16T12:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkNHeU1rWXRiUDV4UE52WTZHR3JWZFhrWVhENzFudlRyMS1vcTJEdTFoLTVQYS1UdTRvNUhGYUpKZjVIX2thWU1uWmZUdDBnaVdrU0J4NUE5RDd5ZVM2UDVoSE1tWmtQUVdaOUhDSzkxWU9qbkxjaVJGTWVuTllRS0RlMW5aU1VOdUVLWndFWko1SmdpZjN2Ug?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ef09f35fe0cd8ecd",
-      "headline": "Reuters - Reuters",
-      "excerpt": "Reuters Reuters",
-      "publishedAt": "2026-05-16T12:12:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMXNXbUpiU0ZKbWlvQkdLajUzdldaUFpCTEg1cEJEcDZWZWtsZkJSbDVxRlhlRDB2Ml9Zb3NfSGJYcG1yY25ZYjg3R3hCc3VzSDkyMEdPQmtndHpsMG9KMnpyUzZ6ZnRLXzFseXdfZy0waTNqNVFuMFFIYUZRYk44U2RDMHBHMkltSkZYMmxhaFNRYngyLTFWX0IxcjF5aWdNU3N5b0JLM3dQZnlUWDhiZEZFYThTSlg4c3JZdzVPREk0Q3RKbW56NWtYMUlfeFk5eG5xQkpVOTdIdC0tMFNReWVOcDJZYlpjVGVOZ0w3Uy02ZlRIdnZaeTdyelhmNnk3M091VlcwVkR4cHRPMERLSlJIQW9acURkUHRwSTVzeVNXY1lqakNCMVFiWGRlaFgxNEpuMEdMSnI5MHBOUm9JTUstaFBqRHJDVWJPdkY2UmpyQWdjaDlGNlVB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c179b0777444c6db",
-      "headline": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit - CNBC",
-      "excerpt": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit CNBC",
-      "publishedAt": "2026-05-16T11:36:25.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVjblpNdTFBZXVVd1RJVDdXR1RQX2V0QWF0bFhTZ0RVSkJCZDZHLUJIcXFwazFyRlMyNkRubVR2SW9kNjlYZjNBU0JWOTYzZ2JuSmdWd1FhRjFyMUVGR0hKajlNVm5PSHJWNnZNN1ppamVmb2hzMjBURkVjaVEza0NrdXRzeW94aGhFY2hJX0JhT1VJaXpLbDVidEhrLUXSAaQBQVVfeXFMTzRyTE45U2xBWllvUFJoYUxwWVoyVDhqZDd6RktfMTV1RFlJQzUyTk5EV3FneFRMMWZlaDU5RFNRcHBQcnZNSlBDM01yRlhiNVoyZWlLWEFielBsNjdJV1dTTjBUTmFvOEp1R2VsVTdOQ091d3FGTThqc3g0MHdwZ1JiSHVETEYxbVE4WVFxd09QR0NZLWhDOXktTGlVRGppa1htbmU?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "7a403408314a2b38",
-      "headline": "Trump returns from China with stability and a stalemate - Reuters",
-      "excerpt": "Trump returns from China with stability and a stalemate Reuters",
-      "publishedAt": "2026-05-16T11:09:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGFTWjJGSWl4ODE3Ujk3WG43T2o2SEx0TU1yLWdwRHJWeU9IQ2tWaGM3SzdiR2pjOHZBRTVDRWFyeHpMZUdTTzVKS0lOU1ZaRXBNbjVScE0yWTZEZzRoSmRBMjFDeEdnMFFFVG1HNXJCazc5RGFQUlJXaXA4V2NRTFVDMVA1STZFM1puYUZRZ0otNlEwVDFZ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7a403408314a2b38",
-      "headline": "Trump returns from China with stability and a stalemate - Reuters",
-      "excerpt": "Trump returns from China with stability and a stalemate Reuters",
-      "publishedAt": "2026-05-16T11:09:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGFTWjJGSWl4ODE3Ujk3WG43T2o2SEx0TU1yLWdwRHJWeU9IQ2tWaGM3SzdiR2pjOHZBRTVDRWFyeHpMZUdTTzVKS0lOU1ZaRXBNbjVScE0yWTZEZzRoSmRBMjFDeEdnMFFFVG1HNXJCazc5RGFQUlJXaXA4V2NRTFVDMVA1STZFM1puYUZRZ0otNlEwVDFZ?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "172056d18e630870",
-      "headline": "It's Useful, But Ditching This Accessory Can Make A Big Difference To Fuel Economy - Jalopnik",
-      "excerpt": "It's Useful, But Ditching This Accessory Can Make A Big Difference To Fuel Economy Jalopnik",
-      "publishedAt": "2026-05-16T11:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWXBaUWZPVEFMdG1EY25CTjc2c2dLWkhHNm1RdDVJMHFNQldYbV90Sjh6bUFrV2RZSFhsbWQ0ZGJOcnlFSjN2SUZmRi1QVF9wT3JoeXJvR2ZKRFJUS2pDbThtd3ZhQ3JkNEpjQnQtaW05NmYyY2lmVHpzc3BmWXd3RmNDOA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "fcc9b7d1adaa93d5",
-      "headline": "Tesla FSD Beta Update Will Fix Speed Limit Issue and Other NHTSA Concerns - Not a Tesla App",
-      "excerpt": "Tesla FSD Beta Update Will Fix Speed Limit Issue and Other NHTSA Concerns Not a Tesla App",
-      "publishedAt": "2026-05-16T10:30:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHpKQU1QSHBhczlHR1FpRHN1eWJvLWdFa1ZEQUE2bHhBWm5yNzFzNlpWQlNWUGUwQm04S2lXQ0dONWdJT0RoaG9wcVZTemUza29Sb3BaX29NZVdwMWxlSmtyZ0FHTWQyc2ZZc01ISmJLLUIzbkxkNm1RR1dvWHJHQzBTMGtBUDFFeEplcGs3UmZqaW0wWVNsNWUtWnk5b0gxRktLbml0N0VYMnlMaHFiUElYN1hjQQ?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "5f53232e6024f197",
-      "headline": "Republican Senator Cassidy loses re-election to Trump retribution campaign - Reuters",
-      "excerpt": "Republican Senator Cassidy loses re-election to Trump retribution campaign Reuters",
-      "publishedAt": "2026-05-16T10:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnZoSTUwSWt2N0NiaE4taW9QalBJN2NvWWRmOGFpT1o5dW1WMDYzS1p0NldiVGh1WGdObV92elZnbkFRSGVMUjN6dkpBbDFLMllwcEVDSmEybnFXejVCZC1IRUhvT2dNdlVCVlhLbXJmTGE0RTJpSnRZZVNMdXZnbFRoOEVCVGRqR0Q4eWRuR25yV1JqVXBWc3FKWENLakwtbzItYjJZSEl3RGJDcmlBV3JmV0ZjblRpMWo0?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "9804abad9e9141db",
-      "headline": "CEO Interview: How Ionna Is Taking On The Tesla Supercharger Network",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T10:00:00.000Z",
-      "url": "https://insideevs.com/features/796067/ionna-ceo-interview-charging-progress-2026/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "17e132f6557a0dab",
-      "headline": "Testing the entry-level Model Y: Where and how Tesla stripped back its bestseller",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T10:00:00.000Z",
-      "url": "https://www.electrive.com/2026/05/16/testing-the-entry-level-model-y-where-and-how-tesla-stripped-back-its-bestseller/",
-      "sourceId": "electrive",
-      "sourceName": "Electrive"
-    },
-    {
-      "id": "c9d29e72f5e6221e",
-      "headline": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move - Reuters",
-      "excerpt": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move Reuters",
-      "publishedAt": "2026-05-16T09:25:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEJpODNJRzJ5ci1ZSEhOa1Y0QnJyc3gxWC1UNFEtTWt2X01oTThWSGZoU1ExdWVKQUxiWGRFWW93VGhQZnIweVhwRVBUREw0VlJlVXRIZjJDRXlEbndzM0UtczhOcDNzYmpzNVREcG1fbUpnYmY3a0JBcDg4Q2dtblk5aGRqd2tPUHcwdGNubkhUV1phTWM3a2JZdURDaU9uWkk4Q2pYMU9kTlNjODkyT3g0d29yTmRXTVpKZ0hQVU9yUGxZN2c?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "219aaf61ee016643",
-      "headline": "Why Pouring Concrete In Your Engine Block Makes Unexpected Sense (Just Aim Right) - Jalopnik",
-      "excerpt": "Why Pouring Concrete In Your Engine Block Makes Unexpected Sense (Just Aim Right) Jalopnik",
-      "publishedAt": "2026-05-16T09:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pdmJOLWk2amlCUDZaeFJjM3NzbGxHR3lqbFRuVHVDanJTSUtvSDlPNDllNkZuQnRsSTBvSDBwMnI3ejJ2czQtYkxtbkplaGJRaG9PVUxhRkswMlFUMnhldUtGbXhXckxMUERwcml4S0h4aFQ0Wlk0MEl5OTM?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "5f07c1d6547db07a",
-      "headline": "US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​ - Reuters",
-      "excerpt": "US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​ Reuters",
-      "publishedAt": "2026-05-16T03:24:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcnhoTVUwY09tRnJua2hpTUJ0LXVEWjRRRVNlNTJTUVhJOE95N3U2NXRSQ3FZOUhWYlRmUG4tM2ZuUGRhdndzUGhqREdWOHZHZUlac2p0V3paU3Q1b1kwZmk0SFpsOEdVZlZSR3Jlb1VRRlZ2OHdhNXhrX1U1Z2xaaFVTenM3MGdUd2FQTm1BRFpHM2NGOTRLRTZDbWxISEZ6Z1BybEJsZGxTM3lPZUFVSVVuX1g4TXBUdWFIM2F1cEptRm9U?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
