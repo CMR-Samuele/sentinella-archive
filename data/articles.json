@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-06-29T18:08:46.835Z",
+  "lastUpdated": "2026-06-29T20:23:30.150Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "8e0cb135e3e07ea7",
+      "headline": "Here's Why Hood Ornaments Have Nearly Disappeared - Jalopnik",
+      "excerpt": "Here's Why Hood Ornaments Have Nearly Disappeared Jalopnik",
+      "publishedAt": "2026-06-29T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3poNDF5VlVYdG5iUFdIVUt5YmpFbjBjSWJiMU1LWUJwdEw4VnBxdVBPQ0xKX1ZKWnMxUDVjU19VZDUtcURUSzJzcFlMbC13ZHJXWlFRUkxiczdyV2V6WUxpcXpIYjI5WVRUOEVFZXZMdHpXREx4RmRxbnJPTE15cWF3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ba6f46d7bb354632",
+      "headline": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak - Reuters",
+      "excerpt": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak Reuters",
+      "publishedAt": "2026-06-29T18:39:56.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTU8xY3FsV2J0YnY1Qm9SS1VReFV3dFljbU5mUG10OU5ZdnBscXlkWk0wUE1YLTNYZEdWUzloTHJrRXJLZDVGRWFXTUh0U3JnOTZaMHRWSkdCcTZIYnl1TVJRTXU1bzFpeHVVd1VnQVl3dmxHc1BGOGR0YVNybmM3NUYxWWI5M0hXTGtwX1Bva2VKUVVvTkdMckRHTWhQWkdzeUJtM290Y3BhNm9zdXZxelBvc2JkWVQ3akVHbWRDOHNXSy04QVRB?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "adae15e875340932",
+      "headline": "What's Behind Tesla's Rally Today? - GuruFocus",
+      "excerpt": "What's Behind Tesla's Rally Today? GuruFocus",
+      "publishedAt": "2026-06-29T18:32:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41VUxvZVZnVjRBd21Qd3pfQlpwaEZPYXFjemhvNVY0S2lhSHdTVkhWT1dEeXBBRW9JTGVVRmFhLWRac2xFTV8tNTB0dVJqdlNObHpmLUtFOUxoTE1kSGw0MTBXMUd0dV8wZ1pDMVEzREx5VkRmb3MwRlNn?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "15738b42a70688d2",
+      "headline": "NHTSA's Plan For Autonomous Car Brakes Will Turn Us All Into Nervous Passengers - Jalopnik",
+      "excerpt": "NHTSA's Plan For Autonomous Car Brakes Will Turn Us All Into Nervous Passengers Jalopnik",
+      "publishedAt": "2026-06-29T18:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczk1RndyOXBheW9PZXNxNHZvajJEcjQ0cXE5dXBER0dMUi1BR1VGLXgyRlBSbGh5ZnNWRGVFcWt3c3pycFBJZXZwMXhLdVM0eURtVm1FWkFIOUpJWmFvZXZ3U2YwMVV3bW4xdVVfMzN3clJpeWk3SV8tM0x6WEZGdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "dba59b6171cce6db",
       "headline": "Tesla Teases Launch in Uruguay As South American Expansion Continues",
@@ -289,6 +325,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2Frdkdsb3lid084SWRpTjRqbnViYnpNd19uOWZxQU9oeFc4dmRWMXNaVnBuUkwwZmZsSnBTZXdNeF9vSUt3aWYwRGlibks1cVFhTGJLVnI0VVM5YTdGb0VTb2NvNTZDUVREbFZ3amdfWmxhd2ZjVlFDaTQ0MFFuOHh1eUJueEQwdWdZ?oc=5",
       "sourceId": "tesla-press",
       "sourceName": "Tesla Press Releases"
+    },
+    {
+      "id": "bef79ff9a3f22a7e",
+      "headline": "There’s an energy infrastructure stock up 500% in past year. Citi says it will rise even further - CNBC",
+      "excerpt": "There’s an energy infrastructure stock up 500% in past year. Citi says it will rise even further CNBC",
+      "publishedAt": "2026-06-29T10:15:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZG9MTXlRa2tlRTdIN29HVzNRWWpvYkY1NnBpQ1BMSzZwNE1Kcm5MRXMzcjl0UUZJNXBidVpPTHpDTGozT1pBUnctRnBQZVZWWnJYSm1QS05LU1dqNlNZNExhcjZxTUxxeDViaDdXSjdWQ0x3ZzFPazJPa0hLaXN0VnhhemE5aGdmbmcyb0RXY0hscTBhVmhockZERmVUM1l5eXlpZnFaazdrdS1KSEUxcEVrajFyTlJVS3ZrLXZTZEZiOUYtbzNaWS1wbWVlVVZFRlhn?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "1349b4f50758bf55",
@@ -5210,6 +5255,15 @@
       "excerpt": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models Reuters",
       "publishedAt": "2026-06-23T21:55:44.000Z",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnZmR0RQZDZIYXpDbW1HTE5rRUdtWFYtSDVNQVh2cGZwamdESTVpbVRpM2dNd3NpcTR5d1FnaUR0Y1NIRjZoZkZBaUJjSmoxblFwdXh6VmpPVk9xcExmOHczSGlneTRyRHp1cGk1bU5YSkpBc2MtUS1DVllxTTZzcF9tcEJnTzJvd2ZiS0tZb0tjdmNsRHJkaU1vX04yUWJMQlU1U2V5OWNGY0VXTTFRTzNINzRNYU1sRVNxTnlKby1JY1I2aU1saGpB?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "0bf80a03e5161f33",
+      "headline": "NatPower S.A. - Reuters",
+      "excerpt": "NatPower S.A. Reuters",
+      "publishedAt": "2026-06-23T21:55:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YQWNjbkhKWjRWYWctU3JMNlZaMDhpcm1qUmVrcG5sWnRkTHNldEliTDkxdmxLdjVCalBjZFg4R1R2emVRdFdEZXFGX0RMc2gzQTlQTnFKMzE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44947,60 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JOV9hNjYzMlVjSm93MENEdFpKRTBLOWJIVmpJTG8zcFIwc1FsQjExNW9DQTR3alZIVEtTM0hyVTltS2ZUaGNxX3c3YXl6dms3c2Zqa3JVeVVhamU0aE8wU1htRmFTQUIwV0YyZXdKYVhmdVlQVlVyMHV3?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "62d213d7bd4c596d",
-      "headline": "Federal funding for Trump's ballroom in jeopardy after Senate ruling - Reuters",
-      "excerpt": "Federal funding for Trump's ballroom in jeopardy after Senate ruling Reuters",
-      "publishedAt": "2026-05-17T02:39:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXpLQ29pMGZxSmpyVGVUYW5ua3VsdWtHZEsySW15YkhDY2cyV0YwWnFjZEZRcmZiVU9semlrb2ZRUjlGdTgxbi05TmhneHNoeHpySG4zQjY4cE1XYUd5b3pCRHVSRnRSank2WE5WbXI3ekM5NDZ4b0VPYk80OFZleFVRbUlfOG9xeTUyWWVYMUNvZEJBeUFKZG1IYTNzTlpnQWdyWkduRG8?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5f696afac3dc418b",
-      "headline": "The Toyota Supra Is A Legend Now, But Began As A Glorified Celica - Jalopnik",
-      "excerpt": "The Toyota Supra Is A Legend Now, But Began As A Glorified Celica Jalopnik",
-      "publishedAt": "2026-05-17T02:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZdUNMd0k3cy0xb3JEc1lrWFpTU2JFQVduSm1nY3ZIN1RpVHk2QWs1Qk5hZWZ0MGIwQ3F6U3I1V0VKZkx4M2h6WGFPYlVVTXV3TDZYNkktWC03S1NqcG4zckRmWndmM240YXRTY0VFTnhFY0k5R2NxOTFZbVU?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "9ce2b9fffbb89266",
-      "headline": "Can You Hotwire A Modern Car? - Jalopnik",
-      "excerpt": "Can You Hotwire A Modern Car? Jalopnik",
-      "publishedAt": "2026-05-17T01:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBTENpLVpzVG1kNFFqd1Y0aW94VmNBMy1DRVRxa2NfNnFkRElteWllbDRtQ1U1Qk5BMmprZ2xrTWtzb0xwb2tZUWVMYktScjNHenlzMFNTSjVoQXhuVEd0bDlFX3JPSlZIcjJhUQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "abeba4c142315fe9",
-      "headline": "Florida Man Had 'No Remorse' After Shooting At Car That Brake Checked Him - Jalopnik",
-      "excerpt": "Florida Man Had 'No Remorse' After Shooting At Car That Brake Checked Him Jalopnik",
-      "publishedAt": "2026-05-17T01:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VDdtVTFyMDhYVWppUlo4UDRPRE5XemhuWnhlUXRlRVNqXzVVWTJMM1hoZGtLbHlBOElVUVgwcFplQmFablcyOXE2ZTRQcjY5SWdkeGlrdlBDYVJiNnNsekZ6SmZVTjJpYjNwZVhBbDEyMVdsVU1jQVhTVjBsZDA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "1f30666e7ac20925",
-      "headline": "Why Are 1989 Corvette ZR-1s Worth So Much More Than Other C4 ZR-1s? - Jalopnik",
-      "excerpt": "Why Are 1989 Corvette ZR-1s Worth So Much More Than Other C4 ZR-1s? Jalopnik",
-      "publishedAt": "2026-05-16T22:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WW5TdkRVNzhwX2k1eTM2TlJubXdFNFJTVXdpalNfcEJuRW1kb0hxRGl2ZElnQmF1Y0cwUzFDVGpma3BjMURpT0VjdGNYYUZtbGFPX1Q1Qi0yTy1JbVhJNGxudlVLeUJESmRJ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d33dd654c96814d3",
-      "headline": "Tesla pubblica i dati sugli incidenti dei suoi Robotaxi: risultati contrastanti",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-16T22:22:25.000Z",
-      "url": "https://www.vaielettrico.it/tesla-pubblica-i-dati-sugli-incidenti-dei-suoi-robotaxi-risultati-contrastanti/",
-      "sourceId": "vaielettrico",
-      "sourceName": "Vaielettrico"
     }
   ]
 }
