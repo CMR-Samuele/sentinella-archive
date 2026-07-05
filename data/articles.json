@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-05T14:41:52.016Z",
+  "lastUpdated": "2026-07-05T16:07:03.256Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "6ae3607037d94c4e",
+      "headline": "This 2023 Model 3 Has Tesla’s Durable Battery. It Still Degraded",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-05T15:59:57.000Z",
+      "url": "https://insideevs.com/news/800649/model-3-island-maui-battery/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "69185c616d2cf42c",
+      "headline": "Tesla (NASDAQ:TSLA) heads into July 22 margin test after big Q2 inventory dip - TechStock²",
+      "excerpt": "Tesla (NASDAQ:TSLA) heads into July 22 margin test after big Q2 inventory dip TechStock²",
+      "publishedAt": "2026-07-05T15:57:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzB4MTVYZV9DVjRRdDBDV0NMNVlvX1BvZWhmeEc3SHFKQ19JZEJHS05rRHV2akUzb1BWdUtqSUl2c0ZieGZfRDFpdTBIVjJzNFBOZjVKZUVkZU9OVnR0V185NzNTbE5LMTRsVlNfcGNXSmlfb0kxZWp6WUk1QjItSkhpXzc0OURJRTlIRW1OUjdKMmg5TTZpS1hvYw?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
+    },
+    {
+      "id": "8f5e773f3487bd2d",
+      "headline": "Wisconsin-Built Neo-Classic Excalibur Was A Genuine American Supercar - Jalopnik",
+      "excerpt": "Wisconsin-Built Neo-Classic Excalibur Was A Genuine American Supercar Jalopnik",
+      "publishedAt": "2026-07-05T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakRQZ256cXFleWVxQ1dSN3VnMjR0bWVGNXkya0pJTTVPdEJpMnNQSGNnVnlQZDB6T0JlQ3gxYTV6ZGg5WUROUlhsLXpKeXo1d2dLSFJTMUZRYlE4X3c2M3REVTgwZzFWZWswVmpYUXU5TlJVSUVwWjV2UmNuNGJIU1VrTHRKbEdGbHU5VTlObnhwUlU?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "922838c31947c15d",
       "headline": "Tesla Robotaxis Now Available in Miami - PCMag",
@@ -10,6 +37,24 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYMTJPWTZ6XzhQSGd4Yk8zeU12TVhKYkVpVl84SkJqR0tfOEhpMVlsVUF2X0FNbVVtY3RWTnZpa1NEY2VRYXhCRkExN1V6YWxEYl94eURLempSQkRLRUNya3hrQ09GcFdJb3RXRDR5QTlrLU0?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "50add27170f3e6c9",
+      "headline": "First Month Of EV Ownership: Here's Everything New EV Owners Need To Know - Jalopnik",
+      "excerpt": "First Month Of EV Ownership: Here's Everything New EV Owners Need To Know Jalopnik",
+      "publishedAt": "2026-07-05T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTVZRm5uaEhRbnFyRXVIa0RpbmdiMXpMR093UGZwVE1hbWhKdXE5emxyTGJQQUJaQmtHOFNfY0QyZ3ljZ0hkdXNhNzcxUTVvWGVXVmFfdXhSYVgzSVE0QXp6ZG05NllKVVhqTW5PZTZDYlhFTkJLcHh0Y0FrejhTREphZnNVUF9HRkEtOVJpWmltQkJzQ0VPbDYxa203aXc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3a2f58fd047d4c2a",
+      "headline": "How To Convert Your Car Or Truck Into A Flex-Fuel Vehicle - Jalopnik",
+      "excerpt": "How To Convert Your Car Or Truck Into A Flex-Fuel Vehicle Jalopnik",
+      "publishedAt": "2026-07-05T10:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VdWExMWtKTGk2S0NPcGxJM3RWMUZWWjNCMUppV29ZWVlKT0VXeHVUSFYtMVNhZnZQVmlvSDlUc0pwaFFTTlB0cW1ORGx0SG5MTzVZS1kweHNfUzVjWUZLeDhtcC1NeHFacXZwd1JLUC15TUM3YVZtYmFwRQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "e236375fd17f9921",
@@ -44956,51 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXk1R1pQVTRETEFGTmpjNlZldjkyc251XzJ1WHh4MEtvYkM5YzRTclJTZ0o2NGJfRFZ5OGlJSDFyelZMVDdqTlVSVms5N1pMS25JaGN5VWFEQlpxYU1jbVA1SnVJdVpDWkR1TlRIR1M1WkxfZ2lWdllhbVRxNjhrNl9zS180bGl5N1dpVzNPLXl5MzMxZGp3bjVNWGdNMHlaMjNyXzhRR0NNdXJrYWt5TXl3T3U0aVVaOVVRNkRsNkFwVU5BaGZXVg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7426571c34da53db",
-      "headline": "Fed's Cook says she is prepared to raise rates if inflation doesn't ease - Reuters",
-      "excerpt": "Fed's Cook says she is prepared to raise rates if inflation doesn't ease Reuters",
-      "publishedAt": "2026-05-27T19:58:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjB0VHhpRXA2XzNtSXp5UThsbmt1Vmh3X3BwVGc4NWpuY19INjJjNjQ3RUpMQzZOOGNBa2I5d0J2TmhqdTFnSFJzcmROS1JqVEFrNkxHSUItSThsNTVnUHQ3VmRYeXdyZXBCN2IxbndBV0xscHBhSFM2Mm9QSzAxWE1Vb3hjZmF3TzNwV0VKTTJiNWxHYWlRRGE1cHJ6MF9oWHg3bnNrbzBMaGxUSHdCa1p3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a1d0995446cd8f31",
-      "headline": "Fuel tanker Universal diverts course from Cuba, tracking data shows - Reuters",
-      "excerpt": "Fuel tanker Universal diverts course from Cuba, tracking data shows Reuters",
-      "publishedAt": "2026-05-27T19:56:13.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEdLc3lTTjZSQWNRVG1ONlZrSUJIQVotOGM1aU1hTVh3aHhLSDJpSWFISnQ4b00xSjV5MU5UR2tJRHhER1VxOHRVQ05iMkVEVGtXd2J3U2Q3U3diTGlIM0lkN3hGM2p1YkJGZVQwVGtKck5fQTJkUFJXd2tpanF1Y1VXMGZIQkhqa0ZJR3g5NllSVVppVVBfMUJJempNeGhBSWRkeWh5YTI1dHE3c2NWMUFvZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5f2436a3ccd7f4a1",
-      "headline": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month - CNBC",
-      "excerpt": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month CNBC",
-      "publishedAt": "2026-05-27T19:54:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWG1HVWpzUE1BWEZXVWc0cU1yNTE4c1l2TTNEbndpajNFUjhJRW5rQVQwN05VeHU5UmExb0RYSVRZbFFHa2hvN3BPMWxFalQ2SEtZVklQbVM4OTZJb01PLUI2NFpQMDA5d3BZd0IyR05RbGlhdTVKRzFHTDN5ME9yQnV0aWE4X2VvUW1QZjQ4WndCWF9PU2dYRU4zeEI5THJqRmdISk5vNG5kbHc30gGyAUFVX3lxTE45dmRLTnBPTE5JQk1fS05VODNmcUk5cnRWVmhtcWF5UlpZNkExVU9DTlUybUVLbUFRa0xTSG9iZDA3NV83UGhoNzN6d3FTMjNqYWtOcGxEeGl5S1d0TmlWd0hzdjdrcWkwck5NeXJSdmZ2OG5kaWs2SXkzeWVSTG1WOGx2VVJtR045al80MlowcTdTSk9XV3loQTRuRllVdnRoNDFFMThrMHA4dWZMTXpJa1E?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "df35f8e6cfa743b8",
-      "headline": "Exxon wins shareholder backing for legal move to Texas - Reuters",
-      "excerpt": "Exxon wins shareholder backing for legal move to Texas Reuters",
-      "publishedAt": "2026-05-27T19:49:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdW1yTXBQakxScHhoMmxXbmljUVV3dmQ5eDFyVUw4M2tibjdRWGZjT2czQkJlaVNJMldEVE5SeTJrSG0zRllGOW1DVXhLWkt1Mkc4ZFlDSGxnMXBDY05GQmxsSURsYzdIcm1tT3FLZXVmQzhvQWNjSGdSTlNlTWtVSFpaV01YbEpVS0VwcWRPNWtLMmlSb1hPbTgyS0ZXTnJ4WnlaT2JuejE5NVJUXzNtTkxlQk1NZDRNNjZsVEszdFZpUQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "26a63b56df7f591c",
-      "headline": "What to buy now with the market at all-time highs, according to UBS - CNBC",
-      "excerpt": "What to buy now with the market at all-time highs, according to UBS CNBC",
-      "publishedAt": "2026-05-27T19:32:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHp4eW5laWE2Nk5iZzZfTGNCaFFEcVkzY1RWQm45RFRCNXcxbm1VbWJvYnNVVHNTaEJzQmYtUmxtSnlNU1Nfc0VGQVRwejdPWWxsR0dUcno4YzlzR0pfYTdqdllRcHN4VGNwVGxmd3c1anFFYzRJWXhYTkpJRVpQT0ZyWE96NVFGVjBOb21VN1FEWGdzcUZuOTRYZUtLNFYtX2ItMkhB?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
