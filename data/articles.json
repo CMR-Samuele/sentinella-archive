@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-06T22:45:33.868Z",
+  "lastUpdated": "2026-07-07T00:07:08.636Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "e52cdd1d86862b33",
+      "headline": "California Introducing New EV Incentives, With Boost For Rivian Lucid But Not Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-06T23:53:02.000Z",
+      "url": "https://cleantechnica.com/2026/07/06/california-introducing-new-ev-incentives-with-boost-for-rivian-lucid-but-not-tesla/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "146e27e895b8c6ce",
+      "headline": "NHTSA Just Proposed Removing The Brake Pedal From Driverless Cars - CarBuzz",
+      "excerpt": "NHTSA Just Proposed Removing The Brake Pedal From Driverless Cars CarBuzz",
+      "publishedAt": "2026-07-06T23:12:12.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTBYcVlFQVNJWEUyQkVJSlFwMHhjR29UdlJYRFFhMWdOdmZTS2xPSVd0eFRMLWd4SWJYNmdHRXF4NmpFanFuNUhkdnQtVTVLdW1jMXpldUUxWUkzYmJSNUlhcHBIRmJiTkprQ3lLUExzUWdrTjRUNmxwUzhScERpV0tGenhWdnV6ZFhtQQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "eb249d05160003db",
       "headline": "Tesla App Update Adds Real‑Time FSD Status Indicator",
@@ -10198,6 +10216,15 @@
       "url": "https://www.teslarati.com/tesla-looks-keen-model-y-l-united-states/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "6019a8adac4c6846",
+      "headline": "The Week in Numbers: Micron climbs high, Apple raises prices - Reuters",
+      "excerpt": "The Week in Numbers: Micron climbs high, Apple raises prices Reuters",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04X3VFYWI3RndUYjdMQ1FucGtLZmR1NktxWnMtR1BvcGFEcEFJQllsYUFwZWZCMC1WXzNiRXk1dERYUl90aXhGWVcwdWJCUHJhX3pPS3E2dzRlNVVuOEtYbDJMN1lEeFE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "981ba3c17586f19f",
@@ -44972,33 +44999,6 @@
       "excerpt": "US, Mexico launch formal trade talks, haggle over automotive content rules Reuters",
       "publishedAt": "2026-05-28T10:03:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmhNcmk1MFNNRF8xd3o0UXF4a1VxYl9tcWRPZEU3ajBUZUFyNEJPWnZFUFhyTllYT21VZmdMcU1fQjV5c1ZxVFFva2EyaWRGcWVOb1BLLVBXVnBNVG1jcFJKUVVhTHU0Q2NocXFHUHJJMlZ2RTZrSVdxbVg3Zkw4QXcwUzUtSW84b1d0RlBtcFl6RnlQRmlwem1Hdkk3VXlWSjdfb0FkaFhZdGZVZnR1Y0swdFg5bjQ5ckpJRjlWM3U1WER5R2pYN0tfdFd1TG81YmtrbA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d557d3f151715a64",
-      "headline": "China's defence minister to skip Shangri-La Dialogue for second year - Reuters",
-      "excerpt": "China's defence minister to skip Shangri-La Dialogue for second year Reuters",
-      "publishedAt": "2026-05-28T09:59:38.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0lkMkhMUWdhM0g0WjhXb1JQT1FtUTZuNkdnWkpLdlA0eklQNkdxcWF6bFpnUW41MUQ0c0k5UzVqcVQ4OVNoYjlmcnJqNVRpajlUZXRnS1NZcERHa3FjVHNrRy0wWXpmT1NvUjRoUzZlT2NCVzVULWpXaUM3bWFPV09wVng3UzAzazdJSkk4cDRWbmRscDFDUUJfeGZXenNZSFBFcDJpamU1ZmVteFFLMUZB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c2326e7b784542ad",
-      "headline": "Exclusive: China works on AI token futures market, sources say, in race with US - Reuters",
-      "excerpt": "Exclusive: China works on AI token futures market, sources say, in race with US Reuters",
-      "publishedAt": "2026-05-28T09:54:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2htMEhYNVR5MlRObmtjRDFKMTJxelQxTklVT2c4YXIyUDBMY3FBcXRIT3lYX0RpX3dxTDlCcVJBNnRGb0MyN2luWF9RTldzNW1yWWNkdVhESHQ3d3Fwdzg3bzRGZ1paUG5LZ2N3NnpvemFRRFhaTXFocVBpYWM0OXRWWXhHNk9WR3haZGRmRVN1cXlzRDFrNklWQ2o5X2lvQkZmaUFFQ05nU3k2?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "403cea9af21e63b4",
-      "headline": "EU says jet fuel market to get tighter if Hormuz situation does not improve - Reuters",
-      "excerpt": "EU says jet fuel market to get tighter if Hormuz situation does not improve Reuters",
-      "publishedAt": "2026-05-28T09:50:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFBxaEtJLVhUdi1GMHNMd05nNDE1cXhCOXZ5LVQxR0Z3RDhjUklyVjdHOC1aV2JxX0RaNXVzWXlvVGlGU0h1b0ltS3hPT3l2TjJsTUJXZnlmQmRHc1pILXRNSFBRbUx5NjdvQzJ0S1NLZWNHRk1mOHFYRTRTUEhnWEpDWlJmVTFlem16d2JSQ0tsWGtrbWppS2QyS3RaRHMxQ3lLQzVSems3STRxYmU2Z1hILVRsNkxyRTVOeFZxOURBQQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
