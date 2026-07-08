@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-08T04:44:37.776Z",
+  "lastUpdated": "2026-07-08T07:27:40.515Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "088700db8e2fe4ee",
+      "headline": "The secret behind Teslas Cybercab Gold goes well beyond just the color",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-08T06:31:08.000Z",
+      "url": "https://www.teslarati.com/tesla-reaction-injection-molding-cybercab-gold-paint/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "0ae9d9a80169fa2b",
+      "headline": "Aktuell: Tesla Model Y im Juni an deutscher Elektroauto-Spitze, Skoda Elroq in H1 vorn",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-08T05:51:35.000Z",
+      "url": "https://teslamag.de/news/tesla-model-y-juni-deutsche-elektroauto-spitze-skoda-elroq-h1-vorn-67003",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
     {
       "id": "995131f9c173fc52",
       "headline": "A Tesla Semi Rival Startup Is Reportedly Missing Paychecks And A Truck",
@@ -154,6 +172,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQW13RUt5VHY2bU9BWXV2cU5neHFBaGgxWS1LQ2F1QjRBME5zOWtjWkNTZlVGZVNWVDFYaUk2RTVqUlhJMVNCWW9oYVJRcUtHQzJJQjBlR082N01ITktvMWFranNGTUZrd3Jfc3V0QnotR0RKM2lUTTRFTHBoT2tSVDJUekhCaXhlcHZkODNFdnFGaFFGRDBRNFpCMG1rLVlscWJDZGRCN3ZWVG8?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "7728277bd466adcf",
+      "headline": "Lucid Offers $10,000 Off Gravity SUV And $7,500 Off Air Sedan If You're Willing To Take Last Year's Models Off Its Hands - Jalopnik",
+      "excerpt": "Lucid Offers $10,000 Off Gravity SUV And $7,500 Off Air Sedan If You're Willing To Take Last Year's Models Off Its Hands Jalopnik",
+      "publishedAt": "2026-07-07T18:19:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUktQXh4dFNTaHhhN19EZ24wWlVsbENLZ24wTzJnWldUdlQtZEN1bmJId2dqcjlsNlEzZ2diM1ZpUzQtZXNYNGZpWVlLLVpBTDlMWC1zdVp1MlVwZGZ2bVVyem8yeS04ek1Wb0RNOFgzVGZtUnZyMmQ2SEVxOUZncXBERXhpNmdtSTI1cW9wOVRZRVU?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "3121eba283e024ef",
@@ -638,6 +665,15 @@
       "excerpt": "6 Harley-Davidsons With The Worst Reputations For Reliability Jalopnik",
       "publishedAt": "2026-07-06T20:45:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDRVeVpkZGhSdkpMeUk0TFpRUmhad0lOSjhkbjV3bXlrQjZ5cFhPRVViVG1XS3ZHYXFMd1JPTXF1alZxaElrNWhyVzJ6ZVZyNE9uQzMwU0pkaV82cjNrM1pKU05nRlc2cldiYVg0TGhxdDVGemxrOWh5Z1NRVzVQWnlfcXJLNjZ2ZkRMdUd0SE5hTmpB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "7d634baa9f196454",
+      "headline": "This Bold Pink 1997 BMW Z3 Roadster Signed By Sydney Sweeney Can Be Yours If You're Short Enough - Jalopnik",
+      "excerpt": "This Bold Pink 1997 BMW Z3 Roadster Signed By Sydney Sweeney Can Be Yours If You're Short Enough Jalopnik",
+      "publishedAt": "2026-07-06T20:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5bHpwR0VBNWN2S2ktTGd3Zk5UdGlMS0tIWEMxQTVBLVRNenEtYUtBR3BjZ2JTRzhJTnRzajBKQ3ZKbXFaTTBLNnRuOE9kdy04ZFNCWUJGSTJyVmk5c0p4eGk5LWZFZ0NsYnF2dHJQaWVtWG9MUHMwdQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -12502,6 +12538,15 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlpzR0E4cGlkS2c3Z0o1akpZR3dZWG41M2xJbENnV1ViUEtjbnlXUWhfMV9qOXhKRHlVcTNXZVg2UmFoSUlhZktoUThiQ3RKcFJxMUoySWkxbVBuUUdHVFlDTnZHR3BXQ0s4U1JUNGxMcnNOaXRmNFpxRktZVm90czVUUlpncFBGaW55VC1Tc0R0bkZ3ejNMZFZkWk5pUVNERW5WbnpzZXVKVTRlTnV2MmZvLXo5ZFQ4QVV1NkI3R0c1anZ0a2YySWxINA?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "8cbb7eeca74b0e50",
+      "headline": "Market Talk: 'Don't be underweight' AI trade - Reuters",
+      "excerpt": "Market Talk: 'Don't be underweight' AI trade Reuters",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbjE0dkx1ZjZ6RVNwTzFDdlFHTUR0ZUpaUjFoOHNpNDUxVUh6NkpFSmhMc016MmJUdkZYUGdyY0UxRGpYdkVhSnpwTTJxSnd0bGtLeXczdDljMGI2N2ZzUnZ1QnV6bFU?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "6c0ae2e6e3436427",
@@ -25064,6 +25109,15 @@
       "excerpt": "Lithuania set to appoint new prime minister, ruling party says Reuters",
       "publishedAt": "2026-06-16T07:46:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUlrNnJQc1dEa1ltZXZsR2FxeS1iRlY0SjN4ZnNvSXdXdkcyMjlHOEpJRXhmajd3X2kzTWZ6Y1AwNjVFZEZHem5CYk9SdFd4bkVLMzFQWnVGa3RSbFo5SkU3bzNjVzg3enVVczBEMEFtcVdEdzB3LVh3OERldjZhQjhCNVdrdWp3aVU1TVJaVHRkZTVZYmZISDVYdlNvd3lXc040NWRVMHQtYU90Y3JnMHZ0WVIzejR3bG1NdHdvM3BoNmc2dERvcC1OUnBSUWsw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "194686b00e2ec8a4",
+      "headline": "Germany formally rejects UniCredit's Commerzbank offer - Reuters",
+      "excerpt": "Germany formally rejects UniCredit's Commerzbank offer Reuters",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QUG9Ma1lmVTFqM3FTUXdTS0RGRGsySDRGVy1FMUNNNjdlVDZxTDJhRkRfbnRQRHlZQ2k5a2toZzdEdi1tbkR2ZHZOOWJzamtMVFVwWTFNRHh1eG1ZMnlGcW5iY0xPd28?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44947,60 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWFYVXR0WFpzMXFIb2NhZ0pYWEJhVFJoZEMtRS1RdUxKVDcyOW9JY1pkQjVoa2JrV3ZPb0Y4d0tuXzh6M3lwc3RKbG5yMXJYZHhRb2JUSm55TE1Zb3J1dEVjT1piWGRjeDZTYUlFVE5sNWJrZnZkM3d4ekxrNlBuUzJ1ZGlQV3psTlc2LU4tT1RBYWdtTWhv?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "3471b878fc370477",
-      "headline": "Gap, American Eagle fail to reassure investors on apparel demand; shares fall - Reuters",
-      "excerpt": "Gap, American Eagle fail to reassure investors on apparel demand; shares fall Reuters",
-      "publishedAt": "2026-05-28T22:35:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0cwWHhVUmFNcTJMQ2ZyQzI4cDNBaktBYmp6U2dBWUk4elJLLXV2bGd1eS1oVmpLcnVlVWlwMlhsZmhxeE5fdXkyekc2d1p3clhOazdNc2FNWENDdTV4WUdGMmtySE5JR2tBaVJtMm9KQjBsOURLZG14Y2xIOWlhZExNdDZMXzFMVnk1WDlSbVRQRnpYRWJhOEl5dWNPQ1Z5MWpLMm1FRHRtYU1Na0U3UzFIWHU3eWgxaEk4Y0x5aGt5Zw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1f7317ff6a5ac544",
-      "headline": "US to quarantine citizens exposed to Ebola in Kenya, not bring them home - Reuters",
-      "excerpt": "US to quarantine citizens exposed to Ebola in Kenya, not bring them home Reuters",
-      "publishedAt": "2026-05-28T22:08:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSnVnTjVxSVFYTkFjb2R4QTg2MWcwRlV5VDRrOTZIT0plbjBEcno2ZHVBZEo3VEVQcmhRaU81WVFmbEhGdlJDa24wMDU0RXZrOWpveHYtWUFxX3VnSTR1b04yV3dQNXpPaDRMYm9KQVBCUlpRMmJ0UmVxOXVnV3JJaWptRTN0VnNLVUxBb0N5RXRoMUlFeXcweDB0dldub1V5NlctbmNMb1ZNWDQ2YTB2dlFzcno0cDZ2TVBla21lakM4VldlTFA0Tm84WEY5blRaTm9UZl9ndFJpZUYwQ28zTDlMUVpEQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fff31c1ad96a0cbd",
-      "headline": "Weekly Recalls: Cadillac/Chevy/GMC, Ford, Hyundai (3), Tesla, Toyota - CarProUSA.com.",
-      "excerpt": "Weekly Recalls: Cadillac/Chevy/GMC, Ford, Hyundai (3), Tesla, Toyota CarProUSA.com.",
-      "publishedAt": "2026-05-28T22:05:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzExQld5WlNmN1daWEpvallhZ1RGSUdKVzhhbmFkWGRrTlQ5aExQNGJZM2lWekhNbDIwYm9IdWFrT3ZQNmxHZ3BBNTdYa2FBcGxCNnZZQ09KQk9yejhfVmJtQzVYUG5UVGROdXhaNWdiUmdkSTNnb1JWRGkxN1UtRDFIT2dtTnNjc2hwQ21IMFNRVlXSAaMBQVVfeXFMUEVxZWZHVHVGM0MtQ3FUcFlCNWxucVFTMS03N3d3VXdfYjJLZ3RZN056T3pFTTNzUUVtNXlnVEJacWdsWEpkbUR3R0JQZVA1N3R0WWdUbmxwVFFPak91RDZkX1hJQ294ck9HWGZPck5yRkl4NnExNU9ua1dlZ2xjblJtVDZZbHB4ZTZzRVliQ0E1ZV9IaW9LS2NPVUdUdnBfcldsMA?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "44eeded7a4da310d",
-      "headline": "Hedgeye launches ETF focusing on index inclusion candidates - Reuters",
-      "excerpt": "Hedgeye launches ETF focusing on index inclusion candidates Reuters",
-      "publishedAt": "2026-05-28T22:05:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT093NC0wRjFPWWg5b3hQQ0tSVXM1Z2JRZU9adGQyUThLNjVhcWxkWTdqMlVEX2plUFpFUjRZdF9DVFlIdFRDYjhRMUxiekRKcW92TVBXTUZCN0RyanlfRnVtNVl0ZGxnUlNxbWxjeEF2Z01ielRCdWhJbU5ia043OXBCaVdzYXlCWHJ3OFFMd1RMVUQ1dlhQUHBlSVpMREEwWUhBOTdGbU9kM01yMVE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c0d2804f86e0c4e2",
-      "headline": "2027 Audi RS5 Puts The Fun In 'Vorsprung Durch Technik' - Jalopnik",
-      "excerpt": "2027 Audi RS5 Puts The Fun In 'Vorsprung Durch Technik' Jalopnik",
-      "publishedAt": "2026-05-28T22:01:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3ZFeHZ4d3duLXdOZ3Vyd1NVNm5xTmVnaUtyb0ZZNXlhU19Wcnc0ajJwcXJQdlJXVXUzUHJYaGNrMjNvNk5qaExlRWZJemYySjlkaVU5Njl6b3pUbmhqWGlrbEt4aDZ6UDhvOEFuSnRMZUxxLTNDb0JWWGtMYU1zT2lnOA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "b08527b107246f64",
-      "headline": "Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal - Reuters",
-      "excerpt": "Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal Reuters",
-      "publishedAt": "2026-05-28T21:46:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
