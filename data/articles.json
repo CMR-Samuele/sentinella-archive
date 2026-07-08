@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-08T17:59:02.344Z",
+  "lastUpdated": "2026-07-08T19:47:19.470Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a4b7c6d09248a9ad",
+      "headline": "SpaceX Files FCC Request for Massive 100,000 Satellite Gen3 Constellation",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-08T18:59:00.000Z",
+      "url": "https://driveteslacanada.ca/news/spacex-fcc-request-100000-satellite-gen3-constellation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spacex-fcc-request-100000-satellite-gen3-constellation",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "836ddb8de2f0dc1f",
       "headline": "JPMorgan calls the possibility of a SpaceX-Tesla merger 'strategically coherent' - CNBC",
@@ -73,6 +82,15 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yd2EwMmdxdzd3dTJYUGtKN0d0elYtWHM1akVoaFJrZEQxdjVaX1IwZWRMSC03dW4wSlMzc25tNUZzWlBYYm1uaTM3RHI2Z3cyMm9NLVlsR2s2Ml85NmFkX2JTYUFQS1BkalRV0gFwQVVfeXFMTmh3RWZOS0dqc0JqY2tGdlNvaFVVbi1BVGxNMHEtQ3RoeVpmdXZJeHVBTjdQYW8zLVFtRGphVDZxTTNKOU9XeFYzQ08xNWNSbmNncEJ0X1FUZUc1ZnBhVUhjaWw2dTM5azZ6UDVWcWJKTg?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "80226c6d5d51bfeb",
+      "headline": "This Looks Like Poop From A Butt - Jalopnik",
+      "excerpt": "This Looks Like Poop From A Butt Jalopnik",
+      "publishedAt": "2026-07-08T15:12:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iRGdEUjNmeC1JVzRxNHlCcktQMHB5TlgyRXVoaU5fWHNNVEg2eXhVQXJsMUhiNkZfOEM3YkE4Q2NaT21XaDJXTnRtRzV2MGo5WUN6aHV4Z3B5N1dzUlJRa0FtdGx3RzVKMmstNXR1Skpjdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "5fbad94e9ba1891b",
@@ -210,6 +228,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "9da61a9c1ba5c012",
+      "headline": "General Motors has underperformed in 2026. JPMorgan sees a comeback - CNBC",
+      "excerpt": "General Motors has underperformed in 2026. JPMorgan sees a comeback CNBC",
+      "publishedAt": "2026-07-08T12:14:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0lYZnJpU01aTVR5RVA3eHpRV0xTUkZ1eVVyVFVINHB5WjBJaGJFV3hpRURDMG8zWmM3SldROEJFN29JRzE5YlAxSFZManpuQ2V4UmdSNlI2S0FtVnMtak4zaU9kNjBheHlyVVdVcnRmbEhYMUpTWEhWb3pHQU1ZcEM3NHpGR01zczVKV3AwalF4eENEQmZqZWR5aFlnaDZxeWkyY0VzeDJaQQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "b77a82097c0b3aa3",
       "headline": "[object Object]",
       "excerpt": "[object Object]",
@@ -253,6 +280,15 @@
       "url": "https://teslamag.de/news/tesla-model-y-juni-deutsche-elektroauto-spitze-skoda-elroq-h1-vorn-67003",
       "sourceId": "teslamag",
       "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "7ee796023253b12f",
+      "headline": "Cop Uses License Plate Reader Data To Stalk 'Shiny Thing' Also Known As A Human Being - Jalopnik",
+      "excerpt": "Cop Uses License Plate Reader Data To Stalk 'Shiny Thing' Also Known As A Human Being Jalopnik",
+      "publishedAt": "2026-07-08T04:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXpOTmRybUZjYzNxclhORUdiZmswLTY0aDV5dHB4b2VFQUQ3eWZNRGV3LTM5WTJaX0x6YnFTY3RGVzdEUE14M09CMWQwUjlmM2QzaEpXZlhGMXdGUUhVUG9kT0JPUmo3RXZUQUhzOWNyWVdubzYtLXB0QUN1N015TGJjMGE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "3a910424988f6627",
@@ -721,6 +757,15 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekMzSDdmZ0V5LXZwQjlZVHFTTFpqYmxwNHkybS0tWHVtQWUtZjJ4MmJPQks4aXpDQUNJSlU5UWVEOTZFdnRKN1lZWXhJVFhwb2RSa1pjR0FpYzJFZjZEYXJaeWJQS3Y2eEo1eUxqbGZiTHlTUG1jTEhhTzA4RUVhYnFIdm9OUQ?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "1571bc18e738ae63",
+      "headline": "This Chinese cloud name offers a new way to play the AI boom, Morgan Stanley says - CNBC",
+      "excerpt": "This Chinese cloud name offers a new way to play the AI boom, Morgan Stanley says CNBC",
+      "publishedAt": "2026-07-07T11:21:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXltb3FhSG9nc0FkVFcyNkN2UklfeUlCcW04S1JsN3piNExIeV91cUdWMnctY2NsNE5kNkk1cnNRdXAtOXFXaDdLNlg5QnZLSTh4RW02d1FyQ0RXekVaQnJkbzJRWWV4MlRZMVNiTXd2emRkdGlBUkZER0RxRzk4eU1JTm9yeHBOcS1JQy1FaFJwcTVWUHRvVWN5VFJiV1Y0MFN4NzRqdEhjZw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "14543f016a62b89d",
@@ -31125,6 +31170,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "0b387558cfc041db",
+      "headline": "Market Talk: Stocks ‘have never peaked in June’ - Reuters",
+      "excerpt": "Market Talk: Stocks ‘have never peaked in June’ Reuters",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN19XNTdVNlhPdnRoRmlhQ25sTzRwUzJhVjl1QXR2V3BsMkl6QUZLWnRENWpRekJqU1FTSl8weHRrQXc1ZzdfMnpmMGEwYU9FX3lOY0J5SWZVZlF5NXVfTWdjOHJiUjQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "7519bcb8ec10b103",
       "headline": "Once an Arab oil embargo victim, US becomes world's top oil exporter - Reuters",
       "excerpt": "Once an Arab oil embargo victim, US becomes world's top oil exporter Reuters",
@@ -44947,60 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTXltazlpdUFpLTR2X3NVNkxYQkZOSTRXMG82dWZUNjlneFhlaFF4eVIxQ3NRbm42dGROdHNKYkRzUm5kOWxGSjRiVEtjRlUwWVVz?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c85e836c86bc799e",
-      "headline": "BOJ may heed calls to pause bond taper next year - Reuters",
-      "excerpt": "BOJ may heed calls to pause bond taper next year Reuters",
-      "publishedAt": "2026-05-29T06:49:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelFqMVJvZUdlMTRpSGpCQ09mY0x3UE9Zd1E5aktpc01yc3ViRzd0YXIyVE9XNTNKempKdUlOVS1oN3d2N3pJRDQ1OGYwdFdQbWRHX2duWVhRVzdWU01jYUJWZDhIMkNkRlRxSUtLZzhGM01sb0tjbFFCTGdkZWw2cXVMX3VxVzZwSkc0WXBrYVpYLVlUeXRCQl9raldSdWlwSWc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5050bf6f22ab8bef",
-      "headline": "UK grocer Asda taps Ocado to revamp online business - Reuters",
-      "excerpt": "UK grocer Asda taps Ocado to revamp online business Reuters",
-      "publishedAt": "2026-05-29T06:26:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb09XS3haMFB6T1Y2WDQ3cEtvZ3BlbldMNFVuRzRhSm9iM2F2NEhCX2lzN2VHSm1qM2J4cld1eDV1eWJEZ211VE54bWZqU196X0laNjJ6UjdXZC1FN2FrbEFnbFQ2bFJ4M1hXNmJpSXZ4OEUxUHRKc21nN1pFSDJSV2s4ckFaUTJfSzg3d0dfOFE2VEt6VmJrQlAxVEFGb0Njb3luSm1oNVZQT01Fd0lHUg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "819399f707ac78db",
-      "headline": "The Tesla and SpaceX merger everyone is talking about is quietly building",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-29T06:01:02.000Z",
-      "url": "https://www.teslarati.com/tesla-spacex-merger-rumors/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "997ae54ec5908118",
-      "headline": "'Breakneck' Ebola epidemic in Congo outpaces world's response - Reuters",
-      "excerpt": "'Breakneck' Ebola epidemic in Congo outpaces world's response Reuters",
-      "publishedAt": "2026-05-29T05:28:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHhlSkZEX3FGVWc5X2tsTUFxZ1BGZzI2V3JfSGFFa3F3a0VIczJCcjRiRmFNdG14aXg0aExVVDNxT1ZCWXAtcHB6TEtDWlhmd1V1SldsYUw1WWtrMldhZzhFMkdyTWZ5TDB5YUM4UmJkcDFkWUhIakFTV3dGSEZSTDRVQUFoOTJxc2dwNDZVS1lCcFBCUEp6T1RwdllqVUd5djJfakViYnlhemV2bFRUdVl4OTBZS1Ric3R5NDJET1B2UzEyNnc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "80ab962820114f8c",
-      "headline": "The ECB is in a bind over rate hikes — the private sector could be doing the bank's job for it - CNBC",
-      "excerpt": "The ECB is in a bind over rate hikes — the private sector could be doing the bank's job for it CNBC",
-      "publishedAt": "2026-05-29T05:00:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDVIcy1xazAxUy1xTjV0S1RpbmlieFdTSkxlYjRvX1daRnhiMk9qaFJ2TDJBRE9iN1JWTWJKRzFkS2pRS3hNZnhGUXJmcVM5eGMyajJuaTNsZmFUbTJYNXExMkp2MU9wMnM2WWdLRGI0dUFTb0hRMm8xRWxvY282RG5kbHpxU3dQN2J6NzdPTXFnWVNwbjNmU3h1Z3FQZllvdnYtZDI2Y3DSAa4BQVVfeXFMTVItbXkxTnlpYW5vUnhjUXlnWDlNVUtNdVdVdHlhZzhnQktHS3Z0bDRtYW5ZNVM0N2VoN1l0TXNBNFdxU0tsQ2VrZkR6dXZmak4zOTFHTEh3cmx1bC1lRHVpdTEwbU9pY0lEQzM2STFsOGRaNUNEandpQVFpMkhtZ1hzc1c5UmgzMUVNblhGRkxjNmVUOVg5QndvcnpwbWNjQzVkdE5GeHRNa1ZWU0pn?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "292ead4c232a0a5a",
-      "headline": "Xpeng sfida Tesla col suo robotaxi pronto per la produzione",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-29T05:00:00.000Z",
-      "url": "https://insideevs.it/news/797191/xpeng-robotaxi-produzione-cina/",
-      "sourceId": "insideevs-it",
-      "sourceName": "InsideEVs Italia"
     }
   ]
 }
