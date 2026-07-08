@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-08T19:47:19.470Z",
+  "lastUpdated": "2026-07-08T21:05:42.412Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "1f26824e978d9930",
+      "headline": "NHTSA: Self-driving cars are interfering with emergency vehicles - The Detroit News",
+      "excerpt": "NHTSA: Self-driving cars are interfering with emergency vehicles The Detroit News",
+      "publishedAt": "2026-07-08T20:52:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaWRGVXhwMzcwZkVIdGtFMnRqYlZzTnE2R2NsaXB4SWI2QXFzTGJzeUEwZWx4YTNZU1N1bFQ1U2F4cklubVlQeG9CNDZibjJmaVhrUllRR280N3ZhdVNwWXJFTkdOOHdzQy0xaHhVZkdXaG1zRmtydVBRTTlUblJJdkRKa19PZnJGZlVObFhMYkFNRVNYQWV3TFZXanRJTm5oQjFrb2E0LTlmSGtLYS1mY0lOYVV4UkN1Wm4zZTJrVnBtSU15MGUyVDZ0WEx3ZURkOWpoeUhVWWdPb1ZQMjJZTnJR?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "640530e6d41f1a1c",
+      "headline": "Tesla FSD is about to know your specific house and neighborhood better than any map",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-08T20:10:42.000Z",
+      "url": "https://www.teslarati.com/tesla-fsd-is-about-to-know-your-specific-house-and-neighborhood-better-than-any-map/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "a4b7c6d09248a9ad",
       "headline": "SpaceX Files FCC Request for Massive 100,000 Satellite Gen3 Constellation",
@@ -638,6 +656,15 @@
       "excerpt": "Monthly New Car Payments Hit A Record $777 As Cars Become More And More Unaffordable Jalopnik",
       "publishedAt": "2026-07-07T14:27:55.000Z",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qb3E2RUJIX3U0VlZRWFZJSzZaS2duNHR6Qzkwa1BDN05VbDlKTUR4aEQxZnN5cFhnbFFRZ0N1emRhbUV0QzRCenVPZ2JFUnBXSkJLa3JDMnV5TWRfbmt1YkdqWGhGS0xqQjJCbXNGUGMydk4tZkFaRWJB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "b80dda83f1c26cc1",
+      "headline": "Selling These Cars Made Our Readers Feel The Most Free - Jalopnik",
+      "excerpt": "Selling These Cars Made Our Readers Feel The Most Free Jalopnik",
+      "publishedAt": "2026-07-07T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT19YUmJid2xTRlU5S3ljM0tXMk1ubEtzZXc5d1JrV1QwSUNiWmMycmM0QzNDcDE0SXRoclBTTlJTeDBoOHBTUW5EczRFWm1Tb2l1bUdSVXM2RTEyU0o0MWh4NVdfVndXX2RralpQeHAzT1B5TFltbllhNFZrOVVPTENlbGdjVkt0TVFSMA?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -44974,33 +45001,6 @@
       "url": "https://cnevpost.com/2026/05/29/audi-launches-e7x-china-rival-tesla/",
       "sourceId": "cnevpost",
       "sourceName": "CnEVPost"
-    },
-    {
-      "id": "bdd121773abd387d",
-      "headline": "How far have the U.S. and Iran got towards ending the Iran war? - Reuters",
-      "excerpt": "How far have the U.S. and Iran got towards ending the Iran war? Reuters",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0JJNi1CdXp2S1hIOXp2Z3hRQUprU2J4b0JtRF9aeFNOd0lwSnlCMkhQa3ZSbWJ0cHJCQWdzOEEybkRENGZFT0pIM2VWcjJVckFWZDNNLUpNUEhmNlZsUmFObExESzRyQ3FYSk53dGx6SUI1UUZoZ3VtcUh3QlJfMFhLa05sVzJS?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c72b95f05323d713",
-      "headline": "Norway to join France's nuclear deterrence initiative, says PM Stoere - Reuters",
-      "excerpt": "Norway to join France's nuclear deterrence initiative, says PM Stoere Reuters",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWhGclhya1dZamx6TUFuSXNUNTZQOVlNRWZnTldPdE1uS1lyZ1JOUjhfWng1YzVfdzJDeWtmTWtMRFI3WFdxX2g2QUxWX3VGaFVhaEV1TlFDd3pFWGVVUzFFX2dMMTJ3R0VSUndkb3dYMXJKT2gzcEh4SGlxVFpxSnVxU2pYY1dEYll0aVkyR080R21Qbl9WX0JhYm44M3M3WXRycVM2TQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ad563f804758bd40",
-      "headline": "As cybercrime surges, South Africans race to defend online security - Reuters",
-      "excerpt": "As cybercrime surges, South Africans race to defend online security Reuters",
-      "publishedAt": "2026-05-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTXltazlpdUFpLTR2X3NVNkxYQkZOSTRXMG82dWZUNjlneFhlaFF4eVIxQ3NRbm42dGROdHNKYkRzUm5kOWxGSjRiVEtjRlUwWVVz?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
