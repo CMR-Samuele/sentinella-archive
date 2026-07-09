@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-09T19:07:26.860Z",
+  "lastUpdated": "2026-07-09T21:02:53.315Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "7d0785678713b01a",
+      "headline": "New Jersey Law Would Outlaw Tesla's Camera-Based Robotaxi Tech",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-09T20:44:36.000Z",
+      "url": "https://insideevs.com/news/801178/new-jersey-bill-bans-tesla/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "c3499c51f8afbd49",
+      "headline": "Tesla confirms crucial detail of Miami Robotaxi launch",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-09T19:54:52.000Z",
+      "url": "https://www.teslarati.com/tesla-confirms-crucial-detail-miami-robotaxi-launch/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "75e2cc80fc765353",
       "headline": "This solar stock could surge 80% on bold plan to turn your home into an AI data center, says Wells Fargo - CNBC",
@@ -30,11 +48,29 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "805f48fcf167cb2a",
+      "headline": "Feds order driverless car companies to fix ‘pattern' of interfering with first responders - NBC4 Washington",
+      "excerpt": "Feds order driverless car companies to fix ‘pattern' of interfering with first responders NBC4 Washington",
+      "publishedAt": "2026-07-09T17:14:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHBLZTYxZWFFMHozb3VrLXFjRjJJNm9nckhsZmlJY0NQQVhDYTg3TUZpZW1Ed1lsZ2dMOUhzTXprZDYtVHRqWnp1dlYtX2Y1UzdwRUQ1VTJrTXhUSGhOM01GNHczUC16ekthcWUtU2xpRks3TFQ1MWVVeTk4VWszU1VuNTVKV2lPQmY3M0NPLVdRYzQxZktKZDFyZ0IxMnZKYlN6bHJia3AyaE5WVjVsUHhvRlQ3TF9INlNwdzJDOFBfX2VuYTJtV1ZB0gHSAUFVX3lxTFBCaGJRWExGX0NYT0Etbjdma2MzNVh2OXZGMU12Y3RXandYWEFLZjU4QW9QZHVQRk85V09yR2k3WlRoM3ZuYVd0Tm9yaGF4ZFFvajZTeEw5YjNYa2lHUDFFanhhMEF2b21Pa1Nmck9DWGhRaGI5djN1MTZteUViUnBfMUlZd0h2MVBXbkUxa3picTV3YWd6TDVuMkJjclAzV1dIcS0xSm5rYnFuVXYxMjlqUTQ0OXY5Znh1U2d0WnFKOVF2WElnS0V5N2kwekV5eVFzZw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "e11e8d1e18c273d2",
       "headline": "Feds order driverless car companies to fix ‘pattern' of interfering with first responders - NBC 5 Dallas-Fort Worth",
       "excerpt": "Feds order driverless car companies to fix ‘pattern' of interfering with first responders NBC 5 Dallas-Fort Worth",
       "publishedAt": "2026-07-09T17:14:59.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUQ3MlVNTEx3WUY4cnJsbUFWZzF3SlNWNl9MUlYwRDYwc1BXRkpJalNNSURBU2Rfdi01ZjZxcDF6TkgteFhBajF1LUl1SGFpa3ZUdmJSUk1xT3pxdVo4cExYel9EbF9TV2VJV0ZFMU1iOHlVRm9aY0hlM1hQNHBGLXpZanA3MlhTUUR5OFdJSFF2WU9KRUdBaHFwWDFsQ2swUlBPbFhxcHR0b0hfeXktbF9SVU5PNUJiTG4yM1ZoZ2rSAcgBQVVfeXFMTkFUbnVLZ0luWFVYZldiSnM0QlU2OURzUjJfNlNwVVpDdzFaX2otcHlETE84T092czNuXzJZZnM5UGs3M09QMy1oclVGbU5xaFdUNnc4STRIbTZ5U3VaODFEOThxNFcwUkdGcWlHRkY4WkNEQVNxZzNaV0VFYnB5S0VkUndmMUlRMzRqTm9lV2NmQXJ1dEE4SDlzXzNzQkU4c0VLelVUMnFWYWZidmxnMWNwQ2lZeVJBVEFOM0I4bjNoazlqeU83b2g?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "b68b8aaf6d7dff79",
+      "headline": "NHTSA Says ‘Absolutely’ to Removing Steering Wheel Rules on AVs - eletric-vehicles.com",
+      "excerpt": "NHTSA Says ‘Absolutely’ to Removing Steering Wheel Rules on AVs eletric-vehicles.com",
+      "publishedAt": "2026-07-09T17:01:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTVTeHpNN1gzMGtfV1JNSDdaWFV3MUMxVU9rajhnUXFZR3NRa1lRVS1JOWRxNHBVLTRlVTRCM1AtNWxCWldKdlJqQ2dmb0tSQk1BQTVubEwwQ2cxUFIzTGFJR1BEN2lJbzJDMHNHY3hJbzRYOHphWUJ6a0lBOEpVS3hpM0lRUGlQbExBYzk1MGthUHJDVERLM1FVallWeGtj?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -1153,6 +1189,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VBUUZSbnhCU21CWjRrbWdnSU9pSXBJUDJucE9qQ2hKMkNQX2c0X1dNU0NnU1lpc2oxdXJpN1l2eldCbldtcmNtNEYwN1Z6TmtBTTZTdlVVbkNMUVo5M2w2amwyXzNheGRwM05Yc09VcUtmS05udWd2QjJnUDJzcUdtbmEweWlpYXVhYkZ4VEpYRjdweEdTaWduVHR6dGFKY2t2TW9jVzVXUThTUTIzNmt3aWJqdjZheXdpSjdJN3hvZEE?oc=5",
       "sourceId": "tesla-press",
       "sourceName": "Tesla Press Releases"
+    },
+    {
+      "id": "d24a8539689f5569",
+      "headline": "There's a lot of 'noise' making it harder for investors to read the true state of the stock market - CNBC",
+      "excerpt": "There's a lot of 'noise' making it harder for investors to read the true state of the stock market CNBC",
+      "publishedAt": "2026-07-07T13:02:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRFU5bms1Q043dWJ5OVd2dGFVdVZpNzBSODBseW0yOFBNSHRYbnJVV1JfOVhyanVSQm9pdTFOVUFqQjRZSHVnSEZzTGd2Q05OY3FBY0JVVG1ZdHM0SG9aNXZBYkVzTVU0R0pqLVJxV3pqMUU3OVp6RjlUcWxZMmxNY2poeHZWZ29uNmpjNFdmenNGUFRTZFpTcjBJWmtMR0s1SHZQUWg3WHFoMTJhSV9nT0N5ai1mbldlZEstNHEzUlpSQUtuMk5RQkpNMkM?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "872a2f875e5b543e",
@@ -33231,6 +33276,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "52bfe8b6779ff3e1",
+      "headline": "Tech rotation deepens as investors prep for big IPOs, says expert - Reuters",
+      "excerpt": "Tech rotation deepens as investors prep for big IPOs, says expert Reuters",
+      "publishedAt": "2026-06-10T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yOGhhRVV4ekxtTnFaUmpiSGpUNVZaaHRmSktDMnp5enNNV1hmeDlJdVdRd2N1enRIQnpyT2lKOHlpNG5EdUdVWVFoY1VTU2pBZXkzY1diLWRrREJnV1FzTUozd3ZSQmM?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "a6c045acf2aff665",
       "headline": "US stocks tumble, dragged by tech and Iran war worries - Reuters",
       "excerpt": "US stocks tumble, dragged by tech and Iran war worries Reuters",
@@ -44945,60 +44999,6 @@
       "excerpt": "Estonia clears Tesla FSD for roads, company says rollout to begin soon Reuters",
       "publishedAt": "2026-05-29T14:13:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTI5YUJvZnFqdVBoRFBYV2FUUnJicHVQZXJKdlN1enNHaFc3bm4wd18xUzlzOGt6REtNcTd2T2kxeDE3NEs1ZlBqSkVEdjczZXZUNXZaRGMyS2tDbnEzd1l1TlFZcFNVODFvM1NuUWVsY3dRa2tjNXlKTmprQkxDUnhfaE5VVElkTkk5SXVOY0hWU1Y5YjRzN1F4VEd0d0hadWtDQlJ4RHR4emc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d8d4aa0c30f1733e",
-      "headline": "Lilly's Mounjaro tops other GLP-1s for some type 2 diabetes patients - Reuters",
-      "excerpt": "Lilly's Mounjaro tops other GLP-1s for some type 2 diabetes patients Reuters",
-      "publishedAt": "2026-05-29T14:12:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV2R0NEs4aHhZUFU4LTdaRzRVa29uNW1tOF95MzVNcVlRT0p1VmNsMWdaTGxvYlNCT2NLN3lZLXJ1bXJjdDcxb1hGOFRDMTZPYmNobV9tZ0tOT1FvbDRJV1lTMm5ySHhzWEpkVGNhaGc3M3NPRnV0U1FZVXFYODZDbkRGM2g2Uk5yWkYxQnpoRjRBalVraDVGRXRZRkxRdkJWR1JDc2lUcXFiQTVTSG5JaTRPREp4ajJtdG9fblc4MFMzdmZKZlBkYW91alBfQjls?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4866f44d38840d3f",
-      "headline": "Waymo Opens Free Public Rides for New Ojai Robotaxi in Major U.S. Cities",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-29T14:12:00.000Z",
-      "url": "https://driveteslacanada.ca/news/waymo-ojai-robotaxi-public-rides/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=waymo-ojai-robotaxi-public-rides",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "2515d63efe49a27f",
-      "headline": "Indian central bank's FX trading gains surge 52% to $17.7 billion in FY26, boosting income - Reuters",
-      "excerpt": "Indian central bank's FX trading gains surge 52% to $17.7 billion in FY26, boosting income Reuters",
-      "publishedAt": "2026-05-29T14:02:20.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXpRckw0c1ZwT2ZvajlIYXdseHhrZTN2azFLR0dMZ2xyU0dzMFBfUXVZNkZySU0wSzA2NXZ2Z0tRWEFSanZQLU1Nc3RwLWNxTWlINDFiVFFycjk1WG50d1lEZUpKOG9YN2dfSE96QXVQNDRDRldmVDMxWGd2ZE9WLWVWUVNGdU9sdUd2WWRVTjNfaHNpZ3R0ZGN3X0FubnhIRmxZajZlMUt1Zw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ac03e02281460f1c",
-      "headline": "Unsure With How To Cancel Service, City Officials Are Covering Flock Cameras With Trash Bags Until They Can Be Removed - Jalopnik",
-      "excerpt": "Unsure With How To Cancel Service, City Officials Are Covering Flock Cameras With Trash Bags Until They Can Be Removed Jalopnik",
-      "publishedAt": "2026-05-29T14:01:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRW1SRmhDdDZ3T0w5aUVYdDRUUDdWa3hQOXdydWhrYzNrRE1VX2EwN0lodS1rNTM2cS1BX3dJdEZPc0p6eHotV3NaZFR4TkpfM18td0p2QjYzME5aTTlBQ3dSMWIzM0d1ZVlrSW5mZkJqcy1rNDJKTFRMWTFka3VkVFBn?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "0d2391c44f6c2f86",
-      "headline": "Exclusive: India's maritime lender set to launch country's first blue bond, top exec says - Reuters",
-      "excerpt": "Exclusive: India's maritime lender set to launch country's first blue bond, top exec says Reuters",
-      "publishedAt": "2026-05-29T14:01:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmlRRXlDV2pOUDllamp0cU50VjJKUTZuaXhrU3VyemVkSkNmRmNVX0t5M2lnMS1oWGQwYWY1akFLNG5BU3RxaTFNNEtPcUdlVE1BeFBEUmZsMU5fSFNTblB5ZGlsSHJYVllTb1Y5Mzh4S01RVzRxV2tkQTZzaHVVWlhTN2FaVGo0SkNOeFRjMG5VRy0xRzRpcy1NRWpCemlWSXhFaURkNG9vYVFnc2ZWMWE5VF9jRGl5SlNERg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1f792bdcf1721152",
-      "headline": "Australia's embattled Liberals tap former PM Abbott as party president, reinforcing rightward shift - Reuters",
-      "excerpt": "Australia's embattled Liberals tap former PM Abbott as party president, reinforcing rightward shift Reuters",
-      "publishedAt": "2026-05-29T13:48:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGE0RlY2dF9PZlpES3FVQ0kzbnZvRnc0ZF94UFpFSHYzZ1ZPd0FiWU95Y0FJeXQ1czBIMGY4ZTVBQnZiM05KZDNrLWFpX2hJbC1vVmVOWTc5c014ZU1lOTlwMnU3RkVIZ0xlUHVHaHd5Tng3TV9tZWd2LXE5WXVxQ0x5TXhXTWwtZVcwQmpBV09GSXdOdGtONnR5MENpdzYtYmFHZGdQN0EtS2RGeWozTFFHYzFLLUdrdEZFbGExcW1BMmhlZVN4N1c5bGstdw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
