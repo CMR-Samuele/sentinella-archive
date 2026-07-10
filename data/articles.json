@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-10T15:55:01.315Z",
+  "lastUpdated": "2026-07-10T17:46:09.846Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "d14a169ddb55d75a",
+      "headline": "The Rivian R2 Is Getting Launch Mode. It'll Be Quicker Than A Tesla Model Y Performance",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-10T17:15:20.000Z",
+      "url": "https://insideevs.com/news/801188/rivian-r2-launch-mode-video/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "8b5becef72791466",
+      "headline": "Elon Musk admits he was clearly wrong about Anthropic",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-10T16:54:48.000Z",
+      "url": "https://www.teslarati.com/elon-musk-admits-he-was-clearly-wrong-about-anthropic/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "5f34b806ec61c884",
       "headline": "Tesla analyst says Full Self-Driving is about to have its iPhone moment",
@@ -10,6 +28,24 @@
       "url": "https://www.teslarati.com/tesla-analyst-full-self-driving-iphone-moment/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "c8ebc3aa7668e6c9",
+      "headline": "Ferrari Says It 'Didn't Expect' The Level Of Hate The $640,000 Luce EV Got - Jalopnik",
+      "excerpt": "Ferrari Says It 'Didn't Expect' The Level Of Hate The $640,000 Luce EV Got Jalopnik",
+      "publishedAt": "2026-07-10T15:47:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40elRseEFjWHdFY212VU5ZWm5FVkdxZTZ6Y1htMnFuejFIVEFwejRINmJwNk5wdWw5ZWVWTWptRHRqcWVtN1c1cU5WTVFZNW9sS0c1ZE82b0JwcmZOYWJxcjVTVlNPam1yXzA5d1pYSmNUY0lkQWc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "80d889889d614ece",
+      "headline": "New Jersey Bill Would Bar Tesla Cybercab as Cameras Fail Federal Safety Tests - Tech Times",
+      "excerpt": "New Jersey Bill Would Bar Tesla Cybercab as Cameras Fail Federal Safety Tests Tech Times",
+      "publishedAt": "2026-07-10T15:09:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXUwcU8xS3ZJY1gwOW5UMVdwbXlsd0xCMVhweUwxQi0xV3QwbWVpSmdFYi1LcENWTUo4cS00Y3Y3Si1fUlZOY0dVZ1pCQVlQU2V3TGlzYTZ3WlNWX011ajJINTBwenROc2tfMnJ2QXR5c1l4QlBCWk9iclVYNU1mNmZlSm9ISFdjaWVXT0JKQWEwWEVPVnpfX3hDWXdDVE8tdEpwcXcxOEpjeWZYMG1rNGhXaUpoV0tLMkRocHIxaF81MGMtWU5jSQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "ffdf42b53fad18ab",
@@ -28,6 +64,15 @@
       "url": "https://driveteslacanada.ca/news/polestar-h1-2026-sales-record-us-ban/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=polestar-h1-2026-sales-record-us-ban",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "6b3e3b479779d3d7",
+      "headline": "These Car Design Details Really Annoy Our Readers - Jalopnik",
+      "excerpt": "These Car Design Details Really Annoy Our Readers Jalopnik",
+      "publishedAt": "2026-07-10T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JZ1Y5UGQtYVBPMXVlUkhYMFFFMnJleWo5LVMwV1ppLVRTXzdHbXhST2FhNThCMlJMbFZyS1psYVdmYW1BR0RlaU9PZzZibnBqTjhGQS0zYlNleUlVZU1UVktoNW5KaHI1OF9KTEYtdFVveHAyTnVqWWJsTURyUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "9c773107333f7e23",
@@ -80,6 +125,15 @@
       "excerpt": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Toll, Shopify, Twilio, Seagate, Chipotle & more CNBC",
       "publishedAt": "2026-07-10T12:22:59.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRDNMWDRFUE1YcXNEWS1la29WNzAwa0RRR1dSZkJxZThEWG14OFlGSFVLbnl0Z0FiZUQ0TTNTNzY3ZVVxRlVZaUJ4U1ZRdlcwVFdoQ2RVZVgydUppcGZoSDlaX211aFVrbktLa2dWZTZlWXl1WTA4UEt4N3JLSmV3UkRRNHE2cWtnRmJKeHQxYkFkNzVxM3JMM2hTTFNPVkl3aDZ5alU1RTNjUW8?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "e46b1c08396c6ad0",
+      "headline": "Why the stock market and economy may seem out of sync - CNBC",
+      "excerpt": "Why the stock market and economy may seem out of sync CNBC",
+      "publishedAt": "2026-07-10T12:15:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcWg0QXpqWk91X05BclFWbHdfOXotd2YzRlBpS0lSeFN4ZGJwSDhvRE5uWkliU095bnYyMy11cEktM3U1SGZXd24wdlRoajBrTDVOR01wUGNDMElqbFVheEJjUko2MTk5Vlpad3hYQWVzRk90QkRuSUpUOFZUQdIBgwFBVV95cUxOU0NUczI0QXNNbXlrWTlINlBJTkVGZHFtQi1tS05ocmVsWlVzcWFNRjhic01aVWxSdWRCRU1ISTU0WnVrX1E4RGRZWG0tWHcxa3BqSnhLSXNhSzlNb2k1Z3g1V3Y4SkRoUUVmMUsyTTNZTmZIVWpHYzJsM3FYVUpGaWtzVQ?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
     },
@@ -334,6 +388,15 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTVTeHpNN1gzMGtfV1JNSDdaWFV3MUMxVU9rajhnUXFZR3NRa1lRVS1JOWRxNHBVLTRlVTRCM1AtNWxCWldKdlJqQ2dmb0tSQk1BQTVubEwwQ2cxUFIzTGFJR1BEN2lJbzJDMHNHY3hJbzRYOHphWUJ6a0lBOEpVS3hpM0lRUGlQbExBYzk1MGthUHJDVERLM1FVallWeGtj?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "b6eb5ddd21629cb2",
+      "headline": "Adorable Fiat Topolino Launches In U.S. For $14,985 So You Can Stunt On All Your Suburban Neighbors - Jalopnik",
+      "excerpt": "Adorable Fiat Topolino Launches In U.S. For $14,985 So You Can Stunt On All Your Suburban Neighbors Jalopnik",
+      "publishedAt": "2026-07-09T16:48:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUx3VGRsNl9IZFViNndGaDg2dEltWUh1S01ueVc4RWtnZ2VLMDNZM201U011X2RPZHFid3kzMUtTamhwTlFFMjBwNmN2dFZSaWdPcnB2QUdnVkhfV1RPSWNEcGFyQ3JpcGpRcEtxdjYxckIzQVBIQnhfYjI2N0ttaGxn?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "121dab69abb818fe",
@@ -1054,6 +1117,15 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeF9mR0gwZlpZWEIzM0tNaGVlaURjNkQyWlQtREd3UFZEemw3dlZFVFhQbVVDVmtvM254MVZuN0hqTnc3WUdLWjByaXNOSWtRZUtqY3hCTFR6VVBQaTRvU29aZ2JHMEFLbTA2UFlad251ME8yMW1YVVEzOElrZ25ST3lLT1g4NFVXbTJwN1liTjhPOFpSTGtibnln?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "eac679144db9ecb9",
+      "headline": "US stocks end lower as AI worries hit chipmakers - Reuters",
+      "excerpt": "US stocks end lower as AI worries hit chipmakers Reuters",
+      "publishedAt": "2026-07-08T08:04:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JRGNEcWNNRi16Sm1Yc2d2cnpmR0FkUWhWdmczbV9pMzFHc2dkTGxyNXo4WUljb3dqUzZ5R29JdGhuZzIxSllTRWZLdXdIeDZjSzM5ODFLS3JGdDVFMUtvV1VUNm1VT0U?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "59d5070c5dd3bcfd",
@@ -44929,78 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVEVzSGV0bHVUcWQ5SGRfNkszM3pyQk5LNXdCRldxZTMtcFBkTmEwRFpSN3Q1SVhKRVRNbEVTRzNETFlZMXE1Y0RBZ1gwZDVWUmM0QlZUX0tOSV9NYmcwSzcxNzBZLXp2OEVkYzZXUk9FUQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "8b91c61c99a634f1",
-      "headline": "Castlelake mulls possible offer for British budget carrier easyJet - Reuters",
-      "excerpt": "Castlelake mulls possible offer for British budget carrier easyJet Reuters",
-      "publishedAt": "2026-05-29T20:30:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmxGek1PM0FSOWRORF9HODRHclFpYWhoQ29UVnJXcU5LZFBqXzFnTkRldTAyMGx6NFFhbnhmLUFNWFA3SHhCb1JudGNudmxtY3FnTjJNNDBIZVJ1Q1JMR2ljQjkwUHVkcUI2SHZ1SFY5YnhWSjhBa0JHdHJLR0M1dGRDQWpNWWEwLWFkQTVTclluZHUzRVF0RXRSUk92UGNJa1JJRWtVb192LUk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6c4ca85c57bf4a5d",
-      "headline": "Russian Oreshnik missile fired in January was nine years old, Ukrainian experts say - Reuters",
-      "excerpt": "Russian Oreshnik missile fired in January was nine years old, Ukrainian experts say Reuters",
-      "publishedAt": "2026-05-29T20:20:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObC0yMlpRTjVheU9tXy1YbG1Hb0w0aXA4QUd4YXB5Z0lLbGtUMnVMYzhYc3UwY3dXUnlSbVRSeDVnNnREOFpUYXY3c3NPU3ktelV0NVFJbE5fd2pGSGswN3AzX2lKUVB2cGM1UENjWVBZVTZ2S2c3elNVb1NXbFBYZGpRdUdBRW5ERDIwRkx1OHM2c2h1QnlSWmVfSjBoX0ZpTkZ0ZkRtRTRhWXNTYWFrNWg0U0pqTGhGZ3NyelFlYlZRUFVtMmlBTGVrX2pRdEhFc3BhLWh5ZnRPZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "afb5892b164b70c5",
-      "headline": "The Indy 500 Was Way Less Wild Than 'More Than 350,000' Racegoers Would Have You Believe - Jalopnik",
-      "excerpt": "The Indy 500 Was Way Less Wild Than 'More Than 350,000' Racegoers Would Have You Believe Jalopnik",
-      "publishedAt": "2026-05-29T20:12:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YN2lZZ1JnNmM0blJVWXpjUzhMRDM4RVhBSXgyRjFRUTh2YTFOV0gzc0gzUEhWR0NFRVVhMi1ORzI0STQ5RkcyRlFBX0w2MFFQeWxjcXg5MnpXQlFQYWVzTlFWNERYTENlY1JfOGRtQ0lsU3dWa0prX25WeFBlbnc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "78072b8093f691ac",
-      "headline": "European Commission vows tougher action on trade with China - Reuters",
-      "excerpt": "European Commission vows tougher action on trade with China Reuters",
-      "publishedAt": "2026-05-29T19:57:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3E1SGdZbDdXeENzcTNpNFBJeFRiV05HRGFNc05NalJGcldRTW5CQXQwcHN2ZW9weVUyWC00VXpHX3BWYWc0Q3locWNwcjZpbm9MSXRaYmUtUVktTlJDcTB3OGloX3ptblZiZHMxYzJjSGlFRzhGUkhJT3JQa0FTZEJyUTkxc3BHTmJHQk1oVEppYUxxSVhMaHFaUElhZGdXaExVdjdtYWpaUUc4bExkWQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a2e8b5ae5716a989",
-      "headline": "More Fed policymakers eye possible rate hike as inflation risks rise - Reuters",
-      "excerpt": "More Fed policymakers eye possible rate hike as inflation risks rise Reuters",
-      "publishedAt": "2026-05-29T19:50:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c731a8ba4b184d46",
-      "headline": "US FDA approves MannKind's inhaled insulin for children - Reuters",
-      "excerpt": "US FDA approves MannKind's inhaled insulin for children Reuters",
-      "publishedAt": "2026-05-29T19:41:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1JEaHBMcW95MzZ2WnBMTWVoVE13UUpvNVFDZndIMGEzbU9xTDA2Q25RVzlKVzZhVXYycGswNTI3Ry1YR212TEhNdzFEUzhtWFNmM0FYZ2VEVk04SkcxVHcxQlAzOGNCSC1JRUM2OXpyQTFzVUFONV85N0tXVEZuU2dLUlpTWkhLNm5CU2ZNZjlQSFlwOWVheFgxOG1ZZHEwUUU4MEFRLUd2aVBsMFZ0akVmUlFMQ1ZjZE52aFFtYw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e89a2cabe9a3416f",
-      "headline": "U.S. Attorney's Office Charges 11 People In Massive Multi-Million-Dollar Fake Temporary License Plate Scheme - Jalopnik",
-      "excerpt": "U.S. Attorney's Office Charges 11 People In Massive Multi-Million-Dollar Fake Temporary License Plate Scheme Jalopnik",
-      "publishedAt": "2026-05-29T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRE0xQzF5dlNzdG1uVjhwUnNkNW5GaHlKQy1UekRBTDR5LUdKcVdhWjlnSkhORGw2MGFRbXR2VmFjWktBY0QyeFUyY1JSc3B5ZVZVOEdOYXUtVDN3NGxFRjNCQk53UHM3OXdjN0ZFd2dvNzE3azZwMVBUUlJKYVkxMG1JQTh2dEFndVRNM2g3RUltMnJTcG0wdVZpQUVROXdWaGRiUS05ZXR0X2ZCeWc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "6f4fe7d541007526",
-      "headline": "Tesla SpaceX Merger Getting Real",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-29T19:21:51.000Z",
-      "url": "https://cleantechnica.com/2026/05/29/tesla-spacex-merger-getting-real/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
     }
   ]
 }
