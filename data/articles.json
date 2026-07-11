@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-11T10:13:01.726Z",
+  "lastUpdated": "2026-07-11T11:29:20.690Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "d1f0c91a47eb95e5",
+      "headline": "Starbase like a local - Reuters",
+      "excerpt": "Starbase like a local Reuters",
+      "publishedAt": "2026-07-11T10:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TN28zNVk2dDlXdmVfWHo3NWl5QnVGa2pRV1JwdXBZdkdxV3hXR3ViZUhjbXJGaTFKalZKRHY4Rlhaa2w0M0N3WFZ5akgzUHZ4Q0ppOFFMcWhZM3pnUER4NDJjb3ktV2RIOTRnVjFWRThZaHM?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "1f8bfa53f47caa6c",
       "headline": "NHTSA Weighs Dropping Steering Wheel Rule for Robotaxis - Briefs Finance",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDJGOWhzbXNmcjJKZV9ldldtcUliNDM5RUduV3loQVpDYlowVGlhd1g4S2t3RzhYOVpTS3pDUXlYT0tnZ21jVGxGNTR3MVRvZF9GMW5SYWpVUnJyRnd0dldUZlVWbmxQRzRuZjUzV0lqNGpNc0tSZ0RqOU5PeGNZQXl3dG1WWHVGRWVXTnpOT196X193YlFsZGROWk53akFuM2RNWDhtMVl4YVpPS0dZemNYcTNDZw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8b016cfefa825175",
-      "headline": "Driver, 87, dies after Tesla on Autopilot mode crashes into pond - AOL.com",
-      "excerpt": "Driver, 87, dies after Tesla on Autopilot mode crashes into pond AOL.com",
-      "publishedAt": "2026-05-30T03:44:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVXZhZDFCdWRhMEd2WnlpeHVUOWVjUS15bTh6Rk1MODFCTzYtTW9rWlhWbnR5ajJtT2RsMGtDc3djWk9jMG94Yjdfd084S0x0VDZOdERpS0JkQXMxR0RaRldYamx4OURvOXVsSU5fMm5qOEtJeWdyS1l2X2lBWmc?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
