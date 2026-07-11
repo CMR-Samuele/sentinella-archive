@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-11T20:22:04.437Z",
+  "lastUpdated": "2026-07-11T21:22:03.035Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "81a8c2e71c185644",
+      "headline": "Tesla Dismantles Model S/X Line in Just 46 Days to Make Room for Optimus Production",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-11T20:39:05.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-optimus-production-fremont-model-sx-line-46-days/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-optimus-production-fremont-model-sx-line-46-days",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "885c59f19012eadd",
+      "headline": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-11T20:33:48.000Z",
+      "url": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "885c59f19012eadd",
+      "headline": "Tesla claims Cybercab driving employees at Giga Texas — in a parking lot",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-11T20:33:48.000Z",
+      "url": "https://electrek.co/2026/07/11/tesla-cybercab-giga-texas-parking-lot/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "e5ef1c106623e0aa",
+      "headline": "These Diesel Engines Have Terrible Reputations For Reliability - Jalopnik",
+      "excerpt": "These Diesel Engines Have Terrible Reputations For Reliability Jalopnik",
+      "publishedAt": "2026-07-11T20:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVBIRHhnOHdGV1hNWFZkUVhaODdFcU5CXzFvXzFwLTNXeEQ5TFpNOHNrT3BUNDE1cUVISUprZ09tRHU1eUxlNi1Udy01R21BOGZCc043VlY3a3paMVRFSGlsOFF5TWRlc0NMSlRyaHpOdTMwM2ZJOGdiOUtwOEwtTFV4M2N4dW1ndWNrcUc5SkthSzA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "93d8223e3fb63368",
+      "headline": "The Contentious History Of The Term 'SUV' - Jalopnik",
+      "excerpt": "The Contentious History Of The Term 'SUV' Jalopnik",
+      "publishedAt": "2026-07-11T18:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbU9PVGlWQXBOSEI3NUc2YkNDbWthd0ZGaFNqa1o4aXZORkVhQzhPRmNCSDhJWVZEbUJ6ejFUMi1EWXVfMGZtemN5MDRWamN0M1NRSnc3RW1CUllQR2p5UHUwelcwSkoxRnUwOVJXNA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "a0d460549c28d395",
       "headline": "Waymo Expands Into Germany Tesla Pumping Up Production While Volkswagen In Crisis",
@@ -19,6 +64,15 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmktNTZrb0ZYbzhuYzdoX3RZNjZ1UDdTVzNpMWpveUpmUW1ZTmlBekhPcHpMZFJ6cXBMRXJaZUtCeC1KQldmUjdUdU9GaHpTdm1SQ2ZmWTYtXzNEamRfT1BrV1ZRTGJXbkRjZlY0S3hRSWRMb2hPMGZUX3ZXLVNrSGItYXdKRk9JeFNocWNiZEJ6SEtKcnFXQ0NYTDhraExlTFpz?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "11fcdb5b4fcb6701",
+      "headline": "Tesla Launches Miami Robotaxis Without Chase Cars as Waymo Stashes $21 Billion in Singapore - finance.biggo.com",
+      "excerpt": "Tesla Launches Miami Robotaxis Without Chase Cars as Waymo Stashes $21 Billion in Singapore finance.biggo.com",
+      "publishedAt": "2026-07-11T15:10:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTbklXY3drV19SQTljcmczT1U5eWVndUdJNnpRckNMeTFkZlQxODlTUmJpeHowQjdweXo0Mjg4RDJvNWtsZ3NyWTZnYnVZYWw3cXBxRGIzaVdrTDQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "c5104d0d91ab1ba0",
@@ -44947,60 +45001,6 @@
       "url": "https://insideevs.com/news/797308/tesla-model-3-podcast-catch/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
-    },
-    {
-      "id": "d2661533e73d1342",
-      "headline": "Why The EPA Caps Benzene In Your Gas At 0.62 Percent (And Why It Matters) - Jalopnik",
-      "excerpt": "Why The EPA Caps Benzene In Your Gas At 0.62 Percent (And Why It Matters) Jalopnik",
-      "publishedAt": "2026-05-30T11:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlVqTFhmYkFOTHVrYVJudFd1OTlLd0psdXpSU0dUbUtUZWRBWTdtVE9YdzUzOGozY051XzFBTU5nNnlTYmtWRHpoTlBPakEzcXAwdm93YW5QR2ZENHpKOWt2UWVwNUlGSFVoVTlVLU1JQ3lIMmNnODh3TXJQSm8tSVBGTnJ2Zi1WSUE?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "3382c296b6bcff66",
-      "headline": "This Trump-linked startup plans to put humanoid robots in the military - CNBC",
-      "excerpt": "This Trump-linked startup plans to put humanoid robots in the military CNBC",
-      "publishedAt": "2026-05-30T09:52:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWnZzRXZOSnpISUtPLWVGZzdWZ01MNzE3bFVDT0cwZnpVRGZOejd0OUplSXQ4ZTRhRVgzbWRyYWZSal9QRGYtYk1BZ2JVOEtFUENjV1JLa1pxX0tKelhLcnpVY2kxTTNqUWhwdjJ5bnJaODJaNUljVnNmOGRXRkdBTFAzR2NSa3JUQVNYNk1Jc2XSAZYBQVVfeXFMTnhiVEtOWTd2RW93YXpVd2czLVBEdUFwRUNhWnZCa1ZnZHFfSXgyMzhjY0prTUtWSXhPM2VuSzJWaWNWajB1SjRxMUFQUWxESjFpNmpHTWJIaTRfNlZ4T3dic0tDVVNXd1lqRkxWaHctVER2Nm1HMTFVV1VWWFQ5R2dfbFBmMlRvNVNabm1zNXJ6VW5vRmxn?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "1405cfdf4bfb963a",
-      "headline": "This 2009 Mercedes Hybrid Was The First To Use This Tech We Now Take For Granted - Jalopnik",
-      "excerpt": "This 2009 Mercedes Hybrid Was The First To Use This Tech We Now Take For Granted Jalopnik",
-      "publishedAt": "2026-05-30T09:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUNiYjlUaUg3UFVqTjVNUjdYNUhaRlpTWFVMU0h3V2lhbG44ZkE0STFuQmcyczVzZmVCV242TDJFSHh2LW5NSUJvUUwwcVQ0Q09lbE5wcWVlcXB3RFczQXhWV2NvV3p5SnhKbFptRExuaHY1b2szcDlHYjQ1NW4tYUtUWkUwOGNUal9SemhLZnNWaXdqSkNlQ1NJQ1NKVDMydzdheHp1cnhuSUYwSnBwZA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d0f9a3e626aaae49",
-      "headline": "Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters",
-      "excerpt": "Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says Reuters",
-      "publishedAt": "2026-05-30T08:24:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1kelNzaHJjTF9xRnhYcktfaFBnSllPck9GY0pvb3l4WGU1NktHRHNwNWVBdEppcXMwa0FmTl94TnFWUDM5bkJSWlVHbDhlRzV1VlJrSjBCNkktQm8?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "dcd3428f0afbdd2b",
-      "headline": "US planning faster troop withdrawal from Europe, newspaper says - Reuters",
-      "excerpt": "US planning faster troop withdrawal from Europe, newspaper says Reuters",
-      "publishedAt": "2026-05-30T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnEybF9EeDRqOGwxZnNCTzljb1lXM0RaT08yS3R1UUQ1N1o2bS1VbFFUcGVhbnJUaExpdXpiTmdfa21OQ2x2MHpXX1JUVVFkNnlEM0VwU3pIdV9JT1lhMEhYZjhQYmowN1ZDZnZzcjVDMkltS3liNmtDM0k2cnVmYjVIY3ZHazE1Rk9RV0pNeHVRVFQ2NUkwMTVhdEdXcG5i?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3ea429c4049dc563",
-      "headline": "'Where is China' ask delegates at Asian defence forum - Reuters",
-      "excerpt": "'Where is China' ask delegates at Asian defence forum Reuters",
-      "publishedAt": "2026-05-30T06:26:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmh4UDk4M3JOekJkSW5PTGttNjNGWHNIUlNtUmljcjAxRS1CRGYxdnhOZ2IyUElTZm1kRVFQNUpXLTU0YXVsX0dQT3NFQzYwU2RuVnVtNkJPb09lODlJZ1pRdHlIZDU1UVQ4ZDV3dmxlMFlyc2txT1NLSUNTZXdRLTdyOVEyaFhhXzZ0MlRYcV9TTlNfeGwycU5xazc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
