@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-11T16:28:08.915Z",
+  "lastUpdated": "2026-07-11T17:31:49.941Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a0d460549c28d395",
+      "headline": "Waymo Expands Into Germany Tesla Pumping Up Production While Volkswagen In Crisis",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-11T16:38:32.000Z",
+      "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "c5104d0d91ab1ba0",
+      "headline": "These underperforming trades could yield big returns over next six months - CNBC",
+      "excerpt": "These underperforming trades could yield big returns over next six months CNBC",
+      "publishedAt": "2026-07-11T15:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbjFXZWFZSnJ4aXlUS0YwcVVMakxpcktKMVFGZUlRNHdfYTczb1dVMWR5RXRDTWlIanhrVWUzLW5GU2UxbHRTV0hSa214UGFKbHBNNk1mSk95ZTFKN0VHNmZvZ2JxMTFUTkthaFpRdVJQWXhyTklBYlBzLW5Cd09uQkFkdHNXOXhSM1ZBdU9VbmNGTWl6dU44QmpnRkx1LWZQNUd1bHdn0gGrAUFVX3lxTE91RlZ0aEZsRlFpMGpyUUhnUmZ2dVdpSlJMMDRaUmo3bzd3ZGVZOG9KZjVrYi1IeW1YUkdsNGw3NHhUbi1XNFc4NzBpTndRa2s3cUxfTVA1REtJblNNYXZoaXUzY19KNzEyNlRhOGh5Sk1IR1VvbVh6LWZ4UFRUdm5ZLW1oZHRXYk8ya09PUU5KNGZ0MUpVanlWMUpxRDl3aGpRbUNZSEN3Ml9zOA?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "df535ef31886d687",
       "headline": "A 50-Button Mazda Lost A Screen Distraction Test To A Four-Button Tesla",
@@ -10,6 +28,15 @@
       "url": "https://www.carscoops.com/2026/07/infotainment-distraction-study/",
       "sourceId": "carscoops",
       "sourceName": "Carscoops"
+    },
+    {
+      "id": "805d75a15de07efe",
+      "headline": "What EV Owners Need To Know About Electric Car Maintenance - Jalopnik",
+      "excerpt": "What EV Owners Need To Know About Electric Car Maintenance Jalopnik",
+      "publishedAt": "2026-07-11T14:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUEtTU09QaEFSMFhNLW5zSmNSWXltdkFyR1pjREdMRkxrVEFUdDNjcm1GWXZoYnJReHFQU2pkdUFzMjhldG5JTjIxU1U1MlRadjdfOE1senBmSHJTNWpwQ1hJcDlTbExGbEMzdXlJelc4VnJuVzAyX3lrNTROWEVyZnhZbG41cnUzRm9j?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "f26ee9d170e1c3bd",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXNHN2tRTFVjSW9HNWZtWXQ1MzYwNWpsSUZWQmdJcHJ2ZWxJUFJpWTFvMHR1b0tQNElWeTRJOTlnWWJ4bVR1S1NPeWloQVRDZi1ZNmhrLXJVNFdObkRiR1A1VmsyOUZyc1NtOVV5cHpVNWh4VFpzMHpJVnpta0ZIenlFOWkzU1Rsc01jeS1mZlQ4aVVFT1VQTHUxSWVwLWJZZ2pmMjgzVE9GcjZsLXF0U0NJNm5EY2w4NTVfc2xxcks?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4ba2affae6daaa1c",
-      "headline": "European defense stocks are cooling off after the military spending boom. Here's what's next - CNBC",
-      "excerpt": "European defense stocks are cooling off after the military spending boom. Here's what's next CNBC",
-      "publishedAt": "2026-05-30T06:01:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGJUTEtNRkZ5aGFtSENCdkJaR3FXWElGZnBZc0ZGSHZDMXlycmVTbW5RMkt5T2pFZjU1WGRvWjdpQ3IxcEV3bS1QQ3Z1dF9WaXdLNy1jUk5nM09CWHFlM3RfT29lelB0Vlk5YWE0eERydTVKYVFDd2xYck1JTUZVUi1JSmhWN0hOWUpNblRyTjfSAZYBQVVfeXFMTkVwb3lRa1prOXJGTjZkS2hqa1EzaHBlNG1IclRFa3QtZ3VYaUpzbG11eUlHSGloVnRqVmE2VlNGQUpVeENMZUUyTkJjTU9VbHBQVWRhc2RCUW5KdFMycUdiV29Tem9UNnU1RnlJM1FvdjA1MS1Kb1BxVURweUUzcnhBNV9xNzA3RUJJeXhTNGdzMGdIVW1R?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "9f16950b60143eb1",
-      "headline": "U.S. is right to ask allies to spend more on defense, Dutch deputy PM says - CNBC",
-      "excerpt": "U.S. is right to ask allies to spend more on defense, Dutch deputy PM says CNBC",
-      "publishedAt": "2026-05-30T05:59:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2gyOExPd3B0eVlIcEdqLWdMR2pnME1sc2lnNFFNdXIyTVZtamFWWGxkYjhsQUctM1BZWGdpMU9FRlo1Ykw2SVFvelhQdEJzZnI5THhUZ3FmZzlXVGo1ejRLam5DRDlvSGlDdDBYUkVoMFV3Y0xiNVd2LW1FNUsyMlpHTm5mRTAtS0tuYkJYMlpyZHNIdm9IeHBZYnJQcWVLSHkwdNIBqgFBVV95cUxQYlVCQWQ4dlQtZlRwWDRkX3JGWEJ3OXJ4WVlYaW51LUFzeGZ5UTZsTW9NT2dIbmM2eDhRYjY3c1BUQktRT01qZ0k5c2xTOVhRV2hUSHpnYjFYTEFTVGRmdDVfMkJNUGxEcy1zUzVEVTVhVE5aMmNCak5jeGhUSFlxVlVjMHNPb1VpcVdvaVNfb2tKZ2YtLWhaYlM1cmdwUlMtcUdMU2F5a3RDdw?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "1ff307041580af50",
-      "headline": "NHTSA in discussions with Tesla about heating failures - Not a Tesla App",
-      "excerpt": "NHTSA in discussions with Tesla about heating failures Not a Tesla App",
-      "publishedAt": "2026-05-30T05:45:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jSmw5UnV3Z0M3UDlNMmZubktYNEZVcU5qeGpEZlcyS2Y5SHJlNGJzbFZ4UDFfQkRZbk5ORkJSbHlPV2w5UDI2cHo3MWl1N3JNSFkyMVI1ZXUyeVZtTkVz?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
