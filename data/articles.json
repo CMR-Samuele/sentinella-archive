@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-12T11:57:59.566Z",
+  "lastUpdated": "2026-07-12T13:39:57.776Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "75c1609f56f4f570",
+      "headline": "SpaceX reveals Starship Flight 13 launch date",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-12T13:31:38.000Z",
+      "url": "https://www.teslarati.com/spacex-reveals-starship-flight-13-launch-date/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "b0b124c1cad64184",
+      "headline": "This Week in Tesla: Model Y Tops Sales, NHTSA Demands Autonomous Vehicles Fix and More - Benzinga",
+      "excerpt": "This Week in Tesla: Model Y Tops Sales, NHTSA Demands Autonomous Vehicles Fix and More Benzinga",
+      "publishedAt": "2026-07-12T13:31:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDBEQXh1VUxhTGs2U3lEYnN0b05nbHZmbksyNHZFUWhoZlI4QmNZcGk2T2pXQ0VPaFFOYUxGa2ZhMlNFeUJMMUgyX203alVpZjVmX1VQNUh4ZngxenhEZGY4MVNLWFdYRnh2cFJFckxaRndJRzFyRE4weFY3akl2blpiMmZDN2FIYjl6VmhfdjV3T0NfOEY2V0kzWWNva1pOX1U5bVJzQ2RlR2NRU0x4R19EdEFNM2RoZHlPWGhqRXJHekhNdXRsOS1wT1VXNkZrdnVR?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "f0732bb0599eba71",
       "headline": "How Long Are Direct TPMS Sensors Meant To Last (And Can You Replace Them Yourself)? - Jalopnik",
@@ -2521,6 +2539,24 @@
       "url": "https://driveteslacanada.ca/news/rivian-r2-listed-for-79900-after-50-miles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r2-listed-for-79900-after-50-miles",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "84dd31b8c80cf7ba",
+      "headline": "Tesla app code reveals cabin camera will verify driver before FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-06T19:36:17.000Z",
+      "url": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "84dd31b8c80cf7ba",
+      "headline": "Tesla app code reveals cabin camera will verify driver before FSD",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-06T19:36:17.000Z",
+      "url": "https://electrek.co/2026/07/06/tesla-cabin-camera-fsd-identity-check/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
     },
     {
       "id": "2d7b4716ff76871a",
@@ -44963,42 +44999,6 @@
       "excerpt": "Brazil investigates suspected Ebola case in Sao Paulo Reuters",
       "publishedAt": "2026-05-30T17:06:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDJTS2M2aFpLVzFhRlUzVm9PTXNqcWpLTDFtV3ZlZENZYlhQWmxhbThLYzYzZ2FiVmFxNzB3ZElBdW9MdGhOcVcxampuaVRhc1BlQnJmLTJqbVVrUmxxdFc3b0tmUmZrM21uWTFCWDhWUmVBeU5uekZSX3BJU3Z0X2VIUkVoWlN5N3dZSUdSR252NzI3MzczTDltdmJwdFRzMWpfOEx1eWtWTlNxLTcySG5BRG5HWGUtZ0xIWFBfWQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f149950fcd88bf6c",
-      "headline": "Why Do So Many Automakers Test Cars At The Nürburgring? - Jalopnik",
-      "excerpt": "Why Do So Many Automakers Test Cars At The Nürburgring? Jalopnik",
-      "publishedAt": "2026-05-30T17:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGU2U2VLNmo3Q2VDanhFNHk1ZURvMm5zYldRMDh5NEhFcENKZHBlOWhHYzBHT2ViWTdwaGV6Q3pGU0otTEtPQ21EYlQ4X0p4Q05QdlhaX0xYX3p5Qkw2TkhNaXdBbUE4TDZjUmlwaU5KNzlSM2EyNUlZNGdlU1lLTzNlQS1yc2ZOZU5HdHJzXzQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "624d6b71719e2151",
-      "headline": "Canada's broader citizenship rules draw strong American interest, data shows - Reuters",
-      "excerpt": "Canada's broader citizenship rules draw strong American interest, data shows Reuters",
-      "publishedAt": "2026-05-30T16:54:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2hEVGJKUVlIa281S1lVMkJlMHNCV0xXX2dVMnFkdmJHWFFvTUdjbXJ1QVFVRkEwR29lVXd2UGtWTUx1Tmg1UEdIVC1OaDJLTFVEcW9XcGlNVENUV1VCQVJqU3EzMHZXV2ZmUEV0RmFVbEdkaGw3bmUyWEttTGFJaDE3X3dzUHhpR25NdjI5dnVET0tfYmh3dlpudlV4eDJobEpFSlZERXBhSFlKQlFBS1B6UkQtZDVrdk9wT2dKVl9QLWs?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "55939a385fb5d482",
-      "headline": "Tesla Full Self-Driving expansion in Europe continues with new addition",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-30T16:45:32.000Z",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-expansion-europe-continues-new-addition/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "cfe8288129e2cacb",
-      "headline": "Trump to headline 250th anniversary fair opening after performers drop out - Reuters",
-      "excerpt": "Trump to headline 250th anniversary fair opening after performers drop out Reuters",
-      "publishedAt": "2026-05-30T16:28:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb29JNkhQQWpJd1JGV2hqdG1fcTNuZUExcnkzUmhSMXFVdm1fRUdleUNHQ3l2NGNWZ1poQXZJYlRTU25EdUx0Z2piQ2c1OXltRW5kZm50YUdwUXZaZG9JWHp4ejNKRXZWVWFjSkhtc2pwZThoR0ZuQ2t1OFJUSFprVFZsVEE5akVaM0hxcXpSRlRmWGlNWnhKMHB1TF9VaU92NjlvZS1lLUNmbjVrTWxkZ3Zn?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
