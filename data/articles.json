@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-12T15:58:02.665Z",
+  "lastUpdated": "2026-07-12T17:06:00.582Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "ca1edf594c78b521",
+      "headline": "Tesla to begin Cybercab rides for employees at Giga Texas soon",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-12T16:33:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-cybercab-employee-rides-giga-texas-fsd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-employee-rides-giga-texas-fsd",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "9743b739f52e29aa",
       "headline": "Tesla AI5 chip takes another step toward production as Samsung confirms foundry tape-out",
@@ -12,6 +21,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "a54d2d971f1cffb4",
+      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
+      "excerpt": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
+      "publishedAt": "2026-07-12T15:32:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmfSAXtBVV95cUxQVkl1TjhyX0cwZFgxRW03dXRWazV3bUNEVklENjh3SlZPcDBBZFpDWEk4NWlRaGowM2JrY0JnZndKejZlUHd3SDBYQURjTHU5Z1ZseXlvXzdRamZ4VUF6QUQwYXVKSUptOTRJTmlDcFBTT0hyOWN5U3ZVV3M?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "cfc8390455ddd769",
       "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
       "excerpt": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
@@ -19,6 +37,24 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmc?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "02b23c429a0d1188",
+      "headline": "EV Theft Is Virtually Non-Existent Compared To Gas And Diesel-Powered Vehicles - Jalopnik",
+      "excerpt": "EV Theft Is Virtually Non-Existent Compared To Gas And Diesel-Powered Vehicles Jalopnik",
+      "publishedAt": "2026-07-12T15:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTVUckRjS0xWWXZRNkl5UGdqdVY3WDRncjZVVmNVR2k2ekk2U3lwZUs2T1pxVTBGYVYyNTVkaGhMSDZqYzVKLXlsbW96aWlHQncxUG9LTHRKX254N3JaN01ZVmVjWW9WVTRmX1ZMWGxOaWxUQWVreU5Cbl82TnU3Z2Y4aUdvb29MbWhOUFNXaXhndw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "aefc3199f72f01cf",
+      "headline": "Here's How Much A 2022 Polestar 2 Has Depreciated In 4 Years - Jalopnik",
+      "excerpt": "Here's How Much A 2022 Polestar 2 Has Depreciated In 4 Years Jalopnik",
+      "publishedAt": "2026-07-12T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkRGR1RWYnpnWW5QbDViZUFUZjNtNVhra0xZV0xrT1pRQTQzbUc1Y0VWNnVweXgtNFNlY2Z5Nm5Pa3B5TVhSM3BtYUVzZ3hkb1RzWWRJZVNwUHQtdVpOYmlVQ0pKdjZZdXJoTmZmbE5OT2Z3azFscnducUZHdUd2c3F4NC03WWx0X3c?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "75c1609f56f4f570",
@@ -6076,6 +6112,15 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnY1MVVybFlBd3Y3bzJsWV9ZdFNOUnhjOWNkR2NKVEt6aUZMX0prYVJ1UTBoUTMyMlRrSnRoQVJZWDd2WWJrRzVaeWduYnB6dzRfdF95UEtCRTRaWF82ZVpUZWl0ZWRUUy1CUk94WHczRnJIaUR5SUxtMjVGY3lueGx6U1NzQmpXbmMyRmJWbWZnNi1sbF83T1dHV0hoR2E5Y2I0bnJnWGNHWmFDWGxqZk1rdzFwQQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "6095b43bba5dd653",
+      "headline": "Tesla Sales, Revenue & Production Statistics (Jul 2026) - tridenstechnology.com",
+      "excerpt": "Tesla Sales, Revenue & Production Statistics (Jul 2026) tridenstechnology.com",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5WlZONjdIZWk5NUR4SjloekFDZWVmX2NhTEZUalB3REdoZ1JObkg0aDNOSlI1LXVtb0lDYUE5alFyVWYzQ0cxSWVJSWVNandWamZHWWJCRjl5OENjd0Z3QUxfNA?oc=5",
+      "sourceId": "tesla-deliveries",
+      "sourceName": "Tesla Production & Deliveries"
     },
     {
       "id": "e88d00ac525d9558",
@@ -44956,51 +45001,6 @@
       "url": "https://driveteslacanada.ca/news/tesla-takes-10-percent-canada-china-ev-import-quota/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-takes-10-percent-canada-china-ev-import-quota",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "1a3e4aab458e61af",
-      "headline": "The Guinness World Record For Quickest Hybrid In 2011 Sounds Laughably Slow Now - Jalopnik",
-      "excerpt": "The Guinness World Record For Quickest Hybrid In 2011 Sounds Laughably Slow Now Jalopnik",
-      "publishedAt": "2026-05-30T22:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblhGSlRIc2xieWcwdGd6ZjVCTUMxcV8yRXBON3hSeHB1dV9GUFpyMC05UHdJMWVDcFN5YkdxcW11M3NMRjVMbXlGR1FUa3VpRXRndzdtUVpfamRCc3pMRzRnQUFYUkwtSUxGbUZKRTRBRUpHX21wa1pKVmRSd1FBMGEySm4tT2FpM0g2TF9EN3JiOWI1?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "812040dbb7f64acc",
-      "headline": "Gas Is So Expensive, One Dating App Is Giving It Away To Attract New Members - Jalopnik",
-      "excerpt": "Gas Is So Expensive, One Dating App Is Giving It Away To Attract New Members Jalopnik",
-      "publishedAt": "2026-05-30T21:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnOC1pdUxRRE00YTgyTXN0aTNJOXNrMkx6YWpVVnRKRnU0ZzFHV2UySVduRmUwRmVCU2ZMbUpRUTJYcVp2OU1OVHJRbWpsUlhDN3BTRWlsdENfeFQ4cjU4OEhSTDFGU1RkaVZIWHBCbVRuOGs?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "3a67356dcada76b3",
-      "headline": "India cuts export duties on petrol, diesel and aviation turbine fuel - Reuters",
-      "excerpt": "India cuts export duties on petrol, diesel and aviation turbine fuel Reuters",
-      "publishedAt": "2026-05-30T20:59:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0w3cW9DenowOE8wSVYtbko2azJGcFhrWXdSSGtGYnNpMXktSjRiZDREZXBXVlZIdUtCZ3o2Y2pGWFJsd1dHcFNUX0pjOVpFdE9mWWM2djQtb1RwanoxaTVqM0EyRHdOTjZyUk9RMGg5YmwyektkV3pPQ1MwdUkxWmxHT2R0eUZBOUJWZmVqb0d0M1ZwSkdUT1pxSl9KRXRJb050eEUyTVIyeGZLcHR5ak5n?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "b696c9d914d857a0",
-      "headline": "Toyota Tacoma Vs. Nissan Frontier: Which Truck Offers More At Their Price Point? - Jalopnik",
-      "excerpt": "Toyota Tacoma Vs. Nissan Frontier: Which Truck Offers More At Their Price Point? Jalopnik",
-      "publishedAt": "2026-05-30T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05Nm96eXkwWTdsVGU0ZEFhM1dYZm1tWnRJYUJoVmM2dmMzTm9VQWJQelRGc3JvRHFTbFFJX0p2UDE5R0xiMEhjZjdQZ0RSVGhJNGxpQ3JJUWRrdzBzSHc4eU5EYlo1MDdaamdYaDJDSVpOcERa?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "6f6c989fe469307d",
-      "headline": "SoftBank to build up AI data centres in France with major investment - Reuters",
-      "excerpt": "SoftBank to build up AI data centres in France with major investment Reuters",
-      "publishedAt": "2026-05-30T20:06:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGpvaWFPVFk5eDM4Y1RPY29QVXVhYXN4UHQyVlJ5NzJzUWMxRk90S2EwNVRjeE82MlJWeWhCMjNHN1NPSVQ2UjY5UlBBWHdQSmdKRURxZFF1YkRYVEFFbW03V3pFZ1dKSGxQdEsxVUdkNkxZalIybVhYRjlkSmlfTkZDd1RfaWFLdXFVMTF2VXZBOHlxcTVwQkRQbVNqbXRLYzN1Z1NEZVhhaUZWeXdraUZMVG1wVFVIeDZMRzB3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
