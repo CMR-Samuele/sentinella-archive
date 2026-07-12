@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-12T14:54:17.195Z",
+  "lastUpdated": "2026-07-12T15:58:02.665Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "9743b739f52e29aa",
+      "headline": "Tesla AI5 chip takes another step toward production as Samsung confirms foundry tape-out",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-12T15:49:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-ai5-chip-samsung-tape-out-2nm/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-ai5-chip-samsung-tape-out-2nm",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "cfc8390455ddd769",
+      "headline": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
+      "excerpt": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit CNBC",
+      "publishedAt": "2026-07-12T15:32:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SLXZXRVdMZTFEOGZXeklZZ08teGV4cDBzX0QwamVMaXJwWjRxdjlyeFdEU25HTktDVEpjSHRxZkpBSkR3YmYzV0VvOHptNVV2Wi1INmpkdEpFcW1TTjNhMFRmSWFDbjluM1BJQms2QTEwMkxtTmc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "75c1609f56f4f570",
       "headline": "SpaceX reveals Starship Flight 13 launch date",
@@ -26,6 +44,15 @@
       "excerpt": "These 7 SUVs Have Engines From Proper Muscle Cars Jalopnik",
       "publishedAt": "2026-07-12T12:45:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYanZDM0hOSDZXNXRKb3gtU05pTmlyMWtRYUV4Z09PS2ZVWXpGbG1Nd0lCcVpNcWdQRGNJTlh5M0hyOGRrTUNxdlJjZGg2M2JsdlZZcTN5ZTdRcVFERGVCRXpvanBZZHJoSWlJ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "9df2ab858efb8f59",
+      "headline": "What The '70s Oil Crisis Can Teach Us About Living Through Fuel Shortages - Jalopnik",
+      "excerpt": "What The '70s Oil Crisis Can Teach Us About Living Through Fuel Shortages Jalopnik",
+      "publishedAt": "2026-07-12T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHZ6T2V2TDRsX1dQOXhMR2xXSDQ4dUktMXZSNDJEenZubHV2eDJqYXkwbnFvajNrSGs3MHFVYWRRNVFiOTF4bTV1RXl1UFVnRnk1NHc4LU5hMkhfWm5ZRjdrNkxiVm9PdHVaSE04U1lGOFBQeXZVVkJnYVR4S0E1OWVxQkdtbENCLXN6eTQ5bFQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -2053,6 +2080,15 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUpqTmZaVFhaN3VTUzNZaEVsaFRkZlFubV8zcmE4UGlVakUxYldUZEFhOWl6WW9YMzUwOTBhMzVUYjRLN3hQaFhWVWw0dERmeFI5UWM2cDgyd1FpVktRNGxUT1hyUUtwcXhsbmdtSkxNQ2RXOE1nZTNEMjVSZzZFaFh0eUNGTkpQTlhYN0h2WQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "aa8b398f3a8f39f1",
+      "headline": "NEWSLETTER: Russia goes electric? - Reuters",
+      "excerpt": "NEWSLETTER: Russia goes electric? Reuters",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVA3OVBhYlJwUU1XeGNaY0gtTV9NSWVtTkxldHAxbGNqa3k3LTdQNHJzMEVwaFRBMUhQTUliS24tbUpJS1BjX1NJa045cEJidzV6RXJyNmpyakpHNldPeG9hM2piUUxOMGpYUVAxWkEzOGFiRmNnbUtmOTNJS19DeEtHQ19lcWhrMUhVZGJFRQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "c367c8ff3547e062",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGpvaWFPVFk5eDM4Y1RPY29QVXVhYXN4UHQyVlJ5NzJzUWMxRk90S2EwNVRjeE82MlJWeWhCMjNHN1NPSVQ2UjY5UlBBWHdQSmdKRURxZFF1YkRYVEFFbW03V3pFZ1dKSGxQdEsxVUdkNkxZalIybVhYRjlkSmlfTkZDd1RfaWFLdXFVMTF2VXZBOHlxcTVwQkRQbVNqbXRLYzN1Z1NEZVhhaUZWeXdraUZMVG1wVFVIeDZMRzB3?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a7e6ca7842137cbf",
-      "headline": "The Soviet ZIL-4104 Boasted A Hand-Built 7.7-Liter V8 Engine For Communist Elites - Jalopnik",
-      "excerpt": "The Soviet ZIL-4104 Boasted A Hand-Built 7.7-Liter V8 Engine For Communist Elites Jalopnik",
-      "publishedAt": "2026-05-30T20:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUZxZmlVSmM2YUJ0VXk2YUFzNmk0TmVZMHZJcllyd2JLdUlxNHNTc3B6MnM5a3J2UXV1TUZxd1BfR25UaFpVQ19MbHRWejVkdnZRMnFrNzBKeUJfd1R5SHdNTTg4MThZTmNyemtXenhaaDRJeERWQnBGZHJhel9Vdmo4djNvZGs?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "2f6c2b4fe69eb852",
-      "headline": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
-      "excerpt": "US military says it turned away blockade runner trying to reach Iranian port Reuters",
-      "publishedAt": "2026-05-30T19:27:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f8c74dabc4277e0a",
-      "headline": "Renault Restores Its Record-Breaking 1930s Racing Plane That Executives Forgot Existed - Jalopnik",
-      "excerpt": "Renault Restores Its Record-Breaking 1930s Racing Plane That Executives Forgot Existed Jalopnik",
-      "publishedAt": "2026-05-30T19:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWFtZm9heWp5V2Y5dE1obVVFa25fLWFDSElsNVlNM0VLa09BZXBwT2c0UlVpUEszN01hQTc1aXRFZ0dpUE5pMkJ3d1VsYWhpN3pnbGFjQVU5ei1EcE1oclpMY09TdXFrZ1dBQTNHRmhvX0djbTVjMVVtUEVLem1RNlZpOC1WcjlrUW1hOTM4djZHWmlpQWNlTk5ocw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "0fda399bf98bd5e4",
-      "headline": "Tesla Model Y on Autopilot Drives Into Florida Pond, Killing 87-Year-Old Driver — and Raising Serious Questions About Who's Really Behind the Wheel - Yahoo Autos",
-      "excerpt": "Tesla Model Y on Autopilot Drives Into Florida Pond, Killing 87-Year-Old Driver — and Raising Serious Questions About Who's Really Behind the Wheel Yahoo Autos",
-      "publishedAt": "2026-05-30T18:52:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVBQNngyUFBFZ28zV3lwd3djTkdaWDdVOEItNU1ZR3JSM1RLM0pSSXF2QnZBQkU2eVJ3ZlI2OUk0SXNXVENJbnRCekpIQnJwMGdXcWF2aXNNanZTb2ZnY3M0ajVLU21jbHY5RVA1cGlTUEVQRzY3SFB1RFZ6ODM0c25mTDd3cW1BZUk1akxBR0IzRXgyYlNiR1V1amFXWlEzNmo0?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
