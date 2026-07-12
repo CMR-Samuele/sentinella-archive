@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T13:39:57.776Z",
+  "lastUpdated": "2026-07-12T14:54:17.195Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -19,6 +19,24 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDBEQXh1VUxhTGs2U3lEYnN0b05nbHZmbksyNHZFUWhoZlI4QmNZcGk2T2pXQ0VPaFFOYUxGa2ZhMlNFeUJMMUgyX203alVpZjVmX1VQNUh4ZngxenhEZGY4MVNLWFdYRnh2cFJFckxaRndJRzFyRE4weFY3akl2blpiMmZDN2FIYjl6VmhfdjV3T0NfOEY2V0kzWWNva1pOX1U5bVJzQ2RlR2NRU0x4R19EdEFNM2RoZHlPWGhqRXJHekhNdXRsOS1wT1VXNkZrdnVR?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "7b1bbc3f4d6dda50",
+      "headline": "These 7 SUVs Have Engines From Proper Muscle Cars - Jalopnik",
+      "excerpt": "These 7 SUVs Have Engines From Proper Muscle Cars Jalopnik",
+      "publishedAt": "2026-07-12T12:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYanZDM0hOSDZXNXRKb3gtU05pTmlyMWtRYUV4Z09PS2ZVWXpGbG1Nd0lCcVpNcWdQRGNJTlh5M0hyOGRrTUNxdlJjZGg2M2JsdlZZcTN5ZTdRcVFERGVCRXpvanBZZHJoSWlJ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "5ec40d1cea0c4986",
+      "headline": "Can You Add Android Auto Without Having To Switch To A New Head Unit? - Jalopnik",
+      "excerpt": "Can You Add Android Auto Without Having To Switch To A New Head Unit? Jalopnik",
+      "publishedAt": "2026-07-12T10:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlZORVV6QXYxTldsdVZPMkFhRlRnVnp4anVjSndQTGVWbXdjaDZQLVVDYXhJVVdiRVZJY0kzYXo0ekdYT0RRd2Q5dWhldll6bWZJeWhjWTFEU0V2MVBPNEx0RU5SNC10SXdsQTdMclZyQWlxdEljVHJvN0xtdjQxSE5zaFhHdnVxWmpJOHZhOFdIYUU?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "f0732bb0599eba71",
@@ -208,6 +226,15 @@
       "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "6517607444d6139a",
+      "headline": "How To Fix A Sagging Headliner Without Ripping It Out Or Paying A Shop - Jalopnik",
+      "excerpt": "How To Fix A Sagging Headliner Without Ripping It Out Or Paying A Shop Jalopnik",
+      "publishedAt": "2026-07-11T16:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTlFTTFoM0JReUtTSTltUk1tZER3Q1c4MFVMcU9pQ2dSbXAzQ2xZWE5lcm16MkEwZFpYeTBWd2NlbWpqOUtPYTA1Vm1QSEZvYVdjSHdjbEFNUDB4bzlrdmJWa0Y2WEFfZTd1LUFJd1JwWkVmSmdrOTVhT0NpN0RPeUNsb282cElZZzlrakhuazFBb1U?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "7cce3750579ec4af",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVBQNngyUFBFZ28zV3lwd3djTkdaWDdVOEItNU1ZR3JSM1RLM0pSSXF2QnZBQkU2eVJ3ZlI2OUk0SXNXVENJbnRCekpIQnJwMGdXcWF2aXNNanZTb2ZnY3M0ajVLU21jbHY5RVA1cGlTUEVQRzY3SFB1RFZ6ODM0c25mTDd3cW1BZUk1akxBR0IzRXgyYlNiR1V1amFXWlEzNmo0?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "6aa9310dc1221f0d",
-      "headline": "This Defunct Automaker Did Supercharged Pickup Trucks Almost 40 Years Before Ford - Jalopnik",
-      "excerpt": "This Defunct Automaker Did Supercharged Pickup Trucks Almost 40 Years Before Ford Jalopnik",
-      "publishedAt": "2026-05-30T18:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRm81TldXelEyNFNXUzN0eTFpMk1hVExNM183ZTlSSU1IeFJVN2lMUEJDelhLMmlKQU1pWU9TUXhSWmI2RGs5UTV1enJVUHJaUlVjamJ4MTU4N0RlZFdjNjZEVk5lcjBpTEYxQWI3UGNmRy0xTTJxX3NzdzVQVE1OREpWQzVVZw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "210a49a52ea9b8f8",
-      "headline": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest - Reuters",
-      "excerpt": "Ousted Turkish opposition leader Ozel draws thousands in Ankara protest Reuters",
-      "publishedAt": "2026-05-30T17:20:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSS1adlM3ZFVoRGFuU3g1X1g5cXhrRWhvRUFtWmdnbnU2ZHBSakVHOUFRY0RCVmFmSS1sNEJDS08zT19xUG1TRWpUUGU0cDljdGF0TFppQlhlUzhpNmw5R2xKcnlhUXNOSThiOTJkZE01ZjJNYS1HQkJCT3AydzQ3N0hNdThKRHIzQWl4ZnZhdFhwX2JYeG5wdkNTQV9RZ1E3cmtkNGU0c2d2ZTI5VWxObmJfRGtVN3BaTk0tOHFMcw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "acbb179b7a800ce6",
-      "headline": "Brazil investigates suspected Ebola case in Sao Paulo - Reuters",
-      "excerpt": "Brazil investigates suspected Ebola case in Sao Paulo Reuters",
-      "publishedAt": "2026-05-30T17:06:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDJTS2M2aFpLVzFhRlUzVm9PTXNqcWpLTDFtV3ZlZENZYlhQWmxhbThLYzYzZ2FiVmFxNzB3ZElBdW9MdGhOcVcxampuaVRhc1BlQnJmLTJqbVVrUmxxdFc3b0tmUmZrM21uWTFCWDhWUmVBeU5uekZSX3BJU3Z0X2VIUkVoWlN5N3dZSUdSR252NzI3MzczTDltdmJwdFRzMWpfOEx1eWtWTlNxLTcySG5BRG5HWGUtZ0xIWFBfWQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
