@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-12T04:51:34.797Z",
+  "lastUpdated": "2026-07-12T07:27:33.982Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "75957d8f24f7c187",
+      "headline": "Tesla-Woche 28/26: Model Y L auf Ring, Boom in Europa, Fremont-Umbau, Cybercab-Robotaxi",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-12T05:15:40.000Z",
+      "url": "https://teslamag.de/news/28-26-tesla-model-y-l-ring-europa-boom-umbau-fremont-cybercab-robotaxi-67021",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
     {
       "id": "5c382b1eb25313a4",
       "headline": "How Many Sherman Tanks Were Built (And Why They're So Rare Today) - Jalopnik",
@@ -57,6 +66,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "ad563f804758bd40",
+      "headline": "Apple sues OpenAI, two former employees for trade secrets theft - Reuters",
+      "excerpt": "Apple sues OpenAI, two former employees for trade secrets theft Reuters",
+      "publishedAt": "2026-07-11T20:44:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTXltazlpdUFpLTR2X3NVNkxYQkZOSTRXMG82dWZUNjlneFhlaFF4eVIxQ3NRbm42dGROdHNKYkRzUm5kOWxGSjRiVEtjRlUwWVVz?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "81a8c2e71c185644",
       "headline": "Tesla Dismantles Model S/X Line in Just 46 Days to Make Room for Optimus Production",
       "excerpt": "[object Object]",
@@ -107,6 +125,15 @@
       "excerpt": "The Contentious History Of The Term 'SUV' Jalopnik",
       "publishedAt": "2026-07-11T18:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbU9PVGlWQXBOSEI3NUc2YkNDbWthd0ZGaFNqa1o4aXZORkVhQzhPRmNCSDhJWVZEbUJ6ejFUMi1EWXVfMGZtemN5MDRWamN0M1NRSnc3RW1CUllQR2p5UHUwelcwSkoxRnUwOVJXNA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "97ea5c886be82d1f",
+      "headline": "The Last American-Market Lexus With A Manual Transmission Is A Rare Find Today - Jalopnik",
+      "excerpt": "The Last American-Market Lexus With A Manual Transmission Is A Rare Find Today Jalopnik",
+      "publishedAt": "2026-07-11T17:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelRhNjV1SWpjQkI4bjJJdnFreVQtM1VpS1BWSmpCbWxKaGdUamFtQkJZbGhZeGNSNDQ5OERXZENoZnRha1hPbFNIVUxsNkFray1BVmpRT0lMbDhEUFBaSnh0d01xd1hIemdoajJoTS1WbVF0U2tXcDBzNTZlLXpMV3dsUXBWeGEtUkpGazVkanY5UGVlZm1NMVJrdXVGd3hDcFBz?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -2494,6 +2521,15 @@
       "url": "https://electrek.co/2026/07/06/tesla-cybercab-production-before-autonomy/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "8187960c82fd58b9",
+      "headline": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing - CNBC",
+      "excerpt": "Here's how SpaceX's Nasdaq-100 inclusion might affect options pricing CNBC",
+      "publishedAt": "2026-07-06T18:26:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2QyRUxXV01kbXJ3bVJqSnFtcERNYVdXRnRSWS1GazRBUVNJMzM5aWp3YVFUVW53UWh3dk1aN0RWd1dBNTM0RHdteHY1TGZaeHNJUEd0OU5aY3AxVFJaN01BOW96RTNkQUF6UXFaMjF0Yk1kX2lBTVVnb0RDalFIVUVESFBmX205TGFzRWpKeUxRVkd4N1BpbWNqMzVsckxGUW1UWGJHQdIBrAFBVV95cUxOSDM2aW5YdFBlMVhJb2J2ZWI2MEx6SThzTTZRdkJzY2sxWkw0Tkw1c3BLYXUzczR5SGpPTGNCLWM1TC04RFE0Zm0zV0dVSWVuUGt2S3lEOUV6LUZwZzlFOU1hU3Q4Z1lfZXFBcndlMUFKUTdvMUlEU08tZXlGREt1MjY3eXJIakgtMGRRVXpWYVQtZC15Q3VfMDNDbU51c3YzVmdzMTlhZGFvMEE0?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "94899fad82868a9b",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xRUltZHlDb3MtTWswaDdUS2VWaGxoSnY1dnBsTEI4cHlaYWN5UG5lTlMzT2JzV0NpYUNEdW92U3dyblhvY2doRW1MRkhmU05WNDNKNVFnZjFYVXcydDM3aHQ5S2XSAWpBVV95cUxQdGFjYk93OTJ6TGZDVTBuQUdNSFI4TUZzS3k3dkZ4TXd1c1R4M0JiVXZQZ0xVc3dWbDd2RmRpUXZyYm9teE45clNJRDRyanZvbEZtaVNySEVJRFdDa2dNNkZZM3dBVGJLUmNB?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "c67635b673911904",
-      "headline": "Is SpaceX Tesla 100-Gigawatt/Year US Solar System Production Plan Realistic?",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-30T14:38:52.000Z",
-      "url": "https://cleantechnica.com/2026/05/30/is-spacex-tesla-100-gigawatt-year-us-solar-system-production-plan-realistic/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "39f49a100a4fbf92",
-      "headline": "Tiny Guyana poised for big Iran oil gains and growth strains - Reuters",
-      "excerpt": "Tiny Guyana poised for big Iran oil gains and growth strains Reuters",
-      "publishedAt": "2026-05-30T14:20:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3dHcWZTWTJ3cHcyV3VUdHAteUZiTElWMzJtQlM2RC1mZDhsWFh0Sm9uWk9KYzk5akFkeWhtUU55WEliSzc0TXJxN1p0SHNWTi1RY2sxZ3R4alRhWDhqeHlrdFJGcW85UFJFMDN3SF9uaV9sNDVDUl9kV2tpbHd0NldmcnMzX01CUXo0a2lhSzdvMDZRLTREVEpjQzQ1eFpBX2lzQlVDVQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8e61ef4045f05abb",
-      "headline": "Can You Safely Strap Cargo On Your Roof Without A Roof Rack? - Jalopnik",
-      "excerpt": "Can You Safely Strap Cargo On Your Roof Without A Roof Rack? Jalopnik",
-      "publishedAt": "2026-05-30T14:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eUNzVWY1dVdOR1RSWjdScno0cnlaVnREM3NRLWFlYURoRHEtTmxTNnI2OW9HcVNMVXJGOGM5NUlFbVhrRlBHRnJ2WW5KcjZ1dXNLLW9lX1VsQzlPMUhxM3Q3TE5wcV9obUZPVEhVbU9oVVhuRnROYUZMX2Vuak0?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "8c3350a199035170",
-      "headline": "Philippines remains under threat from China despite Trump-Xi summit, minister says - Reuters",
-      "excerpt": "Philippines remains under threat from China despite Trump-Xi summit, minister says Reuters",
-      "publishedAt": "2026-05-30T13:47:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGNFdWhDOWpjdXJSU1o2ZGNtLTJMZEhMU0txYTV5dWcwZlh4LU4tb3JTQjhNSVplOFExeFRLY3QzelFqOGtWYmg1NEotVGE3dmJOY0dadjgxeGVLRUswY0RLNnRZQ3N4TXBSNkZJNjZmVy11SGd6WFRKaDlsbGpnRUhYOVphZTB4YkhCZEhJem5DRE9uaC1nTU1IS1YwUTJ3cGdOc1NoZUowcDhZM2o0emxpa3o1NldvRU9UYWNpRmYyUQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
