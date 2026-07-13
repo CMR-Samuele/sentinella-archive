@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-13T20:18:20.965Z",
+  "lastUpdated": "2026-07-13T21:28:30.829Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2bdf9a4cef263577",
+      "headline": "This Is Why You Still Love Your Car - Jalopnik",
+      "excerpt": "This Is Why You Still Love Your Car Jalopnik",
+      "publishedAt": "2026-07-13T20:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3B4dDJWdjBfUjduRm9hZTFaNG5UcGxibTJtbmJKaVUtNk1JZW42OWFIZC1PQjBSWHhEVFNhaWdjV0F5NjZqQm1hWXR3MmNNb2ZuYm91d1dLRU5Pa2g4aERiWmZzbmVHenZLTWpXVXFBVTNrNkNXakExZEUzbS1McnV3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "2cd1b0d040ed9e14",
       "headline": "Here's Some Stuff You Can Tow With A Slate Truck (And Some You Probably Shouldn't Try) - Jalopnik",
@@ -75,6 +84,15 @@
       "sourceName": "Carscoops"
     },
     {
+      "id": "f8b8427ab9213f76",
+      "headline": "Jetta, Taycan And Gas-Powered 718 Replacement Are Among 10 Cars That Could All Be Killed To Save Volkswagen - Jalopnik",
+      "excerpt": "Jetta, Taycan And Gas-Powered 718 Replacement Are Among 10 Cars That Could All Be Killed To Save Volkswagen Jalopnik",
+      "publishedAt": "2026-07-13T16:57:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUk5RYmtOSTc5NEFpdFFCTzFTb0pEMmlUSl9adlcteUtiMjhJUjRUTHJkMEtXSDR6dVlVSzdXbVZ6RHUtbkJtOS1kczZuenRfeTFRdFdlQmlNOUFFZUowY1BzS05tN3NGS29zTDhxSzQ2cl9yZGFIbU55ZTV3S1JYeVM3VmdJLVoxWTBsdl9EVTdsaHgtX3VVdlZtZVRRUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "2fc6598e2c38f19d",
       "headline": "Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
       "excerpt": "[object Object]",
@@ -91,6 +109,15 @@
       "url": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "dde6c327c47fadc6",
+      "headline": "Central Asia feels the pinch of Russia's fuel crunch - Reuters",
+      "excerpt": "Central Asia feels the pinch of Russia's fuel crunch Reuters",
+      "publishedAt": "2026-07-13T15:19:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3VwN3E3X19OTDJtMHNkeXdkQmZLWWk0cmVLakdpeE1kRm1Va3hvdnhTcHlnOGFKS3pMSnFPclZwOE5RWnJsTEZTTElDbHlnWUJPcmNLT1BRaXpLX012TktxcGNoV05FdUxrSG9VV0VJSWVEQ3ZfQkQ2OEtaQUlqX1k3QVMwTUhYWlZpZG9KVmhXbzQtT3pVSFlDSTY?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "780400ec19227bfc",
@@ -1241,6 +1268,15 @@
       "excerpt": "EXCLUSIVE: Russia’s gasoline output covers 65% of demand after Ukrainian strikes, sources say Reuters",
       "publishedAt": "2026-07-10T12:11:44.000Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3RKMFk3cHFOdURWcDhtd0trdzhsYWhsdjZ5dzBrQUx2Q01KeDVvTnFkODhIZTZKeXVYTUh4MzZKQ1U3NklhSWlRQUJuN0dPNTFLelFZcWY4WGVHWXNuZkxBYlZ6Nk5yQzZVSHNBZjRROHE1d3FpRGNOa194ZUczamtzdVdlQnFDUHkwb0t4bXlyWnZTWUwwcWs2OVVXQUVETndjRXJaaTJERnd4MXlUWVNpUkhwV1pQeEFZTXJRdkQ4U0ZXRHNr?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "3a6122cf8fec317b",
+      "headline": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
+      "excerpt": "Traffic slows through Strait of Hormuz as Iran tensions flare Reuters",
+      "publishedAt": "2026-07-10T11:42:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzU4SVRwMVVlZ2pOM2Z2YWdjVGhfR01qSU5GbXB5R0JlT2JuLTRaTWMyRzZsOUdOeDV2OVM3SEpteHFrajBWUHdVdXdmZTREbXh3MFFvSEFNNXNyMGZXbThNRXVWazhhQklGcHZNWDREcjVIclUyVDduRWpQaV9pWlphcVJVbUViMFN1Q0NiZ1dLczdqZzh5VzRYakk3WUJyMnVUOWRiVUpYaTlPc2luNFVzeTRQMkVHQ3lfdjVrRHhFT3NESXAwWQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOVZ1QjlDdk5sWXg0c2JVS0JMYjdhX2NHQXJVQnM3andDV1hJNFdoSkNlY1pYWDNPQVM3OVZCWXlNTGhzMHRJWjRueTE3LXUySV9SWTZQZng2ZjEzc25oLWt4MUpJNE9vVjBIOWotVU54SDBtZXctSGdhWlNGRjdIV1lXaUFRWERRVW1IUGk0Mmd3Y041bDVBaXJpZGY4Vkl0eXo4cW5GWnVIaDJyVkE5SW9BSGZ3eUZnN2c3ZmNBbF9Od1JaOGlDeXNNTQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "01d0b971839a1ca4",
-      "headline": "Congo says number of confirmed Ebola cases rises to 282 - Reuters",
-      "excerpt": "Congo says number of confirmed Ebola cases rises to 282 Reuters",
-      "publishedAt": "2026-05-31T21:52:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXR4SDJ3SzNfOGotdWlvOElTRXRHZG9kSWF2bXRTOXZNXy0xQTZoQ09Pa0VyeHZ6bG9DWEVSNWV4dkFjZ0RwdlpzZ01HZkFuWkV2dmtlaVVjVGdYbFpaaWZGN0QxakNXdFZUMEVXT0MyRVVIdUE5enN6bng2VlRjdFB3Z3ZCWmM5VWFYeTNlS1YxeGtBajB0Zjl4QmpZeUtKdUFMc3JlYXJYOWpGMjAwakEwT25zU1c4QlZqQ05R?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2f89186276c55e5f",
-      "headline": "Colombia right winger De La Espriella nearly tied with leftist Cepeda in presidential vote - Reuters",
-      "excerpt": "Colombia right winger De La Espriella nearly tied with leftist Cepeda in presidential vote Reuters",
-      "publishedAt": "2026-05-31T21:49:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb29NNXhFVVZiQTVSV1FSTHgtdERxWG5OeDJMSkxJTXVVbTNUMFlCNnl6RFc1M2lNcjZ0YUZ0M3JJc1NQYTIyS1BUUW5jNkVnS3FmcXdseFFleV83Rl9iRElZRFdWLWE2NWN3R09meE83UGpHT3EyMXozVmRNNEM3UXZjenNNdVJHVzVoaWh4Y1IwUmZjdWlHSFJzMmVrSFNzZ2NUTHYwZFNLdVRzOWZMLVVkX2NfazM1TFVWdA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5bbabd351b7e6b53",
-      "headline": "6.0 quake strikes near Valparaiso, Chile - Reuters",
-      "excerpt": "6.0 quake strikes near Valparaiso, Chile Reuters",
-      "publishedAt": "2026-05-31T21:48:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzlRaG9TRWhkOEYxY2kwckdLWERpVWwwQmMxSS1PeV9SU2w0LWs3N0tUMklYRXNZUmR1YkcyRGR3eXExRk1naDRheXFuaDRwQk9fZVBYaUlVTXRHUm1nSjRKakNOX0I3eWVFWUR2VkEwRjFZeVJsdWctU2piQlVVWlJjSFVxNzF3NTNjcGdiVVpMeFBRbnZtUFpB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "77c7609d76c66887",
-      "headline": "How America Fell In Love With V8 Engines - Jalopnik",
-      "excerpt": "How America Fell In Love With V8 Engines Jalopnik",
-      "publishedAt": "2026-05-31T21:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hQVpOLUd0c0UzMXlhMlFIbTJoV0VVT1lldEV0RVFNRUJKVmpESEdrUXZUaHFEdGFGczlwTGxuUEROSEJZMVRmQVk1Qm9INlNWZmxmNjBhQ2p6VzI2WHlLMUJiTUZjYWxXdXBaeE1KY1hrMEQ1RmlWWg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
