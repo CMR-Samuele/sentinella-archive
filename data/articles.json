@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-07-13T17:29:39.286Z",
+  "lastUpdated": "2026-07-13T18:57:19.907Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "c32a9e2c36be4780",
+      "headline": "Tesla Semi enters new Pilot Program with interesting challenge",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T18:43:28.000Z",
+      "url": "https://www.teslarati.com/tesla-semi-enters-new-pilot-program-interesting-challenge/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "2ee67853d4c0b84c",
+      "headline": "Tesla reveals development of wheelchair-accessible autonomous vehicle",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T18:11:26.000Z",
+      "url": "https://www.teslarati.com/tesla-reveals-development-wheelchair-accessible-autonomous-vehicle/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "89f946942dccc771",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T18:03:20.000Z",
+      "url": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
+    },
+    {
+      "id": "77be50b2c82d2676",
+      "headline": "Tesla says its building a wheelchair-accessible robotaxi in Texas",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T17:57:55.000Z",
+      "url": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "77be50b2c82d2676",
+      "headline": "Tesla says its building a wheelchair-accessible robotaxi in Texas",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T17:57:55.000Z",
+      "url": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "6b4c2a128bb6dc08",
+      "headline": "Tesla Pulled Off A Shocker Second Quarter. Can It Keep Sales Up?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T17:44:00.000Z",
+      "url": "https://insideevs.com/news/801344/tesla-q2-sales-explained-2026/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
     {
       "id": "d40cf0afd6abe46e",
       "headline": "Teslas Per-Car Profit Tumbled To $2,140, And Tariffs Are Part Of Why",
@@ -145,6 +199,15 @@
       "url": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "17a12c886a7d1724",
+      "headline": "NHTSA Open to Reevaluating Steering Wheel Requirements for Driverless Vehicles - Program Business",
+      "excerpt": "NHTSA Open to Reevaluating Steering Wheel Requirements for Driverless Vehicles Program Business",
+      "publishedAt": "2026-07-13T13:01:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWt3WTRBNkl1VGlPQUdYb2hweVhPT29WMkNkUTE3WFNCYkl6U3dNWWVMX0llT0xmTkZ0MDBBTENlLVdEODZ5X0FqNWh1eEpNdDYtN2hYYXQwVkhrcjBWZ0hIdXVfVk44WDg4ZW96X09HRnp1VEdwZUR0LVo1SHhob1JfVUlqNDJ3ZHFXUy1pSm9EcVdoYkhsSlJUSXJHT1diaHI0WkRBNGF2V01vdDVrTGVR?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "4d376e69fc97887f",
@@ -44936,69 +44999,6 @@
       "excerpt": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China Reuters",
       "publishedAt": "2026-05-31T20:39:19.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbURTRGdXd0FJdXdDeHdxbHFpdWdiSUZ4eG0tZ1E1UmVOSHpZbnpiNEhweC1HclNuZkt1bmd2RVowVnRvZnliTjktcGNkb3JENmRXTVJqN3lXTWNnWE5zWjV4R0dqU050Z2p2ZnJxb1N1ZTlhci0tUndRbFNPdVctOVFNM2pWcUtNZExrSFV6cjhhV2VLSGtQWTRLbTNxZjdtNFJjVTQzS0YtOXNFQWllVUJrS2dGSkxpTG4w?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7b4e55c6be7c855f",
-      "headline": "Indian Oil raises price of 19 kg LPG cylinder for industrial clients - Reuters",
-      "excerpt": "Indian Oil raises price of 19 kg LPG cylinder for industrial clients Reuters",
-      "publishedAt": "2026-05-31T20:34:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHZja0lYTlZnYWlIWVJhQTR0bUIwSV9NWmQ2Tzd6ZDQxclV1eHRRcHpXMWx0THF0WGVxeW40bV9jRERrSUF5aU5oOFA2RUp6Ul9VOVhia0hiYnRlZnpsUUpuYlRHYzhtdzBFdnZIdk1yLV9MSG9WUmlNOWpOejd0clB6eUF5T0ZVU1NBQkZtampVN21sMWM0UkZJUkNTVkNqMDNreUZPM2R4aFFFR0NuUkVUYw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5a1db1639967150d",
-      "headline": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah - Reuters",
-      "excerpt": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah Reuters",
-      "publishedAt": "2026-05-31T20:13:36.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "99051d0508eb35ef",
-      "headline": "Syria's Sharaa holds phone call with Trump, Syrian presidency says - Reuters",
-      "excerpt": "Syria's Sharaa holds phone call with Trump, Syrian presidency says Reuters",
-      "publishedAt": "2026-05-31T20:12:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzRITzhyOHlrZkN3RUZ6eVkxY3lBQkZIbTNvWG9WWUxzenVZaTZzNTVxUDBWYTV6cmtCTDBDdU5fbE1GZjNsaGszSklXWDF3OW5hdTJSVDdSeF8wM0I2bDVCUTYxZ3JzM0h1S2hINlZhcVlvUWc5cDlSV0dvWERMeUlsZUh0NlJNaVdSNkhXc0lWNEtzczRILXdNbXZKczZBUU5LR3h4VS1DQTdjSzd2N2JwZndsU0h6d0E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "029fa3cf4c37116c",
-      "headline": "China criticizes Czech Senate President's trip to Taiwan - Reuters",
-      "excerpt": "China criticizes Czech Senate President's trip to Taiwan Reuters",
-      "publishedAt": "2026-05-31T19:59:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2VTSHZwelZuVGFleS1McnN5VVd3dUo3Nk9jTjg4Skd2RGwyMGhKOW1rRjk0RXR2bUw5WkRvSkdVNG1hSUpMNlVsYmVjNFBReU5VaDZuTkFXMUVYeVhxZ2RvT282ZThtb2l4Q0hsdDQ3aF9HTDBKZ1o0WGJIRWhIYV9zMlBrWXdOcEJaRk9ERVhEdTBGa3pnNHd3UTdtSTZrOUE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3298910c0f4e4db0",
-      "headline": "Medical Marijuana Is Off Limits To Truckers And Pilots Despite Trump Administration's Reclassification - Jalopnik",
-      "excerpt": "Medical Marijuana Is Off Limits To Truckers And Pilots Despite Trump Administration's Reclassification Jalopnik",
-      "publishedAt": "2026-05-31T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ21vc3RoWDNSd29SM3BGbHgzU09CNnVtb3lCanNrWlU5Q20ySzVYM2VmajJSTEFkblEwOFdiWE5MTnBscEo5OW5raFlLc1Jqd1NZblZacGdCR0k1ZlA4NG9SUkV0MXFETFRHQldBVTYxMXMyc21rdDFWVGd5NVVaRnEtVW1KQjdFWnByVVBObnZzSHIzMzJNS2FKcTZvRjVDVHJSc3UzNXJtamQ5ZERCNHcyQWlaZXJ3VEM4S1RjNG1Bdw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "b9aa7285c2a3ad84",
-      "headline": "Pros And Cons Of Transaxles Vs. Standard Transmissions - Jalopnik",
-      "excerpt": "Pros And Cons Of Transaxles Vs. Standard Transmissions Jalopnik",
-      "publishedAt": "2026-05-31T19:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVBZSlpuZ2sxQXVzT3BvSTR3ZEhxRUUtNmc0b2NfT1dNZDJubWhabWlJSTVRY3czYWJZb290ZTFuLXpYM3QxODBhOUwtWDNGUWM2dTRfQnd1alQzZ2pOOEs3MVA4cXJ3cm55ME55SlVWSmx5TWd4aWE3Q3JSYnNtdzlvWHI?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "81b1ca02fad25503",
-      "headline": "Nicaraguan Indigenous leader Brooklyn Rivera dies in state custody - Reuters",
-      "excerpt": "Nicaraguan Indigenous leader Brooklyn Rivera dies in state custody Reuters",
-      "publishedAt": "2026-05-31T18:56:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS01QSFU2M1JwY1B6TWRHZFhsek92TDhqV3FXbGo1bC1pNXlUeXZNa09vUXdJc01vTDJiRUFGZEdMZm9oUnF6TW9pZy10M2NOU3gxUkNJaFpwc2dOWjJZdURaS1FKQTRzRVhVM0JGMzY4MDJuWnNnT2Y3S0RIalhpeEE4U25TVDR1UEpZeHdKaWpzbmlfVEdrSlVaT00teHZIZGhSTjRnU2c4QmtQZ0Vfa2hmUGVsd3RSWlQzejNuTHU?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
