@@ -1,7 +1,124 @@
 {
-  "lastUpdated": "2026-07-13T12:29:56.495Z",
+  "lastUpdated": "2026-07-13T15:25:44.755Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "780400ec19227bfc",
+      "headline": "After 87,000 Miles, This 2022 Tesla Model Y Didn’t Just Lose Range. It Charges Slower Too",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T15:05:34.000Z",
+      "url": "https://insideevs.com/news/801469/tesla-model-y-adac-test/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "301e11a155e3fc1b",
+      "headline": "The Robotaxi Ultimatum: Waymo Is Now Fighting a Regulator and Its Biggest Distributor at the Same Time - Business Model Analyst",
+      "excerpt": "The Robotaxi Ultimatum: Waymo Is Now Fighting a Regulator and Its Biggest Distributor at the Same Time Business Model Analyst",
+      "publishedAt": "2026-07-13T15:03:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aOHpsbHNBaUlYNDFEX0c1LU5sTm8zbWV1UERZdFJuZTVZbU5Yejczcm8yRVFTdUtOYkFGMEdzN1N0emRCVW51NThGZXVzU2U5SF9kLWkwRWtnTDIzcEJQTVJ6OFBVaVBhdGVLX0lqRnFYR1RkSTdaUA?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "9d02bf1b98495e2b",
+      "headline": "Italy Confirms Tesla FSD Application Is Officially Under Review",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T14:46:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-italy-application-under-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-italy-application-under-review",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "f39d620bda64bb7e",
+      "headline": "California offering $3,500 EV rebates to first-time buyers - Reuters",
+      "excerpt": "California offering $3,500 EV rebates to first-time buyers Reuters",
+      "publishedAt": "2026-07-13T14:45:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQjdyRHZ6eGJoTGtodTdlcDQwdE9URmdKZ1o0WGtRZXBqVFYzRS0xQS15VkFnel9uRWFfRnVjR0ptS2FPbDd6dlNBcEdYa2pJM3ZqdVZUaTRSbzV5QkRVSmR6Z0hWbmQ1QVZMUHliWXlueDNicldCdV9FLVd6dlYyT2VKcUdXRVRFRW1fUFBJNG9DalVaUWluWWptSQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "31e58e4c384d8499",
+      "headline": "Tesla weirdly confirms Cybercab employee rides, a huge milestone",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T14:41:15.000Z",
+      "url": "https://www.teslarati.com/tesla-weirdly-confirms-cybercab-employees-rides-a-huge-milestone/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "4bbe5a0163f6fa79",
+      "headline": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed - Reuters",
+      "excerpt": "Volkswagen CEO flags 50,000 extra job cuts to staff as costs squeezed Reuters",
+      "publishedAt": "2026-07-13T14:10:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN2o2QnVTcDBKZVhGQmFLZ2tPUVRIZGJGa2NNdU5kRm9WVzAzQkJ6Z09sQ3JFR19VUUM4M0h2ZncwSW5iS3ZZSTBHeXRCbWg0bFVBb004RGFZcnUzcUtqSHlYS2REQXdqODFfMmgwRTFWZ1RkQVEzbGJ0VFU0QWRwZWgwbmRWRFktMHdLcGlkU3BNWDFDWGVKSlpBbVloZl9vUTh3X3F6R0Y0MGZmNG1oU3lVWFo?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "157ffbb27e875ad3",
+      "headline": "Tesla Reaches 150 Supercharger Locations in Japan",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T14:09:00.000Z",
+      "url": "https://driveteslacanada.ca/supercharger/tesla-japan-150-supercharger-locations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-japan-150-supercharger-locations",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "77fabac962965528",
+      "headline": "What's Your Most Frustrating Parking Lot Experience? - Jalopnik",
+      "excerpt": "What's Your Most Frustrating Parking Lot Experience? Jalopnik",
+      "publishedAt": "2026-07-13T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2lpcm5hWmhpYmRGT01JSE5pRHlfMnpoSzlWdXhSdjdMZ05nWkpHc25nOTJxSFVqTmdwaDhKVmFzWkk2NlFvWWVrRk5JX0tlT1JXWGQ4OXpkcFIzQmlVc2dlaElNc1M2WEh0S2VTU3NSSzZjN0RUazFRdmw1eW9LRzh2UGZDU29FdzJWSTdxbkFCUjg?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "7a531d5d5613d714",
+      "headline": "SpaceX Sets July 16 Launch Date for Starship Flight 13 and First Starlink V3 Deployment",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T13:22:00.000Z",
+      "url": "https://driveteslacanada.ca/spacex/starship-flight-13-starlink-v3-launch-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=starship-flight-13-starlink-v3-launch-date",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "e868b440ff40b6b0",
+      "headline": "Samsungs Texas fab enters production for Teslas AI5 chip on 2nm",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T13:09:22.000Z",
+      "url": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "e868b440ff40b6b0",
+      "headline": "Samsungs Texas fab enters production for Teslas AI5 chip on 2nm",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-13T13:09:22.000Z",
+      "url": "https://electrek.co/2026/07/13/samsung-taylor-fab-tesla-ai5-chip-2nm/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "4d376e69fc97887f",
+      "headline": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk - CNBC",
+      "excerpt": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk CNBC",
+      "publishedAt": "2026-07-13T12:29:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0EzZGRZaEFNZWlqd3V5eEQzbEo2N2tyV0k2NXdmb25tdkpCVEdCcWpjWjI5bVg5aWF0Xzl1cmphcWotT3lNakpZZFk0T0htNnlFSmdVSDFwMGJhNmhVYzJMcjRpaklyYU5LUmN2SGlmckdNSE1LZk9KeGhEbnRQcmxFMk9QQV9RRzBn0gGQAUFVX3lxTE1sZU5ZaE5KVGdFajdaUm5ZMjMzR2FMUVNjRjdoaHBTc0Y4dl9CZ0lyXzI4TEpmdUR0eU9GMHJZNlZDQlVfdE4ySWZDaGt0b01tdnVxdkhnR25QZXUzNk9taWZlM2FzR0Y0a2EwSThFdjVNZ0tzeWduQ21FT2x0TkVrcnZaNlk5QUZVNU0zeEdBbg?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "56ee28033d479ef3",
+      "headline": "At $6,900, Is This 2004 Audi TT 3.2 A Bauhaus Bargain? - Jalopnik",
+      "excerpt": "At $6,900, Is This 2004 Audi TT 3.2 A Bauhaus Bargain? Jalopnik",
+      "publishedAt": "2026-07-13T12:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpMndXdWI1UVE1TVpGRzRreGh4TkMtMWQ4M3NqM0E1YTRqSXd3SkVkcW1FeEpRMldrWE5mbmFaN2lid1dmVU1PeDVDMVVyWHg3eGNhM3NoWDk5dHFFbG1odlRnbW1udjZJVERlZjNNUU8yUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "ad26367bb14570b3",
       "headline": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Netflix, Deckers, Biogen, Nio & more - CNBC",
@@ -37,6 +154,24 @@
       "url": "https://www.teslarati.com/tesla-tsla-price-target-upgrade-heels-crazy-successful-auto-quarter/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "d352f18b3de0aee7",
+      "headline": "Why 2 Million Tires Ended Up On The Ocean Floor Near Florida In The '70s - Jalopnik",
+      "excerpt": "Why 2 Million Tires Ended Up On The Ocean Floor Near Florida In The '70s Jalopnik",
+      "publishedAt": "2026-07-13T11:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlQ1dy1PTDNiTXduQXBpQTdNekNBekwtLW5TZE51Q0lta1lrYkl3YlFtT2RyTDhjOUtUakF4STZsTjNnbXNGNXNjaFAzSWlvSVdCbnRoSGdmRDI2SkNnbDFNUzhTWTFVS2hmRUpicXY1OFZZZWEyblh2TzdrVVk5NmVITkUyQmc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "f6d55045ac2226a6",
+      "headline": "The Pros And Cons Of Making The Switch To Plastic Ramps From Your Metal Ones - Jalopnik",
+      "excerpt": "The Pros And Cons Of Making The Switch To Plastic Ramps From Your Metal Ones Jalopnik",
+      "publishedAt": "2026-07-13T10:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWViYXBuRHcyemFCWnlRSlVfUlFHdXJiZGxYRmNuN1VzdFdWdzNxdktxc2dzMFRNRmtTNk5RWXVnV3RiMUNEOXZna0JPZkU3TXpoaEdXWDA4Y1F6ejhseUJWWThIVGYxeXRyajNSdGhkMWdPU1dhd1lGX05EMWF1M3BaeXY?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "a3843606cb7c6a0b",
@@ -44866,141 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzZTLUFHeE9RLW5IOC0wbVY4OWhuSTlGbXZIWUZ5aFM5TUxtWGJ3MEdCZW0yWVFfdHlwQ0xCMkxpSThpZHFZcmdhcUtnRHN1aEFzYmJVUnJpRjZmT0plNi1RUHpKRnB5MHNiTDZHbEkwM05Tc25PQi01N3hEUzZfTE5ENzVaLTlpUF9NMldNdEF3OUU5aHpreEk3WWJPUkxSSm93a2UzeU10dUlM?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "60b031afe7738ee1",
-      "headline": "Stablecoin demand may soon fade, BoE's Greene says - Reuters",
-      "excerpt": "Stablecoin demand may soon fade, BoE's Greene says Reuters",
-      "publishedAt": "2026-05-31T15:30:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RKY1lIZEwtYzlBSXN2Mkx2RU9YYXVqZmlFaWZ5V2piVTRyWWtud0E4UXByUzh2RU94WGZ2R3RVallTTmhkakFVQ21scXI4X3hMOThkT3BxSHp3UzBjaV8tLUFvcEUzbUpRX1JMNkMtTmpyeEZvWFFjQmR5R2ZXc21MejVHZGV5cFVyZVpUclRudkdOWkhQV1hoODdnZ2tNTHF3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d2376210192fe053",
-      "headline": "The 5 Worst States For Drivers Underreporting Mileage On Car Insurance Applications - Jalopnik",
-      "excerpt": "The 5 Worst States For Drivers Underreporting Mileage On Car Insurance Applications Jalopnik",
-      "publishedAt": "2026-05-31T15:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSS1mdWlyV040RzByWWxDMjdlbXV6SV9vaGgxMEVQNkRGUDhsbVZRVVJDZHY5M09kY0VpWU94Y3RNblNuejZfdUt2RWx4OUF2ekZDNXdYUExadkV3NUZvbmktVnk4WUdxdG5YNFJ3eHJfeENHZUlTSUFJbW5rQUc5OUpQYzFPZTVQQlhfWnAxc0JnTno5enEyQk0xMENLbktWTDZKYkRB?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "db152ee24c2a26d0",
-      "headline": "A SpaceX/Tesla merger could trigger Musks $1T pay package automatically",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-31T15:00:00.000Z",
-      "url": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "db152ee24c2a26d0",
-      "headline": "A SpaceX/Tesla merger could trigger Musks $1T pay package automatically",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-05-31T15:00:00.000Z",
-      "url": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "870e4c80d677e2e9",
-      "headline": "Taiwan condemns China after New York Times reporter expelled after presidential interview - Reuters",
-      "excerpt": "Taiwan condemns China after New York Times reporter expelled after presidential interview Reuters",
-      "publishedAt": "2026-05-31T14:26:13.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlhzRWhpQU9paWNoYkZoTUxvVWtUaUdaaW1nUWljWFdzdTM5MFJCNWR6c0lVY1ozMnM1cUZCaU82OEZXdDU1X016UjE2TVlqUWpFZlFKT0MzUDFYRHY3Z241bUx1ME9NOU5NYlA4WmRjQ2U4c0JRd2ZpTWcxSG51Q2xwWng5Y0NHODBxQ0VXWlkwODBtejVrNV8wRjhwcU90bHduWXdaQzZlajFvWmh4TTBLQzJzNGNnTUgzdWZzSHA2YkxKMjNkaHhzd0lURC04Zk9nOQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "9fde272b2d08852f",
-      "headline": "The Liberty V12 Aircraft Engine Was Designed In A Hotel Room And Forged Lincoln - Jalopnik",
-      "excerpt": "The Liberty V12 Aircraft Engine Was Designed In A Hotel Room And Forged Lincoln Jalopnik",
-      "publishedAt": "2026-05-31T14:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY1dfSHRCWFBKX3ZYS0JEd245bDYyQlp2OWFzc0NsdDdhYi1HZktGS2d6N2FWeEt1d0ZVaGUzdENxQkc3eXQ4OFlWQlZ6bkRFU1cwNzgxY25mWldBYUF0LUhVQ2t0RDhWelJYUTM3UEpXWDRKZ1Y1bWVsZHREcW9JbmJCTV80WWE0QkZScnFPbDAxbkwya2ZzeWFhOTd1UHRSWGNEZ05CZw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "efbadb7c571cf090",
-      "headline": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters",
-      "excerpt": "The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends Reuters",
-      "publishedAt": "2026-05-31T13:44:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTBQc0NzWnJaUkU5UmtiRV9yUzNVdjA1MzYxUVd5cXpEUVhqZUdsVVZTazBPX3N4UVJQWFFqYmhKelJzbGtUdjBSOHpvV1BtTlpFTG1TVEM0TUtEeXJoSWVkM0pSQ184bGc4c1hyWXRCdWdxOGlOWTZnZmFiWmRTRVdIdHN4N1d1UmZuQmZjNWhQUnRnTEVJWHB5bmZHNUFCcU80MERuQWt3ZG8wV3J2d1RUVlZFb2FWV0JiT0pn?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2bcd73e80e715ef7",
-      "headline": "Revolution's pancreatic cancer drug doubles survival, boosts quality of life - Reuters",
-      "excerpt": "Revolution's pancreatic cancer drug doubles survival, boosts quality of life Reuters",
-      "publishedAt": "2026-05-31T13:40:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDJZTVZ0dmlQVFNZYUZ2YXBoS19DaE1FZjktOHdrYWt6NE10NEJGUEdNRTJvUXFTWTdwdXZEYlNXdW93Z1lncDB4NGhnajZId0h6T2NDSHpNS0pyWmxfQ0dJVkpTVmlETEJNQjN3bXdxcDhiVWs0M04zalJ6ZGNEc1dDVWhSNVZfMlBNR2JZZHFRNFZTSzN1MDloUXE1RjVmb1k3cTVvdjVzbWU5bWRia2duemp5UGZFMEw5eUMteWVzcGxkRFFnc1VqOGZ3N05wNjk2aGdyUmpTOFE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a3df1135e5d7a3b1",
-      "headline": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says - Reuters",
-      "excerpt": "Congo and Uganda report 263 confirmed Ebola cases with 43 deaths, Africa CDC says Reuters",
-      "publishedAt": "2026-05-31T13:40:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ1JnY0kyR2Y5cXQ5N3pNSFhQRmFldk11djBqTXhJTVVyNTV4dGdCSXpuNVRTVVhOYkUxWGdBdVFFTmlva0g0c05lcndjSERIdnRXZVl6ckpDX2dvZElnLURDT2FaWlZRTjlybExnNExqYVpCSnp0MEptZWVDMy14aHdmaGVzVWlFbmdTX3lYQVdqcng2MkZOd1JuNFRLclo1aHJyUnRQWVhmbzM0NzZKRGM2d1RVakJoWnZ0eVl4T0FBUkpfT3p5NmlWMTVzOVVQQm55NktSdS1Qc0JwTDF6SWVR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "49e04c88bd553b13",
-      "headline": "J&J prostate cancer drug reduces risk of cancer spread and death in late-stage study - Reuters",
-      "excerpt": "J&J prostate cancer drug reduces risk of cancer spread and death in late-stage study Reuters",
-      "publishedAt": "2026-05-31T13:35:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenhUajhjbWR5MFZYWmtuRkkycTJ5SmowUUEyTmFRRUxmYllEbk9xNUEzUE1mSDBkM0xRM1haWlB2bzYwZ1Z4NnRWSVhfNW8zUVJKV1JFZFNuTmFQMlR3b2xMSGpuemkzMHhsdEJfd2FSanFSVUVQNVZuZHFZMDlKRmdvYndrMTNidmVBUDZyaVpwTVJodl9melhkdmdXSERTQVJZWWdSLWw4NEtsV2RhZXhkRzYtOFp0aWxWbm02c0EtMHdYY3JYTkloZmlpb0t2YjM5RGlvSTNuV281MVE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fa1a429aa320eb56",
-      "headline": "What DIY Car Projects Nearly Or Totally Ruined Your Ride? - Jalopnik",
-      "excerpt": "What DIY Car Projects Nearly Or Totally Ruined Your Ride? Jalopnik",
-      "publishedAt": "2026-05-31T13:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1lydl9sZ2hvb3dqYjdPMldUbmlLVDNHT05rWE9OMVo5aW8yY2FwSm5ERmFvdzlrc2l6T2FlS0JSdDV6SnBnWU9wR0g1amtHQmJBN1NOZnYwZFFhNDBoRlpZU1dqMGJEZmVaaEQ1UDhYTHZmNS12eWEwNW5XY0EyU09tZ0E3ekE0YXc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ee1f129ff5089548",
-      "headline": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty - Reuters",
-      "excerpt": "Saudi shares gain, Qatar slips on Iran-US deal uncertainty Reuters",
-      "publishedAt": "2026-05-31T13:09:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE5ycVlXQ2lyWmppTS1UaElHQzhyOEROU0hwMTBxeno2bWkzZFVxdVJIa2hRYUpRVE9nanBHNV9qTGVrMEk5ZVZ3ajRBcGpKNVJMbElKalFwQndfeDlubTlvM2J2dndOZ1lkR3RrbExaYW5BenM3TWFseHZ2RXV1cGk4enVfXzlkM3gyUUpxWXZtT1ZEWHFfYVJNbGpHU3BDSlRJTTNjdFoxdEF4?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "24aea15868751954",
-      "headline": "2026 GMC Sierra EV AT4 Max Range Fixes A Lot Of The Issues I Originally Had With The Truck - Jalopnik",
-      "excerpt": "2026 GMC Sierra EV AT4 Max Range Fixes A Lot Of The Issues I Originally Had With The Truck Jalopnik",
-      "publishedAt": "2026-05-31T13:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVRsQVdvMHpiN3NTWUxWWmtfTTBWeTJjTU1fczl1WVkzck40RXJ4M19TU0dmM01GTzhzbjJGb1l2cjA3ZDBneFM5T1BmdE9BTGNZaUluT00xenlxM3lNa0xrcDJqYTU4ZDRvZmpvWFpKUXlGbUdIeXRwazZNWF9EYU5mY2dxQQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "61162b5505021cff",
-      "headline": "These Are The 9 Largest Harley-Davidson Stores In America - Jalopnik",
-      "excerpt": "These Are The 9 Largest Harley-Davidson Stores In America Jalopnik",
-      "publishedAt": "2026-05-31T12:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OYlZhOWtGWkV2UmdfRDJJNVliVm9mc3VXWWc1UmNZdFBRdTdzbUhPRmlrandRc20wNmZma1ZxNFFLUzkwWEJFUlpISWZjZy1IZTV0aXFqLXZXeUJxa3pybXJIVzNydWlsYWNXTGRQOW5GNTZfQ0ZMU1VCYno?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "1fba5f4c51db1f1c",
-      "headline": "Do All 4 Of Your Tire Tread Patterns Have To Match? - Jalopnik",
-      "excerpt": "Do All 4 Of Your Tire Tread Patterns Have To Match? Jalopnik",
-      "publishedAt": "2026-05-31T12:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0RVMGVBWHgwS1Q3bW1QVmQ2TWppUngwM2xBZEhlSk5NWjBGUHNHR1dsU2tLUjc0RTdRSEk5SVJsZW9zWi03WmZQMkNMYXdVWGRrOW5wMmt5ZU9Yb0hiYkxTNzFaSFFJVloxZm9ETER3Y1V3dk9KbXZjWHZlVDJTQVRR?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
