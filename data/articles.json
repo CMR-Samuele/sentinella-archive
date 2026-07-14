@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-14T10:43:35.435Z",
+  "lastUpdated": "2026-07-14T12:09:59.506Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2e2818d332f51e5a",
+      "headline": "Tesla Full Self-Driving v14.3.5 Early Impressions: new features and early performance",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-14T11:52:14.000Z",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "c5d2cc50222b46e0",
+      "headline": "Batteria e autonomia di una Tesla Model Y dopo 140.000 km",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-14T11:00:00.000Z",
+      "url": "https://insideevs.it/news/801546/batteria-autonomia-tesla-model-y-140000-km/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "c4071900bb692dd2",
+      "headline": "5 Formula 1 Drivers To Get Race Bans (And What They Did) - Jalopnik",
+      "excerpt": "5 Formula 1 Drivers To Get Race Bans (And What They Did) Jalopnik",
+      "publishedAt": "2026-07-14T09:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ydWZiazJDUDBtZm1Ud1F3V2hYc1ZmWUVONjF0Q04zclM0YjlpN0Mwd1BGYzZpY1l0a1U1UkdCWjR3REdfTkxWSy1WOTgyNmJUMkdKa0dIcWhPQWY0SXVFUmpRSjEyWnU0dVV3STgxVGFKLVNZSFR3dHZBcFpZQQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "851a97fcb0920fd1",
       "headline": "Così Tesla converte la fabbrica delle Model S alla produzione di robot",
@@ -154,6 +181,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVxSHpkbmo2U3Y2eFVPWkZtQ0ttR20yeTVzLVlZMG9IVTh4alV1LVFPX2lSdnlYZ2VMaXBpN1FZMVFuckUtOWtyNFBCNHE0R0hzN3VaellMY2lRU0tqTUk1Z3RWSW1PcHB1TDI2VXpUelBSZ2I1Z252aVJwbFNsYzhHXzJkS3lWV09aRy03Zl8tTkhrZnZ4N2NHblpaTEQyN0E?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "826d234357a7f255",
+      "headline": "OpenAI has not been great at managing partnerships, says Big Technology's Kantrowitz - CNBC",
+      "excerpt": "OpenAI has not been great at managing partnerships, says Big Technology's Kantrowitz CNBC",
+      "publishedAt": "2026-07-13T19:39:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHJTTmFCbWtjM2pmWm1vbW04ekMwSkRtQUhWN0VDTlh0VUg4Rjc1c2Z4ZVdORmtHOVB5UjVxSk1qUHV1OFUwNncwLWlGS3hnOHJVWDZRRnJWWE9mVmR2SWRfQ1RWMXVxOHRQN2RIQTE1MkJncXF4WURJTEdYdXZyckh1M0twdDdpaGVBWERGdGd3bl9SenVvRE9aLV9FUUVUcVVsOF9sZ1Zzbmp3VlRJQ0JrQVA5OVVObXNscQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "17f2aaead20e9076",
@@ -2035,6 +2071,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDdNSkI0UHJBX3poS0xnT08tMWhYUUtIcXhodzVqWlozM1NieldHRVNQVEtqN09qbkoydUlRODZoSEExNEdwdWhQOEhqRVMySDYwMmUzejdXd3UtamVyTEFkLUJqaHlMdzROalQzTlhBN1IxT3BjaGdFcFBPZEJJeWFxNnpYcWx5ZTVVTTZHQzhKZw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "73ece1e6832ccdc1",
+      "headline": "EU curbs on Chinese components risk halting renewables rollout in poorer countries, industry warns - Reuters",
+      "excerpt": "EU curbs on Chinese components risk halting renewables rollout in poorer countries, industry warns Reuters",
+      "publishedAt": "2026-07-09T08:32:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkp4UkdrWTRXYVNwZU5hd1hSQmloUzNtZll3UFN0cXpURjlfV19icGN6Y3psQlpLeEpKS1Q1cEV5VFZDUkJPY3dSWUVXT091N3dHa2EyTXpKTzZTRDJVRnljOWNDRnVPbC0yMmJEb2ZwUTBFSUhzUE1VMHVHMEVaNjdTRHc4WnZnN3BONTRkS2EzaHVIUlRtQ0tIM3owUDJtaS1rblFZM3VEamJtd0JTLWhfZE9LSGdxeTJiY1huYWdmcXlVOE53?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "9e72dc9e2817e5f9",
@@ -44954,51 +44999,6 @@
       "excerpt": "Morning Bid: Who needs oil when there's AI to buy? Reuters",
       "publishedAt": "2026-06-01T04:34:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcmIyR0F6Z2Q4VU9ZeTZBQVFqWkVJNUFXZ1Awa2lwb2FnbGhXckU5YTFSRXI1eGpBdERlS3huWWMxVWg3R041NzlnZHFsc2MxZU1XRHZENlB6aUFRWEd6TEFLV3NHMDNMeVZfRGNwNnhvbVQ2blYyYWkzbUVMLTQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0f5f504c549db5af",
-      "headline": "Why Off-Road Trucks Need Skid Plates (Despite Some Myths You've Heard) - Jalopnik",
-      "excerpt": "Why Off-Road Trucks Need Skid Plates (Despite Some Myths You've Heard) Jalopnik",
-      "publishedAt": "2026-06-01T04:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSEVVSE1kWjhxYUNCbWNqWEt1Mml0b0pPWjFtRWRCamNzU3R4bTlOYzE2YVI1VUNoQ21GRGNmeDk4V2lwWVU5Q2RmcTBUQW01WHI1eDg1RFNpMzg5YXFTQml5Q1ZVbGpyYVdhZktxNjBlMWh1TEZ3Y2JsU29fY2pqOXp3?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d733c4e257ab66d6",
-      "headline": "US says it struck Iranian military sites, Tehran responds with air base attack - Reuters",
-      "excerpt": "US says it struck Iranian military sites, Tehran responds with air base attack Reuters",
-      "publishedAt": "2026-06-01T04:17:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmZseGFNR05tMVJiV2tLRjdhdUFTUkwyT3pSdVFYdTJYWDdCZ0tRR2JNU002UEtMVHA1TXhabGhlUlMxUkIyOEh5dTNMR0dIQk1FQmxqUDRhcFZaREtrQkMyci1NS2lycENBOWtqbEpQVV9lX3FGOEJXU19ROEtaS0o0bTg0TGV5NGhtcGhORy12aUo4dzVxUlY2UElhZDFUalVqeWZmbUotQ21jQWxPeE5LZFM3WkNSZjE4bTR6MVhsTWFvRGpIMlpzeGpwTXZVby1Za2k5TQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8b485c7523acbe1e",
-      "headline": "US says it struck Iranian drone command sites at the weekend - Reuters",
-      "excerpt": "US says it struck Iranian drone command sites at the weekend Reuters",
-      "publishedAt": "2026-06-01T03:50:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFFBZmxTbHItblp0aHRFV3dLbHhHSUVDVnh5b2VPOVUzZEx4QmVPcHhpYUVGZlBhZVJKZGJQUnNFeDI0NVgtM2d0NWEyeUxqWkZrMUt4SGREVDZsY01MbnY5VlFncTl1eVl2Xzh5aTF3UTY3VFpVTWpuUWdwb0M4NW84RFpQSUpqT05seldFQUlka0hwbTdtWTlrSEFEeW01YVExWlY2UmptVXY4dm11WmwzRHdKVlcwNkE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "560c1e1667a3ea46",
-      "headline": "Bangladesh raises fuel prices again as global costs bite - Reuters",
-      "excerpt": "Bangladesh raises fuel prices again as global costs bite Reuters",
-      "publishedAt": "2026-06-01T03:18:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzF1WkF5QUlrdXNCclBoc0xsR2J2NGFXN0lhT3FncHFuaVpWOXAta0NfV25TM0JBMF9SMjV1Vm4tY1ZBQUVKaW1jbEV5aG5tSkF5M1pwajZ2ZU96RGF2X2tjZmpjTnUyaTVnR2xBLXpTOW5yUDYzbXF0VW14SjhWOFZFZXZObEpwb2dYY0FUTWJLZFBhUkZnblVLWXJHNTJCR3NadUN3RDM?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e3c2142ed90ef79d",
-      "headline": "Singapore's DBS to open 18 new Asian wealth centres, expand advisory push - Reuters",
-      "excerpt": "Singapore's DBS to open 18 new Asian wealth centres, expand advisory push Reuters",
-      "publishedAt": "2026-06-01T03:14:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3ZVeE5idnhiWGlWczlSY2NhNmVYY2Jqd1hZbjgzbERsd1NVWTB3RzF1cEJWNEw1YkVXUlVzQ01QT1VHLVRza04tcUxYS1MwWmR1U0VCSmxGMG4yMldEVDFROE1QTlY2Yk56TnBGS1djYXQyR0hzM1o0SDR5S3BDbFF0aW9RbTlURExRV2NvZmVFTlJoc2lfR0wxZWFmdkZMRl9oMkxRcEJHZ2cyVi0zQUI1eURDWmhvX0xFSTRB?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
