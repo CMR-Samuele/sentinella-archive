@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:35:11.961Z",
+  "lastUpdated": "2026-07-14T10:43:35.435Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -66,6 +66,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "6c3bd86e620ce0dd",
+      "headline": "How Roman Surveyors Helped The Empire Create Straight Roads Thousands Of Years Ago - Jalopnik",
+      "excerpt": "How Roman Surveyors Helped The Empire Create Straight Roads Thousands Of Years Ago Jalopnik",
+      "publishedAt": "2026-07-13T23:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVpyT2QwR1BjNHo0M0RXLW9JZmlidDVXc3FvaGpZWGJYeld3Y2ZJclY3VFlSZkVqaU9mYThBa0F0YzZ6REgxRkhMNzJUcnpfTk91cnJoTk93NlI3U1g1NkxrSUxyX2xadndiOXRETGw0c3oxQ0xwNG1YOVlNQ1c3amhBeDJHc2tJRWxDSk9ENVQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "5f7936357eaef503",
       "headline": "XPENG Aims to Go Head to Head with Tesla in Europe with Self-Driving Tech",
       "excerpt": "[object Object]",
@@ -73,6 +82,15 @@
       "url": "https://cleantechnica.com/2026/07/13/xpeng-aims-to-go-head-to-head-with-tesla-in-europe-with-self-driving-tech/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "4ad8d9e78928431b",
+      "headline": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders - AOL.com",
+      "excerpt": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders AOL.com",
+      "publishedAt": "2026-07-13T23:12:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NdzhXOWpoX0tNbU9waGFXYVlzWXE5YXRJdG5kUW1uakQtQjFFbG5LclJvLVZtamQ5a0Y0OUdHY1pMeDRfazFxSUxFcWJsMGVBRUVSZ29vWUNNM1JMUmx6ay13eUdqNFR0ZGNGMFo0VWQ3YVZKY0Q5eDdOWWY?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "bdf5e4f4932a73f2",
@@ -44981,24 +44999,6 @@
       "excerpt": "Singapore's DBS to open 18 new Asian wealth centres, expand advisory push Reuters",
       "publishedAt": "2026-06-01T03:14:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3ZVeE5idnhiWGlWczlSY2NhNmVYY2Jqd1hZbjgzbERsd1NVWTB3RzF1cEJWNEw1YkVXUlVzQ01QT1VHLVRza04tcUxYS1MwWmR1U0VCSmxGMG4yMldEVDFROE1QTlY2Yk56TnBGS1djYXQyR0hzM1o0SDR5S3BDbFF0aW9RbTlURExRV2NvZmVFTlJoc2lfR0wxZWFmdkZMRl9oMkxRcEJHZ2cyVi0zQUI1eURDWmhvX0xFSTRB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "57f130fac3999cc9",
-      "headline": "China patrols waters east of Taiwan in response to Japan, Philippine maritime border talks - Reuters",
-      "excerpt": "China patrols waters east of Taiwan in response to Japan, Philippine maritime border talks Reuters",
-      "publishedAt": "2026-06-01T03:02:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUpXaDRzWEVzZmxfSTctMGtzZEl5Q1pXbVFqWGNvWHlCbVR2QkFmZzYwWndhQ3drbEZJNG5UX3lkbkNEMFFfMTVTN2xEN3hoTk5HbzZWRXpUR3pwbWpxQ0w2TWQyT3FaOVJNSERKQW4xaUFWSXlCTm5xZnAzRGhLWjM2WUx6UExwbzJUVTlJeHJ2M2lPUXAxSnF1ZTRYT3VLTjdtX2VIYUg0NV9IRDI4c1hxZmxXQ2FCbzJVRDkzc1N5WDBLQzhF?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c9eb9f229452cfaa",
-      "headline": "Five dead, two injured after blast at Hanwha Aerospace plant in South Korea - Reuters",
-      "excerpt": "Five dead, two injured after blast at Hanwha Aerospace plant in South Korea Reuters",
-      "publishedAt": "2026-06-01T02:47:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenYybU0wREJtaTVlcW1vQ2tYTzYwYzJOUzdFYlFjbTd4TzNabGN0azBUWGNaVEVWVldUb1FZRDcyMEZ0cEFBZUduNlBRS3lMZXpWOXhCWkpEY0haT1JrcHo3Z2MtQ2FfTHRQbGg2aGg4UVlfOFhwSy14RVNWRE80VjNzYmhTclJzSjY5WkIxSHBuZTV1WktUZThfeUI3VzhLclk4bE1IR0gyN0IxQWVOc2h0UWxRcmpfTWxReDlpMjNONlVB?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
