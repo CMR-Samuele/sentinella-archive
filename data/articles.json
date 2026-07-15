@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-15T19:07:38.229Z",
+  "lastUpdated": "2026-07-15T20:32:29.552Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "45e0bc3302baa74a",
+      "headline": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T20:22:52.000Z",
+      "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
     {
       "id": "73889fea8d538b20",
       "headline": "SpaceX Starlink V5 Dish: Smaller, Lighter, and More Efficient",
@@ -21,6 +30,15 @@
       "sourceName": "Teslarati"
     },
     {
+      "id": "1042d783e5748f4d",
+      "headline": "GM Celebrates A Quarter Century Of Big, Yellow Hummers With A Big, Yellow Hummer EV - Jalopnik",
+      "excerpt": "GM Celebrates A Quarter Century Of Big, Yellow Hummers With A Big, Yellow Hummer EV Jalopnik",
+      "publishedAt": "2026-07-15T18:15:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWtRbXFGZ3BadTJ6Y0dNbGVhUW9yRkhWQlBUSF80RFFPSUxucmtTMnNJS05LeGJVM1g4MlM0TW50OXlTNHhUdXR2R0p6SHNLSEpkUzNJbUV3cmQtMHhwUmJWdTZwWURfZ09kZnliMXdpbEhUS2s3UEJhSzFjcDd2Zw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "e74a43c3571f6128",
       "headline": "Lucid CEO dispels any rumors of bankruptcy: So far from the facts",
       "excerpt": "[object Object]",
@@ -28,6 +46,15 @@
       "url": "https://www.teslarati.com/lucid-ceo-dispels-any-rumors-bankruptcy-so-far-from-the-facts/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "a4dda7146178196c",
+      "headline": "Aston Martin Should Buy Lucid - Jalopnik",
+      "excerpt": "Aston Martin Should Buy Lucid Jalopnik",
+      "publishedAt": "2026-07-15T17:21:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1RHYwcThmZVozbEpfVGxGYzkwLTdfTWZQQkViY0wyXzdtTHpPMVdHZVRPOEk4cXBadEU0OXdqR2lSdVNXV0tISXdzQWR5SFFqa25mMWg3Z2h3YWpUNVNrbVVOakVyV1RLVlRlbmtyelI?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "016decfb8de72e0d",
@@ -136,6 +163,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-guaranteed-future-value-australia-model-y-model-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-guaranteed-future-value-australia-model-y-model-3",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "87b1d2f7a4c3d3c3",
+      "headline": "Amazon shares are really cheap compared with competitors Walmart and Alphabet, says Jefferies - CNBC",
+      "excerpt": "Amazon shares are really cheap compared with competitors Walmart and Alphabet, says Jefferies CNBC",
+      "publishedAt": "2026-07-15T14:39:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1ROSGg0QWV1VGpHbHdSWGV6eE43b1NjNEwtaUVJRUhfTG43b3FIX1dzcTB5bkxTYVhiQnZQZkF2akFSaDlFUUNfN21OSEUtU1E1RTk5TGoxbmdyZWdvc3lKT0NjVjMyTU5TZlZWVkpiTU13ZWpGc3VVNTNuMUN3WVhRUEtLZUkzT2JXR0lGWXBMU0RmMzZEYzR4MzU?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "473048bfaacd6172",
@@ -2438,6 +2474,15 @@
       "excerpt": "TSMC to add 2 advanced chip packaging plants in Chiayi, Taiwan minister says Reuters",
       "publishedAt": "2026-07-13T03:43:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNXRvXzF1WVZfc1E5QXNmdE1ZeGZtZ3k2RFpYMHNla0ItbHd5N1NLdlg5aTROTmFWemdoTlJjT0kzemVnOHFpNFoybldEZF90bFo2eHRKNmxRNDZ2bUdIZXZ1QkNsLTZ0VXBmLUNTa01yNW5tY2hLMGJ0eE9BNVROU24zZW12ZEZ3cDRMOFR2WnR1OWpLRGZfaG5nS0Q5OWNLeUM4NFJmbFNNN1RoRFVlbzRobFNQaGhTdzYzcG1RTExrQQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "817e9d09adc8b61d",
+      "headline": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll - Reuters",
+      "excerpt": "China June exports growth set to cool, but AI demand underpins overall strength - Reuters poll Reuters",
+      "publishedAt": "2026-07-13T03:29:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVHNyNnRCbkNIbXJUSmtSLUl2blR3VmdJckhYcFhVd0lGSzlJRVk5M1hUbS1nOVc4SHYtSldGVXJrdnFCa0RqTjBHM0l5bmRjZmlrUEtlWmFCR3htczFWR3llSUFpblFVd1NMYVAtRWlObzhWbmJKZkY2b2Q4eXNTdTljbW12Q05FZzFGeU1KYVp5MUpPSFpFZ0ZDbTlRZFNvTS0yRlpkNEtpblVDMDNpMGNlV0ZNN3lsRUkw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44956,51 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHpMaDU0cHRlV01RdUgxZHBnaTdjRlJBdDdCbnBldk50ZWtLaTB0UnhadWlLZGtZdldKR09Mc0M1cVhUcmxkUkRwRlhIWVJlNlNzY1dxVTdWUzE3b2xVamRsMEdiMGxxby10dXI5V0YxMGhuSV85T2pFNGVyLUtXekZ1QVUzUTltbm0xZUZ1RVMyVjVtMGNCdHJpN295OUNnU0dXZVI1d3hhYlJuTUhwLTlBWG16RjJEc0E?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0b8c6a9ef3c1991d",
-      "headline": "Palo Alto CEO says customer meeting requests have surged amid AI security concerns - CNBC",
-      "excerpt": "Palo Alto CEO says customer meeting requests have surged amid AI security concerns CNBC",
-      "publishedAt": "2026-06-02T22:55:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnVmdkROOGN4bGpZRjVEUkJoT2Z5YWE2Yk12YUtyYnQ2QmhHMTBnQW1CVzNNMlFmUUxCbFRPclQtbW1RS09mVmg3clZycG9IZjZGOGVXQjlQd1VKM0xOWGZQdkVETGRza2NONURSb0w4UXRZVXd3dUVHMk1kSW9aZ2Z1X1pMbGFpcktpUnRKWFc2Smp3ZXJidjVjWU5raXlyMGVndFFVUdIBrAFBVV95cUxNcVF0SFV6Q0VCaHRKbnJvWDVNclZCVURRSG12b3dCTWQ1ekdmRU9JY191NThOOEJnM0JhYmxoUHd2NTQ0U1didFB1c1dNYi1DbHNFcm4xSXZGWVA5LXNIbEFra0ZHRzZlU2NHUDlXWTI2UWZ4di1QbVVsaS1hM19iaGVHd3F1eGJobWs5Ny1YRUhUZlZsTm9ITnVhWGhoUFBCV0xsd2VoTTl0allf?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "184201c52cbc6698",
-      "headline": "Consumer Reports' Emergency Handling Tests Look Super Fun - Jalopnik",
-      "excerpt": "Consumer Reports' Emergency Handling Tests Look Super Fun Jalopnik",
-      "publishedAt": "2026-06-02T22:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWdpdlBhVXBUWF96MXZxSGs0MVp5eHhqU1RJNENfcHFVR2w1d1F1cDNsOWpjV0NCb01UeWliczRTZkl3U1BWWnVjMDFqSjBNdHlSa0k5eXBjYkNVNmpiQWZTdmUtRkxYX2FuZUFrTnBlZnYxSS1lR1JIUG1uTE41ZTJoTWFjOXA0QXhSQWZabERPLXJmc213SFAwaE1rRURyU09TZThRWEZRbEE?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "4f4090d0442cedda",
-      "headline": "Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification - CNBC",
-      "excerpt": "Jim Cramer says look to buy these 5 stocks outside the AI trade for diversification CNBC",
-      "publishedAt": "2026-06-02T22:24:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRllwVWpJS2s0ZHRINlMyWkZ6ckFSRkJYOVp5alp1NVNVSGtDV3BiVGJJeDhuYVlyZWpvSFllZWhIY09iMFJuMURWT2N6M0hGaTZWMVZibEsxZzBJd19kR3VfaGttV3ZOVFF5Q05salFHX0p2WHBMY0s1bzhQek1sSlcyWEZWVk9wWWU1Qk1HZW5udkZLMVHSAZsBQVVfeXFMT3BzbFNaM2xqZDhTN2hpaWhvMnBFRldLWW1rTjcyU2phMi13dWhOeUtFbEY5UDJ3aEMyVDFRdGpjQ2ozQnBzeTY4a2JBbHlESFg3aTFGWDBjQjJEWXlFTEFwSmxOYUhRckEyU3czclFXdHdmZl91UC03Vm00NlNLOFN6ZnYyLW9tZWZKN0JmTGdPS3JuS1pzZkxEc2c?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "0bef35d70584e0da",
-      "headline": "ChatGPT app hits 1 billion monthly active users in record time, data shows - Reuters",
-      "excerpt": "ChatGPT app hits 1 billion monthly active users in record time, data shows Reuters",
-      "publishedAt": "2026-06-02T22:22:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1N4SVoxYU44cUhoZzRTNVA4c2kxQk5NdzE0cjMzWFBIUnZZTnlDb0NjM1diQTdHY2tEaVNDeVI3bWNWOXIzQUYwQVowSUVhdEpfN0Jza3FDQk5RcmU2QmRrX1c0dnVGVkxwN0g1cXo2YzhZenJoN3N4SjNSRm83dEh4dmhjTGlLLUg0MzlTV3A2ZnVWQ0x3bl9IRW5hbll0VkRXbWxGa3AzcXAzelhLb2dFSUtaSG9H?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "94bddbe78d092ed4",
-      "headline": "First Tesla Supercharger in Halifax under construction [Nova Scotia]",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-02T22:08:43.000Z",
-      "url": "https://driveteslacanada.ca/news/halifax-tesla-supercharger-under-construction/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=halifax-tesla-supercharger-under-construction",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
     }
   ]
 }
