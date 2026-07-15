@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-07-15T12:51:38.854Z",
+  "lastUpdated": "2026-07-15T14:48:25.600Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2dba9b24c55b6888",
+      "headline": "China EV maker Dongfeng launches Canadian website and shows off lineup in Montreal",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T14:31:00.000Z",
+      "url": "https://driveteslacanada.ca/news/china-ev-maker-dongfeng-launches-canadian-website-and-shows-off-lineup-in-montreal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=china-ev-maker-dongfeng-launches-canadian-website-and-shows-off-lineup-in-montreal",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "277d96a44f74d53a",
+      "headline": "Tesla and 7-Eleven Partner to Bring Superchargers to Convenience Stores in Japan",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T14:12:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-superchargers-7-eleven-japan",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "bf167f3069acc173",
+      "headline": "Someone is flipping Tesla Model S Signature for $260,000 — $100K+ markup",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T13:53:21.000Z",
+      "url": "https://electrek.co/2026/07/15/tesla-model-s-signature-flip-260k/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "bf167f3069acc173",
+      "headline": "Someone is flipping Tesla Model S Signature for $260,000 — $100K+ markup",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T13:53:21.000Z",
+      "url": "https://electrek.co/2026/07/15/tesla-model-s-signature-flip-260k/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "7c1edaa08becd22c",
+      "headline": "What's The Best Beach Car? - Jalopnik",
+      "excerpt": "What's The Best Beach Car? Jalopnik",
+      "publishedAt": "2026-07-15T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOGczLXQxd0VFQWRRaHItbFFvb0gwc2gwWTdtUmJLeDVQVF9qSm8zQU9zMlotT3hIQjZoX3B3NE15N3VVdGZUZUZma1RENTJJeFdBTkFmWUpDRy13OEE2MXJ2d3BnYnBtY3Y2blRpS0dqbDZDWTZrLTdoVHU3RFE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "06ed6f9903ae05b4",
+      "headline": "Dimon-led JPMorgan poised to become world's first $1 trillion bank - Reuters",
+      "excerpt": "Dimon-led JPMorgan poised to become world's first $1 trillion bank Reuters",
+      "publishedAt": "2026-07-15T12:50:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1Y4WHpBM3NITExTaUVQcW5Gc1Z6bXJ1Wk9KREhrMWZhYl8xNURNVmtUc1d2LVdVZ3FIMG00Smo5UXJDZkdSajF1WGp5Ui1fRGVZcjk0NUNyZjJEaE84LTJSUjF5Y3FhNmVyR2tUeUk5Si1pbkJOSURXaWdLRVJZMHJyeVpvempQR0RMVEIxcUV0OVo2dUNCVnhpdWZnMEhHSU95RmhHaTNxLTdsazBzUF9fWEVYNmM1?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "06ed6f9903ae05b4",
+      "headline": "Dimon-led JPMorgan poised to become world's first $1 trillion bank - Reuters",
+      "excerpt": "Dimon-led JPMorgan poised to become world's first $1 trillion bank Reuters",
+      "publishedAt": "2026-07-15T12:50:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1Y4WHpBM3NITExTaUVQcW5Gc1Z6bXJ1Wk9KREhrMWZhYl8xNURNVmtUc1d2LVdVZ3FIMG00Smo5UXJDZkdSajF1WGp5Ui1fRGVZcjk0NUNyZjJEaE84LTJSUjF5Y3FhNmVyR2tUeUk5Si1pbkJOSURXaWdLRVJZMHJyeVpvempQR0RMVEIxcUV0OVo2dUNCVnhpdWZnMEhHSU95RmhHaTNxLTdsazBzUF9fWEVYNmM1?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
     {
       "id": "325946eb370a83b7",
       "headline": "LFP Wins This Tesla Model 3 Battery Degradation Comparison",
@@ -10,6 +73,42 @@
       "url": "https://insideevs.com/news/801724/tesla-model-3-lpf-degradation/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "780700187c1ab397",
+      "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Cava, AMD, Palantir, Microsoft & more - CNBC",
+      "excerpt": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Cava, AMD, Palantir, Microsoft & more CNBC",
+      "publishedAt": "2026-07-15T12:36:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGt1dC1XZG9nRU5wRHhJandXMDVpQkRNMU1HSEhBdVNmVm52U1ZINU9CMkQ3aTVMZUJJSzRZd25oLWhSR0s4RzNQZWpHdkVMM1RsN2dFVTZmVFBrM0lIcDBqY3A4UHR6RWVxd2g4ZldoSkYxOVFYNTlyRlh1QzJXbHlHam5qaGRHYWc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "67a1b47c5de70c26",
+      "headline": "IBM just had its worst day ever. Oppenheimer thinks investors should stay away from the stock - CNBC",
+      "excerpt": "IBM just had its worst day ever. Oppenheimer thinks investors should stay away from the stock CNBC",
+      "publishedAt": "2026-07-15T10:49:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3BwZ3psVUFYOXNNRENfcmNJRG1fUHVTYkw0dmRlb0hoUERnN0pWcXlteTcydWMyQkllaEVNdzNYN1l2cHZlRERTNDVVcDhoVm9mZ2hhNlBHSkxnQy04bEp5QVRZRUFDdGQ5cnV5ZTFhdkdjM2pPYk1hNVlTM2REaVFucElfX3F4NTFtRHdwVjdsZ3hRY0k5MHROSEU1Y0xS?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "d566648fb799c858",
+      "headline": "The US army veteran and the mystery Boeings flying Sudan’s war routes - Reuters",
+      "excerpt": "The US army veteran and the mystery Boeings flying Sudan’s war routes Reuters",
+      "publishedAt": "2026-07-15T10:16:33.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1NmFxVExaS01uQnJoQVF0MnZmVC1Wbk5nUDY3UllSUXpvVVRBRWwtekJ6OFpyTzI0U1VPWEw3ekE5bERROUc0ek1YX1ZaZnJxbENkalNpamI5ZlVLUHBCcG1yOFp0YWg4ZmJ1eHZ2cWFPM1czOXdfNmVIZHZPVmx5VXNENkMwZDhyT2tIS0JXMkdnZjdNbDJvY1hENVpPUFdUeWJtRnRQYnExRW5nY3dFU3YxOWZGOUlUUVNiZmo?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "25a9ee47b1c1ce2b",
+      "headline": "Are There New Non-Turbocharged Diesel Cars Or Trucks Available Anymore? - Jalopnik",
+      "excerpt": "Are There New Non-Turbocharged Diesel Cars Or Trucks Available Anymore? Jalopnik",
+      "publishedAt": "2026-07-15T09:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQU5oRExobFl2emVFcGxvVjI2M0xLNkxqbWRtcWxlWHdtT0NBZW1kZUdjRnlLMl9MMHJlZ2N0TF9fcmlaanlWNGdEYTBOalMzdURodEhmN0lfeDNaeWtYTlFBTlRaTVh2VXJIVkFyQ2ZQbGpMeEd2ZUw1V0hvRnAyZWRn?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "6e8f0c0c7876eeda",
@@ -44900,105 +44999,6 @@
       "excerpt": "US exchanges extend selloff as perpetual futures approval unnerves investors Reuters",
       "publishedAt": "2026-06-02T17:44:08.000Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYURsMy0tTTAwZnNpTDZPbkpfSXQ0WVFwVGhQSGhWdmlKdzJMVnNmYUpEcnFmYUh5cDBCaTMzN3ZLT29JYUFWRmNVdXRhZ3JycnR3ZWIyWDRSRDJobl92RmxHc2VJbms4V2ZDT3FYcEFvLUVMdnZkT0xTZHc1OWYtckI2RENObHNYVnljZ1ZzUDNYMDQ5SXphUW40UWdEa2ptSlZyS3B6NkFLb1BXMUVwcnhXS2RtWjV5Nmc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6f96320ee9173463",
-      "headline": "Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say - Reuters",
-      "excerpt": "Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say Reuters",
-      "publishedAt": "2026-06-02T17:39:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVE1GUzd4UEhIYkdoYUhMajB1WlNnWF9YQ1cyQ05PeTlMREJGYmRubmVTcWY5TV90VzA5MlU5bnNuV0NTdUF3elk3Wl9Da1A4S294Ulh6R0RNTG9IcHphRjhCWDd5ZWF4SG82TzBCRTNPN1ktSGc3MGsydDVudjdHekI2NkFFU1h2M094Y1pvaHRCazlFbDczSlZ3eU8xUVVkYlNoMFgtcDVHa2NkXzdTU2U0OWwxWFNYMDZvVVA4THkwS1pnY3ZpY2hKZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7ed4cae6bfeccc8a",
-      "headline": "These Are The DIY Car Projects That Nearly Or Totally Ruined Your Ride - Jalopnik",
-      "excerpt": "These Are The DIY Car Projects That Nearly Or Totally Ruined Your Ride Jalopnik",
-      "publishedAt": "2026-06-02T17:30:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVpUWURabHRkUEJtMF81VzNwcHlzTFJib001NWhjVGJNZzYzQUVIMmxRVlJMY2Q4OVdDVlNVZDFEdDJjaWhrWHd2aEotSFNlMGpFMzJ2VUVTQmxxMjZoTmZFRUtQZGZ1VE5CQkZQeDJzSEtaLVhQeUJud2lnS0dObVJBQ2g?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "dfbd72d627cc2c07",
-      "headline": "US job openings rise by the most since 2021; hiring weak amid economic uncertainty - Reuters",
-      "excerpt": "US job openings rise by the most since 2021; hiring weak amid economic uncertainty Reuters",
-      "publishedAt": "2026-06-02T17:25:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVQxbGUxb2FQUnNjdURXbjRMTUdGX3FtOTFEaTlOR2ZGSEVBaTFRUW41LXo2LXJIakZ4bWphOU1hcUlXa0U0aUVkSjBXYlZHbm5CTFZESVpuclYwbmJlTVhPVS1qTTFVcVF4WFp3V0x3cGhyM2NhR1NhYk1obFZuNmlZTlNfNkpTNTN5ZWFMQzZCY20t?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8f1280e637bc5c0a",
-      "headline": "Bentley Issues Recall Because It May Have Put The Wrong Front Driveshaft In 8 Continentals - Jalopnik",
-      "excerpt": "Bentley Issues Recall Because It May Have Put The Wrong Front Driveshaft In 8 Continentals Jalopnik",
-      "publishedAt": "2026-06-02T17:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZTXlGWW5zOFpWSDNDZmtDeE82dkFpRklxdnYtMkFVdWFMZ0NaRlA4cjZjRUhuZGVmU1VRTnhZVGlMZGtaSll3bUctX3ZsRnkxMHdlTXpzMEV5ZGZTWllEU1ZGaE9ReFhIVjZWUXRQUURUWU0wMFM5a1l3?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "31dc4d8b6f652026",
-      "headline": "Toyota Gives The GR Corolla More Torque, Aero, And Carbon With GRMN Model - Jalopnik",
-      "excerpt": "Toyota Gives The GR Corolla More Torque, Aero, And Carbon With GRMN Model Jalopnik",
-      "publishedAt": "2026-06-02T17:19:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYnUxN1BUUll2eHhXQXNJMUlIazZ4UmlSaUczR25kQVRzV1U2d2JfbUs4ZWVaLVYzV2k5UlhzZk9BNzhyXzBERnFFazJDZUM0X3RlUWEwenBxUXRWdXY1Z3VDd1U0S3o5WXFCSXZ1Zw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "6be627bd3f3c2ddb",
-      "headline": "Tesla China records strongest wholesale month of 2026 in May",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-02T17:18:38.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-china-may-sales-2026-wholesale-record/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-china-may-sales-2026-wholesale-record",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "6d118c208e7fe6c3",
-      "headline": "Stellantis deepens France investment with new Peugeot EV production - Reuters",
-      "excerpt": "Stellantis deepens France investment with new Peugeot EV production Reuters",
-      "publishedAt": "2026-06-02T17:10:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldBTVdDTkhfSjQtOUxXUHgtY0Rtd1RzTVY2ZEFkbjNEOUw5MnBaSUNIX2J1eExlZXdpSV9fUE5fUkhqWHliQlRQT3NNd1JYTktnNzVYeTk2bWt2OGgyei1oMnpPSE1vZEE1dDRRdE5kMnBCc1BxOGM1Q3lKaEE5X25PRmxkTjRHUmFaMkVrbUdTTU5BQ1hwV2t6c1Zhdw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0d3ee764bb23e935",
-      "headline": "UniCredit says it met its goal in Commerzbank bid as stake reaches 34% - Reuters",
-      "excerpt": "UniCredit says it met its goal in Commerzbank bid as stake reaches 34% Reuters",
-      "publishedAt": "2026-06-02T16:59:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTUE2MVF2YnJrZDZORmNtTlpEYXE3Z2hZQ1dMeGxhLXExUVFDT3JzcGo0RTVRdURSVUcxNU1LZldHMG5Sdkx4RUJ4VkFQXzF3ZmgwU3BYeVd6N2QzVmNRTGxFVzdWSWZzQjlUT3l0bHpSSUJFaWN2Z2JLQTFTdnJUS1ZJdnNuUzF0WW1QVlczN3RKOWo2YjBhMFRmVXNnczRFMXJaYnp3N05wbk1WYmlWbA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f81dee398d878de5",
-      "headline": "Mastercard appoints insider Ling Hai CFO in leadership reshuffle - Reuters",
-      "excerpt": "Mastercard appoints insider Ling Hai CFO in leadership reshuffle Reuters",
-      "publishedAt": "2026-06-02T16:45:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0pteUl4Qzl0TWt2WndIaG1kOGtjTzBTUnFVWlQ5OTFEMEMyWEM1c1dCVWJQZGRkWWFHTG9pSHBHbmtPa1hEaVFDd2ZhY3AxLS15MVVtNTVfdXVhLXJQdHhuMkZEdU9mdHdVaFViTFVLdTJCb2dHQnctaVE0TGlJV05ldU9oelRsZjhHY190TzRKWGgzV1F0ZGRlQ2NXblJ4N1hFZndQdk8xVDQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d67271d6ed827fe7",
-      "headline": "Trump administration proposes 25% tariff to punish Brazil over trade practices - Reuters",
-      "excerpt": "Trump administration proposes 25% tariff to punish Brazil over trade practices Reuters",
-      "publishedAt": "2026-06-02T16:43:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXpNRzl3THdVZXgyd0xJX0M5U09rdWpOb2RxaUNETjFMV3VlRnBaeUh5Zm9MSEtndDNBUVB5NXhGWk5HR09Tc1hwMFdsbHBLVEthVnpHdGd0dHVFczFjNUtDZHhwYkxMNWEyUEpEZE9zdEhFWlBIY21MWjgydlJxUjFWSVBZNndmTnFkYkllczlxMjA4ZlNnZ1VTQlpsTUE0c1VvRFVPYkVWdjhsdXFZY0thcW54Nl9kb05MOTFBTzBMR2s?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d3e47dc24cb819c5",
-      "headline": "Future presence of US troops in Lithuania is 'under review,' says minister - Reuters",
-      "excerpt": "Future presence of US troops in Lithuania is 'under review,' says minister Reuters",
-      "publishedAt": "2026-06-02T16:40:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlFYdVZfMXhTUTdiT1lzRDVoc3owa21POUNjdmdWNm9WeUMyTzk1YnFwQ2ZVdGlxbGZWRUVyUk4xRzRwVFN1cUp6c1pBbXZCakdJcU1XaFF4ZmV4TGduYy0wNzRuNVRPTHI5bGU0ME5vYi1UaURYUTE2YTlocUJGU2pHYkZQbnc1Z2NOWnIwUzV2NmZtZkRIYnQza3RqbVNFanhqVE9QMlpXOVQyc0hiQzF5UzFfTzhMbWhsM2FoU3I5TlRVMktn?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
