@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-07-15T16:19:55.293Z",
+  "lastUpdated": "2026-07-15T17:46:13.354Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "e74a43c3571f6128",
+      "headline": "Lucid CEO dispels any rumors of bankruptcy: So far from the facts",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T17:44:02.000Z",
+      "url": "https://www.teslarati.com/lucid-ceo-dispels-any-rumors-bankruptcy-so-far-from-the-facts/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "8a6bc9fbe07e9024",
+      "headline": "Teslas LFP battery holds its charge better, study says",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T17:01:32.000Z",
+      "url": "https://electrek.co/2026/07/15/tesla-lfp-battery-outlasts-nickel-model-3/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "8a6bc9fbe07e9024",
+      "headline": "Teslas LFP battery holds its charge better, study says",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T17:01:32.000Z",
+      "url": "https://electrek.co/2026/07/15/tesla-lfp-battery-outlasts-nickel-model-3/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "b0fbc4b6aa74186f",
+      "headline": "Tesla responds to strange Supercharging pricing error with classy move",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T16:41:24.000Z",
+      "url": "https://www.teslarati.com/tesla-responds-strange-supercharging-pricing-error-classy-move/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "888114bf78ea470c",
+      "headline": "How Is Tesla Offering 0% Financing?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-15T16:33:11.000Z",
+      "url": "https://cleantechnica.com/2026/07/15/how-is-tesla-offering-0-financing/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "2d90f7607f79424b",
       "headline": "SpaceX unveils Starlink next-gen V5 kit: heres whats new",
@@ -48,6 +93,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "473048bfaacd6172",
+      "headline": "China investigates retired top media censor - Reuters",
+      "excerpt": "China investigates retired top media censor Reuters",
+      "publishedAt": "2026-07-15T14:32:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOUxBYUFseEJEOXhpbm9fREVCOGFuQXhPcHJCeEZhMVp1RUZpVmV6WE9rUU5MTnM5bnA2TGJBMmVkU09VaTNrRTdfUjBaU1FtWkYwaTh5YlFoaGtxdHlwSldMV3BKelhUOFNnNHlTVjFWeEpVVUpCVHdXc2ZBb01nLUZWSmxOa1Z0d1hyUFhEdGE4NUNHSEE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "2dba9b24c55b6888",
       "headline": "China EV maker Dongfeng launches Canadian website and shows off lineup in Montreal",
       "excerpt": "[object Object]",
@@ -57,6 +111,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "97db102ff5006811",
+      "headline": "A Volvo Sedan And Wagon Could Make Their Grand Return To The U.S. As A Counter To SUV Culture - Jalopnik",
+      "excerpt": "A Volvo Sedan And Wagon Could Make Their Grand Return To The U.S. As A Counter To SUV Culture Jalopnik",
+      "publishedAt": "2026-07-15T14:18:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rTkhvamxBamdaWGNrZjQ2WmtzMnlUYWFtMWtkV3FwcXBuTExXRmk2NllWT29yUU1od0tfbjItdTJOeVJZdHhGbzNVc25lRG5pdm90UmtLNl9HeVJ1ZEdsSlkxR2oxSFVmRkk1dEd4eUhhVmFIbXc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "277d96a44f74d53a",
       "headline": "Tesla and 7-Eleven Partner to Bring Superchargers to Convenience Stores in Japan",
       "excerpt": "[object Object]",
@@ -64,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-superchargers-7-eleven-japan",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "24fb1f2c7b1a3fcc",
+      "headline": "Merz reaches out to AfD voters before pivotal German regional election - Reuters",
+      "excerpt": "Merz reaches out to AfD voters before pivotal German regional election Reuters",
+      "publishedAt": "2026-07-15T14:04:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2YwYXE5a244NUNCYUJRNndKNkdfaFFlSXl5NVd6WEx0UGdsVHFrZGZROXVGb0VOZng5aUY1VER6bnhGNWZiSGJ5TVdmTmtrV0pWVHZXa3BiWmk1a1lxcWE0NjNrYXVXemlMR3dTS1RnUHdNNFJ2d2pTVzU3bl9hZlV2ZXdWZmJTN3lJWWp5UTZOeVVobXN5U0E5OEc0Znhibk9CMmo1RzJRSjRET2lQUm5PWnQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "bf167f3069acc173",
@@ -678,6 +750,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "bd97d8ce70028542",
+      "headline": "Latest photos from the 2026 World Cup - Reuters",
+      "excerpt": "Latest photos from the 2026 World Cup Reuters",
+      "publishedAt": "2026-07-14T15:39:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxvN25fMDZibUhwdEI0TU1rODkzYUxRT0F5VkFLek5uUGMwNU9DelpHV1VWczlBYUM3b09hdFFGYUZ6SGZneEFHWUxNNFpDUTQwNjYwRVQyR3dGa2RCaHdGd0pDdEMtTC1fNnNGdmZFWWVrSUdVM3NyVDBoZ2JSVUhEamlFX1VwSV82RzRMYTk5SndzeDItUnE0ZjZJZlp1NnEw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "a0cc4ed4869014f9",
       "headline": "FIFA World Cup 2026 - Semi Final - France v Spain - Reuters",
       "excerpt": "FIFA World Cup 2026 - Semi Final - France v Spain Reuters",
@@ -982,6 +1063,15 @@
       "url": "https://www.teslarati.com/tesla-full-self-driving-v14-3-5-early-impressions-new-features-early-performance/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "393dd22b2c732848",
+      "headline": "SpaceX shares are struggling. Evercore ISI still says it's 'too compelling to ignore' - CNBC",
+      "excerpt": "SpaceX shares are struggling. Evercore ISI still says it's 'too compelling to ignore' CNBC",
+      "publishedAt": "2026-07-14T11:42:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDAtc09JYUt3NjdCRjMwMjZFV3NNNllZcmg2cE5jLUx3ZzlHT0pQLS1lQlB1eFltQ0hOUFo0ZlpWdEo3SnFrYnQzM2lvVlNZTVM3cFpId2oycml0cDU3dl9UMHFOLXByd01BMjlFSG10OWhDa2tHdDJSamszdHRxRGZRMk1GOWtMbEM0OWFrSjZyamwzSHV3aVlKZnRNdkRHZ1ZfVW1ldWFFZlp0T3NYYk1oR0V1aHNUc2c?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "66b92dbc60220f4e",
@@ -4069,6 +4159,15 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jOXJyZXhWZkJJS3FvMy1QaXlISU5sUHZkRzNiS0ZCYzE4c2ZhMmdHVmtrdkF5STdpdWFsYmVZQi1TU2MxLWo5Q0g1SUdPMnZmV2hpZHc5Y25MT3ZkOW51djRmaTRPdVBBY3pDcE1kZXB1d28?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "d857428f9c2241a5",
+      "headline": "EU drafts 'Buy European' rules for public tenders to curb foreign dependence - Reuters",
+      "excerpt": "EU drafts 'Buy European' rules for public tenders to curb foreign dependence Reuters",
+      "publishedAt": "2026-07-09T12:59:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYThsUmlrc1lwcWpuRDFRQmI2anYtTWlLbDdpTWxIN1p1Y1JFaGZ0VlZCMmZwaG5GRjcyVTMxLU9fZEk0S3VDNC1lbmtRdWRTRXl2ZkVOdm1RQ3dFNzQxUE5TRXpweGRIQUpyM0xPcTVtbU1tckRFZm9aS3djbUkzdXZlQ2RjOXhqcEJfLURKSzJFSmplTlFIeEN4RW00N0RXSWdtRkloZkRxTnNsSDR6SFA2ellidw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "2194a1c0523e1767",
@@ -21891,6 +21990,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "166307623d64c498",
+      "headline": "Latest photos of face paint, flags and fervor: Fans at the 2026 World Cup - Reuters",
+      "excerpt": "Latest photos of face paint, flags and fervor: Fans at the 2026 World Cup Reuters",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNGluNVJaMGl2a2pQSXBTZ211OW5ZNDVaZEZFZDBvSnZkUkJoZE1RcFlnbGRyNTk4cWJMcHFZM0YtclB1N3dIdlJFODNqSndEY0VYZ3Rob0hFZWxKaEFKUEpXV1RLLTVNdnNnNEFBaVBCZ0pTSGNDN2NwMEpTcXJnWndQTy1vbzVnQUZOcnhtaW1oZHF4eHEwWDBaNTBWcW9xZFN4dXRHRzdpRzhvdzFMY3lrcHQxbXdJeTNFU0xBWGlsSjhNaDNMZkxxU3dKUUkzeG5mNkExSkdaNGVMckMxVFVQbHlxV2M?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "7828e19c38047061",
       "headline": "Market Talk: SpaceX a stock 'you want to keep accumulating,' says investor - Reuters",
       "excerpt": "Market Talk: SpaceX a stock 'you want to keep accumulating,' says investor Reuters",
@@ -30671,6 +30779,15 @@
       "excerpt": "Lithuania set to appoint new prime minister, ruling party says Reuters",
       "publishedAt": "2026-06-16T07:46:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUlrNnJQc1dEa1ltZXZsR2FxeS1iRlY0SjN4ZnNvSXdXdkcyMjlHOEpJRXhmajd3X2kzTWZ6Y1AwNjVFZEZHem5CYk9SdFd4bkVLMzFQWnVGa3RSbFo5SkU3bzNjVzg3enVVczBEMEFtcVdEdzB3LVh3OERldjZhQjhCNVdrdWp3aVU1TVJaVHRkZTVZYmZISDVYdlNvd3lXc040NWRVMHQtYU90Y3JnMHZ0WVIzejR3bG1NdHdvM3BoNmc2dERvcC1OUnBSUWsw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "8b09e406133dc1ac",
+      "headline": "Latest photos: Team Croatia at World Cup 2026 - Reuters",
+      "excerpt": "Latest photos: Team Croatia at World Cup 2026 Reuters",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVXYUVUaXRyTEhXNHE1eG1ONmJpeF9mYVFqeUR1WVRkQ0VwT054RXY2YWhCci00TzB2MTNEVkNjM0Njc1JJdFlpeVRjc1h6VEVKRFFaNWw1NVI5Ujk0TEk0WHV3NzdZS2JiZ29LamFMRFNtcVhYRzFENHRWNEs2amNDNjJ4czhCT2VTN0NRc3BzTEpvS2hhLUxEU2REMmhzRjRSYzVKOG9wSzhCbjRQVHNKOA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44884,123 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MVzdBdVE2WGhDeUZzaWoyajF5TFZlbWFEeWVoS0FLYy1NLTZzUlZ5dGJNcTN0S3NLQzRZNGV1Rk9PZFV3aFV4OWxlbC1ibzJaRDluUy10S0hVUTZfTXM1cmtkTDdTT0ZiNTB3NWN5Qlp4QdIBd0FVX3lxTE4weGR0VE1ybVNweHBXaXJzaUd5WkVKb0ktTy11Q2s2VVJuRE1XTHlRNDN0NndQRnhFRTVoRE1mSHp0LUpVOHB3NWViajJHZ0o5VWdNV2gyUFhvdVNKMjZUYk0wUndHc1U5VERsMEpzWEhMYXBzanM0?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "b56aa4906ededbcf",
-      "headline": "Sweden weighs social media age limit of 15 - Reuters",
-      "excerpt": "Sweden weighs social media age limit of 15 Reuters",
-      "publishedAt": "2026-06-02T20:37:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGR1YzZEQXRnTG5NV1ZIZEIzQ29RdGxveDhneEgwMFRLa3NlR2V4N1huek96UW9TbGlqNUgwSTJxNWpUeGxad293d1h0VVotck1zSzFUSlh5Sl9wWTl4cUxGNVk5bDRPU0c3Y0VnZnJlMkZUelZlWDc2VndQWFE3NHIzWm1VUm1VTUVPMjZCdWE3VVhpQnVhd29LUWxLWjg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "00a101528774a4fd",
-      "headline": "Anthropic Mythos access to quadruple to about 200 Glasswing partners - Reuters",
-      "excerpt": "Anthropic Mythos access to quadruple to about 200 Glasswing partners Reuters",
-      "publishedAt": "2026-06-02T20:33:59.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1JPUktDT2ZQWVZKVUFkVWNZSVdzY2QzOFFzeFkwM2VOZ09pV2lacGl3bnBUTHUzRHAtYk5hZmprVk43SlZ6N3kweDJhc3hFWmlFTFpLUGkzWmJfX2xFSnItOWREYzU5OFFSNEZJQ2ljQlh3MUlvUE40RXduaDBpcHFzVHk1cGN1b21pSE1QSUNVWFdpUnlCbjcyaWhWTWdEWm1qTHFSU0ljRXRaYnUyQktGaEk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "98d170966cce3db2",
-      "headline": "The Legend Behind Monfort Lane – The Fastest Trucks On America's Highways - Jalopnik",
-      "excerpt": "The Legend Behind Monfort Lane – The Fastest Trucks On America's Highways Jalopnik",
-      "publishedAt": "2026-06-02T20:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREYyc1hJLWlBZWZtRnpqTVdvY1BoOW0tRVpBVjlDckFYN1lPZTdKc0lmdmlwT0dkMGdEUFRLZ1owV1AxN3ZaWFVpcVIxSTVUeUw5RFpnV2w5OGdkblNXM0FINFJkc3o1WFdFbDlNSUdNdnhHVUJnendKeXBFOXBya09SUnQ1a01MWG9sUWRKVUFBaWM?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "416d26d6333202a1",
-      "headline": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency - CNBC",
-      "excerpt": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency CNBC",
-      "publishedAt": "2026-06-02T20:19:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFRsZnRDeXF0Mk56eGRHcEdheE1PU3VoMERVU3d5WGtfQ1U3bDkxMkNfU2pIeWdyVlZiSF9KbE02Zy1BRWdpVnNuRkdGeTEzeW9tSWhMZGhPVTM2UzgwN21RLUdacG01YTZCbVhWT0FZNUxyeElQbFB4QzdROTNuS0JKSdIBiAFBVV95cUxQMkJoTnlwb0lfbUJEbFBVNHdmWEFJUUtLeDFjc2VEVXhLb2UwYW8xaTJsZEtTTVZxRHJoLThwT29VWE42aTFyalZacGFuSWRIcDBhd0RJRm1KOElPRms3bkFDLURHMU02MFV2ZTNQYTE2WU1ybnBzandDdGpfckhKLUxDOUpWWE1x?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "ed0a9a81373dc54b",
-      "headline": "Rubio says US is considering naming official to run Ebola response - Reuters",
-      "excerpt": "Rubio says US is considering naming official to run Ebola response Reuters",
-      "publishedAt": "2026-06-02T20:09:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVW5PeFowNmFSeEpxWVp1X2dGcEtpS1hvb25ZdjQyOTNuNWl3c3ljc1V2aWdqVnRoNkdiZllydmVWOFQ4OHdiSXpOQzFMbTczd3FEdTJjazEzRDg4YXF0c1A2NkQxOXd1Y1FvTlZ5VktJY2VPQjl2RXAyUmh1LWJQOXczQ2xYYWZFUzVKVVAybV9zWDRwdDhrV183Q1dPdlA3QUZfcVl2eHNzSG5YT3ZZS09wc2poTTREXzY2dFdCNnYyeDBDZ1VhdlF1bHFQUk9l?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c1d2832b98fe397d",
-      "headline": "These 5 Inline-6 Engines Might Not Roar Like V8s, But They Make More Power - Jalopnik",
-      "excerpt": "These 5 Inline-6 Engines Might Not Roar Like V8s, But They Make More Power Jalopnik",
-      "publishedAt": "2026-06-02T20:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVB1bEZHaVhIeEU1LXBFU1E4ekFHdGR4cTBSV0ptX2hqRk0yTGRES3hyNDhvSnB2UHlyZ0RoZDNhWGx6ZDgtcGMwLUJBZ1N3SkhoTHB2WGh2d2loSkVsOXFYTDYwTTBmcnVlZEc5aXhDQklnMmVhVzBJeGt5S1NiQjV3TTR0dzg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "9e5836990904673b",
-      "headline": "Pulte appointment as spy chief would give a Trump attack dog access to a trove of intelligence - CNBC",
-      "excerpt": "Pulte appointment as spy chief would give a Trump attack dog access to a trove of intelligence CNBC",
-      "publishedAt": "2026-06-02T19:56:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwckJrNkxjQXhzNmMtRzFiWWIyblpOdXF3cEtaOWtQeHpQU3VDUGEtdWZiQ1YwdFJYcEdUQ0hJT2FJM3ZpendEMDNlaVRDbXRjN016ZG5OWXE3bGFuRi1RNUQtVDllOGRuTTd5d0VHaEpNeU3SAXhBVV95cUxOY0tHeGNJNXNSRy16WThoOUwzdXYtZVhaNjBZcDF6ZUF6TURVenVOSW54X1h4MHQ3N0txRE5oNmNkWk8zVFlWckluV1M1Z2pjWWNlLVY4RWVpZmhJMzZZaENLTWJFVTk3TE1HQ01nRmwtUTFBY05kLUc?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "9cfef9c982a63815",
-      "headline": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile LA mayoral race - CNBC",
-      "excerpt": "Traders say Karen Bass and Spencer Pratt will advance to runoff in high-profile LA mayoral race CNBC",
-      "publishedAt": "2026-06-02T19:55:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXhfXzZvUHZsWVU3eVd6T28wT0lMY0dQRnZDcldtUmRKMExRYWViSnFlX3FaWWZ2c2ZybXpVZGJZbUtmdHJBeV9oZjlKTEVEUzBiYjdIQ2hYZXNzQUhkUFFXbjN3RkMta3JMcldOdWZKam80QzZLR1RibHhxSGRLeVJJNVJtUG9WQmo0em5nUkRBdXBuaFYxa0JjVdIBoAFBVV95cUxNbHhLbWtEZ3Y5ZXhXWGtoOU9EOXRvRkdMM3V3RjNrQTZobUlFRUlCdXpKWGItVGRlMXdPSVo0ZXVfLTRMeHl2UVRBSW5GT1AtcEJIOUVRRG1WYmdWSDB4XzdlcGFDQXlpTGttRG9MNVBKbXhCREJiM2J4cFdDZ00tRGlETFJDcHI2OTBQcVBIMkd3ci16NDZSaXdONEVUM2NW?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "265b51b70c94e6af",
-      "headline": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029 - Reuters",
-      "excerpt": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029 Reuters",
-      "publishedAt": "2026-06-02T19:55:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkFmcEZfNGxmenUzVzZIQUszZVVCUGxndnBHZGxmTC1RSzRLNVFKOEs3eEs3aVI4WlVTWnNmNlNsbWpuR1diYVpwSFBoaEpha2ZHVUFyV1BLQzNmR00wNWVRMkt2anNJRm9lSWx3VDlnNTVtc3M2LVd4Sk5wV3o1VWlGVDhESW5FWUtSUXhfUTM5OUxvcmdzMWYtazRFZ2dVVHlQMmtYYzdIcFFBQmpnTXlHWDVXLTc2TThnSlR3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e47ac089aeb8f11a",
-      "headline": "Argentina seeks to join Trans-Pacific Partnership treaty, minister says - Reuters",
-      "excerpt": "Argentina seeks to join Trans-Pacific Partnership treaty, minister says Reuters",
-      "publishedAt": "2026-06-02T19:54:11.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmE2dFMwREl5R3Q3ZVVROGZ1MHp1bDg0U1dZNFRLaXREb1d2NmJSU0FpQUo5anlrc0xNYlhPTXlIZzZIZ0tFTk50NmcxeWdpUTZBcXZkdFpERmtwNWNXRVh5d0dXUHVDU2RHQW12U2ppekFETHdTeEdsQ1dMQUNYVUcyc0JubUdhRG5sbjNtUGtjSlJjejZDNUFfNGdZbDFsYWtoTnQ3aGlTVXB6X1JYRTFZU19WZGx1NEE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fcb70136f6001a32",
-      "headline": "Victoria's Secret soars 50% as turnaround powers upbeat annual forecasts - Reuters",
-      "excerpt": "Victoria's Secret soars 50% as turnaround powers upbeat annual forecasts Reuters",
-      "publishedAt": "2026-06-02T19:25:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMldhT2VEWVZtRUJ2QUdzTXpTUDFxRUJMeXllVTF6Y3psX054bG1RUk9tbVh0bG5uYk5CMEJEM014QmVnV2Riald6c25hSnV1UGFaeHhFUzd6LVVQM0JiblN0Sk56dUxZdGdjRFJ6Mkl0SDM0bnYtZGtoVFBkekRhbmRQajJPRTBmZEw4NlI0cnZvdlBDZlhhNU42S1E0VFB4QjZCb3ZPS1hGWG1odVlHYklaMktFUkJwTU1v?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "53388e5602c27219",
-      "headline": "Tesla Full Self-Driving attempts 150-mile stress test: the good and the bad",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-02T19:06:37.000Z",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-attempts-150-mile-stress-test-good-and-bad/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "e82d2d696068b3f5",
-      "headline": "Goldman CEO says high oil prices could shift consumer behavior in second half of 2026 - Reuters",
-      "excerpt": "Goldman CEO says high oil prices could shift consumer behavior in second half of 2026 Reuters",
-      "publishedAt": "2026-06-02T18:59:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUdKNDlQbGpXVXVNWTlKbk5QOG5BMlBOdFJfcm9VSU9QSzdfVEVTMWY5S2NmM3FwSTFvVGI3ZVF4aktyNjFMalYtSnl6dWRieEJURVNuaDdmVUhzYkh4Mm1EZmF2eDU5emhOSktYUHVsSFhtT0RweFAxbFgyZDFmZzRVbU9QMFRpak5VbUQzTF8wRkxTZlgxWnVKSEhzNDdra3YxeTliVXA5d2c1cnVpUUJhc0txUkFOUmlVdGYyXzVuVlUwcHVkTXFyWQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
