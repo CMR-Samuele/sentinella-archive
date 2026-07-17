@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-17T09:07:26.637Z",
+  "lastUpdated": "2026-07-17T11:05:19.927Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b0b6e4e21a774078",
+      "headline": "Geely sfida Tesla con un motore elettrico da record",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-17T11:00:00.000Z",
+      "url": "https://insideevs.it/news/801985/geely-thunder-motore-efficiente/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
     {
       "id": "faf59d7c4533237b",
       "headline": "SpaceX Starship Flight 13 aborted at Zero and Musk just told us what broke",
@@ -64,6 +73,15 @@
       "url": "https://insideevs.com/news/801923/tesla-model-y-performance-launch/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "62046f13dd98e7db",
+      "headline": "Fed probe suggests Tesla’s self-driving feature wasn’t to blame in crash that killed a grandmother - myMotherLode.com",
+      "excerpt": "Fed probe suggests Tesla’s self-driving feature wasn’t to blame in crash that killed a grandmother myMotherLode.com",
+      "publishedAt": "2026-07-16T22:02:42.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGpLV3I2X2JscDY2enE5RklHdjNORWxEWkRHTUlBdTQ0S2FENWpqb3NoOERnN0xtNkRMVEhlU2hLck8zbUE3cU5pdDFnS2Z2cnhtZ0wzOW9BYXFXQi1HWnBEWTR1Ny1MZXNISEdLTy1lVy1mX3A0SG9uSzBTRmRuQXFPVy1BQXNjNk5Da1lwVW9fMGFGVWs4YjlVZ21zSGNBZjdGR0JUd0dQb2R5QzBnSkRwS2J6T3FlRGEydG1ZdkUzTlptN2xyS0xROTVFZ2t1RzR1VUJ4cWJCMlZBOU9Ec2xzb9IB6AFBVV95cUxQcjlKUlJTajlUcVByZTlBZlY1Vk52SVVuNWlHSVpIMjlST0FORmh4SzMzTkFVemt3WlpwRmZmVzA0NFl3UUQ2X21vT051RVhsRm01MnpZRjA5eGVNbmU3YzlfR1k5bUtHT3FVdjl1ak9rRGVQNkF4Q29hLWoteXQ4N29sOU9vbVdCWFFUVTVPZjhHLUVtM0daMDRTZWREUlhFbi1ubUhaOGExZ09xaUczM2FEMTVkM3Y0WHhnR1ZlV3NVMGpIbFV0NUlEM3ZBUU15UjhZQ2xZME1jU2ZXMGZNb1NPUHZvUUIt?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "2f3ea5cad9d3c918",
@@ -4688,6 +4706,15 @@
       "excerpt": "China's GDP growth set to slow, raising expectations for more stimulus Reuters",
       "publishedAt": "2026-07-13T08:00:18.000Z",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "079f235463c897ae",
+      "headline": "Japan pension pivot seen as a slow burn, not a bond market fire sale - Reuters",
+      "excerpt": "Japan pension pivot seen as a slow burn, not a bond market fire sale Reuters",
+      "publishedAt": "2026-07-13T07:57:25.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXgtMzhVdWFpdVprX3dPQjdkLTJtWU9SSzRJTU01R3BHZHpkc1dOdHJGX0dqVUlCTUlfRmpvRndfX1h4Q1VOYTM5TWVvR2VpTWJobzh5QzNEM3loeHB0WHZXamg4bEQ3YlVQOUJ1ZThlelZVN29WNEVwTGI0U3dsTkVpVWFxcXhQRVNIUmlTaDZGX2tfZW9uRVczcFFuNHo3RUxPN3JIY0s1ODkyVmhzOVlJdF94Zw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44972,33 +44999,6 @@
       "excerpt": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff Reuters",
       "publishedAt": "2026-06-05T07:50:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ09wcEJnaW5yR1lxOFRVSVFESnQya1VkSVVmdzIxZkMyWDgxbkRDeHZDMFNSOWtMaWR1WVBjTXd6cG1uR0I3d2JmT3o4VkQ5VHhMYWJQV0EzMEJfWlVJTGJJY240VVhrUkpQcnpTS1RRUnd5NDFWMFVrclgtdzNvaE0yZWJ3bnBSRDR5RW4zbVFtamdnaGt2dDAtSDl6QURzQk9GWnhSSTYza2lEUUJmTnBMMEhzeXU2OVRZRDhvWUhUbzdWZTJtM3JDNmZ6WjRXSnNpZFhR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "cfc91b8d0492956a",
-      "headline": "Take Five: Houston, we have an IPO - Reuters",
-      "excerpt": "Take Five: Houston, we have an IPO Reuters",
-      "publishedAt": "2026-06-05T07:49:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUtLWUUzek9QRGUwYTZKdVNXRXo4YzkzaTdlclF6QURXODk4eGdFak43WTluUUVNVEZGaFJoR2FpdnNLZWJ0VXN4M3FUbEtTQVZJYmNlQ3FaRHBxWENoeFAwWHRHUmJnWk5sQzJkdmViX0RqRVNDUlFsQXZSSzZ1d0R4eTFWSnNqZnNGQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "b1d8d9d1d1ce7dbb",
-      "headline": "Bitget adds tokenized Apple, Tesla, Nvidia stocks as futures collateral - crypto.news",
-      "excerpt": "Bitget adds tokenized Apple, Tesla, Nvidia stocks as futures collateral crypto.news",
-      "publishedAt": "2026-06-05T07:17:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPck53YTNiTHFOTVhaYUM3Tmx1aVZyVFBSR3RiX2hnbGJtNE1Zb2R0NmN3bWZ5dHVIaWtmWkRfMEViZUh4Vk1ZZThobjhxRU8yWHVoT1pPanNXeDB4ejA1TnpTSGFBR2ozdy1zdW5pSGMxd0cxY2RVZjVWM1RlSHJtMzhmbzV4YnIwNFlZcGt1bmhoMzVD?oc=5",
-      "sourceId": "tesla-press",
-      "sourceName": "Tesla Press Releases"
-    },
-    {
-      "id": "997faddd401e93ec",
-      "headline": "Australia's AirTrunk to invest $30 billion in India by 2030 - Reuters",
-      "excerpt": "Australia's AirTrunk to invest $30 billion in India by 2030 Reuters",
-      "publishedAt": "2026-06-05T07:14:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjJkc3E2Z3NoakhZRzRMMjlSN3dxYWNTc3phXzVWZWw3WkhGaGhPRVJCSnBoS1NSNHJIaFBtdDVscWdEM091cHd4WktyRkZNb2RodC00SUtsUDlSLXdhdG5tb2hCTHEwY3BlczhLOHU3ZDh4ZkM5TXZKSU5iOTRmYldUOTg2OG5SdnpuaWtrbkJELThyVUxZQUJZM01taGgz?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
