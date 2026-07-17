@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-17T11:05:19.927Z",
+  "lastUpdated": "2026-07-17T12:42:06.434Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b4c7df3ac65a9bcd",
+      "headline": "U.S. aims to set guardrails for autonomous vehicle behavior - The Detroit News",
+      "excerpt": "U.S. aims to set guardrails for autonomous vehicle behavior The Detroit News",
+      "publishedAt": "2026-07-17T12:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2Rjci04UVlMYy1rcFN3VHNnbnJXR2tWUDItLVlMbXpwOUhjeEU3TzN2Z3VfTHB0OGR0VGhKT09ybHJxQy05dlNjam9pTjlrUk04SDMxRnVUbWVtXzF6WGl3Ukk2a2swbjVzWl9FeDdHM25GOWpUa19WLWl5QXBTeDRYeVFNQTNNYjlRYlhOd3NxWXBkbUVhWmhUVDVjZEJuNzNBVng4bWxweTNFYnJHUjI1NGw0MXNLQnc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "e1b0c0a8c4bc8a39",
+      "headline": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout - CNBC",
+      "excerpt": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout CNBC",
+      "publishedAt": "2026-07-17T11:36:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0R2YzU1M21hRkJqYlJOMWZPSWpvenVXZ0lsSTZsbUw2Vi1acU43RXdMU2dIOFBvbkh3YWw0RW9wV2ZER3hNbGo2bmszOTZ5VnRsclJ6Nnd4NWhfdVFKWXJwVGZQc1ZQN1NfZWpleVgtQkVkeEhfWmNYdWpqczB4eE5CdDVVTWZJWFVJQXRCT1lUOVhWWVAzbER1VldTYWJIZnNybUpnVW5uVzNFUUpJQ3hR0gG3AUFVX3lxTE1nM0FteXNYUGlUbGk3ZEVtUXhlTXNIdDlrdjUzZFBVekJINFVPNmk3QTBZZ3JYT2JJY09wVHhDd2ZYZGJvRUJNRG5xZ2lVWS0xRU9wdG5VUWlqU1pmZGxwdF92V1JxeDZlTVRZYmlaLVVzSm5ERDhXVlgyVms0WGdOX3htVGtWeTVNWnBzVVNNZDNGRTFFeVMzbC1ZQUp4UVFvUTFvcUNiMVBfMlZpdmZpT3FnVE8yUQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "b0b6e4e21a774078",
       "headline": "Geely sfida Tesla con un motore elettrico da record",
@@ -172,6 +190,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUZtYlQwbVdsNXRkVk5UeGJXa2Z1NXBudThoWVJJTVh1TFk3UDdlUnQ2Z05zVHVqb0RlWnd5dVZraVVYWUJkSGp4SXZPa19XWU9ORkhnMWMwYlU5UllfenhfMHNXT3cxRHNscnBFcHhzT1Jyb1pyanJobjBRSG5JcDJFRWpzaHh0WUlHR01Beko1LU82THg5WEFuWTdIRFpaeVRkZnQ1LXZpeTVQX1RtMmZrX1g4dkx0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "6a7162d96ae401f5",
+      "headline": "Harley-Davidson's New 'Stripped-Down' Deadwood Is An $18,000 Tourer With No Bags - Jalopnik",
+      "excerpt": "Harley-Davidson's New 'Stripped-Down' Deadwood Is An $18,000 Tourer With No Bags Jalopnik",
+      "publishedAt": "2026-07-16T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3EwNFExdk5uNHlwa0hpUHJ0akw4d3lfcGJUZEFCNVo2N1ZFaFotOGpTajNXelNtV2NNdU5acHYyMUVmamhzYWdTaDExNUFrTThwd1RSb0NZZF9HUDFKcUhuS0xfUURHMEh0LUZtdkFlN0gyZVpiUDZiY3NJX25FaUMtSksxSksyU2RBVg?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "b1f4c215c36f176c",
@@ -44972,33 +44999,6 @@
       "excerpt": "JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth Reuters",
       "publishedAt": "2026-06-05T08:22:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTNXdkRReDg0U3Bjc2JrS0VZbHVVd19zOElyVEF3a1lyRThUUm1OblhIaFVaUDZaN09SY044ZXJpX2wyR0pSRzg5MzQxdWtQV0ROTUVDVkYwMnVUMnVXdXc5ZE5UUC1ZcnNvekIzSWNtaVA3MWJHVmNpM1J0Wmw1cGlYd0FHNEs3YV9EZG5zeW9Vb2FwOGFvVGR3ZFhQOTRZT253c1AydzFEZmlEQjJXNEJzdHlrcF9sUnBjWUJ4VXI0WmtBS1RpRzB3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2c0f14f8faf18eba",
-      "headline": "JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth - Reuters",
-      "excerpt": "JP Morgan upgrades Tesla to 'neutral', sees robotics driving long-term growth Reuters",
-      "publishedAt": "2026-06-05T08:22:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaTNXdkRReDg0U3Bjc2JrS0VZbHVVd19zOElyVEF3a1lyRThUUm1OblhIaFVaUDZaN09SY044ZXJpX2wyR0pSRzg5MzQxdWtQV0ROTUVDVkYwMnVUMnVXdXc5ZE5UUC1ZcnNvekIzSWNtaVA3MWJHVmNpM1J0Wmw1cGlYd0FHNEs3YV9EZG5zeW9Vb2FwOGFvVGR3ZFhQOTRZT253c1AydzFEZmlEQjJXNEJzdHlrcF9sUnBjWUJ4VXI0WmtBS1RpRzB3?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "9065a1fc34a2fc47",
-      "headline": "Italy's iVision Tech's Macron sunglasses top 1,000 online sales - Reuters",
-      "excerpt": "Italy's iVision Tech's Macron sunglasses top 1,000 online sales Reuters",
-      "publishedAt": "2026-06-05T08:07:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPajV5RU14TUtNd2lPYUpFZ01feDJ3YWJiQ0o3eXNOaVAxd3YxUHdBaG1mLVlscm9PZmMyQVppLTRZU3J4UEtZdkFRMkZyc21JQUNnUkNjSVZMTjljWUVPM3k0LTBobHIzOTZMOTNEcmZYTDlWNnpYX1VSWFVTaVJTeDd5VWo3SmVCYm5LX1VSMW54Wk13UzZfTTZ3ZjhkdVl0YWhoNFAxZ2M?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4551f563410c134d",
-      "headline": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
-      "excerpt": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff Reuters",
-      "publishedAt": "2026-06-05T07:50:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ09wcEJnaW5yR1lxOFRVSVFESnQya1VkSVVmdzIxZkMyWDgxbkRDeHZDMFNSOWtMaWR1WVBjTXd6cG1uR0I3d2JmT3o4VkQ5VHhMYWJQV0EzMEJfWlVJTGJJY240VVhrUkpQcnpTS1RRUnd5NDFWMFVrclgtdzNvaE0yZWJ3bnBSRDR5RW4zbVFtamdnaGt2dDAtSDl6QURzQk9GWnhSSTYza2lEUUJmTnBMMEhzeXU2OVRZRDhvWUhUbzdWZTJtM3JDNmZ6WjRXSnNpZFhR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
