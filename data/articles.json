@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-18T19:05:04.961Z",
+  "lastUpdated": "2026-07-18T20:12:06.569Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a1ad0af1e535ad65",
+      "headline": "Elon Musk says your Tesla will start to learn your individual preferences",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-18T19:20:01.000Z",
+      "url": "https://www.teslarati.com/elon-musk-says-tesla-start-learn-your-individual-preferences/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "7925b1e4cd3c19c1",
       "headline": "Tesla Must Recall 20,000 Vehicles Over Bright Headlights - Not a Tesla App",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0J6ZDFyMUROYWtZQWZPckNHdjllc3laLVNtWXF0dFp5Q1JkME5pNkhyNXVXNzhTdUh2TzMwdXltb0VCNzBFM29IQ0xsM1pGcERSR1ptLUhRbVc5UVNERG1TUThpUWJlUEo2cnF6NWpHNTlEY3h2OVN5S2YwQm5sc0dlazR5OHlFMUh6WDc3cDViX0x4YmVZMVdRcEs4UGR4dFVGMElERERpVnkw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8167574b0fe5c338",
-      "headline": "Chinese EVs may hit U.S. within a few years, one way or another - CNBC",
-      "excerpt": "Chinese EVs may hit U.S. within a few years, one way or another CNBC",
-      "publishedAt": "2026-06-06T13:35:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWlmOFlfVXdrY3F3aEwwaHBadUdsQ25BZVdVek1MTGZlTUFNUUZrU1NJSUtjazVEYzl2aWxDT3NNb3FFMG02bUpUaUZWMGpRWkIwMHBaZWI4MjJnNi1xRG12RThjLXZYdmVsV2UydGpMeW1LRkJ0cmZVUHM2MXRXMjd3?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
