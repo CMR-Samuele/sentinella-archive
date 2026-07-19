@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T20:43:50.514Z",
+  "lastUpdated": "2026-07-19T21:50:39.828Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -10,6 +10,15 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWgwUTRnX1NUd2JpT0J6M1dmMDlNQ0ZWM3p0MmR6ZVBvRUUyVzBrWE53b3o4aHV4SHV3Z3BMT3pDS0lGMUlDRDhKYW5EazRnLWVURi14bHpfemo3TjNEQ0hEeFpzRTNWY3BWQ29KRDZfMEtaaF9XUEU5d05QWm83c3RQVkh3X3FPVjRQckdWYkNTbnNTZ21LR2hpMTVRa3kxTFRFd09yRzExUUE5cXVjVXZIRlVJXzFNSEtUM0pPWQ?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "d0867906a632fde0",
+      "headline": "This Greek Bridge Is Collapsing Into Water But People Are Still Driving On It - Jalopnik",
+      "excerpt": "This Greek Bridge Is Collapsing Into Water But People Are Still Driving On It Jalopnik",
+      "publishedAt": "2026-07-19T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDNHekI4VWtOOExyV2V2TnQtY05ESlV3Q1o1R2FMVmxzZHVvMTFQR1BJVktjZ0ZMLWJhRzZVbVYwbmROR25JZGVXelBubXAtT0o0ZjA1NVhOUzJzOUQ1UzhKY3FXSk1OUHd1ekk5blNoN1A3WkhpcVdQMllhX0xFOHVRN0dvZlFhS2hLVU56b1hDRVk?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "d09cac8e3c2cd609",
@@ -64,6 +73,15 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXo2SGVWdmUyUTBqWTI4OXl1RUZtQjBBUEgxdzhLejZnQmdBMV9qcGtabjlHWkI3RjhZOUJKb2M5aUtrcV9hQVBuZExsWmNEZ0h0QzFmNThwSlpLUDZwNTI5ZVJyNE5ONXFaR05YaXdVRVhDc2ZzX3NGbDRveS1MckxDUWJyeGtWTkdjNjU4cWpSSEI4X1NjUXlNektoTnJsUi02a0tVRFF2WXlZZ0twWnFMbXlRUHBpcWs5UG1zVFh2ODVObXU1NFdCaC0?oc=5",
       "sourceId": "tesla-ir",
       "sourceName": "Tesla Investor Relations"
+    },
+    {
+      "id": "177a408a285204c4",
+      "headline": "12 Fuel-Efficient Hybrid Cars That Aren't A Toyota Prius - Jalopnik",
+      "excerpt": "12 Fuel-Efficient Hybrid Cars That Aren't A Toyota Prius Jalopnik",
+      "publishedAt": "2026-07-19T12:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDJCelpfMnV3X2h2ZEFEbFk3Yk1BUGlxaUlnbmVtOE92WTIweEtEZE95QnoyMHh2SEhGNDBNYzBMZHRVWkRjd1o4R0JUbEdXUGxiRVZsLWtWdXFCQ09ibkFYdGRqTFNfM0I3RF85N0xTVzBpeV9kZDFUajdFcUxTQlJQbw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "590965d1f1be0124",
@@ -44981,24 +44999,6 @@
       "excerpt": "Israeli military says it hit Hezbollah in Beirut suburbs Reuters",
       "publishedAt": "2026-06-07T14:11:41.000Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRWM3a2NBbFRYb3ZxLUNNb3kwYVRtckcyZjVValRobHBhYjJ2TUZUWkFqbHNmUjI5VjROeVlSR0RmcjRkMGJoc2htWjlGWmFtcnhNSUtyOG5WRk1fbjNPZ1NEV0VuaVNDYUw4Tk1oSWJyendTbWdUOHc0V0Z2a0JiUjdiRHNBMTRFclBzNzhaODI3ak9QZGFNMnY5bzEzQTB2WXZ5eUNLZmNPMzJ6bjk0UVZLSjVsLUhkSHRUOE56czIwUTVDeVE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ca613ecc9ab0595a",
-      "headline": "Bouygues-led consortium signs $23.44 billion deal to buy SFR from Altice France - Reuters",
-      "excerpt": "Bouygues-led consortium signs $23.44 billion deal to buy SFR from Altice France Reuters",
-      "publishedAt": "2026-06-07T13:47:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX1AyMXZ1dUFjeWhPejF0QVJuSEZabmVBYmMzVjhBSzFRY2xnZjVTS0ZGN0hhOW9IS0tzak9MejZRd1p3bThtX3RvVDJHWUN3QlJCMmJYVjUzVU5MTm1RamhJclVPWjk2MXNEN21DbEdzaWJyYm8xZGRXSnJybHk1OGx5Q2NDYkp3Y0lIcW5xWVZCbUw3WW1UXzNHRTN0bmhSWnRGcnNtNzh4bTRVRGswVWJTNlRDM09KMGRONDFWdHR1N2lmQTRN?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e7d0b538fe7ebbd5",
-      "headline": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage - Reuters",
-      "excerpt": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage Reuters",
-      "publishedAt": "2026-06-07T13:35:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHNJZHl4MmRVaDB2SDZQaTV0TWQyUFhFSWMtWkZaN08wSDBsQllBN2ZIOGhNV0otWjhERFRsaXVuQ3l4dmtjV0RfLXI5ak13WUE3OVAxM3Q5VG54N3JBaE5JZjF0WXVWMVdYWTRlYzV2endubDVlNEdZc25MNUpCRzVFbDlXN3ZoUFRJWUR5cU5MVEJNQTBDd1pqRmJIVkRGRjA1LWVOMWZZa2EwVHllZU5XS2oxZ29fNE4yX3R3?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
