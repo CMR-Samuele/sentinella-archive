@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-07-20T14:37:32.077Z",
+  "lastUpdated": "2026-07-20T16:22:31.633Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "4281e48c503fc4a2",
+      "headline": "SpaceX adjusts Starship Flight 13 test launch target date once again",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T16:03:59.000Z",
+      "url": "https://www.teslarati.com/spacex-adjusts-starship-flight-13-test-launch-target-date-once-again/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "13d8249bf0065eda",
+      "headline": "Tesla Earnings Put 11,509 BTC Treasury Back In Focus - TradingView",
+      "excerpt": "Tesla Earnings Put 11,509 BTC Treasury Back In Focus TradingView",
+      "publishedAt": "2026-07-20T15:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhZME0xeWYyUnNHcHc4MFhHZTd5TVcxRTdfQzVkVk12RXM5OGFkLXJHVlE2SGV3aUJfSHVtY2hTRVcxRG9mS200N2d0N3FTeThqYnE5TWU0NHM5ekVQLTMtYk5reXBCN29RSXVxX2NpUkpWaUl3N0R1cWpFZEZXTWRUVVJOVE5FWTVZbFNxVHU2NlRZY1dMd3p4d2wxeEVfeGY2S3JMNDNMc2JqZS1B?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
+    {
+      "id": "cdf90b3a7cb1206b",
+      "headline": "Tesla pushes new FSD V14 Lite update, but still only to HW3 Early Access users [2026.20.6.10]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T15:37:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-v14-lite-2026-20-6-10/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-v14-lite-2026-20-6-10",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "0235fd96c8ea2b2d",
+      "headline": "Tesla FSD Will Soon Remember Driver Preferences, Elon Musk Confirms",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T15:16:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-remembers-driver-preferences/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-remembers-driver-preferences",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ea1b3218592311b3",
+      "headline": "Elon Musk debunks $52 billion SpaceX-NVIDIA GPU deal",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T14:58:47.000Z",
+      "url": "https://www.teslarati.com/elon-musk-dispels-52-billion-spacex-nvidia-gpu-deal-fake-news/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "5a409ec6a9b3e836",
+      "headline": "Tesla details Giga Berlin expansion plans, battery investments in new filing",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T14:40:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-giga-berlin-production-growth-2026-report/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-giga-berlin-production-growth-2026-report",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ca570cadeace1201",
+      "headline": "Elon Musk sheds details on Tesla FSDs upcoming improvements",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-20T14:37:43.000Z",
+      "url": "https://www.teslarati.com/elon-musk-sheds-details-tesla-fsd-upcoming-improvements/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "e818f9740c722f40",
       "headline": "Florida AG asks court to erase Teslas $243M Autopilot crash verdict",
@@ -48,6 +111,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "1c9cbd117941550a",
+      "headline": "Which Musician Should Make EV Sounds? - Jalopnik",
+      "excerpt": "Which Musician Should Make EV Sounds? Jalopnik",
+      "publishedAt": "2026-07-20T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnBrbTdJQlBwUjR1T3F6akNnaDN6elJsUjh3Q1hBdGNCdEI3X09UWndCSzUwTk5Qcld3TFhwRFA2RHFqN3lVSjlZbHRmajRTQ0w1YXpWeVE2UGNzRV9odFF2cGZFQjRBR0JTcFhkSnhmZTU0emxQTmNTVVpVNHFfX0NubW9YYWJyUTI2MzhqOA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "0fba659aa157c1eb",
       "headline": "Tesla remote operator crashed a Robotaxi in Houston, NHTSA data shows",
       "excerpt": "[object Object]",
@@ -64,6 +136,15 @@
       "url": "https://electrek.co/2026/07/20/tesla-robotaxi-remote-operator-crash-houston/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "1c00dcc72fbf8bca",
+      "headline": "Chip stocks just had their worst week in over a year. Is now the time to buy? - CNBC",
+      "excerpt": "Chip stocks just had their worst week in over a year. Is now the time to buy? CNBC",
+      "publishedAt": "2026-07-20T13:15:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjhhYmJFbVVIYmdldGxYUnZWMGRQQWhzU2d6MzNyN2VQdU5Sc0p0cFdjbFBLbnlVcV9SNzhnNjQ4cHlEQnQta2hEVGxId1l1dHRzNjZNR3dMR2ZOQ2dBbFJhcVVvaUo1Q2RQM2tVZWNzOE15TTVmVEVDTU9lbFFNRFVVVHJUNHQ0SGtXUzFza09Zd05YRmZrUEVMN3d5UmRVeDYwNEV6UzA0SmF5T1U3cmJ3?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "91e2de2aecfcc4a1",
@@ -1574,6 +1655,15 @@
       "excerpt": "Uniper targets data centres in strategy shift, plans €5 bln in investment Reuters",
       "publishedAt": "2026-07-17T03:02:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUJkYkh4WUR2by05b01QYl9ORXZNaWE0Tk9GdlVpMWg2ZE1zQW9vbnlTVnhGTE85YXp1OTA0Ukh2YW9NMEFZVGRXem0tOGJmWG5LNElKXzdmSzlsSXd3NFNwaks0M0QxNUNSUEhSMGRYV1IzUGp3LUNoemsxVGtjd0FaUThLdmNrT1RNdHVFa2xsUHpxZHpLblUzSWpsbkFUamlaZ24wLXE4NGFNT1hVRElJNUdIeTRv?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "dc5ce58af6a92039",
+      "headline": "Global energy security at risk if Strait of Hormuz does not open in weeks, IEA chief says - Reuters",
+      "excerpt": "Global energy security at risk if Strait of Hormuz does not open in weeks, IEA chief says Reuters",
+      "publishedAt": "2026-07-17T00:34:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPemtCTGQ0SDdIMFRmVlNYbkRuTDZHT194eDY1MzBrYVZyTzZNUlZvWDd5ZjFZRFdUeV8xbnJIb2wtSHZ2WGZFeHR1X3o2MjUtc0h1MUNkOERBdFZCVnVaMkJwaHVnbk9IaDJiVV9RRE82U3NwTmFrMDJuaFpnOUl1Y2Y2eWNaNXhLMjlRWk5uV0ZZMnVPV18zeTZPcTFWeWM4N1JiS01DSWRzT2Q1NzZ3Yk5ubm54TDUwUldyUkpkSjVjNUQxLTY1Q3ZLMA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44911,96 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW56ZHNjVnktdXYzcUNCalV1MDNVVHY0cDhNRG9ZTGVLRWlYb2lOMm1BWWgtMzdIX1ltTHd6T3ZvaUpXNHo1RTBKYkdLN1BLbU1sT1BaSW9OQU52cjR4S0x5MFFuTXNyU0luQzFpcmtLWVhNNWV0ZGtHNzZzNHlqblBpLV9GZUQwLVJqUjgxSkl4TXd2UDFqdmtUdGRoRTBpeURnWHVIbGJURk9VTTREXy0yTi1ScDIx?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "72de7bc6f9ac54d4",
-      "headline": "S&P downgrades JetBlue deeper into junk as high fuel costs dent recovery - Reuters",
-      "excerpt": "S&P downgrades JetBlue deeper into junk as high fuel costs dent recovery Reuters",
-      "publishedAt": "2026-06-08T22:50:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTRHeGUwWkVUUXUzdWI1NlIyMTFZa1ZzcTdfeWFad3d5eFdKY0FLaUZrSjdKcHdNWVRKempmc2hXTklZZjRxN2pabmN2WC1uSWtxUFFNcFg2dnZBdUlYQ0RhSVRSZFhNX05HV09uakhkWGV6QkpFY1B1OWRBdGRrMGpuTV9RcEsteXZzV3E1MFlQZ2l4WkpTWjFKSWRUUlNzSnFQaWkzQTF4RjM2ejRSRGZSZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2c84066472f7011f",
-      "headline": "Indian quick commerce firm Zepto to raise up to $837 million in IPO - Reuters",
-      "excerpt": "Indian quick commerce firm Zepto to raise up to $837 million in IPO Reuters",
-      "publishedAt": "2026-06-08T22:46:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjB6bDN3TWtxOXl5V3czWFljUi1WMEhUdWpFaGpKNEhDX2llWUxhblJMd0RlTkR2RnlydHJaMnpRT296WGREcDhwNTI1b2dvV1lkOFpad0lyRnlGeGVIeHRkM3NfeXhERnJJUnpBUGY0REtFUThoRmM1UjRIbTVycjVneV83dVJTLXFSSFd2V3BHa1FiS1RhcW01TzI2Sm1QOW5uQjUtSWM?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "470c5d59440227bf",
-      "headline": "Why Ford And The U.S. Postal Service Both Use The Same Kansas City Cave - Jalopnik",
-      "excerpt": "Why Ford And The U.S. Postal Service Both Use The Same Kansas City Cave Jalopnik",
-      "publishedAt": "2026-06-08T22:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanJGR3dLZmVjLWJOQWtaNi05ZjVYVW85YXRsVXZ5aGFEZS1fdXFrRkk3VUI2X2wyQlhiVzl2dEl5aXFySHR3Tlo4c1dUVXQ2Sml6eWVmX01kTHBHM3phaE1Da2dPZXhPVERMbUxjVEl3dEJIVHJ4TlJrR0d4N2hZOUlKVDBFS3RFbi1zeA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "116830e05614445e",
-      "headline": "Health experts to screen US wastewater for disease outbreaks during World Cup - Reuters",
-      "excerpt": "Health experts to screen US wastewater for disease outbreaks during World Cup Reuters",
-      "publishedAt": "2026-06-08T22:11:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbk1mZVprZVdBeWdWZnpJNk5iVmtrS19PaW8wQTRHMGtJMzRtRkNqVVUxQ2kycF84eGNDUFdCdmtadS1HNWpoMlAzSXFWbDZfX2lGMmVwZjN5VTVnNGp6YnN3OXJUQm5xeXhValdSWlF3QTdadHE0VENBTVdGeXJKdy1XSDJrS3ZMeFJ1R2dqWlRfZU11QkpBX2ZIWG84bGxyQmFkcG5fWTFlUk0xQjRHUVBWc2p4c2oxTzB1ajdYMmY1ZWtrMFpQVFcxZTRVSGlSQlFNOUFCV3cyQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6894fb17bda3516b",
-      "headline": "Pope Leo warns Spain's parliament the world is in 'profound' crisis - Reuters",
-      "excerpt": "Pope Leo warns Spain's parliament the world is in 'profound' crisis Reuters",
-      "publishedAt": "2026-06-08T22:05:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSURUWU1lUlo2VlNaR0kwX2ViWlpzMUdadWJUV25hYXd2NEF2U09aRVNEY1JSVU14VTZjMjQtNURrNDdCQ01pQ0R2aDF3aGxtNm5vNENVSlJXNG9PaWpaVnlNUGdIbDlEb1VEdExTY3pHZER5ZFJtYng0b0xjSlFHLW85MFItdVpMSWxYTThKcERiWFBreVV5VFpJTnpldlJ1eWZJLW1JQ2Fodw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a954358113edbcde",
-      "headline": "Tesla Model 3 RWD Exceeds EPA Range Rating in Edmunds Real-World Test",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-08T21:56:20.000Z",
-      "url": "https://driveteslacanada.ca/news/2026-model-3-rwd-393-mile-edmunds-range-test/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2026-model-3-rwd-393-mile-edmunds-range-test",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "e20f28b55ea2f35b",
-      "headline": "Your Tesla Is Twice As Likely To Hit 250,000 Miles As A Subaru: Study",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-08T21:29:48.000Z",
-      "url": "https://insideevs.com/news/798125/tesla-subaru-study-twice-250k/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "199c72ac95fc1aca",
-      "headline": "Lucid UX 3.6 Update Adds Hands-Free Driving and More to Gravity SUV",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-08T21:17:53.000Z",
-      "url": "https://driveteslacanada.ca/news/lucid-gravity-hands-free-driving-ux-3-6-update/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lucid-gravity-hands-free-driving-ux-3-6-update",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "7f6e8b8803b1581e",
-      "headline": "Lucid Gravity Gets Hands-Free Driving Assistance Software With Latest Update - Jalopnik",
-      "excerpt": "Lucid Gravity Gets Hands-Free Driving Assistance Software With Latest Update Jalopnik",
-      "publishedAt": "2026-06-08T21:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakpGbkZtcGpCbzd0NHlFTHNrSkZLblgtUl8zUG1RZGNKWHFDdHNNUGwxYzRvdGRPN3RCNnZzRlE4TUI0dmY1MkV0cUpHTkFiVTVQNWFuSGl5V3BrVjVOV183ai1YWnh0VTRldHNoa2tMUTY0eXdjVWpSbEp0cWJveFZCdw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "f1260688b9c502b1",
-      "headline": "Here's How Much Computer You Want In Your Car - Jalopnik",
-      "excerpt": "Here's How Much Computer You Want In Your Car Jalopnik",
-      "publishedAt": "2026-06-08T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YX2xYTFc2Qk9fQjdGbFlSMXpXd0hxZ1BYY0pwUXloVk00V2pkNlFNNXBhSnR1Rjd2LXJ1NGVGY2VPakhjQlJPNWlYc01lN2oxbHFzNktxcUlJU2tWWkZZNmR1MGxyWnFkYXNTaXB1UFNxdEozYlBnaQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
