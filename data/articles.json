@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-07-24T03:28:30.709Z",
+  "lastUpdated": "2026-07-24T06:09:57.374Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "1c4f951fc9740fd1",
+      "headline": "Le Tesla Model 3 con batterie LFP vivono più a lungo",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-24T05:00:00.000Z",
+      "url": "https://insideevs.it/news/802072/tesla-model-3-batterie-lfp-nmc-confronto/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "661a6f553143fd1c",
+      "headline": "Oil batters bonds as AI burns cash - Reuters",
+      "excerpt": "Oil batters bonds as AI burns cash Reuters",
+      "publishedAt": "2026-07-24T04:38:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yM3BiWGJhY1RtWFk0U2tXSlp5b21ueFR0cjFRSlUyU3dvclFFdUJ1YThDdmJ5aVpqdlM4bUNHMVJ3NV94YjBhS3ZlUnJpVEVvRlpiVjV5Vk94VXJ5MUcybk91VzZVSFRFakxDN083X0IxajNjSmlMTDNXMG5uREU?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "661a6f553143fd1c",
+      "headline": "Oil batters bonds as AI burns cash - Reuters",
+      "excerpt": "Oil batters bonds as AI burns cash Reuters",
+      "publishedAt": "2026-07-24T04:38:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yM3BiWGJhY1RtWFk0U2tXSlp5b21ueFR0cjFRSlUyU3dvclFFdUJ1YThDdmJ5aVpqdlM4bUNHMVJ3NV94YjBhS3ZlUnJpVEVvRlpiVjV5Vk94VXJ5MUcybk91VzZVSFRFakxDN083X0IxajNjSmlMTDNXMG5uREU?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "30cc3f75b9f924c3",
+      "headline": "NHTSA to Mandate Safer Car Doors After Tesla Entrapments - Briefs Finance",
+      "excerpt": "NHTSA to Mandate Safer Car Doors After Tesla Entrapments Briefs Finance",
+      "publishedAt": "2026-07-24T02:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVhwTEVnRExtSlJYOXVVWjJOa0ZXb043dkpLQndhR1lHQWZVLUttcVo1cnhCWXVMRHZPcG9lbGlYODhvUkRpYzl5R0RQMUh3bXlrTmhhZ2VUY3Z0R2xxMFVMQWxwRDFSMDJQMzQzajlNTTFqSXRyQWp1UldtVnAzZlEtR3pMWDdTay0wWjBjemEwUQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "51372e59a1df4bc5",
       "headline": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
@@ -64,6 +100,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakF3eC14ckVsWnZacXBxWTh0eklJQ1dmVjludUFDWURBV0phQzdKN2FaeHg0VnNNd1R1bUVhaTQ0a0R6Sl9wY0szTWRKaElNWTdpWlNhcnlhLXUzREVsTGhDWVc5MUdMVTExcjlvN1RSczIyM0R4WmxiR29yTXkxMjM4VmYzN3M3VE5TWl9zLTllTkZWY1hqYU9KN3FZOHZsN0ZkT2Fn?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "15b1dbd22933f264",
+      "headline": "'Fast Money' traders react to news of renewed tariffs - CNBC",
+      "excerpt": "'Fast Money' traders react to news of renewed tariffs CNBC",
+      "publishedAt": "2026-07-23T21:29:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEpjWVZzZWNKWEZESzRFUTcwaUpla1dOZGlSY0xUUjFJRnBUS0dMd3h0R3hHLTc0ZWp4eUFBdGJUUHlqa3VPUHBqZmVUYUdGZDZaZnh4LWxQZ3Y5QVotM3RtVlRRUVQ4LXJjbjR1dmVfc0hwZl9JanRjcnJjWUgzbkdfU1FadlRGLUtHdGU0WkR6TUNXN2hFQnBB?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "f0839282589c2262",
@@ -7176,6 +7221,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "d9a42cd5183ef389",
+      "headline": "Prysmian signs €5.5 billion Molex deal in data center push - Reuters",
+      "excerpt": "Prysmian signs €5.5 billion Molex deal in data center push Reuters",
+      "publishedAt": "2026-07-20T05:56:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE1vbFprOGl5SkJpVXdFTFBVMzR4SzZBd1VucTEtYXpfcnlDQXlHZWh4bzlOcXZ0NUJpOEJjYmNINm5NX0NIc2dqTlRzRWZKeWZwbEp5ckVkdWVQV09vUEhkOTE5Q2VNREJRM2I2VU5QcVYzQTQ5Tm9Za0syWlJnaDhnUFhFdzQ5el9FUUt0TDJmNGFIdmlhdW9vWWtjZms?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "e9f68eb59859bcb3",
       "headline": "Could AI chip boom make ASML Europe's first trillion-dollar firm? - Reuters",
       "excerpt": "Could AI chip boom make ASML Europe's first trillion-dollar firm? Reuters",
@@ -7797,6 +7851,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "256f54899d9f19dd",
+      "headline": "Tesla Doesn't Think Blindingly Bright Headlights Are A Safety Concern - Yahoo Autos",
+      "excerpt": "Tesla Doesn't Think Blindingly Bright Headlights Are A Safety Concern Yahoo Autos",
+      "publishedAt": "2026-07-18T18:00:40.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1JGRGwxbzJQdXh0cExFTkVZb09vaGVYTmd5Ykw4eURaZ2lncHBXRHIxQjJwbzM5ZE5HemdNWkxSWnFtbkVHNUNicDNpWU1LRXNlVEY3UnV2Qk9SajF5aDBwRlRKamwyNS01ZUUwM2Y2QmxmX3F1dUxSM3I1alVPcnJvQlEyNkxJeVNNdDEtZWFSdnZtNDNoa0k5SEtJMVl4bUlVeDZn?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "7925b1e4cd3c19c1",
       "headline": "Tesla Must Recall 20,000 Vehicles Over Bright Headlights - Not a Tesla App",
       "excerpt": "Tesla Must Recall 20,000 Vehicles Over Bright Headlights Not a Tesla App",
@@ -8162,6 +8225,15 @@
       "excerpt": "Musk's SpaceX in talks to supply the Pentagon with computing power, WSJ reports Reuters",
       "publishedAt": "2026-07-17T20:00:23.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTM3NUh3ejlSZGdsMTdoTFBJTm9XWklKS2ZMM01LMmJpeWd6OThOZjRmN05YeTN1N1VfdzBxNnppVXp5MW1DS0VSMU8waHh6bDRDQjFyRUYycDE3ZDkzeGZIRXdZZDlYa1NyMGNjZFFMai1BLVktTjMwOHdFZGNhSXdVR2hQVU9ES1VLUzFtdEtzZk9KWW03ZUlOdTNnQjVwcHZnRjhnei1LdzFMeVdMQlFfTkxmRnQ4SVZReFUtaw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "1a659fd03b897986",
+      "headline": "Western oil companies see 'fantastic' future in Iraq, sign agreements - Reuters",
+      "excerpt": "Western oil companies see 'fantastic' future in Iraq, sign agreements Reuters",
+      "publishedAt": "2026-07-17T19:45:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWNtX0xBajRRTXgwZ3FFdWpwc0sxUDNGYVNWU2lvTVFwb25qMjlvRWVJdUpRTWFrSUFDQmNtWV9NTjN0Q2xpRjQ1ZHFNOEE5MkhEVFhDZFdvZ0lsdjBUbWtCS0tCRmFpcVhNQXlOS3UzUm1MRFI2dm53REw2STl0M25iVDNydi1ZWGVwNmZCRnNoT2JWeEJnZ01qb2tVdWp0Yi02cWdUekdiZXFtcmllemhXX28wdw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44929,78 +45001,6 @@
       "url": "https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
-    },
-    {
-      "id": "11b714bc050784cc",
-      "headline": "Teslas self-driving safeguards fooled by $30 doll heads",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-15T17:37:05.000Z",
-      "url": "https://electrek.co/2026/06/15/chinese-drivers-plastic-heads-fool-tesla-autopilot-camera/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "fde32153a3ef8b07",
-      "headline": "Tesla Cybercab receives EPA certification revealing weight, power, and more",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-15T17:29:41.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-cybercab-epa-certificate-specs-revealed/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-epa-certificate-specs-revealed",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "b86893328a2a7875",
-      "headline": "Now Mercedes Will Make Anti-Drone Vehicles Too, Joining European Car Brands' Pivot To Defense - Jalopnik",
-      "excerpt": "Now Mercedes Will Make Anti-Drone Vehicles Too, Joining European Car Brands' Pivot To Defense Jalopnik",
-      "publishedAt": "2026-06-15T17:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeS04eFhTaVRFdEJSYTZXUUoxaFRxTUdteHUzOUJmTDNDX3pxRXdfeHdScmZLcWIyTUxQcC15eTJXbV9fWHVOT0JvYXFwdl9DYzFBM3NjV3l6aHlnelNQR0ozYUpVVWMza09mWjRvWkdQUzVsak1ic3lfdjBVSEwwRWJB?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "23e90abf2d9e118d",
-      "headline": "Airbus CEO criticises Europe's regulatory costs as it opens new line - Reuters",
-      "excerpt": "Airbus CEO criticises Europe's regulatory costs as it opens new line Reuters",
-      "publishedAt": "2026-06-15T17:24:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3FiQlNmdi1TbGJZSi1lVmNsV0NUeWpxOEdrSnJsZnBFRHJvMXhHU3E2R1NQanRjdzJRRXBnR1czV3FxWFVzR2VHdXU2OXhCaHZBVVpWSkFwQWNORjdzN0hkMjJuZHpUdExtSS1WWnFmSWotVWNwN2R5NUk2dWQzX25yQzRQRGJJNTVqbGdUWk1GdEpzRGhFdFRvdzFfOXcwbVRGaHlSVFh5NXpjVXktdEJ4N0g4ZUY2YUhKZkVJREM?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "29f876d3fe489fe7",
-      "headline": "LatAm airline shares jump as US-Iran pact knocks oil lower, easing fuel-cost pressure - Reuters",
-      "excerpt": "LatAm airline shares jump as US-Iran pact knocks oil lower, easing fuel-cost pressure Reuters",
-      "publishedAt": "2026-06-15T17:23:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2tpdU9TcWhIVkRCb3JNa1JRVnozNEdzQjhreUM1akROWFUtS2d3cGpmbWNqQkhGZzJRTzJqMVBhWHZVMmtVX3ViWVQ4UkxZbUFKNFVkQU9oS1NpUlpncGRjWlZ2OU9sSFhJV2xyMmd5cnk2MlFqQ3FkUzFrdHkwam1tcmN0Wnh2d2pGZDRvb3lvWWEtNkVwTFNFUTNuWVZhUTkwbk5rbDlabEtiZ2JYdi1qbEZUck1FMzVtTF9rT1g?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a90e76137a71d1dd",
-      "headline": "Tesla Cybercab snags huge regulatory green light that readies it for public roads",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-15T17:19:20.000Z",
-      "url": "https://www.teslarati.com/tesla-cybercab-snags-huge-regulatory-green-light-readies-public-roads/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "a9bde16cd3c27cd3",
-      "headline": "Why Gen Z is paying for silence - Reuters",
-      "excerpt": "Why Gen Z is paying for silence Reuters",
-      "publishedAt": "2026-06-15T17:11:10.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb0w2RzljazRQTDRoT3o4WS1jTHZpek5jQ0lnMG5zSFF2TmxQeGxodUdfOHJmUmloRGVQQURXVlV0YVpwQjBRcU1fNWJvNDNSa1h6a1l5cVZrN1M5S3c1bGYxbVNpeVFiUVhvSFhOdEZmckgtN0NXc3lrdF9ENHExUjc1YWxpMHk4V2pTVA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0ec75f5a42554cca",
-      "headline": "Tesla Adds FSD Streak Celebrations in Latest Update, But Not Everyone Is Celebrating",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-15T17:07:26.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-fsd-streak-celebrations-v14-3-4/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-streak-celebrations-v14-3-4",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
     }
   ]
 }
