@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-07-25T10:10:36.831Z",
+  "lastUpdated": "2026-07-25T11:43:11.428Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "0063059fc4d2e2b3",
+      "headline": "The Tesla Model Y Has Changed A Surprising Amount In 6 Years",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T11:00:00.000Z",
+      "url": "https://insideevs.com/features/802718/tesla-model-y-years-compared/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "ca78a2c48e4a45c1",
+      "headline": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+      "excerpt": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters",
+      "publishedAt": "2026-07-25T09:42:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "ca78a2c48e4a45c1",
+      "headline": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+      "excerpt": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters",
+      "publishedAt": "2026-07-25T09:42:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
     {
       "id": "9fbcfe0943112ecb",
       "headline": "US Agency Rejects Petition Seeking Tesla Door-Release Defect Probe - Deccan Chronicle",
@@ -62,6 +89,15 @@
       "excerpt": "NHTSA Denies Investigation into Tesla's (TSLA) Door Release Comp GuruFocus",
       "publishedAt": "2026-07-24T22:59:52.000Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZzJyek5YYktEY3RkbTBZcmIzY3N6RTRZb0lpV25BU2xScFFjLW5iQ2FNLVRjQW1FMF8yVlhyX2xHdnIxckhRbGQ3cDlfaUtZTm01YXRiMVVHeTdrRlNCX1FTQU5kbDZBbU54TUpaVGswbnpxY2lwd2padFpSdV9XWURrTHBOMms2eTc5NFM5cFpEUVpiQi1aaG1KLS1VU0NzejI5bzFEaXBSUnYtdmwyREFNUnpNdE5jTkE?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "ec26b0951bb04711",
+      "headline": "Tesla’s Controversial Door Handles Could Trigger New Safety Rules - inkl",
+      "excerpt": "Tesla’s Controversial Door Handles Could Trigger New Safety Rules inkl",
+      "publishedAt": "2026-07-24T22:32:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEMxYUZEaGExYlUzWFVwWWtJamJ6LXBSazkweVhReVYyZWNCTkFZSGRpb1UwckRzNmNQcEwtWC1WNUJtVVFjTml6VFhWcVdvWW8wVE1DZzR1LVBTdW9vM2hUb0V0cl9fZDIzV1p3X1lQc0Zabmg5QXQtMDUycW56cjVSMWhaX0R6RWxucF9zd1dQRlhFVTVRemY3bW9Tdw?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -13843,6 +13879,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2tYLW9idjNwcFFsQTZoUjF1Y2x4SFJuTENJNlJhSDNKRmZUSGxqRHllVFNxcHhsQXd6djU1UTE3TkZud3hNcGFtek9oZUZhUzg4ZlJUMlNfUl94T3VBRDk4SXdaNlNlUDV4dEN1aGpIRWpVN2x3M0JFcG5wMG0tbXdHb0RQekRON29MWVlSZF9qMkJHWTVsMkV3Q01vT0M4eWpWMVgwalNDSVk?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "6de9890f696fd341",
+      "headline": "SpaceX falls below its IPO price: Investor's next move - CNBC",
+      "excerpt": "SpaceX falls below its IPO price: Investor's next move CNBC",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmZuSUpCc0pCTTNPMUVha1hwdGJqa1VCRTJFS2tDTUROZGF0WWI2d1pvcVQ2RmF0ZzVIOHZHem1tNzNuVjN1QzhQaF9yZkZBY2RUYVZtNDVFb0FMemx2LVprclZLVUJmTzJPWm5zTWlVSkRoa0J1V3hhX0hXX21VYUx1UXY4RHlDdU04REJ2U0MwQlhTZTZuTXRFbw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "55143138989a3f95",
@@ -44956,51 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHBwc0hqWGtUbzdZaENrZXpsUHZ4allYU3dlWlUxX0VpQlZNcXFoNkF3eFl0ZmtvLW91RXRXaHRtWG1sSmtlaE8xdVQxdHRGaUIzSXNrdGpXNG1maTVrdDU4Y3NtWGMxQnF0cWVSLVlzM2dqSkxBWFMwMU1ZLWY3NEIwMFJrVUx1NjJJMldPSFJsaVJaR3c?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "f1209eef180349ee",
-      "headline": "Rivian laying off hundreds of workers amid R2 launch - CNBC",
-      "excerpt": "Rivian laying off hundreds of workers amid R2 launch CNBC",
-      "publishedAt": "2026-06-16T17:20:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CSGRTLXljZ0RLanF5SVJ1TW1fUHVLM0EzcHduNS1uRDdJelFxbmc4X2lMWGlsZXltNEZ5djZMV2tpY0VreG5OekhjTUNGeW1ZRExIRzRna1NpMzNKM0VtSNIBZkFVX3lxTE9mbDd4SUhRdlBub2lPMGRLZ1dkOTBIcWd3X0tNSDB3WGdSRjJfMDJRY0VFWjRIZE16ZU1USWh1cFZhdm04VTYyUHRLWDRGNGtDLUZFcVBVamV1TDdXZVgyb2lFY2gwUQ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "00af7f1e035c0c7f",
-      "headline": "World Cup puts urban heat risk in the spotlight - Reuters",
-      "excerpt": "World Cup puts urban heat risk in the spotlight Reuters",
-      "publishedAt": "2026-06-16T17:16:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORV8yQi15cHdYcVNEdkppeXhzRFdzc1hHMWFadVB1YXY5YU12eHRJRno3U1NMbUVCUG5HY1BuWE9XNjlYcXI4UjNKYmJtWVAyY0xFb2FoeXU0SDNMVjNmeGpqaWlTRUZoUVVhOTN0OHQ3QW9yRTF2WUFvUjl6M3ktdkJ2dGZhaUJlYWM0RDdWZ1AyVEw1VXVVMFRZS3h3THl0QjVwbDBKRU8wM0hLWWNSMUpONA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0e1c3f9c75a06318",
-      "headline": "2 senators want NHTSA to review Tesla's Full Self-Driving safety data - The Detroit News",
-      "excerpt": "2 senators want NHTSA to review Tesla's Full Self-Driving safety data The Detroit News",
-      "publishedAt": "2026-06-16T17:14:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS0NMbkpJREVtVGk3QUh2QkFWeVlwOFBBZnFjYkNpT0ZoRzRBUDFmeEZpcnBJZHZMTjlDNHFMVFYwM2FJd29KbkIweGxPY2UwTm8wX2VLcDNBb0RMcGljQUJLY3Y1M0Y3MjU1NDUyay04a3RmNllhTVUzSTNHdkJORTZvT21wRkVvTkRKTm5fdkpUWjlqZDhYMTBjZzQxQmozc2VmTHhXMFhjU2VubV9CX3FEOTU0c2xjSEN1NjZXZE52azZEVnVaRXo5WEt5dlM5ckpmOFhn?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "ec9c730d6c5d9a58",
-      "headline": "Lucid Cosmos: Tesla Model Y and Rivian R2 Rival Revealed In Patent Images",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-16T17:13:40.000Z",
-      "url": "https://insideevs.com/news/798906/lucid-cosmos-patent-images/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "a4583af4b811135b",
-      "headline": "Tesla Seeks 5,000 Las Vegas Robotaxi Slots With Camera Tech Under Federal Probe - Tech Times",
-      "excerpt": "Tesla Seeks 5,000 Las Vegas Robotaxi Slots With Camera Tech Under Federal Probe Tech Times",
-      "publishedAt": "2026-06-16T17:09:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQTJ3aTNjckRqYXZqNWUzNFp3MUxQcmt2VzNqM2lyMFQyVEpKT29nVFNNd1JaRDlEOWRvRWtYczBIOWR3RFpEempudVpNTmFOVG1nRDJ5R3d2a2lneWtZMXVsekJHZmxXQ3J3VGxNclR4NkdMckxHYnFUSlAzakg1d3czZ0s2dndHVWx0T0x4ZXQ2Zk1PNF9acmZQTzFoRDNEUTFWLWNWWWs3dWNWNzBBeWQ1RDF5QlJCYWVTMmc5QjN6YzdkLXVv?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
