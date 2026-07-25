@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-25T21:24:02.141Z",
+  "lastUpdated": "2026-07-25T22:26:01.734Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "de36228beabe0f59",
+      "headline": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC",
+      "excerpt": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push CNBC",
+      "publishedAt": "2026-07-25T21:11:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVDSXc3Z2J1MkQxR1IxSkxYVC0yc3VWbWpfYmlxdzE0NTVMc2F6UlkyRXJhVUwwUGhERXFOM2NGSlhMSmZqYlprOURSVHZFMjFLbGpOZElaa1VQV0RIczgxWFBrc29lOEdXR1J5Y0NmaTZfak1idThfQmQtT0ppUF83TDFVc2wydW5vX3pWWlR6LVE2Nm4tdEFwRmszWm1mU0dYWNIBqgFBVV95cUxNeUVBTWVoaDg3OWlnSnpCZlV3c2JCX25UM01wMVk4RHhXRXhCNURqaFVhOVg0d0dhMHowaGl2VGxlakxSZUJzLUpsQjVlV2N5WXExUjQxNGhpdmNXb2NoU2FmX1lLU0dFZ1o0SnZnbTNHazFfaHRDWWpXWnVmR181WDQ5cnU1Nkd5MVo5UGJhS3VzTzlRUVRuOW55NHBJVERId2paa1U3Q0NZQQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "de2551c0c7e967a9",
       "headline": "Tesla Owns Nearly 1 in 5 AI Answers About EVs. New 5W Index Ranks the Top 25 EV Brands by AI Citation Share. - PR Newswire",
@@ -118,6 +127,15 @@
       "url": "https://cleantechnica.com/2026/07/25/tesla-1-1-billion-negative-free-cash-flow-betting-the-companys-survival-again/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "ddd0e6ffb7ca0f1e",
+      "headline": "Can Car Batteries Be Refurbished Or Rebuilt? - Jalopnik",
+      "excerpt": "Can Car Batteries Be Refurbished Or Rebuilt? Jalopnik",
+      "publishedAt": "2026-07-25T14:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUJkM3JEOTVIQ3ZKUFlXS2ppRkcxQ1BRUkZ3WFVVN3pWclBtWHdlQ1BCVW1lS0ZTenU0cVQ0V3FlMFZqTTNQR1dFYlRTZzRVSzVCUmluWEpuZzJ2a3BwcUFiVERMRC1MejJYZkpzY1hKeXBKY1lVUi1pRkQzU3huMC1XTQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "d6945e6287e81022",
@@ -2591,6 +2609,15 @@
       "excerpt": "IBM buys HRL Laboratories in shift to two-track quantum computing strategy Reuters",
       "publishedAt": "2026-07-23T11:03:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTEZOTUgtTjhhUDR0UGdnb28wZW5LX1dpLXZzTGg0dlVqam1zcUg4ZEhqeUtkNjFteXUyOGx3NGNua1lHSXhxcnI0ZXB5N1NOZlJIbWVkRGlHVW4tVVRuYy02aE12cS1IU09oN1RGYWdjT0tNaHJjMTdIbDI3TFoxUjB0LU9sVWV0WmRLaWM4cFZoeENSbmhsTnh0d0cxNElxdG5rMVVmbFRlT2NyQjN0QlFXQ1FzalFFV19SazZRZmdQT1JSNkczVkxNbzJBbEk?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "3325611d5c4ff37f",
+      "headline": "AI Weekly: rogue agents and the zombie apocalypse - Reuters",
+      "excerpt": "AI Weekly: rogue agents and the zombie apocalypse Reuters",
+      "publishedAt": "2026-07-23T11:03:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTWM4cFZCRWpJMHRBZ3YzWDZ1S2FET2tnZUJ2dndLTjQ0Wm56a1VtVElnNHZPN0JrUFM0MHJQQXJpN0dqVHR0V01SNnV3c25KYlB0UEV6OTlaNUxSdkcwY0dfZGZsUlBucW92QjBNSDVfOXBNZ1NnWHJrQjVyUQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHN1czJzaXc5NEdjMmNPTUhrOUJUOTdPTFNLOVFLNXNnX2RxOHROV3Q1dFJvc2xSTE5UMmw0VFZwdUNxS3pZdzdNc3Z5UWwtc2RkYzFTcWtLTDB5MlhOMmgzNjB5SExTOTFtOGhsR2lxTWItWVo3Z1ZYQzNCcXp5dXkxVTNKRzZuNTJJdFdB?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "5f3fbc64992a3740",
-      "headline": "Bill limiting investors from buying homes set to speed through Congress - CNBC",
-      "excerpt": "Bill limiting investors from buying homes set to speed through Congress CNBC",
-      "publishedAt": "2026-06-16T20:47:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHFjMFdVMDJXWVpUcmU2RWpROG5PVDl3Q3BSNHpMMWFGWHlTMS10VlVway11bWRyaUpyS0hFaUFudnhaU0Zsa2dEV3lLdUY0RklPQ3RKWWhZU0xMZDFHaEppRXB0MDEzenM2UTFJRWRrNGhWOEtnOEtta0R3QThDb1hGY9IBiAFBVV95cUxNa1VTM1JCSXRoYS1WV2RjUDVfaDB0M0NyZWxraTAwZ0ZmeXJrY0hxR3A0THpPaVhZbFM1VXNianhqUGdSRHJBT0tKODJfWGxIY3p4VnhJOXRlOHJNY2JhUjQ3WDV1ZDh1VWIzUWlEbWlMdzlDMExqeUxwR205dmpRWEdESVEzYWpi?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "54defc8da6d862cf",
-      "headline": "Plymouth's Only SUV Was Really A Dodge Ramcharger With A Removable Soft Top Truck Cab - Jalopnik",
-      "excerpt": "Plymouth's Only SUV Was Really A Dodge Ramcharger With A Removable Soft Top Truck Cab Jalopnik",
-      "publishedAt": "2026-06-16T20:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmxWckF5dlY4ckNSdjdFQ3otUVhfSFVrZmNqOVpUb0tSN1NieHBSRW5aMlotN1RwUVp0M1hVdEh1SFAwVGxRS3lacDIwZU5lXzB6c0txUjVqcV91MjllX1ljM3Zlb29IUHM5TTU1Q2FuMl9JR1haYkJjM2pKV2dVYkF3WTg1aFJ2V0VNNnBYb05hZVhtOVUwNg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ad2acc032e194271",
-      "headline": "SpaceX's blistering start still faces key tests that will determine the stock's true value - CNBC",
-      "excerpt": "SpaceX's blistering start still faces key tests that will determine the stock's true value CNBC",
-      "publishedAt": "2026-06-16T20:24:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWdreE9zOVdMdjVfS3RtTnY4VVRObzE5dDZhNC1Ec0xSM21KQTY1QUd0QTN5Z25iX2o2YU5ScXFKZmh0UkJ5aDNrUDZVQWJDRDZfbUNCY3JFWDFJdU84WU03V05sblo0S0hvWWdpQ3pZakhGWWtvVW1McWY0RkJOYU5FcEdwb1prMjJNZTZhYTFrYTJqY1VGejE0RFhDWXRpQWRsU2MzcUw4MFRaM2hJTjJIcnRCZ3dxRElIeWdQd2ZWQkU?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
