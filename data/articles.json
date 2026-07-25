@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-07-25T14:46:16.530Z",
+  "lastUpdated": "2026-07-25T16:02:26.629Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b374de5f363806f5",
+      "headline": "Tesla to open source Model S and Model X designs and software",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T15:58:51.000Z",
+      "url": "https://www.teslarati.com/tesla-open-source-model-s-and-model-x-designs-software/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "b57de86900c57a43",
+      "headline": "Rivian Sues U.S. Government to Recover Millions in Trump Tariffs",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T15:56:00.000Z",
+      "url": "https://driveteslacanada.ca/news/rivian-tariff-lawsuit-trump-refund/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-tariff-lawsuit-trump-refund",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "327521505b7b0225",
+      "headline": "Tesla settles lawsuit over Supercharger idle fees for early owners",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T15:14:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-supercharger-idle-fee-settlement/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-supercharger-idle-fee-settlement",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "75f7705423035a0e",
+      "headline": "Tesla flexes incredible Robotaxi metric that skeptics will hate",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T15:01:51.000Z",
+      "url": "https://www.teslarati.com/tesla-flexes-incredible-robotaxi-metric-that-skeptics-will-hate/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "fed357020463bb9b",
+      "headline": "SpaceX Deploys First V3 Starlink Satellites as Starship Completes Most Successful Test Flight Yet",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T14:52:00.000Z",
+      "url": "https://driveteslacanada.ca/spacex/spacex-starship-flight-13-starlink-v3-satellites/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spacex-starship-flight-13-starlink-v3-satellites",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ef1b1715e35a3651",
+      "headline": "Tesla: $1.1 Billion Negative Free Cash Flow — Betting the Companys Survival Again?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-25T14:50:56.000Z",
+      "url": "https://cleantechnica.com/2026/07/25/tesla-1-1-billion-negative-free-cash-flow-betting-the-companys-survival-again/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "d6945e6287e81022",
       "headline": "What Do You Wish You Knew About Cars, But You're Too Embarrassed To Ask? - Jalopnik",
@@ -19,6 +73,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLW1LU3djNFRZMWNMTW14bW0tSkljOU15RUFuRk95V2RzNzRnX3M3VEtQRy1wVEVhdkdwV3RYY1JEdm1CeG45ZWhCUnMtTlhTaGNFUXdXR1dJNFlveTlZQkYxekVZY1VyNzZfdmZsc253STlLXzVDSXJSOHlVc2VFQzRvTkxxaW03QV9FbmIyamJRQjNXWmZn?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "4251a04087598457",
+      "headline": "Trump Killed Electrical Grid Upgrades And Other Clean Energy Projects Because States Didn't Vote For Him, White House Lawyers Admit - Jalopnik",
+      "excerpt": "Trump Killed Electrical Grid Upgrades And Other Clean Energy Projects Because States Didn't Vote For Him, White House Lawyers Admit Jalopnik",
+      "publishedAt": "2026-07-25T12:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzFzd05zeXlpTWo4XzZ6c0QyYUhPX2FIR2RsREY3a0ZKbldkV0Y4bDR3LVJYSkkydGg4TEpINmU0X2syRWpuQXo0Vnd5ZmUxQWU3ZXhsckRzdnRwdHg1STI3em9yV0dvTHRXSmgwOUdEQ2IxODQ3YlNYUE9MTlE2cmc4S1lPRDdVd2VELXZlZm5WWkRJa3UtcQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "2927ec00bb0ac7e8",
@@ -44938,69 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDlKRDZtWGJvZ0RLQ1lXSGNOeDhjeTJpSnZIWmFtcjd2dl8xQ1hjYUhXV1ROTWNLWTB4OW5KR0U5bUJjRkpJV1M2TjZNVTAxUllpZkRqY2RWaWE1VFB6S2FDVnFBYm16VnZxcDI0Mmp5ak1IQTJuZ2gwbzZzcERqSGtFWVBYUHJhV2Q0SFhSdmw4Y3ktaVJ0Y0FmRXNuNzRpMEZOSHZrY0Y?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "f797cc64df6ae643",
-      "headline": "BMW lowers profit outlook due to China downturn, Iran war double whammy - Reuters",
-      "excerpt": "BMW lowers profit outlook due to China downturn, Iran war double whammy Reuters",
-      "publishedAt": "2026-06-16T19:08:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFJVT1dCYVNyQnQ2VzVWTGRlOU5TSUZYS2tON2RkLVZNQ3FmU005Q1ZJVTd6VXRtOG1jQ2VRUUZ0OU1pN1p3X3FoS0J1cE9yM2tZTEdYbWZmNklwV1JVMDAyLTdrUUF2aVF4TzRPRFM2TTZILU5NOElVZ2xtRzF1RWZlQkV4Z1RuakpPWW1KWWtrUzhPSE0tOW1USQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "db1feb540bad7d6c",
-      "headline": "Senators Urge NHTSA to Review Tesla's (TSLA) Full Self-Driving S - GuruFocus",
-      "excerpt": "Senators Urge NHTSA to Review Tesla's (TSLA) Full Self-Driving S GuruFocus",
-      "publishedAt": "2026-06-16T18:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVl0b05nNkpOV2d6YlFoajlXa181Mi1YQ3pCTExhSXBXeEJkdnRiVFJ4TmJKNjNZbHctZGxUdkY2UGlBVjRkX2p2enNwRUQ3Znk0Z2pBaDFLcGpLTjZtM2FSbjhhaWJ1WmZYdENmVGYwazkzdDJTbWRUWnR6RUdpcGpBMXdmbW96a2FWM1poeTdVREUyOFRxdHFkWjMwN3NTeXl1dUJhMmw1dkRmOG1fZ0F6Y2hmRUFDV2k5Sm9LVlY?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "4ad206a03f92b1fd",
-      "headline": "Tesla Cybertruck driver gets pickup seized for legitimate concerns in UK",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-16T18:40:16.000Z",
-      "url": "https://www.teslarati.com/tesla-cybertruck-driver-pickup-seized-legitimate-concerns-uk/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "f7b3794ec9988e8e",
-      "headline": "Senators press NHTSA on Tesla data - The Detroit News",
-      "excerpt": "Senators press NHTSA on Tesla data The Detroit News",
-      "publishedAt": "2026-06-16T18:33:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMldLZUdtN0EyZTNVeUs4ejRaQzBRNVAxanhpR19LM0FPWUtkdWJfMFZ2aFhyZVpqXzBjU0hNU1RscmhoUTIteHZvOE1VU3djU2RDMjBLNEJud3VZcnR5ZmZKRUh3aklHWDhQUGp6RENuZU50VlNON0x1M0xqMzhDQ3E3QkZ5RjRjS19GbXUzdUxRRXNpRnFvaG5PWnV3aFdHaDh6MEt1TVlDU2Js?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "332ec951484500cf",
-      "headline": "US Senators Ask NHTSA to Review Teslas FSD Safety Claims Following Reuters Investigation",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-16T18:20:31.000Z",
-      "url": "https://driveteslacanada.ca/news/us-senators-question-tesla-fsd-safety-claims/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=us-senators-question-tesla-fsd-safety-claims",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "03c4cc3ad8e8b61a",
-      "headline": "Volkswagen reduces production at German plant amid uncertain future for site - Reuters",
-      "excerpt": "Volkswagen reduces production at German plant amid uncertain future for site Reuters",
-      "publishedAt": "2026-06-16T18:19:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaEFIZjZkWEFlZVJjdU9FNkJsbXpSWkhQU2JYaDdlUldaX1B3dmsxd0NHUXRhSFFzQzFXUnFCb1pQdlNXc3dHMHYzaTFnb2dMb3hMb0hqTHRwX3VzNzZTWUNaOXAtbjgtYlNIanVBUUZzeG5qZHlfQUR5UG9MTGg5aGhVYksyV3BWajVkMTBHR3dQMmJEREVJcFNHVVhBZUtPTW9kNzlqY1ZLbG51MF8xQ1FaSW5rdlgzTVZaWlg2aVBxN3hJdFMxc1g5blVDZkVj?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "277bd3c7943c10ea",
-      "headline": "FIFA World Cup 2026 - Group L - England v Croatia - Reuters",
-      "excerpt": "FIFA World Cup 2026 - Group L - England v Croatia Reuters",
-      "publishedAt": "2026-06-16T18:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlhhaXJpbG9KZXVfeEZZMHZNOElVNlN6UXVfbGh4UmM3RHdoTmZNak9TbnVIRDVLQXZtczFHTzhKSVVSNHhsMlFkelJTZXlGWDBldm5IQ0pzeGxfOTZGbDNweUpVUW9FLU5NTE1kM3pnRWUzMVg3TVpjS1J6bjBoNXVsWURVOFlVS2NWNkFOZ3R0MFE1SlduT1lNSy00MXg5ZW5kNEFrZ2UzeE05dlphaXpTVQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
