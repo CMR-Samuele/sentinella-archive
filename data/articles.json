@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-07-26T04:56:01.744Z",
+  "lastUpdated": "2026-07-26T07:35:20.221Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2fef8561b5f9d3d4",
+      "headline": "Tesla-Woche 30/26: Starlink in Autos, Restwert, Frankreich vs. FSD, Musk bremst bei Robotaxis",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-26T05:05:37.000Z",
+      "url": "https://teslamag.de/news/tesla-30-26-starlink-elektroautos-restwerte-frankreich-gegen-fsd-robotaxi-vorsicht-67080",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
     {
       "id": "f6126cc0c743d3fd",
       "headline": "EVs At 37.7% Share In Germany Tesla Model Y Leads",
@@ -1056,6 +1065,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "7b14d6e1087383ce",
+      "headline": "Bank of America to raise quarterly dividend to $0.32 - CNBC",
+      "excerpt": "Bank of America to raise quarterly dividend to $0.32 CNBC",
+      "publishedAt": "2026-07-24T11:30:02.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWN6bnNScGg4RWVPVkxqOXBmVUFKbE1yUlkzR3k5aUVlaVBxMUFCZHNjbVlycGJXUllFWGVtLXR0UF9Nb1E5cDliNFUtVHBHa3JnUUlRNWNLYmZ3bEM0bVJUTUhCVlRfeDhNaXBiUWl3aGV3YzBpZXpPNEhuOFRUUUFkRGFyZDRzRlUzR09mMS1YU3FiR1c1Zzc2ZVpfRUNZQVE?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "b407bda7ac17e9bf",
       "headline": "AMD has more than doubled in 2026. It has more room to run, UBS says - CNBC",
       "excerpt": "AMD has more than doubled in 2026. It has more room to run, UBS says CNBC",
@@ -1153,6 +1171,15 @@
       "url": "https://www.carscoops.com/2026/07/tesla-q2-earnings-stock/",
       "sourceId": "carscoops",
       "sourceName": "Carscoops"
+    },
+    {
+      "id": "f4f4f39e18a8fda7",
+      "headline": "Volkswagen abandons hopes for 2026 sales growth as restructure looms - Reuters",
+      "excerpt": "Volkswagen abandons hopes for 2026 sales growth as restructure looms Reuters",
+      "publishedAt": "2026-07-24T10:33:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQmJBWW9FbU1COHVQdlE1eTkyOEZOS1V0US1GRVJ6RFFlckRZdWxSYWllWmk4UDV5YzhEbDJkSkY2SldvSzFOOFlrVE5MRHVpVzY3UmdkMkYyWDIzWHlGS2xRVkliZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "9a0b074048b1f787",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HZDJ3M19iVDhreUZ0OU4tVExMdWhCMkMxd0xvNWViVmtJNUhwLTlsSlZYc3NwelhzTnNvc29QN3V3YU40c2s5WDR3dHVDYXVnUnpCam05c1pLWnBzTmZPVUdXdXJWVnN4QjlkQ0dCM2ZXSkxhQVE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "34545553d68c625a",
-      "headline": "HSBC partners with Google Cloud to expand AI usage - Reuters",
-      "excerpt": "HSBC partners with Google Cloud to expand AI usage Reuters",
-      "publishedAt": "2026-06-16T23:23:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3NyYncxbWk3WUdISWx2N0ZJNHJ5M0RxallIRVpuQmVPVW9zQUJ0R1dwZXJQTHRSQWs2MXMwMUVvc0tHZlktZEJvclRjVzRzUjZZS3hnek1iZUtGcU4wVlEwSkZ2RTY0ZHhzRUhxaGVuR3JzUFE1MUFSMWo3VGVLMzcyM1EzUHNCWGNsRk9xbmlMZ19UWFdfRmdJdURxU0IxSnc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2dfa5098464dfcef",
-      "headline": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion - Reuters",
-      "excerpt": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion Reuters",
-      "publishedAt": "2026-06-16T23:20:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1NDTVJhLWgyV1dXOHBGZHNLQWZObEstNExkZFFLdEdwWlJEdzRla0VJdm1YTnhGRF9aemNJYWZpc0pNNklnVU1CMl9kX0hwLUpRNzAyTEdEdEZKc1pod1Bpc3pHZ3VCdVAtVUJjMGVKQzJQaHctckdSYURmdGdiNmdBeUUxWmVudDdNWU53ZW1HcE5obHdvSEJWVGRXRVhhMXduWEZIV3dIVDFDdW14Skw3Yk9aZlFrVi1CSGxlc1MyTlFMNGx3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ba940e1fd06a9b14",
-      "headline": "China taps ultra-deep Sichuan shale in push to boost gas output - Reuters",
-      "excerpt": "China taps ultra-deep Sichuan shale in push to boost gas output Reuters",
-      "publishedAt": "2026-06-16T23:03:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDFJRzBFUXJGTkZTZzZqNXdyaW1weVlId0JtR1V1UDVMWVVFOGt3NHIxb1BJZWtvMkQzdkdWUWtlZTlsS2k4a1hZUlpSVzVhcURTNmVtRExIVU5ENWdGQVI1LUlwbkZvVmhtZkxURGtjVDZBM2JHcVpzTnZRNExwVDRldm5qd1JuMzBYY2RDdGt0NUcydC1OLWlkRkh4b3VzYjdhVFBMdXQ2MEwwaVE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
