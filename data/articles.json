@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-07-29T18:05:22.822Z",
+  "lastUpdated": "2026-07-29T19:51:52.866Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "60c427637e802fbf",
+      "headline": "Elon Musk sheds two new bits of detail on Starship after 13th test launch",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-07-29T19:40:13.000Z",
+      "url": "https://www.teslarati.com/elon-musk-sheds-two-new-bits-detail-starship-after-13th-test-launch/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "c56d04803a959806",
+      "headline": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move - CNBC",
+      "excerpt": "Apple shares just hit a record. Here's how trader Mike Khouw is playing the move CNBC",
+      "publishedAt": "2026-07-29T17:47:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1RKbmtrelh3SFhXSUN3MjdSeVNSQmFIQk5PaWdKVzhjUTRtanljRUtHdXRFUzlKekJ2RWI3aW0xRzdXYm9HT19vcFpJUGxnejZleU81Y1BUcXpmV3gzekFNbVp5WDcwWnJBTjFxYTJLVHZKd2F6S0l4UUFiZWJVb3VQazdrMUoxQlowR1dSTUVIa05peWFsZmRjbFBENnF6eXEtVXkxTzY2MUFaRGhEcGZmREJ0d9IBuwFBVV95cUxPYlJDcVdrSTVHdDZHc0JjZUlGZnhjQ09LTnAxaTh6eEJKY3V2OHRZTEQ5djVZOEp4MHJXR0hYMVlYM3ZweThjTkpIbUdjMzFzRktQNTlEY2lnSXNkc1NNc3BhMGhXa0FCN3d0TFNyMHlrSk9zc0M5ZHREakdsNnpJYnNCRXFOVldrR0ZfRWdfNGw5dzFGcEJNdDhmZjhIM1VlVUgwU2RBT0hKRkI1dGNQNTRjbWozTm1iclNB?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "af570f6abeaca609",
       "headline": "BMW Already Built The 50,000th iX3 In Its Fastest New Product Launch Ever, And Demand Is Double That - Jalopnik",
@@ -10,6 +28,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWTN1RFVCOTJWWERuTDAtWEZIcWM1ZEhWMFlRU0duSnRHUWI1NlZPLWhLV1pkUXZFdUpCeFQxYWc0M2JsZHc3dlp5QUVYeXJuOFJlb0Y1Ul91SDNQNThGYlV4aHR0SHRTWDJLdXU4a01mVXVsQlVwVkh0RXQwdWdyMU9BeUdCUVVVMkVRb05sYTE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "b9d05bd8c1e307d5",
+      "headline": "US House Democrat asks Musk to answer for polluting xAI data centers - Reuters",
+      "excerpt": "US House Democrat asks Musk to answer for polluting xAI data centers Reuters",
+      "publishedAt": "2026-07-29T16:27:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWkQtUGZ2bldyaFZHbEFXSmdJbjVpdGw3TWVnQ3JwZFo1ZG85cjM1RjRJR2VsamM3S3pTNWtRWG1YVldUYW44aTdvb0luTWd0bjFnLUtqQnBfRXAtbnhVb2pPcmZrRVFTVDhod09Ud1VZOVQ5cDhnbHdNVVEzWDF1VWpmeFdMTm95eXY0dDhBMUpWd1l2MlYwbVRReGM4a01UUUZNZjlIeEIxWjZQU0xRV3lmYklYZUozcVluTA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "1ef7296cf8a222ec",
@@ -199,6 +226,15 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemNkZTJ3bTBNZXJZTXoyUm0yai0xOXA2dTh3VG9MemI4V0hzeHN0UU8wY205SHR1LUVnaGdoU1hDRmZFZWhpZ00xeFJRUWljR004bVcxVnJCR09fYUdxZFU3RU9BQ3I0T1FjXy1xTGZscmRTWlZBUEI2RkZDeEVsY3ZZQnYwZ2hBQ1VDTklXZVV2OHBhT0VvRFVwbk5zWXI2OUFrWA?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "0f478c471a86e2ec",
+      "headline": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley - CNBC",
+      "excerpt": "'PR problem' is standing in the way of China's humanoid robot boom, says Morgan Stanley CNBC",
+      "publishedAt": "2026-07-29T10:16:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTRfSEwtcm45ZmVuMTdyZ0xlYlFTVFAwdmxNR1NRVmRZNWlzT19SXzFlUk0tMnFROXdKcmdvTzR1ZXBVdjFlelY3dkRGWlI1UVRncDhva21ZVkJNX3VqN2JyQ1VTZnowMy1PaC1FZTlLZ3pFMU9hODVpdWhwWGxBdHJ6OEU?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "5a17862688f86eda",
@@ -1632,6 +1668,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "8132120cef729c38",
+      "headline": "Porsche to axe one in five jobs by 2035 as China, EV woes bite - CNBC",
+      "excerpt": "Porsche to axe one in five jobs by 2035 as China, EV woes bite CNBC",
+      "publishedAt": "2026-07-27T14:27:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHVCU2twZGY0ek5Qcy13Z18yVWgxbXhoLUI4Q0o0RFVRS19SMFNzcU4yQ0VudHJvMWlzWHQxSmU4Y21kTVRyY2lFWU1jUjVQQUR5TkRUWmsyaHl6TGo3Y3lxa05uVWFobDdYdHBNT0dYR2pmb0p0a3ZYSjEtdFlTclNfblDSAYoBQVVfeXFMUFVsR0lJR0VYU193eE41YmVTNE5OaEVjd20wRl9jbVljUkhXa1pyTXZJNHMxcmt6dXFQeU1aUDJTR0hrWXdMMkdwOWU1MG9nYmtia0dqX1pGZF9uRHBTN0JVS1dIa3h6TmM1ck10bHdRYW43WTRvdVNPYV9XeU9XQkJyUF9LV0xkRm9R?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "684f6f01311d6ffe",
       "headline": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say - CNBC",
       "excerpt": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say CNBC",
@@ -2152,6 +2197,15 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaThsSkwwSnVzdzd2NmNsUU90OFBlbjFYTkpqdmxzbVF6R1lBMkhDRnItZkZXemRhc0h4WVJWU043Z1hmb0RDV1NhcUN0UDRGYlVYN2VxU1JBdUQ0OEpmUEItclJjbGs2c1pPMk0zbmJ3R1pHbFdwbE9jNE96NGRiUE43QlF1WlQtWmNUbFFJbUliWS1ELUxpeFhOMTBLQ1VISUNvYVFtYnY5b1BWbGxXelppTE5MaEQ1aVRKRE9SVlRfbWdfWndNbEJoRmR4RjA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "60b5e23aac4d4a16",
+      "headline": "Three killed, four wounded in Seattle food festival shooting, police say - CNBC",
+      "excerpt": "Three killed, four wounded in Seattle food festival shooting, police say CNBC",
+      "publishedAt": "2026-07-27T04:13:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTdZdlJaTlFPbWVNVHlwUURDVG16UmVaaktWMGtzN0I2c0VoOHd1bk1nZVVPcWYyQWhRc0VsYWk4VVF5ZC1ZVkhrUFZwZVNtSGR2RTkxaEF0RlZBTnp1OEQta05JM1FFZU1nNWRsUndBVTZsQ1NrQnBaY3FrTk13dlEzMU9uaVFtcGfSAY8BQVVfeXFMUEN1VUxrcHZkM1RFVXhWZHpCazFvMjhJemZfSXNCWVZfM2VRTnBFdmNkYWFOT2lpZHBkdUgwaGlrQlZzekljX0I3ZjB2MDZsa0x2aXVnYkFrRTFCX0gwSVd6T2xMUXlFM3lKel80SGRVQTJ5OWpaei1XWjdEd1RWZ1QwM2pQS3BSeXJVREg5YjQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "0bf378f38877aca1",
@@ -3115,6 +3169,15 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEFuZkktZHFHamtzb2V3b3RHUWlvTzFMVWpLY0djTEVhbjV5MS01SXE5Mk50amNpaU92VElZS0k0bnhVUFl0RDh5M1R1QnJ3LVQtaVRCaHlKZmtsaktkeVY0LUFPNWRxZzNSdEYzYm1FRm80WFItVGRGeFpicFBlMHV0Nl9aaUUtU0RpajV5Vy1iMWdnYVhHLXlJSjZ5am5QRDc2RENZVThIMlg2bnd2OTQ4Z1FOdU1RZmVR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "4f1d0659079537a0",
+      "headline": "NHTSA Probes Tesla FSD Marketing After AI-Related Crashes - OECD AI Policy Observatory",
+      "excerpt": "NHTSA Probes Tesla FSD Marketing After AI-Related Crashes OECD AI Policy Observatory",
+      "publishedAt": "2026-07-25T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93RlA0eS1KeVllMGpNQ29SQkZoOGEwTFBUdlJTV1FWUjUzMElONWFOSFNGc2tMdjFXV2xjRGdBMDE5aGRNTkpuSWtHeURQSFN3MWxrckNmZw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "1a45975e78df8642",
@@ -44936,69 +44999,6 @@
       "excerpt": "The History Of The Ford Deuce Coupe And A Very Misheard Lyric Jalopnik",
       "publishedAt": "2026-06-21T12:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUk0b0xhNjRDbjUyUEpHUGhaenEwMEJjNlBWX0ZqX2VuWjVRa3dyMzZuQlJwUGM2MUp1V2plWXNlTG9LSVJiZGoza1ItcU8zc25ONkRyN1Utd2FDSFpOdEUyTlpBYXdTZi1qd3FXQ0RpNVRrNDBYbmxoX0pyM0Q0QldEM1dVMTI3b3Q1cmFOQ3FvaWROdnd5VmNBb1pBR0hqT3c?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "dd016e7b7272dbd4",
-      "headline": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says - Reuters",
-      "excerpt": "Israeli soldiers in Lebanon are free to take action if under threat, Israel's Katz says Reuters",
-      "publishedAt": "2026-06-21T11:59:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkdWNzR5aWg1SW1EZEJJOFdvZXdfa1JaVG9CcnpOUWtfREI4LUpld2JNNnQ3MEtXT1JMNTFMS3d4UHRKWC1CSm1QV1pCQ19La2U5QWlpcGNwNDV4ZnN5UlJ3TVVVbllwT0xTTjllZjIzaDFvVWxqQWZKQWJKNzAxOW55ak1uczhOV0t4UEJIekpKdWtrWjdQdGZGdUlSajNJM19ZQllzaGZldVh0TEdFS1FhSmE2M3d0dHBubzloR2tYUUotQVdxa2hZeS1mUQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8cd694571455ad62",
-      "headline": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC",
-      "excerpt": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed CNBC",
-      "publishedAt": "2026-06-21T11:14:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDd6RFBjRnNkT05BQm0tWnRYd3Mtakg5TExfQmpleVFrLUxDdkR1OFhhT043UU5LVFVsYXBaT2FIaXJxSmJfT21Cd2szYTFaMkx1M2ZaWUNYbnVwZF8yUGpUU2NlOHYyc3hUQzdXX3UyTVptRW9ib3p1WVlweHZRY3hXMkVVUm5kT0HSAY8BQVVfeXFMTzNTa3Zqc1RMS05RTlZ3Y0hOWUZDZ21tU080QTNHOFJ1dEtxcHUyRU9oR0paMDhqZHkwSEx2VThwRHpXMmNLeFJLNkJpUDJBMEhheFlzaWVTMVhRN1B1ZVFWSHJCdXVfZUllMzBaMS1JdFdMaFBlV1RUSzZQRUlHdkNIeVQwYUpaY2lmUnQ3djA?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "044c203a45659635",
-      "headline": "Why The Toyota 22R-E Cast-Iron Block Made The Pickup And 4Runner Unkillable - Jalopnik",
-      "excerpt": "Why The Toyota 22R-E Cast-Iron Block Made The Pickup And 4Runner Unkillable Jalopnik",
-      "publishedAt": "2026-06-21T11:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWh3QU14UjFtZ2h3ZDJIWW1La1A1WXczTk5WeGVkbzFZSjNYb2ZualVmRktyYjA3ZzlVUXhjTEpscUwwNWNlQWF6d0l1WGw3dnhoZDlfdG1pYU43Y1lvNW9nZXptQkZmUjNhQzZ2aW9WenFlbURTTjYxVE1PZlVnN2FkZEtzM3lmaWp5X3pPU3dvQQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "b8002cf405eb0f02",
-      "headline": "Moschino names Loris Messina and Simone Rizzo as creative directors - Reuters",
-      "excerpt": "Moschino names Loris Messina and Simone Rizzo as creative directors Reuters",
-      "publishedAt": "2026-06-21T10:51:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbEJVeWJBbVNkZjN5ZmY4SzE3OHRhdVlFdTE0Z2JETXRHMTAyS2k0OTdQbTk5VlV4eTJsaEwwNXUxZVlyTHJSdzd4Zm8wZ0VxTVV1WWM5aWlPaEY3UHcwekh6a1hPVjJOcWV1ME4tZWZndHhHSG5hLUk1MHhsRjRSOS1ldk1oQnpVdlQyQXV3ZTlfVUc3MFZOZFF5LVNIZ1pIZnhEME9Cb3BSUWR1X1ZwY082d21LWEItZ0NR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "abdcd2c872b1eb28",
-      "headline": "5 Reasons It Might Be Worth Switching To More Expensive Insurance - Jalopnik",
-      "excerpt": "5 Reasons It Might Be Worth Switching To More Expensive Insurance Jalopnik",
-      "publishedAt": "2026-06-21T10:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlJsNjRxVUg3NElIaE15TEg1TjNZa2o3TkRMQk9ucFRkTXp3WVR4TDhZa24tS0xzZ0U3RS1MSDNNRW1RdnVkeWxoS3dkY3I4enJ2TFZ3LWk1YmUxUEJQaVJud2w0SGI0cUEwSVFPd1pobU0xMkpsMV9EazUxLXVEeFpZNzMyaXlnbTQ3U0g4TWVoZ2JmbjNSbQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "fa3b25af5e044a0e",
-      "headline": "Colombian right-wing candidate De La Espriella wins tight presidential race - Reuters",
-      "excerpt": "Colombian right-wing candidate De La Espriella wins tight presidential race Reuters",
-      "publishedAt": "2026-06-21T10:03:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzdfcDJsNlpQWjdJTHlFMTRUdG04X2w5cnh2V1JlbERBTVZTN0NTZHF6TWloc3ktRU9lUDFrdEZGTEZjNmNoQ3JTaXQ5OWxBUFJmS0FXZ01oWWZaTzBzcWtmUVlEbHRFRlE1Yjh2dWRyVkYwSXJteVBhTVNPU0FBWHZYMkVaTGVSZHRyYjVpRXlSa3loTWw4QktsWDBUTDNDRFVGd0hxWWxycFhmOHd5Z21xWk1lZ0o2MEFIYkluSjA3N0NmWGw0?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c16a7c22fa1a7d45",
-      "headline": "How The Beechcraft Bonanza Plane Earned The Nickname 'Doctor Killer' - Jalopnik",
-      "excerpt": "How The Beechcraft Bonanza Plane Earned The Nickname 'Doctor Killer' Jalopnik",
-      "publishedAt": "2026-06-21T09:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd29mZms1aHBack5NRHIzaGhjMVFwV3hWRTlyNkJEWHBoaUJpaHgyelJtNlBsNGFjbnVrZnRfT3kwdGNuZUdKdFBlOE5DYzhoT1Q1QlpPQ3ZWSTdPUjNIYzlodWlRTU5xS3docU1LTXIzeXR0YUkwbWV5YjFOM1VvZGk4OEJHXzFx?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     }
