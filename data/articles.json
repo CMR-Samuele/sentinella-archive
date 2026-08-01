@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-01T18:02:13.478Z",
+  "lastUpdated": "2026-08-01T19:42:26.061Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "eb5211ddb68b9eac",
+      "headline": "NHTSA Investigates 1.2M Tesla Vehicles Over Suspension Failure Risks - Not a Tesla App",
+      "excerpt": "NHTSA Investigates 1.2M Tesla Vehicles Over Suspension Failure Risks Not a Tesla App",
+      "publishedAt": "2026-08-01T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVBSc2V4N1k2SnZmUnI0TDk0Y04zclNKZHp2YlhfNFFwUnhFUC1DOHp4czczZjFLcXFWLU1WblZwNkdNcENLaGtVZXA5VE5lRDNjZmIzenB6WHFEQmgyZ1NyMDF5ZmZuaExwQWt0QTl6NVNUUTktVVJ0OHZhd1o3TmJMWFVCb0dnOGpYb05WeG1WNFZ4dzFUTkdJTXlPMk0yS2lmTl9GX1B2QQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "6f66018a2972c237",
       "headline": "Tesla Faces $10 Million Lawsuit Over Model Y Test Drive Crash",
@@ -766,6 +775,15 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDNTlJelhYS2RWV1lVU1B3bEhOYUIxNndrQzJ6b25OTHhkQUJVRW5LTmt5SF96YWRTQkVRWmZlQ3BtTDFqcEIwYVl2Y2NKZWllRzN2VzUwYVFXODBXUldRSUxtcFIwNExsUUNfZWxRbkstdw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "654622fa52177a4d",
+      "headline": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers - CNBC",
+      "excerpt": "EV prices aren't following the 'law of used cars,' analyst says — what it means for buyers and sellers CNBC",
+      "publishedAt": "2026-07-31T12:15:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xVEo5ZFlKcTN2RzROUlRBMjZUNnQ5WGZ0UURkWnBIQVp0OEN5SmFCd0hId09kZmVfS3hpZUctaTJuVFZaWjRPeUFWV0NPblRIdkNkRVJMOFJjRDNwTXhmSNIBZkFVX3lxTE14bXZuY1h6SUFUZ3dKVEkwbnAtUnZxWlVNekVVN25jSUlhSm4yZzBIUlVvTllWbV9jY3BqZHNKWmRXR21GQktzMHZERFFwNlJDY0VPRnZnUE9Lajlmb0ZaczllRE9hQQ?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "e5fb72b318aa3399",
@@ -3700,6 +3718,15 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkpzRDMwdHBjdUdqaFR5MkN0ak9aay1za3J0RjZfV0I3REUySDQ2SS1nQ0t6aWtjSDR5XzIteEJtRm9CdVRudm1veUlYZEYyRy1zQlM2TVIzd3JWQUNCeVdmWGpNQTZVYmExOWdsOGFHT1RqS01FTlJiTnRNZWVBQdIBhgFBVV95cUxNbm1TRVMwaWhpQXh5VktNM0VKaExHQW1waXVja2pTZHRTOUpTajYxdE5CYVhWWFhsYUhPV05kN1pId3VCN2RqUTllSkpxVTZKSWFEeVJ5X2M3QUIwNjVRY3VDQi0xSlh2SUN4ZGVTZGVfdjNlOGM4QmRVTDF5TTE1aG9IYm9qZw?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "53755b1de9ac58e0",
+      "headline": "UK's Greggs finds appetite for sausage rolls in the Canary Islands - Reuters",
+      "excerpt": "UK's Greggs finds appetite for sausage rolls in the Canary Islands Reuters",
+      "publishedAt": "2026-07-29T08:48:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSG1mdkcwdlgzelB1WHBydmxsTzEzc0VvYW5pS3dPQVcxU1JBRW0tUGdsZjFIMmQ5M0tkdWY3YzQ2QVlnY0RmWW5UUXd1UmNjWDNIeVBsdXRIUHFBM0NYR1dKTVU4Q2pnTFgxdF9DRFg4VEVBaUZsWFpWUzE0SHJGaGsyQXZSYzg3XzhVY2pLU2VzTjVqTGhqcWVvNEJrQTRF?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "8d7c5ba5ddbca3f4",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTFdEeUJYZHo4bW1VWUZ6aWF2ZDZLYXBKQnYzYkZlc2NyeEdINzFuUDF0OUxGWlVlbm9vOW9xcEN5QjhPSnJvMzVpU2JKNkdNREZUMG1RYlpZckxlMjAxaURCYm00NHc4X1JNczFJb0piMTdOeUxrdGNsV0xqcmpzREx5S0JyMjl4Q281SGYxTVA1NUk?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "70da9919ed38712c",
-      "headline": "Tesla Refutes Autopilot Role in Fatal Texas Crash - Let's Data Science",
-      "excerpt": "Tesla Refutes Autopilot Role in Fatal Texas Crash Let's Data Science",
-      "publishedAt": "2026-06-23T22:20:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNemZhRGF5VGFEZmJhOGtOZXlWMWNaS0RmVDNlUFFBM0QtWmUzMENYS3M2TlYtU3NUOFM2VTdMaG1Qc2Q4RXBFM3QxRG1iLUtrZ09hUkF6enM3QU5GcExqVm8zUms4Wkdzak5lZXpIN0JwRUcwSWVONE1Tdml6bUNSZ2tvVFo2RHN2ZHdzckdGY0hCU29oUHc?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "39aa6c252bec4c8b",
-      "headline": "Tesla signs historic $5 billion Megapack deal across UK and Italy",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-23T22:19:56.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-25gwh-megapack-deal-natpower-uk-italy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-25gwh-megapack-deal-natpower-uk-italy",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "f300ef17dbe59830",
-      "headline": "Google's YouTube settles case over social media harm to children - Reuters",
-      "excerpt": "Google's YouTube settles case over social media harm to children Reuters",
-      "publishedAt": "2026-06-23T22:16:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUFwVlJBdjBQenBZUWp0QVM2NWY2YTMwdEg3RVUwa1FOaEZWTGc5TW9ubGNXQzB6VE9GckxGMEJSYXctWHdTb0lnTUhVN1UxcXJ5WjBzVWw2YVV5X0RPRnVkUHVGNWI2U3hjT1pzUV9fZnJZMXpKeXRnVlRyOFhYUy1aMFpaUC1uOHRqdzJWeEFvQk5udm9MdGljeG5DaHZVblRWLTZNNUJLNkVUeXZzQk5yN05Ed25wWGRqbGxfOVR1Y29vMlE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
