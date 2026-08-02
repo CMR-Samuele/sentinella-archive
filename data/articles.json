@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-02T13:16:28.559Z",
+  "lastUpdated": "2026-08-02T14:46:39.326Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "6e8f55f2fbd3c4b6",
+      "headline": "Supercharger Tesla per le aziende: bastano 150.000 euro per mettersi nel business della ricarica?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-02T14:33:53.000Z",
+      "url": "https://www.vaielettrico.it/supercharger-tesla-per-le-aziende-bastano-150-000-euro-per-mettersi-nel-business-della-ricarica/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "087415f3530f2fd3",
+      "headline": "Da Tesla e Electra ricariche gratis nelle zone colpite da incendi",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-02T14:00:38.000Z",
+      "url": "https://www.vaielettrico.it/da-tesla-e-electra-ricariche-gratis-nelle-zone-colpite-da-incendi/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "87caedebd7944080",
+      "headline": "Why flights are so expensive and will likely stay that way - CNBC",
+      "excerpt": "Why flights are so expensive and will likely stay that way CNBC",
+      "publishedAt": "2026-08-02T12:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd1dnOUx2d1Z6anJHRW1XNGJQdjdHLTl4MndsSF93YjhWeTRoczcwMUhVcnBFQzdZdWFrU0tfYnhjZnR6RzdNVmZHQzlueTRsRTZtMEluQXNXZHk5dlpZU2l3Z2NnWUUyVktxMS1SQ1B1bjFYbXhlVWg4TXpGRXM3eDdVNDhjX1diaVV4cENsckZsZGMyLXdrSkl2cFXSAaIBQVVfeXFMTUtQai1pNGFZSnktRl9ONi04VDRGZ3Mwd1RpQVRZTl9XVV9mVGwtTGpZRVlHeERES3B3dGYwRk9uUmp2Z3otbjg5eFRyRTlLT29LckVjTlJJRVdfYUtSMW82aFhVT2d3N1h4eUt0N2RhVVo2TzMyNVZRVzRiZl9aTjZDMUozOWJjN0txMVNmMnlZTWVjaGJCQlJNNnFrR1VCbUZR?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "524247f4a6929a51",
       "headline": "Nasdaq-100 just had worst month since March 2025. These stocks held up - CNBC",
@@ -1252,6 +1279,15 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PMnZPS2ZXZ3JyUFBtb1RPVUpaV0hXOUYwQUxDSjlGZXNhWXNqR1hoelhNdEtZVmlaajVOcExCcl80Yk5HZVRJbEt3N0hKV0QzU1RuT0ZNRzJrSE1Rbi1udVd5NGtvbDJkYnVRUzhkOFN6YVZPQmFadHdvUlfSAYIBQVVfeXFMTXdPOGMxdnVnZmxNbTgyOWJWMUhSS01tTm0tampFTG50ZWVnUDdjdWFUN1doaUdwbGtfbnpJSE8wT3QyTnNKeHEwalo3dzZSNzJrZGtHQlNhTVY3SG1SdE42eFM1c01QUG5NdFd0ZDJWMmxVOHM0ZVpWMDZCZDRTUGFDdw?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "87d65fc99d91b561",
+      "headline": "China's Xi urges deeper anti-graft fight in military, Xinhua reports - Reuters",
+      "excerpt": "China's Xi urges deeper anti-graft fight in military, Xinhua reports Reuters",
+      "publishedAt": "2026-07-31T04:28:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMk1IZVlQdWp4dlR2bEIwMnNrMy01MGM0S1lQODJoM2NmZm5taVgyZE1xMGRfTGQ4ZlE4Y1ZVMG1fV0FhUFVBUk45QjBlaDlUdGdiNEVSbk5QdTZSR0NuamNuNTUzWG9EdGQ0RkkzVUk0Zm9Ga2w4VFJ3YnZWNUkwSm5GT3VEODJsaFFGeGhhR1hkWjlGWXYyQ2htV2gwendCOUI0bTJTY1VyT0Q1cURiTm9faml5VG5zSUZMNEJZck9rZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "a96028c49c61f81a",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzRzRnVZcmRtNk5wWTZsTDhSaWtrRWFLVHBZNTVBYzJRRENSWXhibjItUmVadll1Z0ZzNHdlZTVIYzVMcHd3eHNBNGpIN3ZkeTQzTlFkR0s1OVBYOWl4eG5pYjJONnF0N2RDRVRYbGM5YVhtWFh4OVlGZV84elhQeTFNczMzZnoxVTZBYWpKSjBaVzVCblpBdGhCTjl4T3NNWXduU3JjZHR1akVKY1ZqTEY3MHg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e261ff1b320c1923",
-      "headline": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say - Reuters",
-      "excerpt": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say Reuters",
-      "publishedAt": "2026-06-24T04:36:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUi1vNTk4T3dObTc5TTZ6RjQ3YVFrSnFoSDBqTW5pb0R3Nl92QTVfZUt2ckpyY0o3cEtRcUdwX296SnlXaklWcjBvcEd6MEtDd1MwbWllTFpTZ0FzeGJmbWpjc3hRWGluT2FOMkVXVF96bVV3QW85UUtINnBwemNFWEkyVGNPbmhWUUVZVDZrMlNfSERna0FTZkJxMURYYzE4SDRZRGNIOXc3TWlMVDlkYWV5Um10M2Z2TUQxcA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fdac418e56218259",
-      "headline": "Trump calls for probe into gasoline price 'gouging' - Reuters",
-      "excerpt": "Trump calls for probe into gasoline price 'gouging' Reuters",
-      "publishedAt": "2026-06-24T04:32:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUV2eHhaNm43T1loajA0dFNuLWJuNDlydGxjRjQ2ZzBFYlAyWnM5dldhZlptMFhnWHR1N2s2b3p4UTFoSFRsMDNlYVJ4TWtTcUlxczJGZ0RMd2hnQVFTcFM5dkdSQkpNbzFoZWlFVlVwdk82eWQ1OG55MVN1aTdVUTJOZ0I4X1EtSkRPdUEybjZhQ1J3UWFtOUVzUUxmNk83aHlmVjIwbUlucEd5VkJrNFpyTVFQbk5lRjEw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "cec9fad44cb6d80e",
-      "headline": "The Blazerossa Is So Dumb I Have No Choice But To Love It - Jalopnik",
-      "excerpt": "The Blazerossa Is So Dumb I Have No Choice But To Love It Jalopnik",
-      "publishedAt": "2026-06-24T04:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WWXEzNWRSTzQxRFJ2N1dPTV91ZG1rS0pJbEpsVW5mTURsUWpQNGFMYkhtUzlnVW5XMnJZYTFsYUNxTWl2Sml6ZmNvY2RjQmhWT25Yb19UcksxeHJXQ2xkNmlpQzA4NTZp?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "5a5d5d918556235b",
-      "headline": "How No-Lift Shift Works In A Modern Manual Without Frying Your Clutch Or Synchros - Jalopnik",
-      "excerpt": "How No-Lift Shift Works In A Modern Manual Without Frying Your Clutch Or Synchros Jalopnik",
-      "publishedAt": "2026-06-24T03:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wU2RFRllCTnBTZ3psRGNRaHU5V01ROWpWYkkyZnJNTGxseHlZemdZMnJzQUc3c3dsTW51d056dlp5QmxfaFJQNUpFRlAycHk2dEJTMTU3N3JaQXN3dThHaWtQQi05bzF2MFNSSU9rNTY2QQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
