@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T21:54:08.096Z",
+  "lastUpdated": "2026-08-02T22:54:32.559Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -10,6 +10,15 @@
       "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch"
+    },
+    {
+      "id": "16940d5802a61f50",
+      "headline": "Nearly 1.2 Million Teslas Face Investigation Over Suspension Failures - Autoblog",
+      "excerpt": "Nearly 1.2 Million Teslas Face Investigation Over Suspension Failures Autoblog",
+      "publishedAt": "2026-08-02T15:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR3RpVUYtYXI0Yy1qcGRTZW42cHNzcUVFRXhJMmRaWkhDdDVBc3RwUFFlVWktOEV1V0cwM3lKcTB6aFZkS1F4aW9LMlBTcjdLMVY3ZHpZazZIQkJVSmQyMHgtR0hNU01FTEdQY2dfcWtMQTZuQXMwRHNRTUdOekxDUXhVT2lLaVN5MEV6LUprMGVSUllsdWhRYjRUV09XYnlx?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "8a59734f1c3ff4c2",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE5WYzdudUlMb1BHUk1sTzlQMWc0WWZTa0hIMXFsbU5ZRl9pVkJHMmFnRTBIdjJ6NFZGOVRlc2ZjZHkzYWk0QVFLaUswTDJzVDM3RHNnTEk4cTRoZkFDRDNSZHNkc2ZHUXJOYnk5RXNYdXVYRkZyRXppXzBULUEyeFJjMzBFb3RGWFhNNGdBYUVuZG9HTlZXT0F6NkNwXzFvV05WS3dUUFM?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4290a0fc409a47ab",
-      "headline": "SpaceXs newest Starmind will make earth data centers obsolete",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-24T06:02:15.000Z",
-      "url": "https://www.teslarati.com/spacex-starmind-ai-satellite-vs-starlink/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
     }
   ]
 }
