@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-03T21:39:06.681Z",
+  "lastUpdated": "2026-08-03T22:57:55.276Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "147292c04cbc5122",
+      "headline": "Lemonade Cuts Tesla FSD Insurance Costs by 50% in Tennessee",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-03T22:27:49.000Z",
+      "url": "https://driveteslacanada.ca/news/lemonade-tesla-fsd-insurance-tennessee-50-percent/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lemonade-tesla-fsd-insurance-tennessee-50-percent",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "cef69a4c517bdb75",
+      "headline": "NHTSA Opens Investigation into 1.2M Teslas Due to Suspension Issue - thetruthaboutcars.com",
+      "excerpt": "NHTSA Opens Investigation into 1.2M Teslas Due to Suspension Issue thetruthaboutcars.com",
+      "publishedAt": "2026-08-03T20:32:13.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeW1ULTEyc3VDOXNBM3VncWtkbUVYbklfaTBrOXRMeHp5N09iMWtabC1vZnc0OUdOXzdhdWJaMGxhOFRoby13LU1ISWp4d1FDbl9FaDAxY0xFdTQ1dzFDMC1xWmExNnNpejRfVlljclFIZ3NxSTR3WnB1UGpPcUw1bGk2XzhEYVBBMzdpY09yRVB3WjBBemVjNER5RE5UZlh3YTViaU9fMGN3WE1Qak13Y01rQ1Rkd01hRTBKRzFRRmd1N09KZkpzdkhxZ0hxcWRNd2szb1JHem4wVUE4dXp0Um90RFRhemdxenFwX2tUYTdPdWtkOGdyYTZ2dXlZTHZHUkVpem41MVA?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "bbafd730df1c7aea",
+      "headline": "History says this is where the Nasdaq-100 goes next after a correction - CNBC",
+      "excerpt": "History says this is where the Nasdaq-100 goes next after a correction CNBC",
+      "publishedAt": "2026-08-03T20:08:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQVlURzAxM3hQS0Y5TUdkZGp4ZFpSRTdnYUZIUkZrMGZBQkNkMTltTzNBdFl2Y3Qzem9ES1dzM0c1dUg2N0FwdWR0elJaNjdrUUZ4WVNMUTYxUnlrbEd6VFhKc1Q2aklxcklGMXBvQnpLUGFnMURCcTV3Vk84bkhWWTJ1NWJCNlE0aW1zQU9mSmZaT1c0VzROQjNLOFpBbXNEcHh6bTFfN21OSXc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "6fc44bfcf169fae9",
       "headline": "Was The 1962 Shelby Cobra CSX 2000 Really Repainted To Fool The Press? - Jalopnik",
@@ -73,6 +100,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3FmQ2hOWGxrRUNITnh3Tk81TjVHT0Z2NmEzQ1o2MlFTTHIzN05ud2hKemxfZWZWcTNBQ0dLYndLa2tLN2IzRWc2SXNqOVVtT3ZkeEpXWDlNUVZSU2pmNHZ0UDN4eFBaVkFySGxYS1dlYTd1ZW8wNmY3YU5DajNxT2xSaGEwZ3B5N1Y4dGQtSVVRZw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "b404e00ee57ba261",
+      "headline": "England and Wales record driest-ever July - Reuters",
+      "excerpt": "England and Wales record driest-ever July Reuters",
+      "publishedAt": "2026-08-03T16:11:15.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXgzUmpGSE5uV2FmVUJyeVI5YVhZVVdacFM0NXBEQU1SNGtjc19fMVBkWHVfNTZ5cHFCakZhV1VMU09HeDRoVGxvaTY4NUpMS2JZbElLMVNQZFNXWkpuUVMxRERHQ2pWOEJ2RjM1YzFxUkU5ZTRpeU9xbzBTMHdsWngzamFpb293XzJaelVFTERjdmJoTnhLZmV3?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "106a7d8bfb19b0d3",
@@ -44963,42 +44999,6 @@
       "excerpt": "Tesla sued over fatal Texas crash linked to Autopilot Reuters",
       "publishedAt": "2026-06-24T18:09:12.000Z",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzQ4REhDNmNqNW5maVlSakJPdnRrTTFnOVFSOWxiQXFuSl9DRFNKaDM0aEhhNklNMU16dnlOV29ncDc1QXdQek5pZDNJb3Z1X3FUSFlBYXZkQ29XbmVPWGNRYjRqRDl5azcxeVp0R2hjdXZYTVFGd1FBZFhNSnNQRk1rVkQtSFdaZWFuWjZKOHctR19sdjFGVHhrNVM3Z0hueWlnUnhR?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c27a9a078d0cea29",
-      "headline": "Tesla sued over fatal Texas crash linked to Autopilot - Reuters",
-      "excerpt": "Tesla sued over fatal Texas crash linked to Autopilot Reuters",
-      "publishedAt": "2026-06-24T18:09:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzQ4REhDNmNqNW5maVlSakJPdnRrTTFnOVFSOWxiQXFuSl9DRFNKaDM0aEhhNklNMU16dnlOV29ncDc1QXdQek5pZDNJb3Z1X3FUSFlBYXZkQ29XbmVPWGNRYjRqRDl5azcxeVp0R2hjdXZYTVFGd1FBZFhNSnNQRk1rVkQtSFdaZWFuWjZKOHctR19sdjFGVHhrNVM3Z0hueWlnUnhR?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "49cf4a8f2c57a800",
-      "headline": "Wendy's hits over seven-month high as retail traders spark meme-like rally - Reuters",
-      "excerpt": "Wendy's hits over seven-month high as retail traders spark meme-like rally Reuters",
-      "publishedAt": "2026-06-24T18:03:39.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMW9WSzBuTnQ5VXdyZUY4bVdyVGpiMFkxTWlEN1J3VGJFdmpWM25tUHM4ZlBieV9PbnJ4WWNCS2FBYXc5SThMa1NjYV9WWTZld1JkNDVNSzhzV1l3R3l4OC12MkZ0U0xjMWpaN3kwR3gwS291QnRUTnlEdVNaQ25feEozWkp2bkRJTHdQdkxXQy0welRTRDdLZW10N1lOM2E2blVhY2dFREg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "24a54265108cba5e",
-      "headline": "Apple aims for better and more entertainment offerings, executive Cue says - Reuters",
-      "excerpt": "Apple aims for better and more entertainment offerings, executive Cue says Reuters",
-      "publishedAt": "2026-06-24T17:59:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnZLUEF4VE1CUzk1YmhYZnBxVGdUNUhpZUFlZUlseERqSTJ2eVRZUE1tX3NzWmk2Um94Tm9nbkVYQjV1MjNGSHNzU3lReXdVNHF1Uzlkc2t2QXNIOHlnQXI4Ui1OcEtMMDJWQ0pKVHBkQWx4T0dBd2FvMEh4bVhFMnNrLXl3WUVGV0FlaldRb05ORm56cTBrQ01vMndadDcyQkNRVDRsaFNJVWFzWGw1NGlhQWdPX1ktNkdzR2FnY0xpZw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "66786dcee42a4366",
-      "headline": "US Postal Service tells Congress it needs help, running out of cash - Reuters",
-      "excerpt": "US Postal Service tells Congress it needs help, running out of cash Reuters",
-      "publishedAt": "2026-06-24T17:58:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2FUX29OcmFGa3A1Z0lEUTlyMUxxN0NrUV9nUW8tdDNwczI1b1pwVzBCV0IwYVJZalpDNHU0XzNGaVhtUkdpdFRrbDVFYXJSQ1VjS09EcW1MbzdrNFJfVHl6TkF4X2cySGpDX0Z3VnBNSnlqZVBKLW5MaXpWRndoajhsb1A3MVVhS1dHMHVhN0RtbmMzZlYzQkttVmFjclNfTHVnTDJjX0dmaU5EVnl3V2IzVzh0R3RtdGt2WlBzdGxNd3laR09NSg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
