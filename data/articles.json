@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-03T18:15:48.818Z",
+  "lastUpdated": "2026-08-03T20:10:19.241Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b05c9359a2f675de",
+      "headline": "Tesla Full Self-Driving insurance program with heavy discount expands",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-03T18:53:58.000Z",
+      "url": "https://www.teslarati.com/tesla-full-self-driving-insurance-program-heavy-discount-expands/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "0058cbd84ff8bdf4",
       "headline": "Tesla's European registrations mixed in July despite broader EV momentum - Reuters",
@@ -21,11 +30,29 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "d1d1a53178676635",
+      "headline": "US manufacturing activity hits more than four-year high; input prices elevated - Reuters",
+      "excerpt": "US manufacturing activity hits more than four-year high; input prices elevated Reuters",
+      "publishedAt": "2026-08-03T16:42:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "0c2d9e8273f42253",
       "headline": "Federal Aviation Administration certifies Boeing 737 MAX 7 - Reuters",
       "excerpt": "Federal Aviation Administration certifies Boeing 737 MAX 7 Reuters",
       "publishedAt": "2026-08-03T16:39:04.000Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObm5abmxuWVVCMWR2ZDdDaTFWSnJ5SEYxZnc5MFg0Qko5RkJWMGZpTndzclotOVAza0ZYRHJoTmpUZk1yclB4MnZxUFlYanVwbnlGd3JaNk5sZ2YxbjliM3EyVk55bUtEZU9mQWNRR214WTlQRVdTRXAwbVdGRzdYdE1CY0hrOXlIWjRlV0V0VGg2d05qLUJzT05iQ0oyaS13UFM4azRFMXF2T2ZOUEhPT2hJblN1bUozNlc1SkNn?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "a96ddbc7f1bb1f7b",
+      "headline": "Wall St starts the month strong as Mideast deal hopes rise - Reuters",
+      "excerpt": "Wall St starts the month strong as Mideast deal hopes rise Reuters",
+      "publishedAt": "2026-08-03T16:35:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -264,6 +291,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "97e6216ac1270037",
+      "headline": "Allegiant pilots ratify two-year deal with carrier - Reuters",
+      "excerpt": "Allegiant pilots ratify two-year deal with carrier Reuters",
+      "publishedAt": "2026-08-03T10:56:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVdJOUF2VkpxQVRSZUJxdjh6a2FIbEtDTFBtdnVPNlZKWlM5NUsyNWpFMmVxdHQxSktYaXU4Q0FIOXpLeXlRMVIwWnJCeE4tT0ZobWh6Y2doam9GNF83QnR0UklkODI2MmQtMm5zdkU1RWxGN3JnQUZGWmpTVEhDZnFoNjFwWlktUG1jcE5Ra2RJQjNtYlBRcDA5X1VwN2laOTQzT0dpMGx3NmR6OVE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "6a45e26d0a046ecd",
       "headline": "This optical sensor stock is struggling. Truist says it’s time to buy the dip - CNBC",
       "excerpt": "This optical sensor stock is struggling. Truist says it’s time to buy the dip CNBC",
@@ -280,6 +316,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DSEhiMWNDdmJWeHJtMXdPbE1YSFlCTlYtUmpYd2pQak5lMEl3TFk1b0pBSnZ4MTRuSTNVMk9VNXlLenVOQXc0NnRzMHNaYTFOSExwaTlQLW5Ea1RCZ1RoZ0NCM2IxS0U?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3378e870681b5867",
+      "headline": "China evacuates residents as heavy rains hit northwest, southwest - Reuters",
+      "excerpt": "China evacuates residents as heavy rains hit northwest, southwest Reuters",
+      "publishedAt": "2026-08-03T08:56:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWY4ck5lM1lreHlteFFvdGg5WFFtN3BVTHk0MnVETjdaemFhYkFsQjQ3M3NRR2pWWV9lNWpDUzFDTEdRR2swOHZwM21FYjFDTS04amVRUU93TzBmRjVDdUtZcWJHTXdjckNDMl9WbVNGZTlVbUlVVGRSU2ZQd0hUTDB5WW5FamtXT0tVTnlzVmZSOUNPNUt4N0E1cThlcGI1OFp2VXMtM3ZPYktKNWthU1hvb2t6MlNxM2c?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "a2aa98fd316b5909",
@@ -361,6 +406,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjZ4MUg2LUU3RENLdzJJNHZuUlRKbWRKbHg1TUhIbHVHcUlxbWNXc3NsUWRyb0tXQks2TkRvTWlSWnJuaDg3YUxnanphN2dnY1ZZc3ZtYXhXWU9wYzl2OEdJSTc5NjQyNGRlTlNSVU1HRGNIZFE2dXlJaWp0UnJ6ak84aw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "2f93348bad080b33",
+      "headline": "After decades, Diageo's partnership with Moet Hennessy has lost some fizz - Reuters",
+      "excerpt": "After decades, Diageo's partnership with Moet Hennessy has lost some fizz Reuters",
+      "publishedAt": "2026-08-03T04:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0k1V2xjMjIzNU53blBickNUVEhJRDBYaGdxeTFIamF0endHM09JT2U1b1UwQ1dfM2dSN2xsbnpjVy1zQlhuOEt1czRkdVNwMFFoTUgydmFFNmhhOVFKQ1MzV3VfdklXSmNmYnQtSWRoVVg5QUg4QWo5NDUzLWtub1Q2bWpOV001VjNFMkxjLXZXcl9vcVZ5QUpRMGtHMmZtVzBjVklYNVoyenZVdU1HRFJNbl94MWt3SW5RWUVxR2ZPb1U3X3JfZWRZbzA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "dbb29c80ab46ae7d",
@@ -1875,6 +1929,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "1f6cd56e23261632",
+      "headline": "Smallpox DNA is recovered from Spanish conquest-era Chilean mummies - Reuters",
+      "excerpt": "Smallpox DNA is recovered from Spanish conquest-era Chilean mummies Reuters",
+      "publishedAt": "2026-07-31T11:17:28.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ3NNdTF3VWJJRFQ3NVZ0RTk1MXB1UXU4U0dSTWt0bXAyU2pKQ2VBU3k3b3RLVnhORk95UkIyeUg5bWh3NEdqX2VGN0Y4dGlweExxWV9jckpkMVkzT0ZOVk1hZ1lOV3RWUkQ5clR5LWo2YXd1a2t1aDZZUzdGQ3RGSXVvU0RVd0EyblJVcmx6bnNtZkU3QWc1MVdoUjZRSG50TzVVWjNtTjdyTGxCMWgtRDNqZUxkRUZTNWl0TG02cm9BUm44NU5LWmVnc08xcDA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "52921ad3f5cdf5dd",
       "headline": "US Safety Regulators Are Looking Into Tesla Suspension Failures - Finimize",
       "excerpt": "US Safety Regulators Are Looking Into Tesla Suspension Failures Finimize",
@@ -2487,6 +2550,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "042f1c39ad27bcf5",
+      "headline": "NBCUniversal names Christopher Halpin as CFO ahead of spinoff from Comcast - Reuters",
+      "excerpt": "NBCUniversal names Christopher Halpin as CFO ahead of spinoff from Comcast Reuters",
+      "publishedAt": "2026-07-30T22:03:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDVIVnpwUGlGalVqS0dyX1JLbXZ6YXNVanhpLU0wV083aVR0M1hmODh4b1AxRlZ0NE82NTg2Sm1SRVJjX2NxcVhQbFozMmxOV0wzcW5rOTVUaHBWQ3E3YkJxNUhDTlhnNkxSWWpvR1FwaEJ4blhuQkxVSmVvMTBvaXRSYTgzQ0ZkOUw3YUdOcWNHTEFzNGp4Q0J3T3pjTGZ1WTlRVGdDNUxuZ1ZuWEhORlNVQjM2MkR4V1NkZjRHNA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "cecbccbebdb679ad",
       "headline": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows - CNBC",
       "excerpt": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows CNBC",
@@ -2548,6 +2620,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUEtVm5od2ZFcEZ1N0ZkQm04NXFTUjdEY0pFcmpTMnBXcVZEUzJiaWdkTzVnX0dNR0FTNEhRaGgyQ3dIOHNEalZuVWRfd1pIOHFkNndsUFQ1SFVYd0stYk43TzJ4aldIelF0QlA3cG5GNTZZakItS3Bodno5WmFIQkZKQ0xHX1k?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "979b07f3932f7f0d",
+      "headline": "Apple disappoints with forecast dogged by supply chain struggles - Reuters",
+      "excerpt": "Apple disappoints with forecast dogged by supply chain struggles Reuters",
+      "publishedAt": "2026-07-30T20:31:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanFaaGdUMnRidmVSWXhQVXVDeG9fazRla240ZEFBdmhIcGJINkVvUVRhb1d0NGx2cEluMnlxYWdjVWpSWmJLbDdiWXE1LVVxVGR0Zm9yeVVfS1Z5RFN1cDB2M0ZRelQ2MnFhZHlfdm9ySHREOFhJVFFRc2xOMUowdzVISlY4aHpoQWRKYzcwN3ZQNV9mSFV6T3FPYjdobDFOdmF3WVRzODk5Z0Z0WF9mSW5xZS1IVXlM?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "971b35df1ebb2bde",
@@ -44920,87 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVW80NXpWRlpMX1FuYjlCVjAyLWliYmt2d1M1ZXlnM2c4SWJILU9hVHpKR3RvQnR6US1LSXFvQ1hubUgtNnJxd2JWZzBzdUNOdkJKZ3RIWnZoVUlnZVFsLUpqQm82V19HdkhSdHZWaDZUVS1OWFNyR0xPcEVTT3VZaFZQWFgtS3hpaVVZcm5zdmZmUk9aX2g2ZTZkelA5LW84NldwNnlqbGpRclk1S3VhQ1RXTFJ0Mmg5QTJV?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "b0424dada230d42f",
-      "headline": "NTSB Opens Fatal Tesla Crash Probe in Texas - The Tech Buzz",
-      "excerpt": "NTSB Opens Fatal Tesla Crash Probe in Texas The Tech Buzz",
-      "publishedAt": "2026-06-24T17:46:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNzA3Y1BfNUU3YndIYldSWlBmdTczRDVCOUFFMWltTkY4LTBsZ1hpbTloRkdfb0lhbDFmekJlLUxybWo2dzE5bWtJcjMwdG9JVGhETGpsWHVPZVh4RjdNQ21IOFRRZnRydnpsV3Q0QUJSNXdnNmxzSDZiYXBoSm9WajJ3?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "aff26d38bc1ad3ce",
-      "headline": "Europe swelters under deadly 'Omega' heatwave, more records broken - Reuters",
-      "excerpt": "Europe swelters under deadly 'Omega' heatwave, more records broken Reuters",
-      "publishedAt": "2026-06-24T17:44:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTERrbjlFVzNORXBHVmlhbHQxTkxaaVBPZUNuRGZVa2FmRGozVk9YZzVvb25NVXJqd0JnZ3pxSlhhQ2xZUElQLW5OeWRpQUFOWHJBNEpjMC00MnR4YlFXVUp3TVVva0g4VG9yWF9iNlVqMDRyeDJjVFJOTmNWNDh4ZGV1Y01xa3ZseWZaWEtQWXlpR3hSeHFHTENjQ09hb1lKRXhEQ3hac2RUbW5fRE9qWnRmUXBGR25yTDhtZGZodk5fRFU?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1fe820450cc023c6",
-      "headline": "China’s 360 says it has developed tools to match Anthropic’s Mythos - Reuters",
-      "excerpt": "China’s 360 says it has developed tools to match Anthropic’s Mythos Reuters",
-      "publishedAt": "2026-06-24T17:39:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObE8wMHB6SWxmTTd2bEthNFR1bGRRcGIwQl9VcDR3SndzanFWUGhVTU5aSVpSWFVoeUxYSkRCYnlIbGFhZDN2MUF5amdsbnl4LUxRdDZCSDh4V01SdFpwOTZfZENzdEVBLVVMU0JuVWpjT2YzUWh1UVIyOHVZTWwtSWk4N1NJYzJlbzFMdUUtOW9RZEgzLVo3SEtiLWNJUTJHV1U4X0wwVG5zMURGOEI5Q0pUT2lvQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "92b32c54924336f7",
-      "headline": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash - Yahoo",
-      "excerpt": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash Yahoo",
-      "publishedAt": "2026-06-24T17:37:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzVneXRLWEs1UmRYNlcyb2VlTEVpVHFfYmV1MWNYZkNBZDI1Vk5NQ1NYa2R5T082Z2NlSkhpUHlYZWdSUnVZaUU1VTlaU1F3MzktYmdta2JhNWVWMkgxdWU5a0RGcVdlb04yMTlmYXpqTm52eFFQTE10Qm41a0RwdXpiODk1X3BzS3RsYg?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "52a4c50442e3b6f1",
-      "headline": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash - Gadget Review",
-      "excerpt": "NTSB Joins Federal Probe Into Fatal Texas Tesla FSD Crash Gadget Review",
-      "publishedAt": "2026-06-24T17:37:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHN2b3N5UGJBU3JGejhsRG5OVWM3NXFtcldFQUg0Y3NuLWViRVVNcUN0UmpPVU5rQ3dTOHF5THVmNEVVNU9GWnB2Q3dIZGxOOVNiRmtrazFScFVMV2hzUTlNWGVtSko3ckVqeGtDaDRPT18wd2hJdXNsaHlfRFJpTDB6Y0FWVW9xNVJ1SmppYw?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "dfa43c40152d0900",
-      "headline": "Heatwave kills hundreds of thousands of poultry in France - Reuters",
-      "excerpt": "Heatwave kills hundreds of thousands of poultry in France Reuters",
-      "publishedAt": "2026-06-24T17:31:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHRYYk9VZWJRSDJIQTMwampSRzRrQVlyX0E3Q0xlaGpFZjc1M0p1YlhRMFh2TkdjcUhSajR3cGVETk9nOUdqQU1KdXYxbzZCTTBZWm9COG9URENBQzRFZGRkODVvTUhnSm1BS29GeFpTZVc4QjU4R1VQbVI5aFotN2tnSXQwVm5YdTZwNTNrZUlXeGQwNUQtcVZFYkxhY25ONHY2Rg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8b4a72b45cfd1ae5",
-      "headline": "Renault plans 800 job cuts in engineering in France - Reuters",
-      "excerpt": "Renault plans 800 job cuts in engineering in France Reuters",
-      "publishedAt": "2026-06-24T17:31:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTZXQVlha2Y1NlNUUVJ2WEoyb3NIX2g2bzM4YmFJMnZWcEtyaV9iMFN4anVuSjFhVWVzUnJ2Yld6MTE0U095MUg5bVV5QThUMW1RMDNEbk5jNUlsMy1aNWE1ZFI1bl8tQzg5SUNiWFh5Qm9vbmE2bVFmZ2JPVVY1d25KU2Q3ck1LWGZ4dkNaUGxPRk5xMFJnYjBzUTBGT2Y2bFRuOW5LYw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a4db7d7c991bda67",
-      "headline": "Tesla's new NHTSA probe lands at the worst possible time - MSN",
-      "excerpt": "Tesla's new NHTSA probe lands at the worst possible time MSN",
-      "publishedAt": "2026-06-24T17:30:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEptakVXTDFIZkR6YlI4aGU3bU5icmFxV2lxallMek1rWEgxbnZNODltZXhtZWRObUtjc2RzamRDZi14a1JoTXdFQW03MGdLVkdfdXFueGVFZ1lMMV9lOTM5cFRkdzlGQjE1dGJQZzdYSFM4LWcwOGxXMFk5UExSYUhtOEhqSGFmRXNKQVoxa1JlX1lua0JHZHEtYnB4Y1J3bkhQRTBucUs1SC1FNHJaaGpWd3VLTFljSy1fOXBBSHROUHFHOFlldWJHWXgyRVg2WHlsd2FBWWVFV25RelE?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "a47706a74846c939",
-      "headline": "Tesla Is Giving Away Free Supercharging. Here's How To Win.",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-24T17:27:56.000Z",
-      "url": "https://insideevs.com/news/799674/tesla-free-supercharging-competition-2026/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
     }
   ]
 }
