@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-05T20:07:13.009Z",
+  "lastUpdated": "2026-08-05T21:46:06.196Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "8a6fb9621d426619",
+      "headline": "EVgo Will Install Tesla Superchargers At Its Charging Stations",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-05T21:44:53.000Z",
+      "url": "https://insideevs.com/news/803934/evgo-tesla-superchargers-v4/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "06d00a6f074fd638",
+      "headline": "Tesla Megapacks power Ørsteds big new Texas grid battery",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-05T20:45:27.000Z",
+      "url": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "06d00a6f074fd638",
+      "headline": "Tesla Megapacks power Ørsteds big new Texas grid battery",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-05T20:45:27.000Z",
+      "url": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
     {
       "id": "a4a08f8ef04a9018",
       "headline": "Some Owners Say Tesla's New FSD Update Is Causing Their Cars' Computers To Overheat",
@@ -5925,6 +5952,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "0d3662efa0d9e443",
+      "headline": "Arcadis rejects $5.7 billion takeover bid from WSP Global - Reuters",
+      "excerpt": "Arcadis rejects $5.7 billion takeover bid from WSP Global Reuters",
+      "publishedAt": "2026-07-30T11:47:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFhlQlZKQjFveXRzQy1wdTNJMHJVUlluTWpNSDVYSzZQR3BsSlExa053NHA2dmlGdkJHbHZ1WUtFMmVwTmF5VzFFZnpLWG9QN3MwUTV1ck11b3JLTElET29ZUjR6THJWVzBvX0M1VHNtQW0zWW9Qc0JuYUpqZEVkQmI2MFlmWmRLeGlrM29rQ0hocllLaWdqenZhb28tQ0tKT3hzN2RqMl9QZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "ddb243281788a0cd",
       "headline": "Analysts say Microsoft’s earnings may be a turning point for the struggling tech stock - CNBC",
       "excerpt": "Analysts say Microsoft’s earnings may be a turning point for the struggling tech stock CNBC",
@@ -6094,6 +6130,15 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbEhaSmdSUW5LUVdqcFkxMG5YWWF1U0JjREdaR01PTWJBdG9JYl9UQXNlX1Z3Z2RZTkdOelRKb3pRU05OTVdBQmNhbUNTS2trdk5ELXpvNmdfbG5EWkU1YTNEWUFiOE5JOXF6Mk5GRzV1RUtDeUJkM3ZJeVF1eVJxbEtoQdIBiAFBVV95cUxQbXVGMzQ4WGhlbzJYbmpWdlVCZ0Y1U3lwUDNuRWJCSlM1ZGpBbFJ1T18yX19MSlBxbzBhOGVpMG9KX0R6SzVpQkV6MmMyQWN0Zkh3cXM2d2lWR05mM05oSTdMN0NjN0d4c3lsWXVjNVlGRzlqV2djSUxrN2E2andWTWRCcmpOeVVF?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "54a7980d1a74375f",
+      "headline": "China's Communist Party to hold conclave on internal governance in October - Reuters",
+      "excerpt": "China's Communist Party to hold conclave on internal governance in October Reuters",
+      "publishedAt": "2026-07-30T08:41:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXJVWEpYYlR1UW0yaXk5Q3Y2UXNReUpfQ09mSXhPaTRfZk8yeVljYVNFcU5wSU53ZzNXcU91U1JQcW93dkw5TmdaYWNtdGNWZVNSUGhiSkowcWc1NHQ1RWFwekR1NVFRYWFsdjNjYkx0dlZzbHBIdWVZSnBucHVhaW9LaGN1SkIyOVdXcU1XQjBxZ0x2X0pyTk9jVVdwU013cGNzQUpkdnJDYjd1LWJKejJn?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "0c3c51dff5594a21",
@@ -44956,51 +45001,6 @@
       "url": "https://driveteslacanada.ca/spacex/starlink-free-internet-venezuela-earthquake/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=starlink-free-internet-venezuela-earthquake",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "7dc7725a58bb87c0",
-      "headline": "In sweltering French hospital, air-conditioned waiting room offers some relief - Reuters",
-      "excerpt": "In sweltering French hospital, air-conditioned waiting room offers some relief Reuters",
-      "publishedAt": "2026-06-26T15:23:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVUk4VVkyWmxKcGQ0am9rd24zWlVDUGNSaFNYc1dfbnpBVjZfY2VyWXkwdU15QTZQcDkwNnpYQk1lMVhZZEZ1dmkwY0tCY2xMMGtUV0I0VUU0blZTQnZVb19Rc0R4c0dFR3Z2SUpkU1VqTDhZanJWLWZpR3VZSi1JSlNzQkV4SC1UN3JuM1hxT3VtdHFsMnVwZkJzc0pKdmwxWkExQ0lkZS1Pa1pzUk1jSll3V09tVXFnVUdzaDNKNUVtUk1yMjdlMlBuNA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "bc526dead9fc2422",
-      "headline": "France's Safran in talks to buy Exail Technologies - Reuters",
-      "excerpt": "France's Safran in talks to buy Exail Technologies Reuters",
-      "publishedAt": "2026-06-26T15:21:11.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzF6SkNwVnFEX3lmWkpCRzNhUUJjenItLUFFYkxJUGxsOUdYWUVUc0I1Y1VxQnFqNU9WbndNYXJSc2xjU3B0SDdIbmNkWFFMZWl4dHpPMlNSUldZUWY2dGNBLW1PbnprdTUtVTNoWlJxYzQ4aXVWWWhFbFdQd3Y4T3JOeml2dldiVGJOWDhndjN1ZDdOWi1qTjUxOFEtdnNjWGVJTUs0UDl5X1dvWHZPMEhENWJ4c3dyZ3c5MWcza1dKcjBrRXk2c2daUmFVeGhmbHUyR3B4OHFHc2s?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e13aa0ef868098e1",
-      "headline": "EU regulator backs revoking Amgen's right to sell rare-disease drug - Reuters",
-      "excerpt": "EU regulator backs revoking Amgen's right to sell rare-disease drug Reuters",
-      "publishedAt": "2026-06-26T15:10:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQW1xek5kR0ljZzlCOUtEVnNfSWhSb2hVSVIxcTVGaWpoVllvaFF6VVhlNlRFNWtLWFFTc3lmcXpqZXZDOFk5UXFOZTdrTEdXS2diS0w0T21XWC1ZeVd1SUx2dXhTRU5HR1JGQUY3VTdKZlM5R2lzRFVDUl9KTVhmclRFSTV3aVU4MHBTd1BLZFRlM3NneUJkQTZXXzFmdm5rZFpfZmhUUkxpTWNiLVhOSVg5SkVqZ1RQSmNZSWY5YTI2TW5sX3NxOFk1bTU5TlpjZXhrUFI2TzRWZ2hE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4fae125c0f095eda",
-      "headline": "Tesla expands forecasted Supercharger availability in Google Maps globally",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-26T15:02:00.000Z",
-      "url": "https://driveteslacanada.ca/news/google-maps-supercharger-availability/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=google-maps-supercharger-availability",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "86445113fe2bf1f2",
-      "headline": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving - Insurance Journal",
-      "excerpt": "Tesla Settles Lawsuit Over Deadly Crash Involving Full Self-Driving Insurance Journal",
-      "publishedAt": "2026-06-26T14:56:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWjctSmM5c0QxcnhpanN1OHIyTnRuQnc5d2g1RUlpRW1YckcxZHhnT0tyZC1FazNLRUprNEpDUGN1T19vZTUxbGRVVmpXSXFRVEEwTVpkVWk3d1BULXVXX2p6ZWpKVVVlcWx4aXV6eFNDUQ?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
