@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-08-06T06:10:49.685Z",
+  "lastUpdated": "2026-08-06T09:20:53.694Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "d2c13a499839f7c2",
+      "headline": "Lucid rinvia il rivale della Tesla Model Y",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-06T08:30:00.000Z",
+      "url": "https://insideevs.it/news/803964/lucid-rinvio-concorrente-tesla-model-y/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "3c42a3f1c7fc38e7",
+      "headline": "EVgo to deploy Tesla Superchargers across the US",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-06T07:49:54.000Z",
+      "url": "https://www.electrive.com/2026/08/06/evgo-to-deploy-tesla-superchargers-across-the-us/",
+      "sourceId": "electrive",
+      "sourceName": "Electrive"
+    },
+    {
+      "id": "f3b95a53da4ead59",
+      "headline": "Lucid Cosmos Mid-Size SUV: Here’s A First Look At The Tesla Model Y Rival",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-06T06:56:16.000Z",
+      "url": "https://insideevs.com/news/803958/lucid-cosmos-mid-size-ev-first-look-photos/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "362859a3c8d76966",
+      "headline": "German industrial orders rise more than expected in June - Reuters",
+      "excerpt": "German industrial orders rise more than expected in June Reuters",
+      "publishedAt": "2026-08-06T06:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONW1KMHo0azI4M0QzY3VMWXJ2MjU4UEpLbkthMFNBaHlzMzBPVDN4aEx6V0U5Tm42M2NMbmlHT0JodWpkWmhtanBBSjlKaV90MDRpVFJXd3hKc2lmdEZqMWYweG5URlpXYU1OSjNhSnhROHBBNE1MVWFuQkRCWExTSmQxUkVFLXllaGVwcEUyV2xWWmVzLTJIRkhjZlBIZUE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "1b8de5e1f242e7b3",
       "headline": "Space finally faced the people living next to its next Terafab mega-project",
@@ -10,6 +46,15 @@
       "url": "https://www.teslarati.com/space-finally-faced-the-people-living-next-to-its-next-terafab-mega-project/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "60be6cda282a8391",
+      "headline": "Tesla Leads on Recalls and Reliability in 2026: What Owners Should Know - BASENOR - Tesla Accessories",
+      "excerpt": "Tesla Leads on Recalls and Reliability in 2026: What Owners Should Know BASENOR - Tesla Accessories",
+      "publishedAt": "2026-08-06T05:05:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcm1Nc1NDS2VOdW5SQ0hOeVFBR2R6enBxUTZOa2VkcnhOTVVBTWxEdnAtdEFIa0ZFa3hRUEd5cENMN0MtNUhQX0lhOC1FcjFqcFBBRXA5dDJlSHloSTNGRy1tT0l3MjNja21oc1hucHNPU1FCOVpVSUlZYWhvUVZyNXg1N0duSjF2ZE9EYnJvYVF0T01jU05zR3ozYnh3b2N6cTNZaGxqRUo?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "af4b15eed5eed5f6",
@@ -127,6 +172,15 @@
       "url": "https://driveteslacanada.ca/news/starlink-12-million-subscribers-price-hikes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=starlink-12-million-subscribers-price-hikes",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "98343dcd4dce2ecb",
+      "headline": "Civilian Medevac Crash Likely Caused By Military GPS Jamming Exercise - Jalopnik",
+      "excerpt": "Civilian Medevac Crash Likely Caused By Military GPS Jamming Exercise Jalopnik",
+      "publishedAt": "2026-08-05T17:38:13.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2lFSkxMYi1yRzhUUnV0RnJJSW9TajNlS21SRG5wNmYxQkJKNE1qYTR2VkFEV3dkUnRMTmRFenZJb2M1azNJY2RzaUppVjNWZmxwYnZveGtsalRSVjU5RGdJNXZobW1naTFtcHpSejNDemRWMDR0NzRrUkpNcnViU29ORGlEOHhuS0g2SjJoY0xTRlowbTMw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "67a064e3638bfd2d",
@@ -262,6 +316,15 @@
       "url": "https://electrek.co/2026/08/05/tesla-sues-manitoba-ev-rebate-ban/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "285859b0f55c2d60",
+      "headline": "Lucid's Cosmos Delayed Until Next Year As It Deals With A $1 Billion Q2 Loss - Jalopnik",
+      "excerpt": "Lucid's Cosmos Delayed Until Next Year As It Deals With A $1 Billion Q2 Loss Jalopnik",
+      "publishedAt": "2026-08-05T14:52:30.000Z",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LaHc5cExlUXFkRlNQSXF6RmZzX3QwTjhtUUMxTzk3TUJEOElibmZDWWROUGtrS0hlV0dtRTJuTFFkaDkxelRLT1Y5UmRRQ1R1b0VybV9RLXZ6TXVKem82NE95SVpWQzlvMWRmN2tXenpCQQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "adae52f8b7f68dc9",
@@ -658,6 +721,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHk2OXBZRl95NkZBTUdCYkNlbjVMYWxYZFlNVUNLOVFTTC04aHZDTzFSRjh5OUItdkR1MFk2b3RNQ3FqdFRQcHB6Qm9oVkhHdjNqTVRMTVFaV0VnNmhNdTFmWGI3dHhnQVVYYXJMVUljcHFwNmkzQ0tpUm5YaXEteERVYWFlQWoxZ1BJRQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ad33458b21bc42cb",
+      "headline": "NHTSA Investigating Potential Front Suspension Issue in 1.2 Million Teslas A potential failure of the front suspension could lead to a sudden loss of steering control. - Auto123",
+      "excerpt": "NHTSA Investigating Potential Front Suspension Issue in 1.2 Million Teslas A potential failure of the front suspension could lead to a sudden loss of steering control. Auto123",
+      "publishedAt": "2026-08-04T20:27:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWUlMS0RMaE1QY3NMVERyWWl6N3dVZVhuMjdDUzc1QUpIMWR3VGdEdmlBYkZsSk9rQml2c0w4ajY0SHo4WHlha3NaVVZzdzhDWDN0b0RTWFNaMjdvTktkSERoV3dZaDl1Vk1XeTU3V01xOXRfQmw40gF8QVVfeXFMTlYtWEJiV2t0aTRpRllKYXhDcDAzbGdkX2tjU3BOMVBUZWpUenN0YWYyeHFxVTI4NmwzTVJ5NV91YTZtOU9KaHpKYkFSSW1MZXpRZHZDTms5cjE3YmNBZ2lyeVFwRmNuNWZXQTlEQ1hDWEZVVVFiU1FuSDF6Qg?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "072f4a31ec18c94e",
@@ -1171,6 +1243,15 @@
       "url": "https://insideevs.it/news/803668/sistema-accumulo-gigante-casa-power-core/",
       "sourceId": "insideevs-it",
       "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "53d9d41066d27fe2",
+      "headline": "Market Talk: Tesla, SpaceX merger 'makes sense' - Reuters",
+      "excerpt": "Market Talk: Tesla, SpaceX merger 'makes sense' Reuters",
+      "publishedAt": "2026-08-04T10:59:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yRGtwNFN2b0dHOXZMNXFiRDl0NllEU2xXNHRCaEkxb1k3bDNmaHh5TUNpdUhMcTRZYWdLcE56SFNpdE1SUDlnYks0a2pySXVQRFg3akVlYnFsUmlrTXVhV3FrYlBmdw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "6dcd4bbf32d3be2d",
@@ -5284,6 +5365,15 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYW1ZdWI5Z2ZDMVZ5bzB6YmI5WVNoQjBlMFZvdnZ2NHhFUFJfeGpkUjBwNGk1dHRxaGY2dzdKQzJsSTNFRVN6WmJxR1V0eUV6T3FGZlJnN1pibWZtZ2tSNlJnM19FT3BXaFNVMHhIYk9Bd0tFRXhCUElBNHRzX3BoVWF6OVp5UWkwak9mVHpsQU3SAZYBQVVfeXFMTzdqWXBPc0VubUpCdmNhYmZIeEcxMGQzYTVnUWxhNkRXX1ctVTdpb0xhampxV2VlTnBLa28yS1B0dU11dlNTVUJmZkNzclhPRFMtc0tzbjBjVlVvbzhFZnVhZDJOSVB5R2I1MFM1RFQzLXhSWjUwb2xmWGhxamhnNG1DRy1URjhWVF9selN2QWlJUjZRWlZn?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "36d5004c23704c3a",
+      "headline": "Law firm MSOs spark demand for dealmakers - Reuters",
+      "excerpt": "Law firm MSOs spark demand for dealmakers Reuters",
+      "publishedAt": "2026-07-30T19:23:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEhZVTJ6d0pOUXZCbmstSTBwS09kd1J5YjdtZ3RMSHBQWDMyN3BVNHgxbFNMLTM4LU9wOXBVeFkwcjNWbGE2Ylk2cERQUHpaMjlNYThicnA3UmY4dVBNM3ZZMXl1SWxtMVIxS0xSYkFWX3NremRLS2gwby1lQjFVa0Q1SUdtNWpmYVphaS1nY29MaXpVQ0pUMw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e6cc2feada222a7e",
@@ -44911,96 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUhEekZKRlctekpsNF90TEd3N3BRb0gxYkQ5N1pLOWYxWmhTMnNjRGZYalJnWm1OTGNaWWdNaTFYbjJ3dkJFaVduZnF3Z01paHU2S2hsRkxLTzhDMl9MSmU3YXNJRkZmTmxRQTI0M25jck1oNzlTMEFxbTVUWm10LWJJZ0xPbU14TVNvaHdDOEE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "74931c9d62ec7e19",
-      "headline": "Tesla Settles Lawsuit Over Fatal 2023 Crash Involving Full Self-Driving",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-26T18:19:31.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-settles-fsd-lawsuit-johna-story-arizona-crash/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-settles-fsd-lawsuit-johna-story-arizona-crash",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "23207e8d0f26de49",
-      "headline": "Europe on high alert as killer heat set to move east and south - Reuters",
-      "excerpt": "Europe on high alert as killer heat set to move east and south Reuters",
-      "publishedAt": "2026-06-26T18:19:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFpyUUxIa0FodFcxY3p5aHVfTUJ4WUVmaXB0bnluSlVWNjZGTTlYY1pfOW5fUVRUUXQzeFpMb1ZndzlWVkkyV1ZZd0ZtM2NHNkU4QU9vVm1raUJwQmtEOWtfdjBaT0tvUlp3dkxPdnJtbGxydzRFTTZ0V1JTVEQ1NHI3ZHpUYUpaRnhOS25GSldLNzFzX2lVZl9R?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6dc7559e4c418117",
-      "headline": "Tesla introduces new storage accessories for the Model Y",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-26T18:07:51.000Z",
-      "url": "https://driveteslacanada.ca/model-y/tesla-model-y-expandable-trunk-sub-trunk-organizers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-y-expandable-trunk-sub-trunk-organizers",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "0ccd4f9dfa5c658d",
-      "headline": "US energy firms add most rigs in a week since June 2022, Baker Hughes says - Reuters",
-      "excerpt": "US energy firms add most rigs in a week since June 2022, Baker Hughes says Reuters",
-      "publishedAt": "2026-06-26T17:51:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDByVU9jRmhHYXp2LWxJdHpEcFc5WUQ5aDhzbmFMVjNyN3FKdW5ldG1RT3ZndkZHTk95RnhpUTAxb2l0SjBJYTJxeWlyOFkxWFZuUFR0dTJPeWVVblVWcXg0dGxubFNUODhrRThjY0pmdnhmd3BYcHZlaHBQZGJJY3IwOHJuS0YtSkpHWDdLMkFScFlpd1pZSnNRNGczZkc1VHJKOWtLVm9McTRhZXBZcUJtRHJENkpIVEwyTw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5c48ec6eb0fd6b2b",
-      "headline": "77% Of Americans Agree Republicans' War To Make Gas Expensive Was A Bad Use Of Hundreds Of Billions Of Dollars - Jalopnik",
-      "excerpt": "77% Of Americans Agree Republicans' War To Make Gas Expensive Was A Bad Use Of Hundreds Of Billions Of Dollars Jalopnik",
-      "publishedAt": "2026-06-26T17:23:46.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVU4cW9oY044ZENyUDhRS1piNHpMRGJBU1V4dkhOZ3I3aGlTaWlvaXBia2szekg4OWt4NVJUSEVmcFUtaVJPVlBQWEZOdHh3aTc0QVVMcVFpVktKRW9fUENBUjBPbWV4ZGp6U25nYlZjMmpfVjBFcHdBWmtzaU12Y21SVEowVkMyT3VMLW9OdXNKVUlLNF9JcWMzeHAzUGl5RFE?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "49a6c6e1eb7505ac",
-      "headline": "Luxembourg will be European headquarters of new multilateral defence bank, Carney says - Reuters",
-      "excerpt": "Luxembourg will be European headquarters of new multilateral defence bank, Carney says Reuters",
-      "publishedAt": "2026-06-26T17:14:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3J1WGJKMDlTVnEzQ296Y2JMS0dzTFJIYWxOTmRscWxpYU9WZVc2bGVBZ1BOT1RKRU9KV1RQUnRMWk9mTndYaW8zYzhleGdIRUk4eDE5OVBuNV9mVkd5ekVEX1FXMmpjMHNYbTNxQTRrVUoxQ1Vwd24zZFpjRzR5YjRCSk9iT05qcDBrM1NZMzlzel9HYzhUY3UyckxTT0sxYV85T0ZQRmMxMVZwcTZHN0p5Z3J2U2Y5cklMYXRVMmNLS2hGeVowSFNB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "99f851b5f6306e26",
-      "headline": "IMF chief economist says Fed reduction in rate guidance is 'entirely appropriate' - Reuters",
-      "excerpt": "IMF chief economist says Fed reduction in rate guidance is 'entirely appropriate' Reuters",
-      "publishedAt": "2026-06-26T16:51:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFJodzI2RUlTQWNMWmJUU0pqY3dzX0tXdmg0c0JEZE5ya2dkbF9SejgyVE1BZEwybDVvZlZJbXRwLTlsRU1XRjVOZ241OWZfeGFfRjhURGlJUm01dFY3bmdoemtaVmcyWnV0cUtPYjRUX3dINWlCSDlfLVF0djZQOHZ6bWZucUhkLWMyTU1abnh2X1QwN1NQZzF5aW1yc3dfMkl1LVJHbTBtSGJVdWZmTlVVNlBub3ZRa2c?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f7b379cfe481adca",
-      "headline": "Silver miner Sinda falls in NYSE debut after $213 million IPO - Reuters",
-      "excerpt": "Silver miner Sinda falls in NYSE debut after $213 million IPO Reuters",
-      "publishedAt": "2026-06-26T16:48:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWF4ZTNUcGZWYUNvSXpfWUtCdk9TbWNSVDFfdmxIOGxhWlFDMVlGVG91MmwwZktHWjc2SjVxa3lTYzF4SkFvVV92MHBaSURKSmJkcm90ZHA4UGJTQmxrR2VQOVBtblgyd0NsVWNTc1R6UkxOX1NHWXBuSVdwRHU3YVRJYkJnSVl3a0JoOWllQTh6XzA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "969e1e34c3ab350a",
-      "headline": "Check out ARM Holdings PLC's stock price (ARM) in real time - CNBC",
-      "excerpt": "Check out ARM Holdings PLC's stock price (ARM) in real time CNBC",
-      "publishedAt": "2026-06-26T16:46:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HblNZbVpBWnB2bGpPcGt1cWVuem1iM1NCVllnaVNHWnRLTUNFenN6LWtrX0U2c0xfMW1jMVdla1RzM09wYUE?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "2e146685ab235924",
-      "headline": "World Cup tickets were too expensive. He's traveling to seven countries instead - Reuters",
-      "excerpt": "World Cup tickets were too expensive. He's traveling to seven countries instead Reuters",
-      "publishedAt": "2026-06-26T16:36:54.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEJ3YlNEQWRkbXIxeGpESy0zLTVWU3VsTWJRNWpTZHpCb3pvUTY3UjQ2ZEQzUzJlcU1jeDNQQnNGNVJaMUR4Yzd1bDY2M0RxRUtoa2xwRGRFYS1heldSMUV5X0NYY1gwcUl0d0NLYXR2X3lYSnhGUkhiRGw0aXFTV1d5LVlqUjRTbVBKcVJBR05MNThWYmlCREp1OHhibmJoamZ6eGI3NVN1OXR5clc2Ul96QzlWOWdxbEx5d3VUOVpXTXFfZ2lBTDdkYw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
