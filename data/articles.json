@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-05T23:59:59.066Z",
+  "lastUpdated": "2026-08-06T03:27:07.795Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "af4b15eed5eed5f6",
+      "headline": "Lucid Aims Another Salvo At Teslas Robotaxi Business",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-06T01:55:55.000Z",
+      "url": "https://cleantechnica.com/2026/08/05/lucid-evs-robotaxi-driverless-tesla-cybercab-elon-musk/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "af5356ca98549946",
       "headline": "US refunds $100 billion in tariffs struck down by Supreme Court, filing shows - Reuters",
@@ -19,6 +28,15 @@
       "url": "https://insideevs.com/news/803934/evgo-tesla-superchargers-v4/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "d67c9071ea999729",
+      "headline": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers - CNBC",
+      "excerpt": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers CNBC",
+      "publishedAt": "2026-08-05T21:30:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HUG9NNXlkckZyZGl0MzVqVVpXVV9XLThkdkZQOWRMaVJYT3RhYk1Tck1rZlVxVnJmZnJzbGt6M2pIVDNOTEtvaE9TaE1OblBfelR5aWx5TUdta2FvXzN2Xzd3QjVjc3lsTWZfSFVuMUhOR2x6OWp3Mm5VUjNBZmvSAYQBQVVfeXFMTVU1alVxT1pDZTd2eldJSkNpQVdPMEljVE5yVnl4a1o3bTlMMTZJMWJEc2FPOUgyeTNQdkkwcTJzUm9QcmFCdjhRVkZRZENJUEFWNjZ5SmpPSklLazNqLUhQTkc1eThMS0FpdkdWU0NweVBocVp2TnZCb3FJU1dhWTVsZk5j?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "ce9ba5a7b33fa2bc",
@@ -127,6 +145,15 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXFQdFhZYW5xaFFuUzJDd1BsMm9uRlJUVDFLakt5dndfelBnRURjeU14YW1NZWNDRHhnWWhNM3JUdDU0UU55TExlOGRhR1JjVVRwUXZIdm1ub3RJektyTXU5U2pMMHRNVXVJWkdBWktfNnBvUVhOV1ZiTkVzNEpNamppQklxYjFRTExvNA?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3a53e26d047d2550",
+      "headline": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more - CNBC",
+      "excerpt": "Stocks making the biggest moves midday: Alphabet, SpaceX, Shopify, Newmont, Insulet, AMD & more CNBC",
+      "publishedAt": "2026-08-05T16:15:28.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWVCdTZIaGUzYmF4NElBYmQwQ2kzYVVBQWMzT18xVXBQVm9HTzRZalpKSDNwOU9RbHVIWUEzdF9rRHd4WHRhbzNmb0pfTEdnaWI3UXRMbWdzNDI2SlNMWHFrQjR4dlZHLUZyd0R3ZVl6cXpHbVN6NWFGdkdmVEtJSFF0SnFTSV9EUmFMVlpnSkx4ZnJ0UXFwX2xQV1JOMm85SEE?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "80ec426dd3ede8d7",
@@ -1117,6 +1144,15 @@
       "url": "https://insideevs.it/news/803668/sistema-accumulo-gigante-casa-power-core/",
       "sourceId": "insideevs-it",
       "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "6dcd4bbf32d3be2d",
+      "headline": "Market Talk: Tesla, SpaceX merger 'makes sense' - Reuters",
+      "excerpt": "Market Talk: Tesla, SpaceX merger 'makes sense' Reuters",
+      "publishedAt": "2026-08-04T10:59:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjeUZpcGpfX0s2cWJMRVNfdUw1WDlVdVJNMUx0amZQNlpEMk9GRUZydzVsZjQ1Zzl5R2tWY3hzZUlTUDN0dDZ3V013TmlKVEMwTGNXbmowQVhVeFN2b2lUX29sUnBmcGtzR0pibHlNdGZ1RUxCSlY4MXVTU3NkZw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "bb84d204a8cbca90",
@@ -44965,42 +45001,6 @@
       "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch"
-    },
-    {
-      "id": "4860d921c590fc7d",
-      "headline": "EDF agrees to sell US, Canada unit to KKR - Reuters",
-      "excerpt": "EDF agrees to sell US, Canada unit to KKR Reuters",
-      "publishedAt": "2026-06-26T16:25:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3hpVUJVeE5iUWhhUk1vaHZFNjJBejNudGktSS1QVkwtZFZEY1ZwSEFLbEZnbzhzb0Y0VzlaMUkxcW53QUwtblNGUTd2a3hlRXZOZ0Z4MHgyRHFpeXlxU0tzaUItdC1KUFdJUEM0Vm9LTDVES0hpTzBJZ1JocUoyZFVDOWpTUWVGTFJaTW9Pczg2TWNx?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "523897a3ec6d8f64",
-      "headline": "Why Bristol Motor Speedway Went From Concrete To Dirt To Concrete To Dirt... - Jalopnik",
-      "excerpt": "Why Bristol Motor Speedway Went From Concrete To Dirt To Concrete To Dirt... Jalopnik",
-      "publishedAt": "2026-06-26T16:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeVZUQ3FoU0d5bXRiaGtxWWJnUWFkLUNER19tVjhhbUZFMjZPR1NUYkZRaTFaMU1CWmhjTjNURXg0NXZscVlQNU1UOWlNaFFxc0RoNVhjZFNfcHQ4Nm9zVmRTQkhOY0NLY0NiYzZOZk1TQnFKSmZtMFJNSDJlakpIeV9YQUN5SFF6UXF3eGhIRzRQcHU0MVZSdUVJQTRteTZVVERhRy1xLUd4dWk0Mm85MS1SMnNzMm93dEpJWms3OTR1QnJ1dkpqWDNZRQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "d9ce08f3b801bd9e",
-      "headline": "Slate Says Every Truck Will Be Profitable, Probably Because It Makes You Pay For Things Every Other Car Already Has - Jalopnik",
-      "excerpt": "Slate Says Every Truck Will Be Profitable, Probably Because It Makes You Pay For Things Every Other Car Already Has Jalopnik",
-      "publishedAt": "2026-06-26T16:21:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fSmk2LXVnRXJ5R3BkTHFDYVBrTnI2SkZXWFR1ajBkTy0xYlgtU3pyV2dRMkVmNDhxeFlGNzFjRTJlYzJobWFWYU93dThGVXM4bFJTRFViUkpHczlIelNtQzMybzJpZnZzbUYxcE5NTzhGbXRoX3NGdHBB?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "aa8dd38f0d98b3a7",
-      "headline": "Central bank sees no need for extra measures as worried Russians withdraw cash - Reuters",
-      "excerpt": "Central bank sees no need for extra measures as worried Russians withdraw cash Reuters",
-      "publishedAt": "2026-06-26T16:19:10.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTEtWkpXZnJpdENzOS1reEh5V19wYmJ2bzNlajNiYWw1RmkwTUlRSHQ4cUhhUktZeDl1NnpMb3hiMWpIOVFLWjNyNFM1TlNVZkE0TjBFRll6R0cwN3FkVDYxYkxiMXpmRG9MVXZNVlRZWEtGWFcxZVRnZzVfOUtzdnVKR3RKVjNVRGpSQml0WGVlQkZzZEdwdHpkbmxkOWpsSmthazUtcm9sdFB5eVF5YlRhWmU0NGQzbmFtMEtJMzJPdw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
