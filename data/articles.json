@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-06T03:27:07.795Z",
+  "lastUpdated": "2026-08-06T06:10:49.685Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "1b8de5e1f242e7b3",
+      "headline": "Space finally faced the people living next to its next Terafab mega-project",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-06T06:06:26.000Z",
+      "url": "https://www.teslarati.com/space-finally-faced-the-people-living-next-to-its-next-terafab-mega-project/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "af4b15eed5eed5f6",
       "headline": "Lucid Aims Another Salvo At Teslas Robotaxi Business",
@@ -10,6 +19,15 @@
       "url": "https://cleantechnica.com/2026/08/05/lucid-evs-robotaxi-driverless-tesla-cybercab-elon-musk/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "38945be11b49e109",
+      "headline": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI - CNBC",
+      "excerpt": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI CNBC",
+      "publishedAt": "2026-08-06T01:21:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjlOaGdLNXYyVkxacjVDdVZnNFY3Q2R5cld6RUY3ZUFDT1N3THNweGJBS19fWTNJalBHN01BT3VmQzI0bUgyT2dGVWsyQzF3WHBWOUtwWllSdkNDVGNVZ0NvelBFcl94SDlRSDNTZG1WOW96d3VPdVNpZmNSOTd0NWM0ZFNaVUXSAYwBQVVfeXFMTU9NazhUSE41MHZzdEdsMXltRUN3Q2IyelhRZDJJdkRTMi1qcEJVeWNHR3FOa2dibWx2ZlhlTjR4b1lFdzBjTXN5WmJXTFdNTkVqU0NQb3pXMElnYVF2RjRVSHJXbjR6XzRkcUg1MDFKaUpJb1dZZnhKQ1k4VW9qdWRGRXRsYmVZY3hjOVo?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "af5356ca98549946",
@@ -766,6 +784,15 @@
       "url": "https://www.teslarati.com/tesla-fsd-speed-strategy-owners-confused/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "a76498ecbbf2b4d6",
+      "headline": "Flock Cameras Violate Highway Safety Standards As Well As The Fourth Amendment - Jalopnik",
+      "excerpt": "Flock Cameras Violate Highway Safety Standards As Well As The Fourth Amendment Jalopnik",
+      "publishedAt": "2026-08-04T16:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGpIV0VYTGV5QUxNLXRfb3JJamNNcE5XcUZpbjlTR1lxWmRCVm90UGlxa3M0MVktX3Q4cVloTGhBem9OWEJEN3FqdjFlRkt4cnhOZE4yb21vVkQtQ0JlaUk2TGp3dDRGM3RaWHFfd2ptNElnaHBaM0dBNEF0VUNNeVdibDdUa0U?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "9d2ce07d9312e8ea",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEJ3YlNEQWRkbXIxeGpESy0zLTVWU3VsTWJRNWpTZHpCb3pvUTY3UjQ2ZEQzUzJlcU1jeDNQQnNGNVJaMUR4Yzd1bDY2M0RxRUtoa2xwRGRFYS1heldSMUV5X0NYY1gwcUl0d0NLYXR2X3lYSnhGUkhiRGw0aXFTV1d5LVlqUjRTbVBKcVJBR05MNThWYmlCREp1OHhibmJoamZ6eGI3NVN1OXR5clc2Ul96QzlWOWdxbEx5d3VUOVpXTXFfZ2lBTDdkYw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d160a34c55178d2e",
-      "headline": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies' - CNBC",
-      "excerpt": "Trump threatens 100% tariffs on countries putting 'Digital Services Tax on American Companies' CNBC",
-      "publishedAt": "2026-06-26T16:34:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rVFNQMjVvTTBlMW05cnJ2Nms2bllNMTdvQ0lodjRBTUUwRjFmMXd1RUNRd080TUJRUUVRQTR3U1FmTTFEZUtDWTdhUHlQUUhjeExScDUzOHotUHpDR2Z1LVNSWGFBZ00yZzItMmRMVTBoQdIBd0FVX3lxTE5NSVpGellBSlQybDJTX2tJd0pRZmpXM3BQZXlzMUtWYVd0UVJrQjNYX3lWZkxMN0IwbW1ZeURFNGVkOHJKMWdDVDVFSGU5TDAtcXRQbmFMUUpmWEo1VTE4eU1nQ0N0YU5mR0hiRjJuMEtJUm5nMmZZ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "4c8cbdd0aa997972",
-      "headline": "Tesla settles FSD crash lawsuit as federal investigations continue - TechCrunch",
-      "excerpt": "Tesla settles FSD crash lawsuit as federal investigations continue TechCrunch",
-      "publishedAt": "2026-06-26T16:32:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGppeHM2SUZCeElBTHBqX2ZONTJCcmxOMlllcjJocHptbGdVSy1sdWJIbXZyVDNtQmVsblBQS3VGR1BLeWx5MnpvSFNDWjEzM2xaVDBnTGFYZldUMHkxcF9mRWk3ZUktQTRVVE1oV19lTGsyQVA0TzhWTXdfT1JERDhnZGtaV3hYemFsdzV3ekVGZHNmOUl1VXpSNGlNWmNqS0VF?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "a06eab7e20401b68",
-      "headline": "Tesla settles FSD crash lawsuit as federal investigations continue",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-26T16:32:55.000Z",
-      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch"
     }
   ]
 }
