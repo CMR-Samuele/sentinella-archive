@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-07T21:36:49.521Z",
+  "lastUpdated": "2026-08-07T22:32:38.503Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "99f2dbb2c0143a6f",
+      "headline": "Mark Ruffalo Says His Kia Beats His Tesla, and NHTSA Just Opened a Suspension Investigation to Back Him Up - Yahoo Autos",
+      "excerpt": "Mark Ruffalo Says His Kia Beats His Tesla, and NHTSA Just Opened a Suspension Investigation to Back Him Up Yahoo Autos",
+      "publishedAt": "2026-08-07T18:17:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUpMQVh1Z0hYeTdpQ0NkU1hFM3hOOHFsNHpiZGNKQXdZYkNHbWNqYUQydnR2TE52NExablNZM0ZBYUxKdWJTOTNRZm9OUnFtU2JPNHRNRjNyRi1nQlI4THBtTW5IaVU1RDlEX3NlR2o2NkdZNmxEcFBveFFTVkxKTXBzdXBfaDg5UzFVT2ZOakI1cHQ5MTJOdGR3?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "91eb712dc39bd3a4",
       "headline": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
@@ -1450,6 +1459,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVG1JT1FCYUUwaXhJVGdXazBwb0plYk1uUzJDbFRfc2RTOU5MWWdid1ZCZGlKeXNvUkVWNkh3bk1LdjJTSDN4Q1FieDZJOHJsT0JsMEhhc3FENVdqWHd6YUVsS2dtQ3JvZ2xJdHIyQUQ4Rk5TSkZYYVBzUFlZbU1OQmoyMWo5S0VjaTBYR19YUnozMS0wazE4?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "196edd523cdfb95c",
+      "headline": "AMD to outperform despite post-earnings slide, Wall Street analysts say - CNBC",
+      "excerpt": "AMD to outperform despite post-earnings slide, Wall Street analysts say CNBC",
+      "publishedAt": "2026-08-05T12:02:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1k4OTl2cEZoU3J3S3RUTVVITllxalkyWE9xWDJKS3kybGRCa3FJVGROaGVMdUdmb083bExaMGZ5TW9XeTBzNlItOS1UZEdSR3l5NWdKVWp1cVc5Mkg0Z1VHUnhObFZzZ1BTWXVYc25XUk5KYU5NeTZ0cERwNzNqM3VRY2pzWlhhVEpHN2xhOHc2Q1dQY3Z3SU04bU5aeVlrbjRR?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "8d02e0139c3d8023",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWtDWVFnWF9YUmpscHpGTllNNGNHcjNHa3MtZGpZZHdfOF9mdkVrR0YtTkNpS0tHQnNPUkFwRUpMdXdZOFNWR0hYZ2x3RndLckMxeXZ5S0ZESzR1YnFPbnA2dGdYZXlaS1U3S1VnR1dNQUIzYVZ2ZDFKLUU4Q2lyNW84UGpuTVF5aWRobzBvYjNub2FhanhYWG4wU05WUQ?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "b1dd3a22f819e88f",
-      "headline": "New York launches tariff relief program for farmers - Reuters",
-      "excerpt": "New York launches tariff relief program for farmers Reuters",
-      "publishedAt": "2026-06-29T09:09:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDl6YWZ4emt3dWRQTGZnS0ZmMjh1ZllRVG9tVDBTWENxNEh6cktTVkhNLU40TXlpdVJSU0NWZVBCM0gtdzRmQjljeXpVc0F6ZXVuSGlNaWU3T1lxWHRidXk1NFdLbDNXMmJ1RWVDdlRnSDd5bDVsY093THBYdTZiYXlOaEpjc0hpRUNqX3llOFFDREhDbEx3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "28bd4bb4eae33e43",
-      "headline": "Euro zone corporate lending growth at 3-year high, ECB says - Reuters",
-      "excerpt": "Euro zone corporate lending growth at 3-year high, ECB says Reuters",
-      "publishedAt": "2026-06-29T08:20:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzUyc09MZGdIdVlHM0NWOWQ5V003T2puTFJkRE9tOV9GTFZVcGJsS1NzdlZ4SGdwTmV5eldWYnI1YURhY1JZa3BJcUdlZmZkRTVaWXFEWUsxakNLUGhCNG8xS2xVVUZ2MlZZSWFLUDNEbmdfZDRFdWJmZl81T3hrb2JGa19ZeWVIUjdkRlBtT2lFbnNuNjBmTWVsSzJTSG1oSEE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
