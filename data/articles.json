@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-07T08:11:39.973Z",
+  "lastUpdated": "2026-08-07T09:31:07.372Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3c4a8b64586ede73",
+      "headline": "Tesla Never Made An Electric Jet Boat, So This YouTuber Built One Himself",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-07T09:26:23.000Z",
+      "url": "https://insideevs.com/news/804151/tesla-powered-electric-mini-jet-boat/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "f7681778bcb27f1a",
+      "headline": "Tesla Asked The Dutch To Promise Its FSD Data Would Never Go Public",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-07T08:59:00.000Z",
+      "url": "https://www.carscoops.com/2026/08/tesla-fsd-europe-secret-data/",
+      "sourceId": "carscoops",
+      "sourceName": "Carscoops"
+    },
     {
       "id": "cabf97da102446d5",
       "headline": "The Boring Companys newest Vegas Station has a permit quietly waiting behind it",
@@ -10,6 +28,15 @@
       "url": "https://www.teslarati.com/the-boring-companys-newest-vegas-station-has-a-permit-quietly-waiting-behind-it/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
+    },
+    {
+      "id": "a6845421efdbf475",
+      "headline": "Volkswagen must act now, controlling families say as investments suffer - Reuters",
+      "excerpt": "Volkswagen must act now, controlling families say as investments suffer Reuters",
+      "publishedAt": "2026-08-07T06:34:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHhIbGJHTVZGN3FHeXJFSkgxTW1vSko3OVRQWnYxTGhhTG1qZXVxQjVpMS1qWHJZdzRUeWVXSGtNVDN4RVVjemM1NTIwemZybmtrdVpHR0d2ZmlPQUc4V2xTUE54SmtVT0dob3BydGRhSFpBU1E2WDNTRjVDcER2SUtROE5Ja05yenVsMFktNjdoV3QwSG53Y1dJMm5LRmJnTUJZZHBlUWc4ZERKSEFSdUN1VWNqcGZEQTZ2eVh5Z3JtM1RJN1E?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "756da482cae3d3b1",
@@ -1360,6 +1387,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWhKWko1OGdTSHlTUHJKSlJDbGxuN2JsTHJFLWpTTzFyVVhiSG9TeXM5YlBHT3RuWlZMcVJVTEtmSkN6a014ZDU2a2tNWTlyZ3dCdjZldlRiakRBZXNDb0dpdGt4OG1oTC1tWWtVNG9YeXZ5Q1VGallnZUdVTU1STEFFUWQyUzVkOHpSbmZOb3BHcEstVEhn?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "54540d246f97c957",
+      "headline": "Fed's Schmid calls for tighter monetary policy to tamp down on 'too high' inflation - Reuters",
+      "excerpt": "Fed's Schmid calls for tighter monetary policy to tamp down on 'too high' inflation Reuters",
+      "publishedAt": "2026-08-05T00:18:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlcwQjJOOFUxZkF5MGdiaHZmeldYOEF6VVZ5UGlBTU9va0pET0E2bUdSOFdxV1hiemlUZTZTZlpoVGtlV1FtZDNqeExGMXlWU0NMSUxvTi1zNWVnemdPeUd1ZHJlN1J6cUhlY292Wl93NU1HMnQ0dVN5UVRhUlhQZ3dRcTlYeDlLUE11ZEdZVi1LWG5icDNEWmFiUVhDVy1ucUduTnBOMXJQNjhtTjhGQUJB?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e922d3fe0bef49e3",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbE9Ld2h0Rm9LVExSeWZZZlNxclBKT2IwQzFpcUJKeXJVUlBrMWtqNGRmMW5BNFZtVzM1WnE3ZUl5S2RNZHBHajNKbnoxR1lkUDVmRlJ6Qkk5U2V0MHlrYmdNcEItN3VoUjRRT0dlU2pzQUthRzFsUC0wMTZzTFU?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "cc1e7df3f9e92990",
-      "headline": "This Is The Top-Ranked Quick Oil Change Chain In The Country - Jalopnik",
-      "excerpt": "This Is The Top-Ranked Quick Oil Change Chain In The Country Jalopnik",
-      "publishedAt": "2026-06-28T19:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEpxdlVHREJWbFVzVmpiRlh2dHItZ3NMN0ZXblVvV2JWTUxpQ0hnbkM1ZzR5WHRXNkY3UHhEcnlWS255VHUxLTJTQW1LQWQ3bHhZWllJdTBRUEpVb1lZRjZuS2RBbWVpUi1YcU9kV09yLThVWkR4MFJDam9CM2Qtcg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ca6e018de1097673",
-      "headline": "What Defines A Full-Size SUV? - Jalopnik",
-      "excerpt": "What Defines A Full-Size SUV? Jalopnik",
-      "publishedAt": "2026-06-28T17:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kQzA1bERVcUQ4YlI5WmRuRnc2RTlEdDdjaENfbHROMGp4Q2pNdm8tVWpFbVRvLTV5bEpKX0FyNXRSSEp3R3V0SDBMRzUzLWk5ZVd3SEp6NmtjTkVnUklBMVpwRUdlQQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "b64dfa2439fb41bb",
-      "headline": "This Super Hard, Dense, Oily Wood Is Still Used For Bearings And Seals - Jalopnik",
-      "excerpt": "This Super Hard, Dense, Oily Wood Is Still Used For Bearings And Seals Jalopnik",
-      "publishedAt": "2026-06-28T16:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDQ0c3J6OU5PZTZMZDQ0ZjBDQTlvQnNpNWRhYV9qVTV0X0Z0NGxaeTBPc0RDS09vY1AwbU5ReVpFR3FSRG8tc2tkNm85QU1ZdFVwT1B6dEU2cmZ2R3lDekZmZWZYbzFOanl1R0pYUkRPNUQ3U0puYlFfUUVXZVY2VVJRNlpJVEZ6Z3c?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "c07169496a89bf94",
-      "headline": "TechCrunch Mobility: All eyes on Tesla FSD - TechCrunch",
-      "excerpt": "TechCrunch Mobility: All eyes on Tesla FSD TechCrunch",
-      "publishedAt": "2026-06-28T16:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVBoUGJfM0FDNGhPdzdLeVlDVExWTXY0d3VKUFNDREJQczQ3LWdiUXNvdlAtRExzNEI2Y0IzbHQ5eHJhdTgyYURvX3RjRkdJbFRkWHhpMjYxaFJ0cV9Wa0JVN0JtMjBpNU5BTGR0cnc2TUhpMzBZb1JIbV9pSk9xQnZ3?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
