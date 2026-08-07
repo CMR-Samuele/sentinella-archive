@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-07T18:10:40.841Z",
+  "lastUpdated": "2026-08-07T19:30:18.390Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "91eb712dc39bd3a4",
+      "headline": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
+      "excerpt": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters",
+      "publishedAt": "2026-08-07T17:50:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "328643ea2a739608",
       "headline": "Tesla and SpaceX Confirm Grimes County, TX will be home to Terafab",
@@ -84,6 +93,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "654a53d35cda53ae",
+      "headline": "NASA Needs To Save The Satellite It Needs To Save Another Satellite - Jalopnik",
+      "excerpt": "NASA Needs To Save The Satellite It Needs To Save Another Satellite Jalopnik",
+      "publishedAt": "2026-08-07T14:30:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdHeXp2am42MWNnemJRZHlmUEh0ZkhpbkZEeFpPYVpMQkkxeVRjUWVUMFJLN1c1a01PSmw5SlJvMnVIWWNTcUM1V0pPbEFuOE1hVlhxWnlKeDhXRHlpMXRNZnhEanJmenV6alpacks1LVNSMWEtM1BXN3hLdXB0VzhiWE0wdzQtaEE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "6ead1c90e1b9c57d",
       "headline": "These Are Our Readers' Favorite BMWs - Jalopnik",
       "excerpt": "These Are Our Readers' Favorite BMWs Jalopnik",
@@ -145,6 +163,15 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGYtNkp5ZmlyS2FKYWJTXzhkTW1uOEV1ZVZncjdoc2VGWVFncEhuR3B4NzRWeEhnTGtQYnU5RXkzbmo3NGNVRjBjOWpPbjNsc1RNa3R5OXZQc3ZGNy1qMkJaVTVyZXBfclhpUXFZZEJfUmNZaDAtdXM4ZHdyNHV4c012azRheXRBaGVIanRMMmdfZ18yN0R4Uno1a25KcmIxYkdlVHhCa0NXQU01eVpGdm9ONEZQSFJ2LVpvOVJ6T2NvWWR1d3FIWDVCbTU5NzQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "e686d6064c9c9335",
+      "headline": "JPMorgan upgrades Etsy, sees turnaround story taking stock another 20% higher - CNBC",
+      "excerpt": "JPMorgan upgrades Etsy, sees turnaround story taking stock another 20% higher CNBC",
+      "publishedAt": "2026-08-07T12:19:19.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTBHXzA3M09XdjhsNlJEdzVUVF91MU5UcllOQXlCRXNFZmU1N3dFTFNxMXNaTHRFYkRRRzBYMFB6Z1hLNkY0dUJSZGtORjNYZ1VGblB1bl8xX2RRenJBcFNhVkZIQnJVRzBzLVVULTQ3Wk1LcmZscXUwLWNEZUQ0QWg1NXhmOVU5TGFGcmhDNzE2YWNqUGJXY3MxU2pNeWFkRTRVR3ItQ1JveDBWREVpSW5BSWx6alljd2Jv?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "1e3f8b6f684afc5d",
@@ -226,6 +253,24 @@
       "url": "https://teslamag.de/news/deutsche-tesla-verkaeufe-juli-zwei-drittel-gesunken-rest-europas-gemischt-67119",
       "sourceId": "teslamag",
       "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "4e464fc30df2b5ce",
+      "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
+      "excerpt": "US stocks, bonds rally after soft jobs report; yen bounces back Reuters",
+      "publishedAt": "2026-08-07T02:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "4e464fc30df2b5ce",
+      "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
+      "excerpt": "US stocks, bonds rally after soft jobs report; yen bounces back Reuters",
+      "publishedAt": "2026-08-07T02:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
     },
     {
       "id": "e3b4bd5d20168461",
@@ -1396,6 +1441,15 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVG1JT1FCYUUwaXhJVGdXazBwb0plYk1uUzJDbFRfc2RTOU5MWWdid1ZCZGlKeXNvUkVWNkh3bk1LdjJTSDN4Q1FieDZJOHJsT0JsMEhhc3FENVdqWHd6YUVsS2dtQ3JvZ2xJdHIyQUQ4Rk5TSkZYYVBzUFlZbU1OQmoyMWo5S0VjaTBYR19YUnozMS0wazE4?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "8d02e0139c3d8023",
+      "headline": "SpaceX is falling after posting first earnings report since IPO. What the biggest Wall Street firms are saying - CNBC",
+      "excerpt": "SpaceX is falling after posting first earnings report since IPO. What the biggest Wall Street firms are saying CNBC",
+      "publishedAt": "2026-08-05T11:08:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3NBaGNWT0w1N2ppVEo0TGZzQmlITHFZSzhLbGRDUU1mcnZlZGtDbDRQSVYtT2c0T3J6T09zVDdzeTN5Zy1ELUllWTBzQXZRcXItZG4zS09rN0lZcHE4X1JraFhpTF9wV3hXMjJRQUVDajV2aFZ3RzZBWGJWWnA5dEN5U3ZNLV8wV091LUxQM0RIVkZTMzRPdl91d2hobFNidmNBUjFqU3duMjhTNjh4Zk5MOEZjMy1JbGZNejhpa1NsMjNsZk56VEwtalJERGc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "c5761b1aa28f03b4",
@@ -3689,6 +3743,15 @@
       "excerpt": "Romania blasts rocks to reroute cooling Danube water to nuclear reactor Reuters",
       "publishedAt": "2026-08-03T08:55:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0NCWUZNek9CZlFRVXdwMjJmd2R4cVhscGFpeS1ubmFhSWF0ZnkwU1VXc3Z6N1hCcDVWclZjSzVBUXNEWlJwNWpuUFhVSXh2YzJCc3RIeHlET2FKMjBadXp3NldkQXoyR0ZzWXUxTlE2QUJvMTBTQjNpVW15SzJWMEZNR09iQXhEZnFoa3VidVd6ckJfTDViSlZPbUg3bWZQUHplR0d6cGRpZWlmdlpCWVRmek5tbjZvUUpXM3Faak9MVDlOcUFJYQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "e70c3bd4e0074b4b",
+      "headline": "BOJ says global AI demand could have sticky inflationary effect - Reuters",
+      "excerpt": "BOJ says global AI demand could have sticky inflationary effect Reuters",
+      "publishedAt": "2026-08-03T08:29:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW51MWl2UjJKTHpxU04zdUM2amxLN1d6aUVLSVRGSVdYVHRWQll3YlZTUHQzQVRkSEViYjNlalQwdUg2LTc0TEM5SDVZb281c0k3VlpVSFlJeENhc3FVNHBIVlJkdG1IN0x3eFVSRUdYdkNKWm9WR1kwQ1kzWHNiN05UampoZlY2V3g5bGxkeFdKdVRiaFVuT1dqQThyZ1B5X3BIZzN0YmdPWE1WdXN3Z0J2alhRVUJUNmc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44938,69 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXdUSlRSNnJxbjhoaDhwRHNNRG9qWmU0cl8tbGNJWlNLckk0dUFiSktmRTlYWTh6emt0bUJhME9TUC1sTGNBSE1WcGJrQzhqR3NhaHdhdDJPMlJjaWxJVU9mcm0zbElSaG54ZVhjU0pHR21xOENWTVhtdHotOUd3d3MyQXRuN0l5cnBEOXhkR2w?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "d3e1603cad045d89",
-      "headline": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure - CNBC",
-      "excerpt": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure CNBC",
-      "publishedAt": "2026-06-29T07:41:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWtGdmdOTDFvdXkyM3lrSGtKd3FUcDA2NlhKWHRHcUZRb0RzaXhCdHhrSTlXMzRLd1lUc19NRXIzSEpvRGx3RmNGVjRRUy1wTkVfemJrYWV2aHluRS1aN1ZqS0otRjBWQUJPMXBNVmZ4ZmZNQnhrdnlOWldweEpVemFDZ2lRSVdvUl9mRDdBONIBlAFBVV95cUxPaGV3cDNoaG9ZWEdLYkRUNzV3UHZJaS1xSHRSakl6UWgtUUtfX0J3UXB6RlRxTlNTOUl2S2p5SWpTY1lycUx5S295V3BZTzdwYjZxeVhWTlBGTGc2Ym1kTkR1WTJ3NC1hS0RyeUFva0x1QUpMV0RNVTFEeTZjLUdPT1BQdUhGTnBGaGp5dHV5U0U4UnpS?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "ccff40b4e96a558c",
-      "headline": "EXCLUSIVE: China's CXMT wins $3 billion memory supply deal with Tencent, sources say - Reuters",
-      "excerpt": "EXCLUSIVE: China's CXMT wins $3 billion memory supply deal with Tencent, sources say Reuters",
-      "publishedAt": "2026-06-29T07:27:12.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1lpSXBra1c5eWlrY0IyOXdLRXcyX2dKWHM2YmJRVXRHWmhmMjM3UUs1MnVmN0doWGVUeDJjeGVxQkEydHZjT19jbko5X0VJZm81bjU3c1llaG9WZExyaElQWjBET280RzE0Y0ZxR1hYRnFkQ1dDYWtQRVRiTzh4VjBMR2VvVXM0TkVETkt6cjF4N2RDZi15QWlyX0NTZFBHNks3ZVM1Z3dCQmRob2Vmd0NEYXdHMlBVWHc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "88dc8a9ed32c3048",
-      "headline": "British American Tobacco cost-cutting hits 9,000 roles - Reuters",
-      "excerpt": "British American Tobacco cost-cutting hits 9,000 roles Reuters",
-      "publishedAt": "2026-06-29T07:21:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3Vwc2JXeTRDNDdRU3hiNTJuZVpVQUpHSy12a3dYZDc3Wm56QklwUklWckcwenpoMVJOQXIxWk1TbXQ5SVNtcmhfOG1SS3g0TVBzT2RvMWFseWJvdm9RZW5pQjhIVWZoVkJsZ0NsR1haMW9scnM5bjUxeXV4MTVvRldUSzl0Ui1tM3RWM0ZKOE9ITGpaV01kTGF0V0ZlUlM2R0Z4RkdFWHFoTGs?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "95222ca8534c3da4",
-      "headline": "Market Talk: 'Doubts are creeping in' to the AI trade - Reuters",
-      "excerpt": "Market Talk: 'Doubts are creeping in' to the AI trade Reuters",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RTjA2ZzdwU0JLOHBqM0htNW5YZFJ5Wi01aG5meTA3dlNfMExwUkU0ZGg0d0xkUFlodkdZc1BmbEVNWTJyZ1hnZ3UtdHZiWmFrSEVKNmJCVTZUYmFmMzlHLU1PNkVXVnM?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "bc948066bb1cbb54",
-      "headline": "OpenAI IPO likely won't wait until 2027 says analyst - Reuters",
-      "excerpt": "OpenAI IPO likely won't wait until 2027 says analyst Reuters",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXWkh4dE1KYmpxa1JXNnJzVzRudWJCcmt1U2oyMTNnMzcwVVp1aTFncjc2WnZTeER6UElRc2d6b2Y2N1h3ZVZ4a1dBZEQwYnh1QXVjOS1TNFVNRUZNVkUyc0Y5T2JuWk0?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0b63a2bda72c109d",
-      "headline": "Sectors Up Close: 'The world doesn't have enough copper' to meet AI demand - Reuters",
-      "excerpt": "Sectors Up Close: 'The world doesn't have enough copper' to meet AI demand Reuters",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMkdFdVB1WHlXaG9hUjRBOU5JZmUxelJvdlBBZEdZZzd3VVBMQXFHZkNKODRzcThTcGlLNk91dmVocEd5ZGg4VXhROTB4NURCamNjZzZGMzJsU2FJQXczWGRSc0gta0U?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "784dfc900010006c",
-      "headline": "Explainer: Tesla's road towards Full Self-Driving approval in Europe - Reuters",
-      "excerpt": "Explainer: Tesla's road towards Full Self-Driving approval in Europe Reuters",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2FfRDVPcnlmeDlYWGphWlQ5NHBSSkx6NU0xdHNYa1p3a3FmLURFZjhmcHMyYWM3VFpLU0ZvTHNiQk9ncmdMT3YxUFVLWnhoQW1hSUJCdmNHOEZ1RGFSUGdOakVLSTBGTzNvVE04el9UNUFBOUd2OWRLTDMzSWJsMzdqeFJJRG4yNHVSLWJDbTM1bEpRUm03dnRJWkJQR0k?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
