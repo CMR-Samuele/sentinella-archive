@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-09T05:02:02.244Z",
+  "lastUpdated": "2026-08-09T06:07:04.254Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b19f9cea8ea1fcee",
+      "headline": "Tesla-Woche 32/26: Model Y L in Tests, Musk-Image, Terafab-Standort, FSD-Lite-Probleme",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-09T05:32:13.000Z",
+      "url": "https://teslamag.de/news/32-26-tesla-model-y-l-tests-musk-image-terafab-standort-fsd-lite-probleme-67124",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
     {
       "id": "53befc17d21b9dce",
       "headline": "Europe Will Launch Its Own Satellite Constellation As Its Breakup With America Continues - Jalopnik",
@@ -17515,6 +17524,15 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTjB3N096YWZSWmhfWlQ5YkR2TW1VVmZ4WG5iOXFab0Q4aDd5WnBDd1VOZl9fUHV5dDFldmVrcktTcEttNkJZV1VUMi02b0xMYmdtUWJxdTdkVXdQOGEyVXluV2RzZ05tZ3pSTm8yZ1BmQm8xU0dvUVU0aVRjeWJPaW8tbDRQZ9IBggFBVV95cUxNZXVFMXd5aWdqS0xlUDF2ZTNWS1hFbjJMQTczZGpNMnlVejZQNElOQnd0MnZITkt0RUx6Q0pBb1JYcFU1R3hWbll5dktPckE5d19tcllzNzlZOE9vWGVhZTU4ZkdJNF9qMGk5Sk91LVpsbUFwVS05NWVPRXRsaUNkWWVB?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "593246f8e9368713",
+      "headline": "TSX pulls back from record high as tech shares slide - Reuters",
+      "excerpt": "TSX pulls back from record high as tech shares slide Reuters",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLVJ4cVlId25FRFAwNHBTTFdJRDVTTzJuNUR0U2h6WlEzZi1zbkVwMmxPM09XVlNGa043X0w2Z0lpVnNFUDIySWZFeGdVMjBLV0pMd3J1WEFIc182cnd1R2JlSUYwLUs3Ykh1UXBIbGtMM3FYUXRxWlBCMHdsQzZscm5Ta0pudTlkUTZJOVl3a0xNQUxEamZEUXhMSUhxalBCell4Z1NNbV9hbTUzTVFlOGNhVkxvQnM?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "85b8f9f22ffaa24b",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVk5qWFhoU1hFVzZtQjhZbmoxdkVjSGdBVWltb3FiUnI0RnM4Tm95MzR4R0pab1VZazNPUS0yWWk0a19rOGs1MUR1VXRETWh1TDFpS3YzWG1SYmRUWE1rODI5Qm5PRDBIM0RIQ3RUcGtTNDRvb2JQTmZra0xlUUNaZURGZWhIdlNyRlRCY1NkTnNDd1BXekgxQXEwNnR2dWF3MFE?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "d6fdc7a946caf433",
-      "headline": "Texas Is America's Big Car Market Now - Jalopnik",
-      "excerpt": "Texas Is America's Big Car Market Now Jalopnik",
-      "publishedAt": "2026-06-29T14:04:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yeTFONDhXUl9pallxQXVMaHZWSWlZVWVXdk9XdUtqb0FZSlFEcU1LY1BiZW8yX2pYZm1KYW1XZG5xOWhlSmZzSHRURU1lLUk2ZWM5c3NKSlpFdzhOUGQ2eUZfb2tRSzNBdE1XaExlTQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "4b4f2abc3e9e01eb",
-      "headline": "Tesla Cybercab Adopts 48V Technology but Passes on 800V Architecture",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-29T14:03:00.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-cybercab-48v-system-400v-architecture/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-48v-system-400v-architecture",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
     }
   ]
 }
