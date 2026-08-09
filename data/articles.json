@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-09T09:36:46.464Z",
+  "lastUpdated": "2026-08-09T10:32:12.478Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3e10d97f6b1e0bea",
+      "headline": "Daniele: 22.000 km in Tesla Model Y: la mia verità sui lunghi viaggi",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-09T08:31:46.000Z",
+      "url": "https://www.vaielettrico.it/daniele-22-000-km-in-tesla-model-y-rwd-la-mia-verita-sui-lunghi-viaggi/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
     {
       "id": "b19f9cea8ea1fcee",
       "headline": "Tesla-Woche 32/26: Model Y L in Tests, Musk-Image, Terafab-Standort, FSD-Lite-Probleme",
@@ -2305,6 +2314,15 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2JHd2JjTDRXbWJFLXhLMGxMQW1hV05RN1plaTdFYlNRdkF5ZmNMQm0tamhXUHVFTTJ4eUJkLUI5QlNRNEktdmVETlNXMGp4bnpYYzNya3BQdjd6clA5M1ZQcXlycTBZdkE0bEFPN0Q0VVpvM3JLV2MtRVJRMXNjMHVaZk8?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "e610e1e6c39076b5",
+      "headline": "Tech Weekly: U.S. bans China robots, 'air taxis' take flight - reuters.com",
+      "excerpt": "Tech Weekly: U.S. bans China robots, 'air taxis' take flight reuters.com",
+      "publishedAt": "2026-08-04T18:57:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44Uy1qV1l4SXFXNzVCSHdPYkIyMXEzLTdidzFrZ3NqYV9kLVVORURVeUFDZk5fOW9SZXdBZVRSdUR4Y2xPMnRNY0M5RHN5RjBtSy12MGkzeDNLN3E4RnhyR1J5a1FYdHc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "c561b4cc58864b43",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkF2Z250bW15cU9RSWYyLUllbC1XVWxRV2xPYUtSVUtaWWg0OG1NMkJFNkM1aHI3Tkp4dWxMUTZJSDR5N2VSWmlfdl9zRHN1cEFlaGdDWjFFOEdLbjlSSmJjclFaUEtKUFFMeFpJWVN3cTBtN2NyY3dRYTdydVZXRFJMVDVtcEM0YXpkV2FzT1VEV1Y5dlE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ff98fd2d48d888b1",
-      "headline": "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment - Reuters",
-      "excerpt": "Iraq's push for bigger OPEC quota driven by revenue pressures, new oil investment Reuters",
-      "publishedAt": "2026-06-29T14:14:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3RYbGpNR0F5cmx2NUpyZXBxWmJLMkswdlBDVVkxS1VVbTZkaDJjMG10UFcwbzFnckJ5c1NJcHNXVi1rX2hubjN6ODYtU2FWX2dVOG9RVWhoOEtCcVBScF9OT2thZHVuTXk2aXUxeTViVlJTc3pVTnhOaWJPV0U4bWRIelk2cXpQZEtMUm9TbUFwNWFQaWd6YWtUY3RWME9qZmhCcURHcGhPUW9XclJjcUVOcWxaOC1mb0N2WTN2a29KS25yRXc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "45e59aee1e726df1",
-      "headline": "Tesla Full Self-Driving v14 Lite for older cars finally gets released",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-06-29T14:10:52.000Z",
-      "url": "https://www.teslarati.com/tesla-full-self-driving-v14-lite-for-older-cars-finally-gets-released/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
     }
   ]
 }
