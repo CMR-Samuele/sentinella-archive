@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-10T16:59:26.883Z",
+  "lastUpdated": "2026-08-10T17:55:03.056Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3256787edc93d08f",
+      "headline": "Tesla Burned Through Its California EV Rebate Funds In Just Five Days",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-10T17:43:09.000Z",
+      "url": "https://insideevs.com/news/804405/tesla-runs-out-of-california-ev-rebates/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
     {
       "id": "c2c5499de8f2a31f",
       "headline": "49ers Shanahan crashed his Tesla on Autopilot reaching for his phone",
@@ -19,6 +28,15 @@
       "url": "https://electrek.co/2026/08/10/49ers-shanahan-tesla-autopilot-crash-phone/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "82d193eff25fbc08",
+      "headline": "Want To Work At Jalopnik? Now's Your Chance! - Jalopnik",
+      "excerpt": "Want To Work At Jalopnik? Now's Your Chance! Jalopnik",
+      "publishedAt": "2026-08-10T16:49:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxZlNiRVA1Um9vbmJqdFFMbVhWSmVQZjh1SldRcmJTN1A0UHJ5MExkR3E3Z0FwQTdyTXdMdnRvc096YnYwM2ZVOHFCSjFKdGZtUlduaE9FUmYxejdYV3laNGN3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "60381976b8c0ee01",
@@ -55,6 +73,24 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSFd0LTVPY3VyelFHbjNxek1ZdXpoY0JfZWdQWUkwODY5bFVrS3VCcE9ybnBjZGZVX0QzYnAwTkd0c0YtVTdoTlVyMGNRYUh2U3F5eWtDVjVibmFUVXk0Z0xoZDlSelVWOFd0YmFuaVYyZU5BZENHc1dwcDkyMldvcWJHSXF1ZUpzRVlRWEU1RmNBc1Rwdm11b09yZ3lXcU9kb0swUC1tXzBsaER0X0c5UFpna2d2dDdnSzBBNEdzOXdIbzAwTTN4WUlURUY?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "6863c0c1bd1cf0f9",
+      "headline": "Chinese EVs Are Winning The War On Iran - Jalopnik",
+      "excerpt": "Chinese EVs Are Winning The War On Iran Jalopnik",
+      "publishedAt": "2026-08-10T14:28:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ka0pJdi12eTBIR0JSeE5zaUtUM3htc2p2YTh5WktNSmJsMGhGYVVPNjg5elV6X2NtaktsM0NncDhRT0lzeUhKWG5JTHptaHg3cUZKTXhMTm96b1dyQksxNFdIY0tWZ2FpNkR4VldJZw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3a0f666912900e97",
+      "headline": "These Vehicles Deserved A Second Generation But Never Got One - Jalopnik",
+      "excerpt": "These Vehicles Deserved A Second Generation But Never Got One Jalopnik",
+      "publishedAt": "2026-08-10T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVdjNUpqLXU5TXlLUGgzRHl0bFpxaC1MU1g0aUJZUGxVaVhPamJnMHZvTjNKT3ZBcG13N25odzlqamlDZ2J0X3hRXzNMUzRHWWx0WmZ1cmpNbTF4d2xGdHBIWTVFdnJLX3NZRExWVHEtY1ZPOXcyYkJFMlFrZUJPM2ZGbmp1RW1zY1h0QkhFT2lkQmRmQ1MzRXJEQ1RqX2M?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "584390f9b6512c04",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnFQNVl3cE8wZnlaTjFwZ1VWX0twbkZvdHE4WlV4SHF2MWc3ZEZyQ2NhaTJJUEdJTmVXUy1KUm8zU0VKV1owTTJqU0M1V0syTGRINmZaZzFaVldDSFRDb29GVlc2N0VmV2hzVzFPODJTRXA4ODlYQnhZd2RuZzJYUzI4VDMzRnJuUmZLTkRfNDE0YXVEYURERTV2VHZ3RDBZR0xRN1V5X3pqYXZ4R3ZHOXFPR1c0eUU?oc=5",
       "sourceId": "tesla-ir",
       "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "f37da60e91d56215",
-      "headline": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle - Reuters",
-      "excerpt": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle Reuters",
-      "publishedAt": "2026-06-29T19:10:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMThDcTZvelVkWEwwU3kwMnFpQWRPWHllYl9sLTQwYmVHZlpTMzVPNlRTWDBwRkdHSERRMUpWUWs3WlRIUjhWWmtBZEV6UFRLRktpemNkb2N4d1NGSVd1RVFxWVRGUFpMQjBhZ1dNbUd1QnlRLV9WdHR4a0NPU2kzaWtpNzJrQkIzTk03ZTgxbDloVVphT1N0YlNUMnNjUnp0d0gwOVdoVzFCSXNzSHFuLW9OQWNNTy1QZmFHQTVCd0gtMVE3UnlTdTVXWHhkMUFiUWxlbUd3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d6dd0a9cd9e78320",
-      "headline": "Ranking All 5 Current Production Minivans According To Which One Is Fastest - Jalopnik",
-      "excerpt": "Ranking All 5 Current Production Minivans According To Which One Is Fastest Jalopnik",
-      "publishedAt": "2026-06-29T19:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GVzc3Mzh2OGxiVnoyVGtnWjRETjd4X1lPc2pCZE43Z3VSLWM2LWhqNW1QanZBMGhoeHM2ODAwRHo1Q3p2TWNfS2FmVkd3TkhwZzByTFZ3TXo0ZEp1eFhUcE1YS3RyRHVGV2lWODdCMWw2THF0VUVn?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "adca1b12a268a308",
-      "headline": "Ethiopia reaches preliminary deal with bondholders on $1 billion debt overhaul - Reuters",
-      "excerpt": "Ethiopia reaches preliminary deal with bondholders on $1 billion debt overhaul Reuters",
-      "publishedAt": "2026-06-29T19:03:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWFUY1B2R0pqQ0dET0l3Q21FZENMVVR1OFFUUlJFVnNybktTNzdZblBrZVRzN0NYeVFwQl80Vm44OWw4TmQ2SEd6VFlBTmtGRjJST3pmNE13MFJZNmlPVEtkS0pfa2h4dmZFWk91VUtDWnFxT19BQXJRSmxFRnBFWl8wMGprRTBNaXR0ZWxFU1JodFN5Q2JqbXk3TE1GTHBWc3h6S1Y2eWFEY28?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3284e99e85f96988",
-      "headline": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says - Reuters",
-      "excerpt": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says Reuters",
-      "publishedAt": "2026-06-29T19:02:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUszT2lMQnNpaUxGbFpJNG1KMDJJNmF4ZUJKX1g3ejBKbGhxbTRIWGNOTHBBbzA3enRTUFZDLTR6ek1fRnZLV3RUOTdGRFg2V3JOYUVSUFlhOTY5bFo5Y1JvX1V1OFRyTUZCZElwaDRTOVpSWTdITXg0YjZZeWZpWk03U0Rxcy04MzFPRUlIaVM0U0FIOFFfX01BNmpSZmx5OWFBTjZFNEdaQ25RZUJaTjlNOC14Um1LaVpaazJ2Qjh3aTZVMkE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
