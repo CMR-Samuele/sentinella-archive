@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-11T15:28:24.512Z",
+  "lastUpdated": "2026-08-11T16:25:52.513Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a7e08fd7b8942c9e",
+      "headline": "Tesla files for $10.1B Project Crystal Sun solar factory in Texas",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-11T16:14:23.000Z",
+      "url": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "a7e08fd7b8942c9e",
+      "headline": "Tesla files for $10.1B Project Crystal Sun solar factory in Texas",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-11T16:14:23.000Z",
+      "url": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "d1d92024c0971570",
+      "headline": "Tesla updates Canadian Design Studio, but dont be fooled by the prices",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-11T15:32:33.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-design-studio-canada-prices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-design-studio-canada-prices",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "41cd2245a942e1ed",
       "headline": "Tesla officially recalls 20,349 Model 3 and Model Y over headlight issue",
@@ -10,6 +37,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-model-3-model-y-headlight-recall-20349-vehicles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-3-model-y-headlight-recall-20349-vehicles",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "8e77c223a5755d55",
+      "headline": "Tesla stock is up around 1% today: can the recovery sustain? - TradingView",
+      "excerpt": "Tesla stock is up around 1% today: can the recovery sustain? TradingView",
+      "publishedAt": "2026-08-11T14:47:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2ZLY0tQY1BjTjBxVFgtY2ZYNlJ4Z2J4elBqSmQ2MnI4aVl5akIwVW1zc1RkZmdHMWVjT0xtWE5SSkt6c2hUc0pTVlhHZXRNSGI5d1lnQXAzYk1JVlNFbmtPa0M1VVRja1JnTlVkVjNXQVl6NFVvVU1pRHp0VVlSNTJqV0QwR09jd0F2aklRR2QtRGpwakdGZFV1QzktVnduWE5vR3o3NkptMDYxRVk2YnlNMTI?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "09165a97edd3af53",
@@ -174,6 +210,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "97662db9133ec1ed",
+      "headline": "Tesla recalls 20,349 Model 3 and Model Y cars in the US - HT Auto",
+      "excerpt": "Tesla recalls 20,349 Model 3 and Model Y cars in the US HT Auto",
+      "publishedAt": "2026-08-11T10:40:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGhqVC1mNldCNkxCUUtTb2xGcDF2MGp1VllIR1hrV3JYMngyZnJsYnZZTkJRV3QwbGVYbFU5Q2xMTkliX05FZktRamJVNlhfNDZGSTB0ZE9tenc3OG9mdmNOSXVCNlIyb05OaVV5Q05KRzJXM0JaMTdFSFhwaktSVVc4Zm9xdFV0bHRRSWZ1UnlwaTZOcVkybmhoYzhQcUpKWjJHVnhILWdSX3Exbk5LYkNFODFDd09HbVF2NmhhN2c0OUFPVFJNeHVR0gHPAUFVX3lxTFBncF9RbXpoUUl6VElxQWw4YlVaQkN0YVVleU5HMEVjTDlXcnpxYmw2Vnp5aWpMZWhCU2pEbk90cU0wcHUtRTAxY2xFWC0zdlVEbTZsVV9KQU5MYjZPWjZFOF9QeHd1WDJpdUhFOWtFcG1ZRTRPejl0Q0ZoN1FPdkwtZDAxVmdqR3lSenNHNkNkelEyUGNWdWFaaWtJZGdzdGRZaFpYaG1vNndmdUZ1NGJOczJET0x2YWN3YUtMeUlfN0xZbTl0N21UbDNZRi1pVQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "a49403b03e9a65d6",
       "headline": "Luigi Mangione due in court ahead of insurance CEO murder trial - reuters.com",
       "excerpt": "Luigi Mangione due in court ahead of insurance CEO murder trial reuters.com",
@@ -188,6 +233,15 @@
       "excerpt": "Tesla Recalls More Than 20,000 U.S. Vehicles Over Excessively Bright Headlights Yahoo Autos",
       "publishedAt": "2026-08-11T10:11:12.000Z",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXlIczYxci1LUjJqNHdULXQ3OUo4UmdUaVJfd1F1VGpfUWNWSEpiQTJOUDJjY1BPRWtLaVlzaFhnZnRLSTBkbWFUZmZuSmY5bm1tT25kbGI5ZjJiYXVjcW9GdWdQcTllR2lpa1lLZ0JzN0h0LUNlRHQzZVJmMkE4NjlrQ2U4cHM3SWMwbmpZMllXMTRXY1o4?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "0b82caa47da5ef41",
+      "headline": "Tesla recalls 20,000 vehicles over excessively bright low-beam headlights issue: NHTSA - thenews.com.pk",
+      "excerpt": "Tesla recalls 20,000 vehicles over excessively bright low-beam headlights issue: NHTSA thenews.com.pk",
+      "publishedAt": "2026-08-11T09:54:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHVwWkVNRDhGTTNsc052bVdMazRkMUg4OHZuZDNzeWFuQVFaM19VdnFhWTVVX0VtY0RjNkh6M3FRNUlMeHZYLVRWWWhndGliQzFKZWJMR0FOYmNyQl84dzJqcHZabWN1WndTb0JFeEdzTGU5ejhzNnJ1ZnNrZGNla1RESWVIamdxaVQzNWtSUHgtaGNHTkI3TGVkcHBvRU9mUGp5MVpOVzB1Y19tcl90ekN1U3hkVnZmeVF6UlMwZ1doWTls0gHAAUFVX3lxTFBBVTRDa1MzTW5IcDlRa1BncXZndFBKaF9rZG44VUY1dldmTl9icjBsSkhpX2ZMUklUNVNKa0MybnQzRFl5TGZUc2JpaUxVSjRJOUtJYXZTWEs3MHp5VjZJSG5MYV8zcS1GTkE5M2VYMVp6WGVzcjF2NllEYlNqQlM3VkV4aEttMUZ2ZGFhQ0gtOVQ3WlFhbGRHZGFNdnFmZkRybUhGUzU3Z1JFVWE2eGo2S2s0WEVKMkJsbjlPN0UzYw?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -1513,6 +1567,15 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR2tNazNRMDJSZU8xejA1ZGlZMURqUHdtVk01RXpGZDloaUFib1dpTVFiUmswMVVVLWJobnVadGtfTXZ0Tlp3RE50N1dDM1o0OGxaRG92MUYxdTB5bTU1U09xQVNlM2NYVjBCbk9YbnJuYVNJLW9faFJYS1pOdS1wMWdFblM5YlpqZllwM0dzbDBFQXlHMC0wRG0zcVpDNVRIYWF3cnhWem8wUk1jb1VsV1N1VE9Gd1lfZHRvR1VEM0JIbVdqcHA3b0NCTWNPZnFwTzBlTUdncERGYnVCWXlOaUtsb3ljNFRa?oc=5",
       "sourceId": "tesla-press",
       "sourceName": "Tesla Press Releases"
+    },
+    {
+      "id": "887263a9776e1c4f",
+      "headline": "How could New Mexico's $567 million ruling change Meta? - Reuters",
+      "excerpt": "How could New Mexico's $567 million ruling change Meta? Reuters",
+      "publishedAt": "2026-08-07T20:16:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDNKSFpzUmZWOFFaVEdKNXBsWUg5dGt3Z1VQRzBvVWdGaFlpb0VYUWtmVmQxXy1hUUlzNG5TdXg0YWo3emxGa3VUdHQxanBmMFZWNWxiOHkwVGJoXzg1Tm5EcDhmeFZqaFJXMUNHM3VGSnB4QVh0UHJybDRvLUxkOUJVUF9lRUtUYkh5Y2RHYzVZLUNCbS03Um9KNHFxQzJBQktCSVgwQjY?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "816d5fccb02f9aa0",
@@ -3369,6 +3432,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "6d105066c8757ed9",
+      "headline": "Bankers' bonuses to rise most on Wall Street - Reuters",
+      "excerpt": "Bankers' bonuses to rise most on Wall Street Reuters",
+      "publishedAt": "2026-08-05T10:29:04.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczJaMEJMTHVDWUZCQ0EzNE9RNzFaaVF1Sk5wczR3QmJfRG5JUG9QU1hTRUh4SHU5YVJQU21tWUZqRkNTVkZDcXM5NFNSNDU4VUtJczZBMDF6RkhQczcxYjZ3bEdOcTlfYjRpc1N0YkxpZVJ5MkJqOGF2ZGozdElFa3VnNVFNejhWeHBKblVfMFJKZnFoTzRaTA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "f692e6ca7e45d87e",
       "headline": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag - Reuters",
       "excerpt": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag Reuters",
@@ -3538,6 +3610,15 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNam8wWi1MUlFKMFNLOWFBdU5tNGc0bmc1eDBGLXp5aDlTODRPdWx2ZnFTaXdwdk1aN2Nkc0lBWGtyMkRHMThwdkUwRWNIeURiWVJNeUNsQVFIbHNRYW01ZnZUa1ZlUlZEeG9mQUJCMmEzLTNuWDNqWHpERzR0VTZST2czSGo4c1V6bUhZcmMwazdRVFZF?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "0828126353cbc344",
+      "headline": "Fed's Schmid says finances around AI buildout merit watching - Reuters",
+      "excerpt": "Fed's Schmid says finances around AI buildout merit watching Reuters",
+      "publishedAt": "2026-08-05T01:23:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzJCRzNyeWNFSm5IbzF0SE1DYWduSjI1QXZ6OUdsRnRFd2JTc3YyZi1qU2R4bVFBQWxkYmNZQW9aOVFHT3laN21iRHlrUEduZy1EaEJxak4wOHFoYXZHajJKMzVYdFh6N3RVdUQ5cWF2ZmR3bGYwNGwyQlJhRXZDRlQxejBFTUNScElZYU9pclg5OEdmb3EzeHAtNGV0NGo3a2pvUWNHbw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "cad0bdd06f60de9c",
@@ -44918,87 +44999,6 @@
       "excerpt": "France banned Iran opposition rally after monarchist threats, security note shows Reuters",
       "publishedAt": "2026-06-30T15:22:07.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTA2MkhUbV9yOVJNdnBKdUszVi1wTEdCNkk2UjRWTFMyaklPdEs0b2laZkpGdDNreUI3X3JzZ3RJMV9MSnZRWTNfQVJHSUg5Rk9KemwyNHF0dGVMN0hwbnZuNHd2bXRKaE1wRERIeXRvWXZPLVB3NG1vMFNNOVItVWtqX1BHcUpWVlVDOG9jYWs5YWRMQ3pER2UyZE1DUHdOSzJscmpaTjJFTEJ5bmtQSmRUY2dMUlB5WHF1LWlnRQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5b3b2b67b4812249",
-      "headline": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says - Reuters",
-      "excerpt": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says Reuters",
-      "publishedAt": "2026-06-30T15:19:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRqYVVTVVppVmVvRUg4MkQyRE1COURDSXUxbmFDQnVuUGU3anJoeEZsSl9fbFZEcWdZT1AxR1N5WUI1aEFKZHRzbmZKSWpzTi1UZU1BMFhldEdqSTNWZWF1di1SRmlPZTdRUGFHay1zXzB6NVhQYkNjQTdHNmNOOFljYlo3STA3QkV5QnpvLTUyOTlPV0F3eEdwdVJrN1FvUkVMcW5GaUMyeWtLOVV1V2dLcjZucWM?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5b3b2b67b4812249",
-      "headline": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says - Reuters",
-      "excerpt": "Autonomous driving firm Autobrains eyes robotaxi growth in Europe, CEO says Reuters",
-      "publishedAt": "2026-06-30T15:19:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGRqYVVTVVppVmVvRUg4MkQyRE1COURDSXUxbmFDQnVuUGU3anJoeEZsSl9fbFZEcWdZT1AxR1N5WUI1aEFKZHRzbmZKSWpzTi1UZU1BMFhldEdqSTNWZWF1di1SRmlPZTdRUGFHay1zXzB6NVhQYkNjQTdHNmNOOFljYlo3STA3QkV5QnpvLTUyOTlPV0F3eEdwdVJrN1FvUkVMcW5GaUMyeWtLOVV1V2dLcjZucWM?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
-    },
-    {
-      "id": "0a51cb67b91617ea",
-      "headline": "Ford to recall over 741,000 US vehicles due to park system issue, NHTSA says - Reuters",
-      "excerpt": "Ford to recall over 741,000 US vehicles due to park system issue, NHTSA says Reuters",
-      "publishedAt": "2026-06-30T15:17:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX29aQWgxUEtOUkMyOUQyOEMycy1SMUQzUTc0TEUtNFBjanFXbEVCVVJWVG1WMWo0cmFXTk81VWZmQkZ4a2tDVDdvR0lPd2tzUGZ6d2pkZnpabUtKemVxZ0pPVlZGaE1ISV82bUFqeklRdzFRcEtobmVCQ1I2aXhMV0xfUFdhRWsxRFlXZ1U0aHlKWkl2UjhRWGxHTGxnajlZZmF2STNtYWpEWUN6ZVVneDMzUmxMX1ZJS1JmWFR3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "9c545cc60b19b3a1",
-      "headline": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car - Reuters",
-      "excerpt": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car Reuters",
-      "publishedAt": "2026-06-30T15:17:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUUXY3MjM5aHRpTmRuUEdBMTRwalMzbloxMWRCdzBEa1hVWFlyV21hRTdPWk5wMXNReVlXNGtqc1c5dGJxbUFfVmFzcnVFcEF5Ylo1M2lQN3ZBdnI0Z01HYW9MSUZGbzUxVVRWcGU2MkRkMFh0d0xCMEJBSDB4Zw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "962cf49d5575a648",
-      "headline": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car - Reuters",
-      "excerpt": "Tech Weekly: Tesla's FSD tech up for debate, Shell unveils concept car Reuters",
-      "publishedAt": "2026-06-30T15:17:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMjNmdGZOM0lVVU1TSi1ZaWtoQzJBclYyOXVMTnZXZ2Jmc2VnZjZFQmh1cGNHbzNLdkNDMll4SW43eEdwY0lFNmdwVjNlUEFhNGlCakZoOXVjcEN2RkNkZFRlelVCZlE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c97120718c544962",
-      "headline": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers - Reuters",
-      "excerpt": "Amazon’s AWS commits $1 billion toward new unit for embedded AI engineers Reuters",
-      "publishedAt": "2026-06-30T15:15:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnN2ZVVJdDBidHNmQklYVW9kTC1ORjFFNVA5UTlRelBoRFRLWWM0ODllUzN0UkJBX2ZpNmRtRl9Gd2FFZ2R0aV94M1FpOVNIaE9PS1pEbm1aZk9xMFVxR00wdUpsLVczVXRhMDc5S1hfdUhBUzNVT1htTTZvTm9EOXNTd2NlNFNzdlZoXzU4ZFpMMzNYWm8wU3VqWXVMMml1Z0pPYzV2eUpPNlBpcURIQjhuYi1Xc2lCRkh1bmxWWXhUQkNuWjBV?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d9f9345182bb3778",
-      "headline": "Heatwave tests Ukraine soldiers in Soviet-era tank - Reuters",
-      "excerpt": "Heatwave tests Ukraine soldiers in Soviet-era tank Reuters",
-      "publishedAt": "2026-06-30T15:13:59.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYW4wcWlfZ2xTRHd5WDRFSVpBbWhUbDkwbFo2VWNIZk1sLUF2WFBpM2Zqa1NVTDFrRUFuVnRnbjhMSEk5a0QwWHRmZG9ZY0k0VjdCeld6VW5qX1hSa1BKRW05UHQ5bFB5dEd6al9lSVVVSHQ0bnhOMERHQWpPcFR2NjFLanIxMmpaUVRadDQ5clpxc1drQzBZd0hkQ3JQVERUSHFoQ2h0Yw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5705f298b7cd1fbd",
-      "headline": "Denmark launches $672 million military aid package for Ukraine - Reuters",
-      "excerpt": "Denmark launches $672 million military aid package for Ukraine Reuters",
-      "publishedAt": "2026-06-30T15:11:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1Y5X0ZTemNhNjl6M0xVUlRieFEyc21pcExoUlMtTTQ1RmpVUjVDX1J6SmRKY3MtcXp2UmZhZFVvM185amEwSFFXcEpkTDlXTHozN01FQUhxSmJ3M2V4VEhEWHZ3dm40Yl9Id3YydFBNOHNzdzlPOFNpbVcwRDlpYnFpRnVrMTRVYlk2cHJNdVpBdUtmN3lBMDR0b0hGRVZS?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "aba6289f77b9d970",
-      "headline": "Nigeria's biggest refinery imports UAE crude for first time, traders say - Reuters",
-      "excerpt": "Nigeria's biggest refinery imports UAE crude for first time, traders say Reuters",
-      "publishedAt": "2026-06-30T15:10:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2k4OEx0Uzg0cjNndDkySGFDS3JqMzhpZFhFUkl6bjVXMkJCejM2b1hJUHo0bS1jbndEeUhrbWNLcmtEeDY4SkNCU0RoVUVpUjVRRHo2eXRYOVRpV3hGSkRCNEREenB5SF9ycU9zRHdKZlNaQURtLWMyeFVPX1dCeWh4UVJRc05wSk5kdEhiNUozcmM0R0V3aTFWbUhmQzB5ZDJwQzgySGRCSUgzSTFXTm1laDdLcDVHYWc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
