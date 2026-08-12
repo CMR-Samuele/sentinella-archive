@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-12T14:56:29.467Z",
+  "lastUpdated": "2026-08-12T15:59:08.276Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "9d1b275fc2721525",
+      "headline": "The Lucid Cosmos Will Have More Range Than Any Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T15:51:59.000Z",
+      "url": "https://insideevs.com/news/804699/lucid-cosmos-400-miles-of-range/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "72912adb41d1267f",
+      "headline": "Tesla CEO Elon Musk says flying cars are coming",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T15:03:43.000Z",
+      "url": "https://www.teslarati.com/tesla-ceo-elon-musk-flying-cars-are-coming/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "a14d63fdb39e4c2a",
       "headline": "Rivian expands R1S and R1T recall over faulty turn signals",
@@ -91,6 +109,15 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUsxMkVyb29ONGx1czZiaHBWd1Y5SWdHaDFUb1JSbFJjYUd0XzRBU2wxNk8wbTdtN0lod0FoWU1IQTZJRzRqUVRMT19MNmxUSUNrZG5rQjBTRFV4UVl5ajdScm5TcUE3V2hqZkd3bFlCT2R3LVFLVWRyMzl2LS1FZ1JfV1VuNHp3?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "c2e6e094b0f76526",
+      "headline": "At $33,500, Is This Supercharged 1995 BMW M3 A Super Bargain? - Jalopnik",
+      "excerpt": "At $33,500, Is This Supercharged 1995 BMW M3 A Super Bargain? Jalopnik",
+      "publishedAt": "2026-08-12T12:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVN5TFNVbHhKMXNjcTJvMndTMnRlQU9wbzZqbFhBcFRqUjdxdTNUbzBPUGxOVV9pMFk5dlh5LUxXY2F6eDBWcHRRNVAtcHNkY1gxMmJrSmpvV19lSk1LT0hDZzNFQ2xHeE5PRUt1NzVpaDNXYl9rWFpfVVZsQjM1YnI1SE5xdmJEREtV?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "9c586fd0f9a0a921",
@@ -44972,33 +44999,6 @@
       "excerpt": "Despite some big losses, Supreme Court rewards Trump's assertion of power Reuters",
       "publishedAt": "2026-07-01T10:06:45.000Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcktDSW5URjNzT0NnRlBLRkRQMUpzMGxlQkxLMXFyNE91UmpoT0lkNTRIN2hiblI4di1xUEduRlR2ZkwwSnV5T0Z0MHFFX2FEUW1lLThzOW1uSHJwTUdLRmdDTDBSUnhlRVZkXzk1d3FFY0FRWEdJYUQ1eGFaWGxBRWxGUnlaQU53NVhpd2dKUDV2ZGZkQ2lxVkdnVW5oSkJueFk4dkVWV05heDZpazh4dHBsRUxnMms?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "008f8ee19cac4b2c",
-      "headline": "Dassault confirms fresh rift with Airbus over Eurodrone - Reuters",
-      "excerpt": "Dassault confirms fresh rift with Airbus over Eurodrone Reuters",
-      "publishedAt": "2026-07-01T10:00:25.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlVCcXRaY0hSSmxxRGYxNDNmSDZiS3pLc2NMYlI3aEV1YURDRTBYem1fYkxGLVA3amFSZUhNOGhrSnhoTWZuLTUzb0RfRUJCVFNoeWs2NEN1MHQ4aFZWY2FLTXRIV00xZXRmSmpxekx5VDlGd04xb2R4M3dYbzgtcEp2RTZSZ0tjd0t0b1Q4bWtQdUJOUmNMYXJ0VU12ZGRHR3FoNzFGczRkM2ZDX3lfWldXTHdQSGh5YXc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "68fe99f39f4ba250",
-      "headline": "Kim Dotcom loses latest appeal against extradition to US from New Zealand - Reuters",
-      "excerpt": "Kim Dotcom loses latest appeal against extradition to US from New Zealand Reuters",
-      "publishedAt": "2026-07-01T09:54:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3dMYmhRdjNHUUcwMFRwYnJJWVYwUHRFM3JRR3NlVnNxSzlKQmR1WWt6Z1ppLWRjTmRTV0hWZjhYQmtDbnd0SzBZX3hmZDdzWjdoUnpDQlZUZ3pPS0QzVGI5eVZBeU5KMGkzSFRTWkVjb2dDLVVMLUJqSVZjNUtkN2VTd0hPSEZCVXBDUm82NkdLRzVGbWhqaUZlTktvTFFzYVl0enJXUmpQZGtJNnc4UV9HRk1mZFRZamc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a38221dd73d6c222",
-      "headline": "Powerful storm hits Romania, one person killed - Reuters",
-      "excerpt": "Powerful storm hits Romania, one person killed Reuters",
-      "publishedAt": "2026-07-01T09:25:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG9yVnhOaFRqZUZGV3ZPZ1ZRYWdwQl9yZHQ0Y2dZZ3d2V2I1cVk3XzVvbms0WlRVc2U1eUdYd3RBdUtjWmZyRWJ0TVZzSEZEZFozVDZDaVFnYWl5eU9Ibzc1cmdaemhLUkxKelNNVGRGSjNNT2o0bFA2enpKWFloa1JlWjAtNE91ZENTaFFsREEzVHR3WVRYRDRNbkJlSjdrYldpMQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
