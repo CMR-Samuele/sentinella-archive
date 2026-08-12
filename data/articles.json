@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-12T15:59:08.276Z",
+  "lastUpdated": "2026-08-12T17:04:32.193Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "f05b57b97500e352",
+      "headline": "Does Your Tesla Have a Recall? Here’s How to Find Out - Not a Tesla App",
+      "excerpt": "Does Your Tesla Have a Recall? Here’s How to Find Out Not a Tesla App",
+      "publishedAt": "2026-08-12T16:48:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckpuTG10Y0NwTFJJMzVsQ1V1Ti1uelpwbktPcVl4VVJnSDZkR3hFaXRTNllab2ZFeEhPdDdyNVZZNXgxSVR4U2s0N1VlMFRnQU1XRXhGVlFnSjlJNDdfLVJ5eldzaVQyaHRoaHRGRU1abVJrRG9tdThFa3ZFR3hXRzA4S2lWMFUwUFhXMVlWSkxpdUtD?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "65ea6465b1753fec",
+      "headline": "Kia EV3 priced below $30,000 in the U.S.",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T16:38:33.000Z",
+      "url": "https://driveteslacanada.ca/news/kia-ev3-us-price-range-2027/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kia-ev3-us-price-range-2027",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "3e8e248052931ee3",
+      "headline": "Tesla wants to build a $10B solar factory in Texas",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T16:18:31.000Z",
+      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
     {
       "id": "9d1b275fc2721525",
       "headline": "The Lucid Cosmos Will Have More Range Than Any Tesla",
@@ -10,6 +37,15 @@
       "url": "https://insideevs.com/news/804699/lucid-cosmos-400-miles-of-range/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "4f2fa587036cc433",
+      "headline": "Check out Walmart's stock price (WMT) in real time - CNBC",
+      "excerpt": "Check out Walmart's stock price (WMT) in real time CNBC",
+      "publishedAt": "2026-08-12T15:48:10.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFYzhYTVpTaEVKd1BlWmNycEJzV0NrYU91RXpmdEhpWTJBVENxZEthMDNpU29IbVJMeEJlNDY4MzJUckRlWnc?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "72912adb41d1267f",
@@ -9530,6 +9566,15 @@
       "excerpt": "Air taxi developers pivot to military market amid civil certification delays Reuters",
       "publishedAt": "2026-07-31T07:03:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeE05NnU2NzZ0RlBmUzlTZnJiYTVPUUY5SUZYSHV4V1VZd0RUS1lEQzJPcmtsOGV6dlRVdHZNTnF4X0lyemlKYVAyN25PYWdoSzAtYTVmMVhKcGJIMmh1R3k0cmM4NkQxX1ltZW15YjRRUG5CZW1wSmV4T0pjdWNGaEhETmdpbzllaEpDTmcwczNfVWk3ZzFjZi1PV3JZNVphemszMkxIZjlaLUxYb2RzbnpRS0JoQWU3RmpPVmN0bVNaTU1RNUQ0WHJUbnd4RWNmWjlza2J3?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "67fa0fa5dfd36e4d",
+      "headline": "French preliminary inflation at 2.4% in July, above estimates - Reuters",
+      "excerpt": "French preliminary inflation at 2.4% in July, above estimates Reuters",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzhYcUdhNnAyUTBmbDBnTC1FeFFBeWpIN2Y2dFBxWGowcTVjRUpleGhMZTNYQzJzeXA5TVJuRWdFVEt0dkRENWktWnBDam4xUjZRYkpyd3pkTmlrMWYwdFYzY3JvbTJjT3NIYUduWkZORURkTkcxXzJOWVRySWZuSVJfMEUwUXQ2Vlcxeml0WjcwYXNLZ1VnSTJySGFqRlBxODFN?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44954,51 +44999,6 @@
       "excerpt": "US car sales on cruise control despite pressures Reuters",
       "publishedAt": "2026-07-01T10:57:26.000Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcU5RT0JPdDV4THBVQ1pUS0U3RnRpR3VYQTJ5THdjeW5WRExMSjNPS1dTUVNWVGh5RFhjMEF6MGw4Wi1ib05nRFFxbTJLWEFHUUNUa3lJanJUc1d5MEdIS1BqQl9KeFJVTDk4VE5xTDhMTVk5N21ZQUs0aEotZ1N5MFFVZE5pRVNpaWNZX1BDLWFBQjc5aG1ETkNJRHQzRGNocnFoUTR6QjczcHlSa3FMTw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1d5948f10031ef96",
-      "headline": "EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash - Reuters",
-      "excerpt": "EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash Reuters",
-      "publishedAt": "2026-07-01T10:50:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzZRUWF3N1lBNll5UXU5Z3JJTlJRSW5JRTJIZGJTeS1WV2JEb3B4M21Bd2NqcTdvdEJ3QzJXZFlIRjJwbTFGT1pUMFFtYmo0ekVJX2J0YmlMbDhhVktpMC1WT0szVXhsNXRNZVhWbTlYM21YdVQ2djVyVXN4MlhZLXYxU1Q5ZG50bml1eTdpM0ZGM2VTZmhGYlhzV3JPMFlsd1MtcFkxaTlvQnE3QWp5cUt2SQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "12f1a3b4cca1e683",
-      "headline": "Medicare's new $50 weight-loss drug program: Who qualifies and what are the concerns? - Reuters",
-      "excerpt": "Medicare's new $50 weight-loss drug program: Who qualifies and what are the concerns? Reuters",
-      "publishedAt": "2026-07-01T10:36:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHlUdFBUSFQxSHlRYlV3S1ZscXBYNnZRS1ZMWTRoaHktU0hZNTNLMHoyZ3hqa3VQQ182dm5Eb0stS0htMF9fcFpOeXFTdlFuM081Y3EtWWlTdWFqdDBOdW9Qb1k2eWRTU0xiOVEwYmgyVEtUb3RkamdHUWhFeUE2d190Z3V3UmpTVF85UWs5SXRnMS05MUlGNXhkQW5MTC1hSzNSc01YdnJyY01XYVhJcXlpVC1DRjl6d25VZkVFTThRMWRq?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "370282d58f7479ad",
-      "headline": "Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters",
-      "excerpt": "Iran insists on keeping control over Hormuz, senior Iranian sources say Reuters",
-      "publishedAt": "2026-07-01T10:30:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "46851f28b5412cae",
-      "headline": "UK manufacturing activity cools despite stockpiling boost to output, PMI shows - Reuters",
-      "excerpt": "UK manufacturing activity cools despite stockpiling boost to output, PMI shows Reuters",
-      "publishedAt": "2026-07-01T10:25:17.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHAxODRTOG5DVWFJdzZNalhqbEtoZFZ0WXN5Q0ZPOXdhZXh1dzJaZm43dWdTNDgzcDc0elE0eVB3MktTRHdXUUx3d21VSnc5V1JFdERPVVRVcmdPWkZZU3F2bk1NenI5YUczc2JjVkNzakJfRldCSmRUMHdSVGpVdUNWaVdpQi1uODVXR3ZnYTFfWGtDdWczOE5abHBubFhxdWpoTHNfRzFDUGZxYmtEQ1lsYTdaRnBWRkJZ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c58c6fbc9421f184",
-      "headline": "Despite some big losses, Supreme Court rewards Trump's assertion of power - Reuters",
-      "excerpt": "Despite some big losses, Supreme Court rewards Trump's assertion of power Reuters",
-      "publishedAt": "2026-07-01T10:06:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcktDSW5URjNzT0NnRlBLRkRQMUpzMGxlQkxLMXFyNE91UmpoT0lkNTRIN2hiblI4di1xUEduRlR2ZkwwSnV5T0Z0MHFFX2FEUW1lLThzOW1uSHJwTUdLRmdDTDBSUnhlRVZkXzk1d3FFY0FRWEdJYUQ1eGFaWGxBRWxGUnlaQU53NVhpd2dKUDV2ZGZkQ2lxVkdnVW5oSkJueFk4dkVWV05heDZpazh4dHBsRUxnMms?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
