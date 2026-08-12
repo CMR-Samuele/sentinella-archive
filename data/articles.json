@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-12T13:55:58.913Z",
+  "lastUpdated": "2026-08-12T14:56:29.467Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a14d63fdb39e4c2a",
+      "headline": "Rivian expands R1S and R1T recall over faulty turn signals",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T14:40:02.000Z",
+      "url": "https://driveteslacanada.ca/news/rivian-r1s-r1t-turn-signal-recall-expanded-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r1s-r1t-turn-signal-recall-expanded-2026",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ae6152d5877158e3",
+      "headline": "Tesla FSD Hurdles in China Secrecy in Europe",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T14:07:35.000Z",
+      "url": "https://cleantechnica.com/2026/08/12/tesla-fsd-hurdles-in-china-secrecy-in-europe/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "a96c3b213b3b07cc",
+      "headline": "Tesla expands FSD ride-alongs to Switzerland",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-12T14:06:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-fsd-supervised-ride-alongs-switzerland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-supervised-ride-alongs-switzerland",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "0820052d75b77b2d",
       "headline": "Tesla Recalls 20,000 Cars Due to Overly Bright Headlights - Root-Nation.com",
@@ -1549,6 +1576,15 @@
       "url": "https://electrek.co/2026/08/10/tesla-designer-new-roadster-coming-very-soon/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "c94ada3847989bc8",
+      "headline": "Tesla design chief says new Roadster coming ‘very soon’ — sure - Electrek",
+      "excerpt": "Tesla design chief says new Roadster coming ‘very soon’ — sure Electrek",
+      "publishedAt": "2026-08-10T19:59:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbW5fTDZzYjk1aGpwemoyeE1TZkNzWHdESUVfSUpNU0IzT3NhbWpLMVBMLXFaSTdmSVNBOFdsZDhXM3ZFLVh5Y191aWxmWTVUUWhsTjJwVmF0d2tOVUdYRUZUVFNHbmo4N3FRVVh3MFZDbjEtbHZ1cFVwZXNfVVZzTlR3?oc=5",
+      "sourceId": "tesla-press",
+      "sourceName": "Tesla Press Releases"
     },
     {
       "id": "0524d3acc1c6e433",
@@ -15814,6 +15850,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeS1kYUdSMUxfcVl5eVdnMjlLZ3FvZk9RR0FGZkotdlBMSk9kdWxRaFRzeGZJSThNc0h1R0ZtejB4REYyYlpaSWs3QUQ0Tm1BWUpJUjQ5dFU4Z2NuZTRMenRLblp1RHBXMEtxVVlfcXBDUkc4b0gxTEY2QThleEloOEhQdEdxbHFoTWsyWDh5dC1IdG1PMXJIdlhHV0RoZWZibjFOaUFncDNlaVg4cHc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "c0ee0f051c984acf",
+      "headline": "The best car insurance for Teslas of 2026 - CNBC",
+      "excerpt": "The best car insurance for Teslas of 2026 CNBC",
+      "publishedAt": "2026-07-27T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQnhlSVZmbU03ZGFhYUV6dURQcHhacWJkX2VVdmFBbFNCUzZ6NXppMFJ4cWswQkNucnoxY2ItTEI4c0hOODdOUWNMQUFyMUJ3YjFMblEzWDg2MXdobWNNdkxYNWVPZkUwSmfSAW9BVV95cUxPa3hFTVlnUGNwNmFPc19iY2FoelhQZkVMMTdKQ0dwRjNORmxmZktBQnNvQ3A2VHRzLVd4bzMyNWVaQU94Y1lCZ2Y4eGFXZ3lWN3hTWlBFcmpxUTlKMjAtQTN6TVJRdmJ0MGRVcFRRa28?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "93f16813333f9ca0",
@@ -44954,51 +44999,6 @@
       "excerpt": "Powerful storm hits Romania, one person killed Reuters",
       "publishedAt": "2026-07-01T09:25:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOG9yVnhOaFRqZUZGV3ZPZ1ZRYWdwQl9yZHQ0Y2dZZ3d2V2I1cVk3XzVvbms0WlRVc2U1eUdYd3RBdUtjWmZyRWJ0TVZzSEZEZFozVDZDaVFnYWl5eU9Ibzc1cmdaemhLUkxKelNNVGRGSjNNT2o0bFA2enpKWFloa1JlWjAtNE91ZENTaFFsREEzVHR3WVRYRDRNbkJlSjdrYldpMQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a674e36d9019f2b4",
-      "headline": "Here's How Much A 2021 Hyundai Palisade Has Depreciated In Five Years - Jalopnik",
-      "excerpt": "Here's How Much A 2021 Hyundai Palisade Has Depreciated In Five Years Jalopnik",
-      "publishedAt": "2026-07-01T09:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEs2RGFWdXd2VHhWVVpqRUhaSlVWM2lRTVdoY0RpSDZOWEk5N0ZVSDQxUFNkV0xGUVA5aGdyMnpqZjFSM0dzRW44SGxkelRvUmVpNXV1cHhnd3VNUUVHVEZCN193ZnZ3SHFQcUpSU0NVal94QWdhTUNmbTRmeUsxaXc3Q3BXMlRndXUtN2JfN1dCT2xQbXc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ecf690a86396a692",
-      "headline": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says - Reuters",
-      "excerpt": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says Reuters",
-      "publishedAt": "2026-07-01T09:23:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZmNmOWl5bnJmQnRCZUROVlpmRnBOeUhVVGJOUDR0Mmd5UUF4MkZOem93cUJJREVnVE02MUs0b3d3bE0wOUpNMnN5VjFwVVc0c1hMTnM5VFpJcGFHa1pWazNZWkdTU3ZkcFg0bnpaTVNNTVE0aVhlQjAtcUVFTmNnZTVja0xRZUM0TGFOVzctWEVJb2tnTjlQcmNURkZkQ19sUlFSaG5uOFZqLVc3bDVsN0owTEdjeXpYQ3oxSGc3UmRaQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d4b88096f8e9b180",
-      "headline": "Nepal rolls back fuel prices as global prices ease - Reuters",
-      "excerpt": "Nepal rolls back fuel prices as global prices ease Reuters",
-      "publishedAt": "2026-07-01T09:05:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX180bVU0dkFiQWVzZlFyODgzNW4zWVVfdmNjWGhLdGhUU3N0cUk1bkNrQUtRWS02cE9EaUFoSFRCNm95MHNfNTZJRmR2Qi1HYlRWRDh2eGEtdV9wbjJIVnByNUQ3X3A4aXd0Yy14RTZtaTg2OWdMLUJOZGhJTUJkZ0tyRUlfR3BVbXZXUWk4VHFKUFlMejl3TnRLd1JSQzR3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "278d696a56568a51",
-      "headline": "Euro zone factory output ends first quarter on strong note, cost pressures ease - PMI - Reuters",
-      "excerpt": "Euro zone factory output ends first quarter on strong note, cost pressures ease - PMI Reuters",
-      "publishedAt": "2026-07-01T08:38:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNRNkduY3NTVXRQVjVmVnQ3OTRmcGhxd1RxbEU3UkFZTmhnTmM3WVQ4ODlDREtTY2ZvVTBaNmwwc0MzeURjTFg0TTVvUk1YX3Z4cV9VbWlhU0IwYUVJcE5aRkh6cm1VRnBna3BqQWhzOXJEclBaZWZublRubVI3STZ2cmswaGtGYnU1LURtODd5czY5WmphZFJJRDRLdk5TZk04dTE2Vk1SbDd4bkZBUlNCRGczdFlwdFo4U2JmbFN6SlRLcTlV?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3f18e034cc882358",
-      "headline": "Spain attributes over 1,000 excess deaths to heat in second-hottest June ever - Reuters",
-      "excerpt": "Spain attributes over 1,000 excess deaths to heat in second-hottest June ever Reuters",
-      "publishedAt": "2026-07-01T08:34:25.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOE4zcnY2eUV1cXBPNDV6b01mR1BpcE1pc2RLZG1ReDZ0LXFJdERlMG9zV1dYLW55c2xzeUt3dHB3THdKaGRoSW1DbnpLaWFfU1lFLTBDTC1YUExQOHlLT3d2VWcyNi1ZN1lWcmpsaXpiUXYwcm1wY29PejJMZVhDZDFFTUlFak9IMGtUdUYwVTlsc1loVllQV1N6c2JFQXZIMEJYSU4wVnp2WWRSWFV6bVNnTndRWGVaUUVLVWtBNE9RVFY1Ymc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
