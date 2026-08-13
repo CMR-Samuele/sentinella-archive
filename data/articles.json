@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-13T18:27:45.490Z",
+  "lastUpdated": "2026-08-13T19:34:39.842Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "2d31a37cc8121ba6",
+      "headline": "Tesla launches Powerwall Lease for affordable home backup",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-13T18:48:34.000Z",
+      "url": "https://www.teslarati.com/tesla-launches-powerwall-lease-affordable-home-backup/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "77239dae09fe4d21",
       "headline": "This unique power company is a play on the Anthropic IPO. Bank of America says it has room to run - CNBC",
@@ -174,6 +183,15 @@
       "sourceName": "Reuters — TSLA Markets"
     },
     {
+      "id": "abd1bd89e8e16214",
+      "headline": "Ford Is Shifting Lincoln Production Back To The U.S. - Jalopnik",
+      "excerpt": "Ford Is Shifting Lincoln Production Back To The U.S. Jalopnik",
+      "publishedAt": "2026-08-13T14:17:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12bGdfVE45ZUhxUVlIRHZHdUlaaURhSzQ5NmVGVXZVeTFCemxCQUQ0NURGTnlEMERNZHM5akNRSkVldHFGZXd1QldSTXlMSjNtNEh4MTNPVUdJYkNLRUdyVnk3bTN0a1I3ZTlDWDRPV1N4RnpoTDlra2dJQ3dYZw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "ec96dc492813c325",
       "headline": "Starlink Offers Free Service After Earthquake in Colombia",
       "excerpt": "[object Object]",
@@ -332,6 +350,15 @@
       "excerpt": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2 Reuters",
       "publishedAt": "2026-08-13T09:11:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWZSV2wyaXF2b3JxMnVPNzNFYW1GbXRVNDFXOEtQcFN6RGFsNkthRWctX0lkTmRxaXY2bVdPS0lkeVZUbGhHdm5OOUFOT3JuYTVJazNaOExjLUxVa0djR2pPalotcTM4Z09tZDMxQWlZUEdyTlJJMU5ScnBETk9NM0pOSDVpbTBjWWMwOUZHT2p6TEtJdmUtaDFwd3J1Q2c0ak50c3IzNXJlY1g4bnNlc3h6V1h5VFpvdlY2SExtN3JjNEJ0Z1F2UHA0NElPdE1IS2hVbW12TXd4OFE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "00973f9f00f58903",
+      "headline": "Bangladesh curbs power use as gas shortages worsen - Reuters",
+      "excerpt": "Bangladesh curbs power use as gas shortages worsen Reuters",
+      "publishedAt": "2026-08-13T08:54:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc1dJRTZFSkljZmZfTUJKYmlKNXY4OUpzTjdrRGdrTHZkWHp5RGQtWjV4cVJvblBRakRYMHcwOWV5V2JlSUJLUDNXSGloM05UMWRoQ3dqYW5wZlNCaWs5WTU1Y0k5aVZDZHJRLUtEdUF6aXNCUEE4aVBpLUtfVld6cnZGbWlIMzNyd096SFE3aXhxRTJVTmtxUXc4VmxHSFds?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -2755,6 +2782,15 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwdFJuR2xMcTRIX2R2aG93alJTTmFnLWM3QXB5Uk1rQnBVUU5EbFd3SDhZNUZUV2lHMDJKbWtCS0RmZDYxRGZqTFFoVTN5MkstaDcxWjhCTmFoOFpoUzh1bThBblctcUhpUUZOMGVTeEE3ejdGb29rNTlQNWoxNE0?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "96380d42f7ea830a",
+      "headline": "Dogs can distinguish between emotions in a human face, study shows - Reuters",
+      "excerpt": "Dogs can distinguish between emotions in a human face, study shows Reuters",
+      "publishedAt": "2026-08-11T11:07:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3o5b3pQVm5DS05uLUFkdDJjblZDYy00MEhQRjdReVFURXpoMjNDQURDOTJiNjVnRk9RcG1YcjdvbzQyU3dlNHltS0lhY0hQNHk2Nk9TbEp1ZUFuaVIxOWp6OEFzVjhyYjNKaXd5TmZwbXFiS2toQjdycXFvUXN3S3ZWLTNRSlJxUDRORW1WTkZBcDFTME9EaFRyXzh5aE5oSFhpMTNfcnRwVnNvTzBYZG4wSUdPSDRrZmQ0?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "131d7bc37741d698",
@@ -44965,42 +45001,6 @@
       "url": "https://driveteslacanada.ca/news/tesla-supercharger-expansion-q2-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-supercharger-expansion-q2-2026",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "632add23163b80fa",
-      "headline": "Tesla crushes Wall Street expectations with more than 480,000 deliveries in Q2 2026",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-02T15:50:07.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-q2-2026-deliveries-results/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-q2-2026-deliveries-results",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "9b8e2837896ebd42",
-      "headline": "Get $25,000 Off A New Polestar 4 If You Don't Mind The Whole 'Banned In The U.S.' Thing - Jalopnik",
-      "excerpt": "Get $25,000 Off A New Polestar 4 If You Don't Mind The Whole 'Banned In The U.S.' Thing Jalopnik",
-      "publishedAt": "2026-07-02T15:42:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JWkFkTHA2VE5pRjJ2YmlKSkRGSVJwbUxQVzFvSHBPX0w5WW1nSDdrNS1ueWNGTzBxWkVQd0pFSThWc19UZXNyLUZMS3gyOUJybkM1U1RGeF9na21MNDFjUGJtOU5rYTJyY2RXd1R5TUdPV2JITUpEUQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "29b0c95fe14b1e61",
-      "headline": "Teslas China deliveries fall below 30% of global total for first time since late 2020",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-02T15:39:27.000Z",
-      "url": "https://cnevpost.com/2026/07/02/tesla-china-deliveries-fall-below-30-of-global-total/",
-      "sourceId": "cnevpost",
-      "sourceName": "CnEVPost"
-    },
-    {
-      "id": "860a88bda194056c",
-      "headline": "Elon Musk shuts down 4D chess theory on Tesla Optimus production",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-02T15:26:37.000Z",
-      "url": "https://electrek.co/2026/07/02/musk-shuts-down-optimus-4d-chess-theory/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
     }
   ]
 }
