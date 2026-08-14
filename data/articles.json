@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-14T09:58:31.405Z",
+  "lastUpdated": "2026-08-14T11:01:44.952Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "78a555562ed690cc",
+      "headline": "Teslas new Model Y variant in China has 659 km range, filing info shows",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-14T10:04:28.000Z",
+      "url": "https://cnevpost.com/2026/08/14/tesla-new-model-y-variant-china-659-km-range/",
+      "sourceId": "cnevpost",
+      "sourceName": "CnEVPost"
+    },
     {
       "id": "ab8b5533915613e9",
       "headline": "Aktuell: Gewerkschaft gibt Streik gegen Tesla in Schweden nach drei Jahren ohne Ergebnis auf",
@@ -208,6 +217,15 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX2FGWlpQTGlTaUtCLVZValVhUFJoNG9LZ0JRdmc0OFJROUdKZEhsQm1RT0tIbVF2WmU5cm0wRkVpT3g3azU1Vzg0V21FN2Jhd193TDh1ZHF0NmN2Z2tiZGZ6NElNUDdNTEF4alNjdGFiVmR4TGt0ZV9LOFhxZVZWcFF6RUl3WTIyZ1lsd091TFBjNTdSZ0xFY0xHRGpfaXQ3UWZhR1RNRGs1Z1RVeWdoRWIzVkZmTVlwSW5sVTg1QXluS1V2elpnRS1Md21Za0NqTng5aQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "3cc91625df14ebf6",
+      "headline": "Genesis GV80 Turbo Hybrid Promises More Power, Efficiency And An 'EV-Like' Driving Experience - Jalopnik",
+      "excerpt": "Genesis GV80 Turbo Hybrid Promises More Power, Efficiency And An 'EV-Like' Driving Experience Jalopnik",
+      "publishedAt": "2026-08-13T16:16:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnlwWVVxQ0xYYnZGYi1zSkxoTm5IaGUtdjNwZTRka1dqTFRTWWhSTFNfV0Flalh2UktSRVN4alQzcEtiWnZtYlk2VlRPbDFPYW9wekJoR3FIXzcycTJvMVhIczN2Snktal9td2UxRktXRTFWUnRFMkRNRkY4alQ1RDJKWXJHSWlGWnctS19kM2paZVNyNVlVVlRfYw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c1a05b9294f23a6d",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGRhTkRObFF5M2RSWU9mUWt3SDRMTGw3M0gxT1BPRTZpV3U5cTM5ajZSQml1R0lZWTNGV1VhNm9qMlpWT2tENEFEZ0kyMTJteFUzTGZabkZvczNlVWljLTlwWUlkTi1NeXVFU2I5VGdkVm1VbmlQcHZwclZLbnlaUHNDT0h2VFdxTEVTQjdrYw?oc=5",
       "sourceId": "tesla-deliveries",
       "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "4219248e6298a5b4",
-      "headline": "Tesla's Q2 Delivery Report Just Landed. Here Are 3 Key Takeaways for Investors. - The Globe and Mail",
-      "excerpt": "Tesla's Q2 Delivery Report Just Landed. Here Are 3 Key Takeaways for Investors. The Globe and Mail",
-      "publishedAt": "2026-07-02T19:23:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUWZua3g4dkJyLV9ySWstNHZueFJoSTRkTnpLc3RZck44QlpXVEtjRnBGTlVDRDNhTldHUGNPdTFIcTNnby1tX3RRZnBoams5Q3hscmtqVGpseG9xcjFHWUxNT0k5eHRUWWs2VWtZYzh6UjBBQkMtWExreERFYzFObmFOdzRmdy1BMWxsVlZfYS1uZ2hfbzROQnBUdVc2TEJxRzZNN0paeXZ0Q2hXQlBzUnBrUHQ0MXpDNjcxSHZCZUQtbzJPdzJvN2NPM1F2QjQ1dDk4ZWRMaFBRTDlxQkRFZ21iMkk5WHQ3Qmtic0o2eGJIQ3c?oc=5",
-      "sourceId": "tesla-deliveries",
-      "sourceName": "Tesla Production & Deliveries"
-    },
-    {
-      "id": "fea47c9ad16f95ec",
-      "headline": "Amazon to start initial Leo internet service this year as network nears 400 satellites - Reuters",
-      "excerpt": "Amazon to start initial Leo internet service this year as network nears 400 satellites Reuters",
-      "publishedAt": "2026-07-02T19:08:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMXBabjNzR3lMMnlJcEhWbUpxNGtLMUVqcmJRcW1Ubno0elRZUXBtQ1gwblhoOFVzZEN6dUJGdmlJeEtWVFhnY3NpSmpXTGZ4MFRmS0hQTVVFTVJ6bGVJNFRoQjVtZWkzVklubVN2STZZZHhVUWp2amFjTjNMQjZqQVoxSEJ2bFpVdzVXWEN6ZTlkVjg5azlWbmVZYTgtUk5rTmZUX25KNndNZVFDb3R2VVBERTRER3lvOGRSTVFoZkVraU5kUlQ5cjJjRU5XWXROUmVIUXp0NmxlN2M?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
