@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-17T14:24:37.807Z",
+  "lastUpdated": "2026-08-17T14:53:22.555Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "c3d2f39a8d06378d",
+      "headline": "Tesla Launches Model Y Underseat Storage Tray",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-17T14:35:00.000Z",
+      "url": "https://driveteslacanada.ca/model-y/tesla-model-y-underseat-storage-tray/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-y-underseat-storage-tray",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "a8e7deadf8293e88",
       "headline": "Tesla starts testing its Starlink-integrated Cybercab on public roads",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY0R2cW5NY3Bja3lXOHNlV2pmUXdIZG1GWHNsNDVISlI3VGJTRUppOXdhOERrV005eGVrNGV1ZWI5NU5kSXN1TXN1VlFiYUZNOTVxSGhKU1pMZEVFUFkwMi1ZeDladUk1UjN4T19VUQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "4e27f0ada1b2f37d",
-      "headline": "Tesla driver caught asleep at 100 km/h — how monitoring failed",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-06T14:03:39.000Z",
-      "url": "https://electrek.co/2026/07/06/tesla-driver-asleep-monitoring-gap/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
     }
   ]
 }
