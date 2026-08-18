@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-18T09:30:31.914Z",
+  "lastUpdated": "2026-08-18T10:25:09.940Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "5b092ff1dd4cadd4",
+      "headline": "Yet Another US Automaker Rushes Into EV Gap Left By Tesla",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-18T10:00:26.000Z",
+      "url": "https://cleantechnica.com/2026/08/18/evs-class-3-trucks-us-market-startups-tesla-competition/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "2156510816cbc283",
       "headline": "La Tesla Model Y non è un power bank: cosa puoi davvero alimentare",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VBUUZSbnhCU21CWjRrbWdnSU9pSXBJUDJucE9qQ2hKMkNQX2c0X1dNU0NnU1lpc2oxdXJpN1l2eldCbldtcmNtNEYwN1Z6TmtBTTZTdlVVbkNMUVo5M2w2amwyXzNheGRwM05Yc09VcUtmS05udWd2QjJnUDJzcUdtbmEweWlpYXVhYkZ4VEpYRjdweEdTaWduVHR6dGFKY2t2TW9jVzVXUThTUTIzNmt3aWJqdjZheXdpSjdJN3hvZEE?oc=5",
       "sourceId": "tesla-press",
       "sourceName": "Tesla Press Releases"
-    },
-    {
-      "id": "d24a8539689f5569",
-      "headline": "There's a lot of 'noise' making it harder for investors to read the true state of the stock market - CNBC",
-      "excerpt": "There's a lot of 'noise' making it harder for investors to read the true state of the stock market CNBC",
-      "publishedAt": "2026-07-07T13:02:11.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRFU5bms1Q043dWJ5OVd2dGFVdVZpNzBSODBseW0yOFBNSHRYbnJVV1JfOVhyanVSQm9pdTFOVUFqQjRZSHVnSEZzTGd2Q05OY3FBY0JVVG1ZdHM0SG9aNXZBYkVzTVU0R0pqLVJxV3pqMUU3OVp6RjlUcWxZMmxNY2poeHZWZ29uNmpjNFdmenNGUFRTZFpTcjBJWmtMR0s1SHZQUWg3WHFoMTJhSV9nT0N5ai1mbldlZEstNHEzUlpSQUtuMk5RQkpNMkM?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
