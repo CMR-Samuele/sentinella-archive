@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-18T15:58:43.208Z",
+  "lastUpdated": "2026-08-18T16:39:05.145Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "eb95cd9d7fe4adac",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-18T16:26:29.000Z",
+      "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
+    },
     {
       "id": "87f6c10970804102",
       "headline": "One Owner Just Did What Tesla Couldn't: Upgrade An Older Car To HW4",
@@ -6272,6 +6281,15 @@
       "excerpt": "Tesla to recall over 20,000 US vehicles over excessively bright low-beam headlights The Mighty 790 KFGO",
       "publishedAt": "2026-08-11T07:53:55.000Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR3k4S01NSS1pV0QzUFZhYUw4WVQ4UHRob19paXdQZE83TVl0WW1qQzdycjY5M1VjTHY3VXZSTWRzakZtY01kVTVzekZDVXQwZXZqLXZKUVhiX3BRT0hXTWFuWHAyNkNzZ3pQNElabGgtLUVQdWVtRnBlOGZFdDZLOGhTOW1hWjE3QmdYbW91NlJmaEdrLVJva0tZaVpoUUFsYk5vNkJvTXRvNFhQVnVYdQ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "7b06f92920eefc9c",
+      "headline": "Tesla to recall over 20,000 US vehicles over excessively bright low-beam headlights - WTVB",
+      "excerpt": "Tesla to recall over 20,000 US vehicles over excessively bright low-beam headlights WTVB",
+      "publishedAt": "2026-08-11T07:53:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQTJERXdSOW5abk5lRzNMakFxOXNhQWM0MkpmUVlkRGc5RjQ2WVQ5WDZqY1c4MF9ydzlxV3dRZHMzNTVoVURwbkJvNG9CS1dmUnpKU0pXdjBrVllZbUlWYUlyYXJ4a203eVZtSndFd1lsNW5pX1VUamJ5TVV2c0lPcS1FYmthWE5aMlEyMW9LQURsVXBncG9sVHEzbmlxbnV1bkFHS3FRU0ljRjA5cDVYSkRyMA?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEOUFDdWlUV2xpenJsVkN6MlhVZGtZZ2lXWUl5eGtaVFpIRklrS2RnQmJSMlRXVDBDempZc2k2TlJRVDZNMUhyVHo0YVhPRGhaZGZncDFjX1Bvc05FczhRNVBqWmRWQUZTcHFmX3pJQmxvaW5RemdKdV9vYw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "7c35ed29295a6af4",
-      "headline": "Tesla launches Tesla Home with Opticaster AI to cut power bills",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-08T13:19:13.000Z",
-      "url": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "7c35ed29295a6af4",
-      "headline": "Tesla launches Tesla Home with Opticaster AI to cut power bills",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-08T13:19:13.000Z",
-      "url": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
     }
   ]
 }
