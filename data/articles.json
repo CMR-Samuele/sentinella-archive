@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T11:22:48.446Z",
+  "lastUpdated": "2026-08-19T11:50:11.344Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -55,6 +55,15 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMXhJUThneVBVZlQ0Rl9WcVNUZ0VHS2xxc3RKRTk1bklDa3MzcU03c0ZQanpyRlZsOHZTU0xmRFNEN1pBUmVoanhqQVFRWU5mTmQxdUtmQ3ZVejFQODdKckNTakdPQUltb3FISA?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "48b63d6b32d3be5a",
+      "headline": "Why The SCCA Made The 1965 Shelby GT350 Get Rid Of Its Back Seat - Jalopnik",
+      "excerpt": "Why The SCCA Made The 1965 Shelby GT350 Get Rid Of Its Back Seat Jalopnik",
+      "publishedAt": "2026-08-19T03:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWU9NUFhnY0FSd2dTM2EzM2plTXR6SWtDUGRUSWhsSWIxaTBCZkJQU0lSQWk5ZTNESFBNMXRndC1GWGN4SFZzTXQyZWtkbnJTX1FvZ1lPSUxidktxU3FWNTFVMTR4U0RwYjlNc252T05pOVVLWTFZbTZRS1Z0alhINFlDREhTNl8tV3lpM2h3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "847c5e9741bf8fe3",
@@ -1063,6 +1072,15 @@
       "url": "https://driveteslacanada.ca/news/119866tesla-supercharger-idle-fee-refund/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=119866tesla-supercharger-idle-fee-refund",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "d532c39f938d7de3",
+      "headline": "Toyota recalls more than 500,000 vehicles. See recall list - The News Journal",
+      "excerpt": "Toyota recalls more than 500,000 vehicles. See recall list The News Journal",
+      "publishedAt": "2026-08-17T15:11:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOXVMUVgycFd1V0FjRnAtc3FaVk5Ld1ZLOW1DWWZWMi1YQkU1UFZac1NyRlBITmpTQlp1UVpXY0NqSWdpUld6NlQ0bG5XX3BLY3V0MS04a2pLVlJpMXhOUHc1NWgyX2w5bU9VdlFxT0VDQ1d1NEp1OGp0V1dHU1IydDA2cHRBLVVkOThZcnNoWW5lSVdaYlZYWWJ0MWlIR0c0RlBtUklHdlAwMC1WeUVJ?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "32c9a0011ea61d97",
@@ -44981,24 +44999,6 @@
       "excerpt": "[object Object]",
       "publishedAt": "2026-07-08T23:53:30.000Z",
       "url": "https://cleantechnica.com/2026/07/08/asleep-behind-the-wheel-of-a-tesla-using-fsd/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "dcb0652a9619d93c",
-      "headline": "Yugos Once Sold In The Hundreds Of Thousands, Now They Have Nearly Disappeared - Jalopnik",
-      "excerpt": "Yugos Once Sold In The Hundreds Of Thousands, Now They Have Nearly Disappeared Jalopnik",
-      "publishedAt": "2026-07-08T23:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnh0NThxZ1hWNnNWUnU2NlVpSzdHZ3lpMmE2ZjBoa2tRYWVRYms2Tlc3alo1clExYS1aUU9ickdXMkJ3NWg2OF9pTFdTX3hBVnlDU2R1SXRmbU5aQ1hJVmVHOGNEd3Vqb2ZYRmlJaXUwYWNTS0NJcVJwNGNyNDlCWmtNTFJTcnp5Sk5Pa1FXN2Z2aEMtUjAxR1Jn?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "02933a211511aeba",
-      "headline": "This Robotaxi Company Is Growing Its Share Of US Market — Not Waymo, Not Tesla",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-08T23:24:55.000Z",
-      "url": "https://cleantechnica.com/2026/07/08/this-robotaxi-company-is-growing-its-share-of-us-market-not-waymo-not-tesla/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
     }
