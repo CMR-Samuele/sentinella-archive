@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-08-20T13:43:30.943Z",
+  "lastUpdated": "2026-08-20T14:33:48.824Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "360aa33b1cd677fc",
+      "headline": "WattsApp rewards climb as high as 33 cents per kWh for September",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T14:28:00.000Z",
+      "url": "https://driveteslacanada.ca/news/wattsapp-15-million-charging-points-september-bonus/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=wattsapp-15-million-charging-points-september-bonus",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "86b86e9f3e81feb4",
+      "headline": "Tesla Isn’t Accepting Cybertruck Trade-Ins in Canada",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T14:09:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-cybertruck-trade-in-canada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybertruck-trade-in-canada",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "fa1d5a9ef131d04d",
+      "headline": "Wall St slips on rising bond yields; Walmart results weigh - Reuters",
+      "excerpt": "Wall St slips on rising bond yields; Walmart results weigh Reuters",
+      "publishedAt": "2026-08-20T14:04:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "fa1d5a9ef131d04d",
+      "headline": "Wall St slips on rising bond yields; Walmart results weigh - Reuters",
+      "excerpt": "Wall St slips on rising bond yields; Walmart results weigh Reuters",
+      "publishedAt": "2026-08-20T14:04:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
+    },
     {
       "id": "43de8fbf99f9e818",
       "headline": "Canada Moves to Scrap EV Sales Mandate",
@@ -19,6 +55,24 @@
       "url": "https://insideevs.it/news/805566/tesla-cybercab-prime-corse-clienti/",
       "sourceId": "insideevs-it",
       "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "3c7cd22cfaf70aa7",
+      "headline": "(TSLA.O) | Stock Price & Latest News - Reuters",
+      "excerpt": "(TSLA.O) | Stock Price & Latest News Reuters",
+      "publishedAt": "2026-08-20T12:44:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94Q0FJbUpXeExpUW51cUtsZ2N5cWdDNzRpZTNVZkpra3lnVnpZT1A4bWFmSGQyLWhXbjcycWl1RXpQdXcyWmc1eUxiQWdZWnF0OHlJMlMzQzFyMVRnWnJwNE56emtjbE0zZ3hhLTdqdVA2Rko1?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "3c7cd22cfaf70aa7",
+      "headline": "(TSLA.O) | Stock Price & Latest News - Reuters",
+      "excerpt": "(TSLA.O) | Stock Price & Latest News Reuters",
+      "publishedAt": "2026-08-20T12:44:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94Q0FJbUpXeExpUW51cUtsZ2N5cWdDNzRpZTNVZkpra3lnVnpZT1A4bWFmSGQyLWhXbjcycWl1RXpQdXcyWmc1eUxiQWdZWnF0OHlJMlMzQzFyMVRnWnJwNE56emtjbE0zZ3hhLTdqdVA2Rko1?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
     },
     {
       "id": "6f9ba054860bfed2",
@@ -2132,6 +2186,15 @@
       "excerpt": "(TSLT.N) | Stock Price & Latest News Reuters",
       "publishedAt": "2026-08-16T17:13:40.000Z",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCa0RXWmpnNGdFOXlGdzRXYklaYk4yekk1TUN2MkIzTHFSMzhETEhOV1pmVG5zb2NmaVhab2tJRVRsSFBHOHFWajIwUWVYdnBYTnRHOHFEdHk0NTR5SnlxanNtQQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "82293ed10d5ae0ee",
+      "headline": "About T-Rex 2x Long Tesla Daily Target ETF (TSLT.N) - Reuters",
+      "excerpt": "About T-Rex 2x Long Tesla Daily Target ETF (TSLT.N) Reuters",
+      "publishedAt": "2026-08-16T17:07:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TzRNcVVPWmFuaFZGTWlkUlgyY2o3amNkSEpTcHZTZ3dZUzlsUGlYYm1ZdzEzeV9neFZJNkp2N2Y0UnpsajZqTWJVb2hlTEVUUzJBbUtJRjhkajVWTFE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44938,69 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlY0eDlzWldYYWFiejZTVW41bTZmMmFSbE9HVHJLZkRlV0pJNnp6YmxBZ2tJRmk4VExWeGpfVHJDeTBlSjA1XzVjUFI1WHNFbWEwSThxSXp5bFRyY2tiUm9tOU1MOS04RTJMUUdHZ3NMYlYxOEhsN2xlcmVRYnh2VVo1WFNUM2s3b25NZExmVS1yVEZLeENFLXBtOW45dXA5WC0zaG0yU1RoUldOQzBoS3czYlhaWXJ2TkduNw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "00c3bcf0070c8165",
-      "headline": "Tesla Semi Lands New 20 Truck Order From California Based Fleet Operator",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-09T21:56:00.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-semi-20-truck-order-california-fleet/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-semi-20-truck-order-california-fleet",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "e9dd5512361b3a13",
-      "headline": "US existing home sales fall as house prices hit record high - Reuters",
-      "excerpt": "US existing home sales fall as house prices hit record high Reuters",
-      "publishedAt": "2026-07-09T21:06:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOExJRUl1cktCalpfWlA2Yk8xS2g0cWNSaHBSREd3Znp6VGtfbk8zYlowUFVZbE5uU2pidkladXZJRGw5NDhwM0swM0oxczVmeU92eWo3MEhpeHNVc0lxQVpjTzAxUTlRQjRGYnlUbEY3OHZfTEkwT1VtSy1rZklmX2dSQ0hQMENjZTI4ODVVWjJ4cW93a0JCVFVVNjNfNTBaS2ptOEw5Qkd2R0oxUUxj?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8f952ffd82082a50",
-      "headline": "US warns 463,000 Kia owners to park outside over fire risks - Reuters",
-      "excerpt": "US warns 463,000 Kia owners to park outside over fire risks Reuters",
-      "publishedAt": "2026-07-09T20:59:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHdVRjBjVHhjMnpRbnl6dXRtSTlEYVNMUVJpNVo2NUdMNktYRTJNYk5fN1VXU2VTOW9LWG8wVWpXTmRjUXRUZDlNZnpoQzRFY01RX3g1anVuaFJvQ3k1R2F0Mjh2d0hxTm1mVnNfMTk5RkFRLWQ0WEJBY2JVdjNHZ2NUc1c0cGVhb1lNUDVMQTNnaHNVaDhQY0FtUFFjNTdaVlhiMjZ6MGoyOG1oSTNNdVdTOU13RXFGN1E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7d0785678713b01a",
-      "headline": "New Jersey Law Would Outlaw Tesla's Camera-Based Robotaxi Tech",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-09T20:44:36.000Z",
-      "url": "https://insideevs.com/news/801178/new-jersey-bill-bans-tesla/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "c3499c51f8afbd49",
-      "headline": "Tesla confirms crucial detail of Miami Robotaxi launch",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-09T19:54:52.000Z",
-      "url": "https://www.teslarati.com/tesla-confirms-crucial-detail-miami-robotaxi-launch/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "0a4f5366b1e2ba62",
-      "headline": "Indonesia says B50 biodiesel plan to boost palm oil use, cut fuel imports - Reuters",
-      "excerpt": "Indonesia says B50 biodiesel plan to boost palm oil use, cut fuel imports Reuters",
-      "publishedAt": "2026-07-09T18:55:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWhRcmd6ZXhyYkhVcEFDOG5yb3BEZ2pXMks2d1Z5WWt3XzEzVE1qVmhyckI4dVFZRGNianp0MnVpZE9IN0R3TXhtUUtIT0d6MnZZU2cwMGJmemtGOW1pVEZVeHpic2lRWmd0X0huQlp0TjZWTDctTkUzZTR6LVBvMF8zVXRSd0RZWFlTUTFhQ0FwT2JBWTFoVm1OeVJIdEJpMnpvQmlfWF9DWXJ6Sk5neTlVM0tOZnRKRW9ZdjRB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c83eedbf7f3bc2ed",
-      "headline": "Trump's Ambassador To Canada Is Right (And Very Wrong) About The Gordie Howe Bridge - Jalopnik",
-      "excerpt": "Trump's Ambassador To Canada Is Right (And Very Wrong) About The Gordie Howe Bridge Jalopnik",
-      "publishedAt": "2026-07-09T18:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MUdwNjh6bHdyb2pfNzlMRXhoOWJsS2ZFOWE4anBDOXlUQ3N1ZmlwSExBQV9yR0doQktpVG03UWtKUjh6YlliX3c0YUUyVWd1cU5kclJyajZKejdmb0xfcHFMMnJKZGpk?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
