@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-20T15:31:05.757Z",
+  "lastUpdated": "2026-08-20T16:32:11.160Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "752a64174e2afc23",
+      "headline": "Elon Musk gives a timeline for SpaceXs first Starship catch attempt",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T16:06:19.000Z",
+      "url": "https://www.teslarati.com/elon-musk-spacex-starship-catch-timeline/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "25e94d75e9769473",
       "headline": "Tesla Just Set A Date For The Semis European Debut",
@@ -28,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTENjRFhmdWd5S2ZoeGFiWU9OV0VGUWhOY2lwbjE5S21OcnBqaFBPa3FIc0Y1NmF4N2wyVjkzcjJnbVVic1RMZWpaZkxNUEo1OTA5aHlaMHpnSlJna0syWEFiOU15Z01xaTBfZWlVNDlqZ1REXzFlakVQUnl0eDhZQzdBd1BYZw?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "4e8c57fee4755bb7",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T14:09:31.000Z",
+      "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
     },
     {
       "id": "86b86e9f3e81feb4",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXBzWnEzdXRwekNtMUxmdThpLVo2X0VaTW10SDM5bXJsNU5INk9IN2lrMnhIcHF6dElmc0VyZHNwRFFiYXNBempSVFVVMEs3Wk9KSk5GOGM3dVBiQk9oOHRjY2VzLVVTMkhHUDZSUkFoQUc0WEZiMWxfTFBXdndFV0JlN1dGbk52SnZyMEVtT0xtVW1GdHlvLVAtNS05Vk8w?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "59727c803fd7877f",
-      "headline": "At least 28 killed in shoe factory fire in southeast China, state media says - Reuters",
-      "excerpt": "At least 28 killed in shoe factory fire in southeast China, state media says Reuters",
-      "publishedAt": "2026-07-09T22:44:21.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXpVUkhHTFViMzUwWjloWldYN1VhQkZsclpvNklkWjJfTFFKWlhBZEk5Nld4UnQ1T1Y2NDBfTWJvbEtFZnFMUUh5VDBLbnF5VG1VTF9zdjNiaGdnMW1JLU9lZ0xtX1U3VndaVW9DTUQyZVlISGNFMmltWHNsYUpWY2ZVSXlvTXRxWnA0STNvNXdLekVFN09iNVNZZDRSNFdXSE9fUWZpRW5ReUlwb2tmbWgyeW1LLWk1ZVZPN3M0Yw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "36f21078b37f812f",
-      "headline": "Feds Are Looking to Remove a Major Roadblock for Driverless Robotaxis — the Steering Wheel - InsideEVs",
-      "excerpt": "Feds Are Looking to Remove a Major Roadblock for Driverless Robotaxis — the Steering Wheel InsideEVs",
-      "publishedAt": "2026-07-09T22:40:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xaGppZjRjZ29KUGxGU1lNRDh3NDRHQk15TXBNRU1tcXRmT0hvaWExMVdRV1h0TFFHNVMyb2xZdUtjRDVnWkd2OGlKTzdpeEoxeEZ4NF84ZlhuZnhEekZIbzcwbUhwdzJvTFhQZUpqdHM5UmpxbFQ3X0NR?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
     }
   ]
 }
