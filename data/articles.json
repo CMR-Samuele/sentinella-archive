@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-20T16:32:11.160Z",
+  "lastUpdated": "2026-08-20T17:26:14.650Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b0fb5ad6979e4dcf",
+      "headline": "The Tesla Semi Is Heading To Europe",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T17:13:34.000Z",
+      "url": "https://insideevs.com/news/805622/tesla-semi-launches-europe/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "ae3a0b9df3bbf8b5",
+      "headline": "Tesla admits to slow Model Y Robotaxi integration, but for a good reason",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-20T17:00:13.000Z",
+      "url": "https://www.teslarati.com/tesla-admits-slow-model-y-robotaxi-integration-good-reason/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "752a64174e2afc23",
       "headline": "Elon Musk gives a timeline for SpaceXs first Starship catch attempt",
@@ -73,6 +91,15 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "c3f5a00c2a4ffd53",
+      "headline": "What Car Do You Wish You Bought When It Was Still Cheap? - Jalopnik",
+      "excerpt": "What Car Do You Wish You Bought When It Was Still Cheap? Jalopnik",
+      "publishedAt": "2026-08-20T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbU5kV1dkSFBVbE5YT1UxeWJQRXUtb2xTWU1GUEtYdHRZa0FoSVlXUjJjZlhMVGlnVTRvaTgybjExNTdmbmN2cTNGN2FfbTI0a3N1NXhaaUtiZm1jb0dpYXZpeVF3ODlWUlVIUEM3MHkzQklaZVc2b2JkVzQ0Y1R0UzVKUnJiZDBnQ3BOZlVyUlJfdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "43de8fbf99f9e818",
@@ -208,6 +235,15 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmpsMm1Salp5S3FFZ2FUTEdoTzJBQmxsWFBFUWRBWVVybW11M1IxSGY4aVFRNWFEcXlmSzlhU3lJNXBnenltQ0xnVHV2SGlKMFp4RWxndGZHUDJMeE9XWE9ISFR3ekx0MVpvMXBqRjBzTzMyTUppZF9uRVE1R1NzejJ3dnFRLWF5YnBUTWxRZWVpSDlCTG9pb1NteGR3Q3pISHc?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "a3fe824330d43543",
+      "headline": "Hyundai's new flagship vehicle is a large luxury Genesis EV - CNBC",
+      "excerpt": "Hyundai's new flagship vehicle is a large luxury Genesis EV CNBC",
+      "publishedAt": "2026-08-20T03:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mNFlaOFlodWNUb0lEdU1VNTFuSDBNbDRyUDc2a0pXVF8tekkwNXpvNVN4b1BBXzUweV9McXpVNUdJdU1ESWlqdkhUczFSeGtIYmtyOThseU5neWJlSVhOaFpKMFBHenY3R3dYVnZWZ9IBdEFVX3lxTE1ibUtxekpyeFgwMjAwNV9IZFZuODhYVHliRUoyMkxwS3hrMjRxODNqZ1F2cXc1dXNZOW1SWWhrbTZwUS1pb2ZVdkZSQXBvb1BOTW9zT1BlN1NWV1RqNzNRYTA3YWZnSXFBdWFxSzNXemg3dVZI?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "048eaa971b618018",
@@ -44963,42 +44999,6 @@
       "excerpt": "Suspect in Kirk killing expressed regret after shooting, roommate says Reuters",
       "publishedAt": "2026-07-09T23:53:16.000Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTJCbFJ4MmU1b0djdzY2Mlc4R2NiUlJFRHNLU3BfWWZHTm12YWtjbWZVbDlmN1BURktJYUVqN3oza1V0VmVMY194LTRJY3Q1Z29KMTZYSjJRQVZZdjY0TC03V09ZUEF2S3NBdm5UejBBMC1uai1pTWFBdy1MVGFpQVNveS14R0JoV3pacWhsQlhCMHVqRFFHTW4tME1rY2FhSmNkeS1mQl9KRGJTcXEtc2lUTjZqMk0tclE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d75e1b7604271e33",
-      "headline": "Nasdaq ends sharply higher; chip surge offsets Iran worries - Reuters",
-      "excerpt": "Nasdaq ends sharply higher; chip surge offsets Iran worries Reuters",
-      "publishedAt": "2026-07-09T23:36:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlJrcUhGNjUtY2dOX1RQcWxqNW1KNGtrZU9uYU5KSjZiaDdZM3ozU1BZUjR4WmJyLVJjLW9yYjJGRHdSSEo4T0NNVUQ1T2VHN19keUtvRklORURPYUhtS0hUR2NJWnRIcnd3VFRLdGpDTmcwSnA0WHcxSUJ2RHhrNG1hOWUycm5kUjl6OHhoTjhSNVZXRmFUVnRMclJYMW9FdXRJZ1VLSkFrbmxRWVg5N3Z5c3M?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "eca7c03313176f52",
-      "headline": "McLaren Brushed The Cobwebs Off An Old Supercar Design By Bruce McLaren Himself And Built A Period-Correct Tribute - Jalopnik",
-      "excerpt": "McLaren Brushed The Cobwebs Off An Old Supercar Design By Bruce McLaren Himself And Built A Period-Correct Tribute Jalopnik",
-      "publishedAt": "2026-07-09T23:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnR4QUhQOFBPaFlQVEFVcFVwY2ZVRUVZVzAxODgwd3lzQWNFRFhhN1NjaTY5LTl6TjlGRGZXTlA1SThSTC1uMWxXUkloRnU1WnlKSFhQVHFkRFVsdWEyWHpqV21hSzZUakMzVHIxUEpBQ1VlUkxKX0x6bGEyRTA4RzN3?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ba7058dd190ed24d",
-      "headline": "Global EV demand rises again as Europe offsets China, U.S. weakness - Reuters",
-      "excerpt": "Global EV demand rises again as Europe offsets China, U.S. weakness Reuters",
-      "publishedAt": "2026-07-09T23:05:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVdqZFp1NW1Ga0VNcjVLdGRPdC1hbFpkSnp3Q0wtdG1VbnVEWE9rbHFQSUZuNks2WGp2d2lvd2xyRWc5NE1uUWdLTElyZkZNVDJ4UWZ3MUV3alZ4NVNveEdOUWVlXzJoNDFXRENPdV9sYUc1RWpkSjJDcjQzTmhaRmJQcE95cVpQVDdQWFJnN2xfdkprOGFnel9YVG1vUHJSMlN3cjJsam5lZjB2U1pETDNEaWt4Mm5EUVlja2w2eU1GekZKUEE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "421176a6f8abf41f",
-      "headline": "US House to vote on bill to make daylight saving time permanent - Reuters",
-      "excerpt": "US House to vote on bill to make daylight saving time permanent Reuters",
-      "publishedAt": "2026-07-09T22:51:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXBzWnEzdXRwekNtMUxmdThpLVo2X0VaTW10SDM5bXJsNU5INk9IN2lrMnhIcHF6dElmc0VyZHNwRFFiYXNBempSVFVVMEs3Wk9KSk5GOGM3dVBiQk9oOHRjY2VzLVVTMkhHUDZSUkFoQUc0WEZiMWxfTFBXdndFV0JlN1dGbk52SnZyMEVtT0xtVW1GdHlvLVAtNS05Vk8w?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
