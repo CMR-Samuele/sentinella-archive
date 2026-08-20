@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-20T18:38:29.907Z",
+  "lastUpdated": "2026-08-20T19:28:52.419Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "98692bbebcad00ba",
+      "headline": "BAMF",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T18:43:27.000Z",
+      "url": "https://www.youtube.com/shorts/O_Ndcx1LArU",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
     {
       "id": "b0fb5ad6979e4dcf",
       "headline": "The Tesla Semi Is Heading To Europe",
@@ -44992,15 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZE92ODM4SGNRQVZGQm5saDBFeXMwVy16NkNhZElHYVB1UXhOYjU5MU1CZnJIVXVWYUcxWHpqX2thYi11dFFVaVJNX2hiV3BydzVRYmN6UUR5UUNVOEwxLUtRM3pzTGRWZVg3Y1ZvajA0RjEyRXoyR3QxZi1jdDY3VHYtU0w5eEZ2SkU2SU1XSFUzLWM?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "441f9ae0c8379942",
-      "headline": "How Many Tesla Robotaxis Are In Miami?",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-10T02:03:01.000Z",
-      "url": "https://cleantechnica.com/2026/07/09/how-many-tesla-robotaxis-are-in-miami/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
     }
   ]
 }
