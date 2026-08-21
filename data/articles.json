@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T21:21:45.130Z",
+  "lastUpdated": "2026-08-21T21:48:31.412Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -19,6 +19,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUpnREI0al82bENnSFhHWDU3eUNfc0h4NmI5eVpUZ1hMUW9vMmhNTkVSV3hEdEYzVFdHRnZoYVpvRDFIRzJMOEZVVURGSnNzVUVSZUI5aHBFNDBDczl1UGpOWGtkeGxVYUMxRmtjVXBBbE9Lci1RVlhyYmJ2ZHp5anZPaGNkS01yd2dKaVlISnk4M2tmdklZTFZaTWR4ZmdHMVBhdzJFb0LSAa4BQVVfeXFMUHBqNWdzaHd0VXNtRjBIem11R29FRkJYLTA4cEJtLWRFZkVpX0tfWHVsbDktOHJmRnVOaHlSOG5MWElaOF9LQU1RQlhMVlAzUTdRZTd3SHAyWkdqRnczRzQ2dUYxclBwWFEwZllHMlpmMmstWno2aUZ0WTZkX182UFlSeG1GODZGRFk1SkVBZ1d2Sy1LVXlkYnNDcjZWd2dEQkpWOHVHMEExbXJYbFl3?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "18744942ae99bd8c",
+      "headline": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Jalopnik",
+      "excerpt": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency Jalopnik",
+      "publishedAt": "2026-08-21T19:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEl6OGNtMkJiUWdFSGhNRWQzeDBMM0EyLUxJdTRGSU5sbW5EODkzalVnM01RTkZGQ0FMSHZYUUVUdlBCTC10b1NHYlpfYjRJaldTT2dUOC1veVBmWEVQM184WDlfc2NqcG9VeWRBZUNBTF9NTHpRLVliZ05hXzFIU1RkTjZjNVdRTV9hRXRJLVJhZ3Rw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "5434db02655d1e66",
@@ -1011,6 +1020,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "9006ae42b9100287",
+      "headline": "India bars Niva Bupa from opening branches for six months due to expense breach - Reuters",
+      "excerpt": "India bars Niva Bupa from opening branches for six months due to expense breach Reuters",
+      "publishedAt": "2026-08-20T18:04:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVZpajJwalFjZU9zMDB2UDZITExFb2NIUkphanM5Nkp4dGRkQnkwZTY5VVVic0FXdXgwRFBFazZlc1lsc1FVdnR2OEdIai0xblhBWmkyZ016aWs0TW40djdjUUlGREwwa3U3MlRvWklzcndoOHFWcUY1QXhvXzlxVHJ3eHVGVVhmZ1dyLVE4V0lDamFiT1VsNnhoMTllVVRRbVBqYk12ajZvUQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "3f3d81a95c07b06d",
       "headline": "Max Verstappen Not Retiring After All, Extends With Red Bull Through 2030 - Jalopnik",
       "excerpt": "Max Verstappen Not Retiring After All, Extends With Red Bull Through 2030 Jalopnik",
@@ -1452,6 +1470,15 @@
       "sourceName": "Electrive"
     },
     {
+      "id": "b02182bc4a62f3bd",
+      "headline": "It Took Over 50 Years For Driver's Licenses To Become Mandatory In Every State - Jalopnik",
+      "excerpt": "It Took Over 50 Years For Driver's Licenses To Become Mandatory In Every State Jalopnik",
+      "publishedAt": "2026-08-20T09:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamtQZm5IOHF6TkpVSWloVUFCUnlEdHFlMldmZWp4NEFpQXpGV0l3V18wcnh5VjhEQWY0NHhCU1laQVNnRmJpU2xsWWE2VVF4MVl2c1lOZ2RnenJXd0ZSZjc0bUZrY0NZN3VfeTEwaG9OM0Z2UXJzRlMtV3ZOXzRrejdNZkVPVWJYNmcyYUNweDZJemF5MnBpdGROT09WZHc?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "87ab22b033b4ff24",
       "headline": "EXCLUSIVE: US designates American held by China as wrongfully detained - Reuters",
       "excerpt": "EXCLUSIVE: US designates American held by China as wrongfully detained Reuters",
@@ -1871,6 +1898,15 @@
       "excerpt": "UN's Guterres seriously concerned by US sanctions on ICC Reuters",
       "publishedAt": "2026-08-19T19:06:05.000Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "89d2517b5aa66ed7",
+      "headline": "Fed policymakers' inflation concerns increased at July meeting, minutes show - Reuters",
+      "excerpt": "Fed policymakers' inflation concerns increased at July meeting, minutes show Reuters",
+      "publishedAt": "2026-08-19T19:00:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclBKRi13SEhnYnQtMlF2TFVIT09HRkw2UThrb1F5eWVVNnNaYXQyTjhYbVhpenc5TjFGdW1yUG55ZWVXaEhSRHc3Wk0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44963,42 +44999,6 @@
       "excerpt": "DP World plans UAE east coast port to bypass Strait of Hormuz, FT reports Reuters",
       "publishedAt": "2026-07-13T14:01:26.000Z",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2lKRXN0dUJoQnF6T1JPQkZhVDFQejBKNGpoeVJmcXdFeFZfX21ZRXlJOERMTDNaQWo0NFJoYUd4WHptM2Z6TzBOUXNVUDJWcmJJM2ZnQV8wUEJrZUZuSE5ibkVKN2xrZnpUMFFyOWtKTDNtOVp1aXlsSXh4NlhpZU1UeXFJbXl4NURQMllNWHcwc2V5aXdLU2x6VE42aHkwTExscXBhS2oteXY1T1QtZXMzd2UwS2hwNzVZQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5f30d63afc31d35c",
-      "headline": "The 10 best state economies in America in 2026 - CNBC",
-      "excerpt": "The 10 best state economies in America in 2026 CNBC",
-      "publishedAt": "2026-07-13T14:00:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jbHlsNjBlSFFENVp0bm9iTHJCTFBnb0VjU2MzUFRGMHNOZTIzX0hmR2hLQkFXaVRPYk5yV0FTNTNZT1haT3JSamVfeHN1WkhubWFfcEJhVUVENnJ1RWhKYlgtSGdtR0VtQUc2ZFhWc9IBdEFVX3lxTE1JSTRNN0xuanYzRnlrWjRmWWQyblZJNDhzd1B3NUlCUTR2WVo3Wmw3NzRqMWpMbTh5bzNhdDlYZzZUSFpXS25fZ2l5aHZZcm9qS2xSaFEtTUdieWFaQzExaVEtaHl2ejc2RVh6cTlrd09oOTJn?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "f72bfcb9e8b41227",
-      "headline": "UK bans support for two Iranian groups over antisemitic attacks in Britain - Reuters",
-      "excerpt": "UK bans support for two Iranian groups over antisemitic attacks in Britain Reuters",
-      "publishedAt": "2026-07-13T13:58:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "99940c28a76ebbde",
-      "headline": "'Our Jurassic legend': reactions to the death of actor Sam Neill - Reuters",
-      "excerpt": "'Our Jurassic legend': reactions to the death of actor Sam Neill Reuters",
-      "publishedAt": "2026-07-13T13:56:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHE1WG9QdkZsTDBXeHZIeERyYWFHR0VsZzZ0ckFSVmprbWZ4QVFCMWp0SEpxdWFkYWhHRGxZNFpEcTc5d1FxUnk5dGFCSU1zUFVlR1pjckNIQkVwOGg2WHJGRmlJNENjNmxTbkNjRGFLMjdaclFBTDRxQ0diaTJfcTJqazJ3R0JnVDhJU0ktY29rMTN4bW96RHIybng4MEFBS0E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2e61397c689449e9",
-      "headline": "EXCLUSIVE Watches of Switzerland held talks over potential takeover offers, sources say - Reuters",
-      "excerpt": "EXCLUSIVE Watches of Switzerland held talks over potential takeover offers, sources say Reuters",
-      "publishedAt": "2026-07-13T13:46:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVZlcy1YdWhHVUlKOGU3bVRnYmhVVHVBZ0ppbnJENHFKd0p0Rk05MDhuOFJieU9ucUh2WERZX3pZMWxJRGY5X2hRc3pOeFUwbUJFTF9yZEI2NFM5UEFHVlpQNl9zWTJHaFJxc3BxMno5MWVucl9WbEZIOFhPMWF0Zzc3cU5yQ1RpdGxLbHo0M3pGRWdZQklYb3JXNjQ1QlJuWEM4ZnFQUGJvOVNsZUU0dzFqcjlMalpZdERzczJvX1JQc1Fq?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
