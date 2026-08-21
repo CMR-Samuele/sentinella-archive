@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-21T17:26:10.898Z",
+  "lastUpdated": "2026-08-21T17:56:16.557Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "53afd6ddfd50f2db",
+      "headline": "Tesla will resolve massive China recall with stickers and a software update",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-21T17:54:14.000Z",
+      "url": "https://www.teslarati.com/tesla-resolve-massive-china-recall-stickers-software-update/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "c564cd0067805c77",
+      "headline": "Tesla issues OTA recall in China over driver monitoring",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-21T17:45:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-china-driver-monitoring-recall-model-3-model-y/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-china-driver-monitoring-recall-model-3-model-y",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "c73991a7926fd9da",
       "headline": "Tesla and 10 other automakers face China’s largest vehicle recall ever over door handle design",
@@ -66,6 +84,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "0484afc36b616780",
+      "headline": "Hyundai Workers Shut Down Factories In Full-Day Strike - Jalopnik",
+      "excerpt": "Hyundai Workers Shut Down Factories In Full-Day Strike Jalopnik",
+      "publishedAt": "2026-08-21T14:14:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BbVZrc1lNMENJQWdmWWYwN1JXSzZZMk9nT1ZMUkloWDZhbHhYSVctaUpPcTRpczM4MTdndTJEOGJXcDRkNklXclFmbndZRlU4dnc3d1FnS3Q4ajFia25KNWJJN0dTOEFoRkhJb3Rma2d5QkZWMDlKaw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "ed24cfc62d931450",
       "headline": "Tesla (TSLA) recalls over 2 million cars in China to add driver monitoring",
       "excerpt": "[object Object]",
@@ -100,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-nevada-robotaxi-permit-5000-vehicles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-nevada-robotaxi-permit-5000-vehicles",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "f6c7caee4559d2ac",
+      "headline": "US service sector fuels acceleration in business activity, S&P Global says - Reuters",
+      "excerpt": "US service sector fuels acceleration in business activity, S&P Global says Reuters",
+      "publishedAt": "2026-08-21T13:49:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBzVy1yLUVWTXVyYzJzOW9wZHFDZGZHU0RyNzY2Mk5UZ0FKMUR0WEoyNGM1YUlSQmdOUnZRSTJ5UUJFSkNtcHhiZmdQd3dOM0NpbUFndjhOenRzZTRRamtVQUEtQVVvbmhDZWJOV1JRcklpQ2tfX3FqdHRhRTlpdXpQM05KS1Y4ZHUyeGNuUy1GbE9GWEFQSld3eXJ0Wk5xeklPRHhJS05tVXA1Vjh2YVNVcDU?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "632e758365f52152",
@@ -1268,6 +1304,15 @@
       "excerpt": "Indian Oil close to signing LPG import deal with Algeria's Sonatrach for 2027; sources say Reuters",
       "publishedAt": "2026-08-20T11:18:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXowMnBuaUoyRlRGN0lBQm02YUpJY2FDbUFCVHBpMFhfZEFzXzhvVm1QZVhRbnFKUlEtS3BJOTdFd3h2bkJsemJmekY1eFFaY21jUXIySGxtOGZxVVlDMXV3NE1MOE9IVE13bUxodHYzYnRYclQ5LURpOFo2TFZtZXpKSVh3TUNhSlJ2R1JBYXBONEExdWN3bS01a1FoX2pZYWktb2ZYUV9IbnBSR3RMbG5KcUVUWUxkRS1LZy1FeTNMS1JjQXV2Mw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "9906322096a295f3",
+      "headline": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% - Reuters",
+      "excerpt": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% Reuters",
+      "publishedAt": "2026-08-20T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44956,51 +45001,6 @@
       "url": "https://www.teslarati.com/spacex-slew-changes-starship-flight-13/",
       "sourceId": "teslarati",
       "sourceName": "Teslarati"
-    },
-    {
-      "id": "8919c57c68da5f98",
-      "headline": "American Express is a buy despite its expensive valuation, JPMorgan says - CNBC",
-      "excerpt": "American Express is a buy despite its expensive valuation, JPMorgan says CNBC",
-      "publishedAt": "2026-07-13T11:46:23.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTU1WDhSZDN1WEp4YTd5WHMwdG1iMUo2ckc1c0ZPY0ZmTTRObmJiQnpvTk1OTXdFb0c4MDFxV0k5RTFsM2h4X3J1d09vU3FITnh0UDh0ODg1ekNFNTcyN2czUjZqX0dCTmo4NDV5Qlc2bmZSX29rUmswbS1FVEhTSEhsOU5LMFVwbHlobGFDY2xmdnRkV3hjM1ctNXVqVExNeEM5c1llRkZjZ0FH?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "ef1697c1c911ba96",
-      "headline": "Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters",
-      "excerpt": "Houthis fire missiles at Saudi Arabia, breaking years of calm Reuters",
-      "publishedAt": "2026-07-13T11:30:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1013aec1f565eedc",
-      "headline": "Tesla gets price target upgrade on heels of crazy successful auto quarter",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-13T11:29:15.000Z",
-      "url": "https://www.teslarati.com/tesla-tsla-price-target-upgrade-heels-crazy-successful-auto-quarter/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "d352f18b3de0aee7",
-      "headline": "Why 2 Million Tires Ended Up On The Ocean Floor Near Florida In The '70s - Jalopnik",
-      "excerpt": "Why 2 Million Tires Ended Up On The Ocean Floor Near Florida In The '70s Jalopnik",
-      "publishedAt": "2026-07-13T11:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlQ1dy1PTDNiTXduQXBpQTdNekNBekwtLW5TZE51Q0lta1lrYkl3YlFtT2RyTDhjOUtUakF4STZsTjNnbXNGNXNjaFAzSWlvSVdCbnRoSGdmRDI2SkNnbDFNUzhTWTFVS2hmRUpicXY1OFZZZWEyblh2TzdrVVk5NmVITkUyQmc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "9176dbab5afdcc84",
-      "headline": "UK supermarket Morrisons in talks for $803 million stores deal, Sky News reports - Reuters",
-      "excerpt": "UK supermarket Morrisons in talks for $803 million stores deal, Sky News reports Reuters",
-      "publishedAt": "2026-07-13T11:16:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGNiNkRkRHN1RHVaU2l6dUZ1YUdEX0tIcS1Zd2xYazY2OTJ1UTlPM3BaMENLb0duRWlGX2pCR2VxdWZOYjVPNk0yRkFEOUNuVUkzMGx0RTdtM1dxX0t5ZmJRNk5OX0EtWVBCdm1TTVBMaXY4V0d6R0VQV29kNXBRR01WSEdCV25xeld2eVBjYWdneHU1WHhaSWlKUGppaFk0UmR5QjhHVThac3ljZ3pVdUhvRkFTU2x3bnhmaFZnbnJjYVZEdy1BOXZ0ZlI?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
