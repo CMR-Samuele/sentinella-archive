@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-21T20:22:49.484Z",
+  "lastUpdated": "2026-08-21T20:49:28.757Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "9392a720f7585b37",
+      "headline": "Tesla Cathode Factory",
+      "excerpt": "We are operating the first large scale Cathode production facility in North America as part of our 4680 cell production in Austin, TX",
+      "publishedAt": "2026-08-21T20:40:28.000Z",
+      "url": "https://www.youtube.com/watch?v=tMhp4-ylrdE",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
     {
       "id": "0f728e7bdae6d26d",
       "headline": "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring - CNBC",
@@ -145,6 +154,15 @@
       "url": "https://electrek.co/2026/08/21/tesla-recall-2-million-cars-china-driver-monitoring/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "40fe50dc104ed52c",
+      "headline": "Canada retail sales rise 0.6% in June, StatsCan says - Reuters",
+      "excerpt": "Canada retail sales rise 0.6% in June, StatsCan says Reuters",
+      "publishedAt": "2026-08-21T14:00:39.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzhNZmo5b1lrUUpqMEdPX25aOHlkQjlCeW81QTV1eFc0QlNwTURCeF9KYUplQXdTTUNrOWp1M0g1X3I5VGRZckFrRGN1YVVGVVdRNk5xMDJkMEsyNUlzaWVfVDRBeS1DUUFnRFhaMHNHTEFQMnR6Tkh2YTZzZG1OUHRNMk5uWGpnRU9veERYd1lJZHJTRk9CdnQxUUtxY2FfWi1NYWNLR3hnRWFFSGhnSVV3?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "eb181966e52403ff",
@@ -44981,24 +44999,6 @@
       "excerpt": "EXCLUSIVE Watches of Switzerland held talks over potential takeover offers, sources say Reuters",
       "publishedAt": "2026-07-13T13:46:08.000Z",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVZlcy1YdWhHVUlKOGU3bVRnYmhVVHVBZ0ppbnJENHFKd0p0Rk05MDhuOFJieU9ucUh2WERZX3pZMWxJRGY5X2hRc3pOeFUwbUJFTF9yZEI2NFM5UEFHVlpQNl9zWTJHaFJxc3BxMno5MWVucl9WbEZIOFhPMWF0Zzc3cU5yQ1RpdGxLbHo0M3pGRWdZQklYb3JXNjQ1QlJuWEM4ZnFQUGJvOVNsZUU0dzFqcjlMalpZdERzczJvX1JQc1Fq?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f568d1ede38056e9",
-      "headline": "Buy the dip on this Chinese EV maker that's poised for a comeback, says Goldman Sachs - CNBC",
-      "excerpt": "Buy the dip on this Chinese EV maker that's poised for a comeback, says Goldman Sachs CNBC",
-      "publishedAt": "2026-07-13T13:44:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkFYWjBoNVN3RGgtb3gxa2xBaXhBaHFHUUhQUGYtUU4xR1pNWXlzRi1OT0NRdm1rY0RIM2NHbWhXdk9tUUlzOUd6VjZubDRpUGFuRmItbkNOSVV6Q2hFcldtS1BwanAzOUprLTZZQngyVC1QdGtPcXlYbHVqUG44YThsZjJ4SG5mVnlQS2R4eG55bThaYXJxLWVES3dNeDViMl8w?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "730bd49e4561f17e",
-      "headline": "SpaceX clears Starship mishap probe before next test flight this week - Reuters",
-      "excerpt": "SpaceX clears Starship mishap probe before next test flight this week Reuters",
-      "publishedAt": "2026-07-13T13:44:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDlGX0dNNkh1R0ttWnF1YjkweWdic25XU3dQUGtKTTRmWldTenhab0d0dk80c0JZZUJkdkJGTm5pT01tVVJsMDFOdG02UlRGbG9TY0Z2bGp2Q3VhazVORzd4ZkFCd1pzSlFTQzdkT21LLU1hanNBMWVMaFBHclNQb2VRcmE0VkJraVpjbWxOM2hrdHU4eHBfMVNXSG5RRS05NUh2T0VZQmY1N05mRFlUMGYtYldtRWxZbndtU3RUSHZwN05Y?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
