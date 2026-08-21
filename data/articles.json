@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-21T17:56:16.557Z",
+  "lastUpdated": "2026-08-21T18:36:37.960Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "436ce9ffb39b50d4",
+      "headline": "Tesla’s solar roof is dead. Here’s what went wrong",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-21T18:09:53.000Z",
+      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
     {
       "id": "53afd6ddfd50f2db",
       "headline": "Tesla will resolve massive China recall with stickers and a software update",
@@ -3916,6 +3925,15 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xWUVwUGEzb2ZxdHd5YmluOTlLQTUzRnJFQXZqZ09sYmtwbmxabWxYc1VSblo3TXpyb1BhRlg5YU5TM1p1QVN0QmRwZGxRczJUbzc4bGM1MG9ycXpOUWZudzdvMV92LW4zNV9UN290TUZaS2FWbEE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "1708975787ec3d77",
+      "headline": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - Reuters",
+      "excerpt": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll Reuters",
+      "publishedAt": "2026-08-17T11:08:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "fcfad100f4ff3194",
@@ -44983,24 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHBJbVNOU1YwZVlzckc5bzdtRVU3bnJtRHRnckl1Yjk1TDdCSHZTTDNTdjJ4R1pSYjF6R3VLb0JVS1p3VWJOLVdHSlh5RHp1RkNWaGdrQWVGZDE2OWllenU4TF91c2lwWEdSdG9uX3g2VzNMZ2s0TGNuQldjemRrVy00UUwzNTdCcjJFVnhhR3JwbTJhYmZHWnotQlBIUjRuNlV0dWdKZ2QtTFZfOF85WEpsRlFSZVpGM2xIN2pHR19pRUVldnk0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0e62130129298a10",
-      "headline": "El Salvador president's party nominates Bukele to seek third term - Reuters",
-      "excerpt": "El Salvador president's party nominates Bukele to seek third term Reuters",
-      "publishedAt": "2026-07-13T11:56:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTdOZ1k1UFlwQ09FTkNvLVVTdUxXZDRZLXUzYmNWakRvS2tVNndibG11ekJoQlpXRFhHdk9KdTZYUHNFei1zdGMyaVMxdTJfSjlBbHpYZ2x5MmNrdEczTmg2NC1aaHRiSVpJdWF6TU1QelhsVXZPNFV3a0FMNUVaVENnbjF6NTItQTJCM2ViVnZ3eGxNWFppazBfMmhwUzFDQXEtcGpBeDNQVExacDdDRlFB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "28d2b04dfe1b9939",
-      "headline": "SpaceX comes with a slew of changes for Starship Flight 13",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-13T11:50:25.000Z",
-      "url": "https://www.teslarati.com/spacex-slew-changes-starship-flight-13/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
     }
   ]
 }
