@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-21T02:42:51.677Z",
+  "lastUpdated": "2026-08-21T03:48:30.374Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "b2f8b9c2ed7f1383",
+      "headline": "Tesla discontinues its Solar Roof tiles, not economically viable",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-21T03:44:23.000Z",
+      "url": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "b2f8b9c2ed7f1383",
+      "headline": "Tesla discontinues its Solar Roof tiles, not economically viable",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-21T03:44:23.000Z",
+      "url": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
     {
       "id": "2ee96b359f8b8fdf",
       "headline": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
@@ -10,6 +28,15 @@
       "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch"
+    },
+    {
+      "id": "7f24a1b99bc638f7",
+      "headline": "Who Typically Pays Higher Car Insurance Premiums, Young People Or Old People? - Jalopnik",
+      "excerpt": "Who Typically Pays Higher Car Insurance Premiums, Young People Or Old People? Jalopnik",
+      "publishedAt": "2026-08-20T23:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YZmpTWGV3YUpNR2diQlF2M0FPZGswblg5XzlabzRhM2NsMnl3WmJqWElBcFpGNEw5c0tURjcxNjlELUphMWZHQUtOUXhQME84N0pzRWl2eFpuak8wNjZVUVJxNno2VmJhZ0twTnR4Vjd0Y2ZqM0x4UUZlRlI?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "d1875d1131fcecbf",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcS1IS0o0Q2RIbVZsMWFQc3hWY2lheW5Zb09jdVlENDBxeFVOYk0xRUozaTI4NFVUUzlGem1tLUdnVURUYXcySHVNdk5kd185ZTAzOHFkUjV2MHYxQkNOejZSbTl3VlQyb3c5NWM4ejhFZUlNN3FUYnA3SW1uWGtzaFVXTDFYY2MzRHRBZzh3N2tfeUw0ZnlELXRNX2JKb1dsalpzVkppVmZjMTVTZ2ZWcnZCRUNGMzByaFE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1804a125078d53cd",
-      "headline": "LG Energy Solution likely to increase battery supply for Tesla",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-10T09:40:00.000Z",
-      "url": "https://www.electrive.com/2026/07/10/lg-energy-solution-likely-to-increase-battery-supply-to-tesla/",
-      "sourceId": "electrive",
-      "sourceName": "Electrive"
-    },
-    {
-      "id": "e7f151da62c97d27",
-      "headline": "Japan signals massive pension shift to domestic assets, sparking rally in yen, bonds - Reuters",
-      "excerpt": "Japan signals massive pension shift to domestic assets, sparking rally in yen, bonds Reuters",
-      "publishedAt": "2026-07-10T09:29:13.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVMtUVBYM09NVGNtamVMU0tDUVptSUxHNE1Wa254NGNMWXljdzVxRm1QUlhQb1VMR2tncWJTc0VhVHhud21lWHdVWVRsTDJqSGtWRmRJbWtzaXl1cG5fVl9idXVaMllXZjNKY1V1LTlxYlNIQlBsZ29ESmJDN2xWWUtIcld4dGhFaG94OUptaGtkZmNmTlc4UnpRREhFcU1Kd25wQXRCWXQwa3pQNm1QRnVBMmRIZDhWcVVwVQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "047e0f350ee9eef7",
-      "headline": "Here's How Much The Gap Between U.S. Income And Car Prices Has Increased In 55 Years - Jalopnik",
-      "excerpt": "Here's How Much The Gap Between U.S. Income And Car Prices Has Increased In 55 Years Jalopnik",
-      "publishedAt": "2026-07-10T09:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWhZTXJCTTUwT2dUNEt6LTlHTk5xeksybDY3STlpRDB4amZvdXRNTHV6SFhMZDVkcGlXMHZJUjhaaU9udzlqcGFudkNpNkpfSkxqX0hFUW9wWEg0X0xXUG4zcDdrdGo5U0xmRzFubXd6ek9OS2hwWFp0VlR1NlJjZklRLWNULW12UDVXdWxjbXN5UDBBNVRVSVdVYnhUNnFuMGt6M01WeEp2QQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
