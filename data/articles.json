@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-08-22T16:49:05.550Z",
+  "lastUpdated": "2026-08-22T17:18:03.915Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3b85749f6dbe7f91",
+      "headline": "Rivian Warns Select R2 Owners to Pause DC Fast Charging Pending Inspection",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-22T17:02:55.000Z",
+      "url": "https://driveteslacanada.ca/news/rivian-r2-dc-fast-charging-inspection-warning/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r2-dc-fast-charging-inspection-warning",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "ade5043ec332d825",
+      "headline": "Tesla Semi coming to Vancouver for grand opening of North Americas largest Service Center",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-22T16:48:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-vancouver-service-center-grand-opening-semi/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-vancouver-service-center-grand-opening-semi",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
     {
       "id": "eec8551ab513e6b6",
       "headline": "Tesla starts sending invites for September 3 Cybercab launch event",
@@ -35,6 +53,15 @@
       "excerpt": "7 Of The Rarest Pontiac GTOs And What They're Worth Jalopnik",
       "publishedAt": "2026-08-22T12:45:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40ak1LTXNBLW0ycFAzSkxheFhsZktHY2l6WTRzRWVJSzFQc3RDMTd1TC0yTVlWNEstbEczNlBkSkZvRXo2T192WTFWVHkxMy1PVERjNXZqV1lIV29JSzhsbmFXNlduVFJrcUNOcEhnWUM4bE1uelZR?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "275594f204ce6a5d",
+      "headline": "Here's How Much A 2021 Kia Soul Has Depreciated In 5 Years - Jalopnik",
+      "excerpt": "Here's How Much A 2021 Kia Soul Has Depreciated In 5 Years Jalopnik",
+      "publishedAt": "2026-08-22T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG1ndVp0Y0RpRGlRT3NIRVkwdUMwZlhzY3VkVjE2QUViVWZiQW9xb3pIMW1YR0daZ1pobFdpMGt1Q1I5WHlFclhibTB1X1QySEVlTW01Qy1fcUF4c2MwOE53UXVJWkJwenUwNVdIMW1VTWcxNG82c0NfaTRHV2dhcg?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -2285,6 +2312,15 @@
       "excerpt": "First screwworm case detected in Mexican state of Sonora Reuters",
       "publishedAt": "2026-08-20T01:57:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNU9hOUVSajZhRjh2VnZKY1ZEWkVmVnFaY0tpajdORnBxYkpTTlhDSXdhbDFUWjRDSXNDendiOUg1WWg2SzV6cGVmTl81U2dJanlmemdPcF9wOU9qT2lIN1JST2tmTFlGVk9NeGs5MmVCSlh4elBjejFFUU9JMWtRMl92OUYyY1JtYVMzaXRwN2tGcG1jQ1ZZT0Y1dnFFU3BDdjNEQWdaRWl4azg5bDF5cmlQOE9vaGxzbUZZYWtCOA?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "873e99156ce4cc50",
+      "headline": "Fortescue hopes for swift return to normal China trade conditions - Reuters",
+      "excerpt": "Fortescue hopes for swift return to normal China trade conditions Reuters",
+      "publishedAt": "2026-08-20T01:14:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjRkb3dmNm9BY2ZZOHlKQkZoMWhDclFLdGhvclo3Nm1pUzVSZGpUVjdKczhIUjRrMVRueWp5R3pWbUQ1aUdpTEhNT2g0Wk9OLXhwS1VMOXpLa3Z2S3g3dDgtbGVGTjcyWXJ2cWktVVVlakE0SDBDZXU4dnZFRlBXOThORElUVDQxR0IzQnFta3BJWUtwWjdCOWJuQ2l6TGR2SFN1dnNybzZDZw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44965,42 +45001,6 @@
       "url": "https://electrek.co/2026/07/13/ev-sales-are-normalizing-in-the-us-and-taking-off-everywhere-else/",
       "sourceId": "electrek-tesla",
       "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "9641a393edd5743b",
-      "headline": "South Korea central bank to raise rates for first time in over three years on July 16 - Reuters",
-      "excerpt": "South Korea central bank to raise rates for first time in over three years on July 16 Reuters",
-      "publishedAt": "2026-07-14T00:37:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVllY0FCSXYtWEhqWHNXUFhEbXVaQVRfTXVCQzF5enF5U0dZaWlZS2RyMjJ1dFhjaXRUVHdNc3lHeWpMNTlPX283TXRGZmdENlZIaURIMWk4Q0NwV09rOGt1Q09PS3BUOXVIX1lwWXVkaThGLWpvOVhPOERiUDFsWW9lbElRMDdNVVZlZHNhTHptUGFKMU5QOUIwREtXQ2xBaG0zWkcyRU5TSmUyZHNjVEc2d3o1S1E1NEkzTFBsSExTTFIwWlE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "b6cad275e7731b85",
-      "headline": "Here's What Audi's TT Badge Actually Means (And No, It's Not Twin Turbo) - Jalopnik",
-      "excerpt": "Here's What Audi's TT Badge Actually Means (And No, It's Not Twin Turbo) Jalopnik",
-      "publishedAt": "2026-07-14T00:33:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVaYVdVMS1TSGNoeGJITlU0Y1g3Uk9WWWtQNzBDc3dSVHMzaWU2YURSbV9Ed0xhelNBX0p0SmswbmU4aWhGZnh5b05fVlk0dDBScDF1QzFHU3FQRXRRWGpBaXc2SjdzR1VZSDBoeFlPcVh5NEFwRGY4ejQ5ek1BT3l5dllDYlh0SVpmdlNvNWhZSnk3VmY3SHNrb2g3ZmdUYkYxbUhOc2tUdw?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "ecef06cc14c18330",
-      "headline": "Trump wants fees for Hormuz just like Iran - is that legal? - Reuters",
-      "excerpt": "Trump wants fees for Hormuz just like Iran - is that legal? Reuters",
-      "publishedAt": "2026-07-14T00:12:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dNNmJQLXczRFNZeWVhc01WeGRBWEpGbGtVejR5X2VIUzVUUHVCUDNIbWxqVElSamZ0ZkhySGtUelhhNVduTUlqc2YzWnl0cnVNbDU0aVd2ZmNBUzNCWUdxanpwbVgzMnBEV2ViTGFVSXZGZ3RUMTBPMEZDbXlVVC1JMHpNT0ltRkx0YXFUQVI5YmUtaGUtOFc1MDVoSHRfTXJ6LQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3d23773367cea910",
-      "headline": "Lawsuit accuses BlackRock of overcharging mutual fund investors - Reuters",
-      "excerpt": "Lawsuit accuses BlackRock of overcharging mutual fund investors Reuters",
-      "publishedAt": "2026-07-13T23:56:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMURUMWhZRXRLYklrX1o5bTFCam1NMnZUQ0R1VHBUdmJDcHFNZTlDTW03aEVDbllxSEY4cnpidnZmcEhqNlEtR29KaGRpRWVUUHE1QVR1amxYVngyRW1lUFA2VG5DTHhtNXpSVmxoc25pWlBDUldNaDJQVlFyOHJoZnBRc21GTG9BMW9Nejg3WWNxUm5TWTc3ellGbU5EZE9UUlBCcVNCeWU?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
