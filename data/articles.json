@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:18:04.783Z",
+  "lastUpdated": "2026-08-22T15:45:14.730Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -91,6 +91,15 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "b849e5abd590b3c9",
+      "headline": "Here's How Much A 2021 Chevrolet Bolt EV Has Depreciated In 5 Years - Jalopnik",
+      "excerpt": "Here's How Much A 2021 Chevrolet Bolt EV Has Depreciated In 5 Years Jalopnik",
+      "publishedAt": "2026-08-21T23:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVN6Q1BGRkMzazJfVHJoVnJBYWRHSG9PM294QnZzb3UxQjVMaEhMbHE3dHdRTF9Lb0tNZHI5Slg5YmFIdE4zN0JpcDJDSE9XMnZUWjl5VTdMR3J4eDVSTnZlTjVVeXdOdlhod1FNSHVnemRxRk1pajJFb2NTaW1xYkdB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c1dd0773fbadf55e",
@@ -29019,6 +29028,15 @@
       "sourceName": "CleanTechnica"
     },
     {
+      "id": "fd7c506254a8e6e4",
+      "headline": "NHTSA moves to develop electric door handle safety rules - Automotive World",
+      "excerpt": "NHTSA moves to develop electric door handle safety rules Automotive World",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRl93bFBOVXVTYWJnSVlvbXdIV1VJbFdMN0hOQ3IxWEx6ZC1PanlTc0JrZl9nWVVLMDB5TVJUNTMyVVRqWGlBX1AxUzExekp0aHpEaDNldVVoanVZSVlHQ3I2ZUFfU0ZaQ2lfS3NWdEZLNzNkNjdqUE1kdHlFUERMTnRwOHNHMlE2T1hZd09ZTFRpT2t5TFFMaWdQUERsUDhleU54WDFpUFAxMmc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
       "id": "eacc717e7df969a3",
       "headline": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters",
       "excerpt": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply Reuters",
@@ -44983,24 +45001,6 @@
       "url": "https://cleantechnica.com/2026/07/13/xpeng-aims-to-go-head-to-head-with-tesla-in-europe-with-self-driving-tech/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "4ad8d9e78928431b",
-      "headline": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders - AOL.com",
-      "excerpt": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders AOL.com",
-      "publishedAt": "2026-07-13T23:12:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NdzhXOWpoX0tNbU9waGFXYVlzWXE5YXRJdG5kUW1uakQtQjFFbG5LclJvLVZtamQ5a0Y0OUdHY1pMeDRfazFxSUxFcWJsMGVBRUVSZ29vWUNNM1JMUmx6ay13eUdqNFR0ZGNGMFo0VWQ3YVZKY0Q5eDdOWWY?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "bab94cdbe4a30e5d",
-      "headline": "Trump slashes the size of two Utah national monuments - Reuters",
-      "excerpt": "Trump slashes the size of two Utah national monuments Reuters",
-      "publishedAt": "2026-07-13T23:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG4xdG5GbjJSN0FlcjYwNU0tQ2Jza2poZktxN0VaSG1Dazc2bGJxU0wxeFlKcFZ2VTVrZS0wTFRTekxNZzJYLWtOdDkwS2xiZ1RJY1dhVEh3NXE3eGRuaTBhR3lfb0tLNElMdU9JeWlpdUdkcHBSR3l0bVpKa21Ed0xHdkNWSXFzdklzSjE1dnlPZk92Ync?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
