@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-22T08:59:44.177Z",
+  "lastUpdated": "2026-08-22T09:34:48.318Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "88d1302559ab93e7",
+      "headline": "Tesla, Uber and Waymo permitted to operate thousands of Robotaxis in Nevada",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-22T09:00:00.000Z",
+      "url": "https://www.electrive.com/2026/08/22/tesla-uber-and-waymo-permitted-to-operate-thousands-of-robotaxis-in-nevada/",
+      "sourceId": "electrive",
+      "sourceName": "Electrive"
+    },
     {
       "id": "9449af2632bc90fd",
       "headline": "SpaceX and a new Trump order that could rewrite the next decade of launches",
@@ -145,6 +154,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUpnREI0al82bENnSFhHWDU3eUNfc0h4NmI5eVpUZ1hMUW9vMmhNTkVSV3hEdEYzVFdHRnZoYVpvRDFIRzJMOEZVVURGSnNzVUVSZUI5aHBFNDBDczl1UGpOWGtkeGxVYUMxRmtjVXBBbE9Lci1RVlhyYmJ2ZHp5anZPaGNkS01yd2dKaVlISnk4M2tmdklZTFZaTWR4ZmdHMVBhdzJFb0LSAa4BQVVfeXFMUHBqNWdzaHd0VXNtRjBIem11R29FRkJYLTA4cEJtLWRFZkVpX0tfWHVsbDktOHJmRnVOaHlSOG5MWElaOF9LQU1RQlhMVlAzUTdRZTd3SHAyWkdqRnczRzQ2dUYxclBwWFEwZllHMlpmMmstWno2aUZ0WTZkX182UFlSeG1GODZGRFk1SkVBZ1d2Sy1LVXlkYnNDcjZWd2dEQkpWOHVHMEExbXJYbFl3?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "8d4cb8e702632bbb",
+      "headline": "New NASA Pictures Reveal SpaceX Crash's Devastation On The Moon's Magnificent Desolation - Jalopnik",
+      "excerpt": "New NASA Pictures Reveal SpaceX Crash's Devastation On The Moon's Magnificent Desolation Jalopnik",
+      "publishedAt": "2026-08-21T19:29:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qa0hNMVVTcnpxeGc5c3F4V19JR2pSUnNPZkV5SXF0SWRXVzNzQUo2czlJOUdmelluRjBUWEgxZmFKNTJ3WFNwUHpoLVowTFBabDZaMEJkNUdGTFRseHdkVlNSQUtVZXBrZkR1SA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "18744942ae99bd8c",
@@ -1205,6 +1223,24 @@
       "excerpt": "US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones Reuters",
       "publishedAt": "2026-08-20T20:59:51.000Z",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlA0d3hFZ0lIUnNTWWs2TV96MnRaZEIzNnJUMkVNWVVrRHpEeVBNeU8wQWtkdGh1aDBiMmROSGpyUG92blVmSmpIX29pZC1IaGd4SHo2YkhGd09hcXNQMWhJcHNxSGsyV3d0dnhJd18tVzlYTTZCVG9fOUhKT1JudTR2bjBTYll3bTd0em45RFVVNjU1SjFOWE5iaVBUMFBXUzlabUEwWUxORXctanM4eEtTdzNVZXk0NEdLOQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "bdb27c2bc6b6c151",
+      "headline": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns - Reuters",
+      "excerpt": "UK cinemas restricting Meta AI and other smart glasses over piracy concerns Reuters",
+      "publishedAt": "2026-08-20T20:58:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMkl2b3pLTG1FMTdCTGgzZGxhMmF3MFJqck5Ga29PQ2RFNFVqc0pSdThiZjBkbXEtVWNSc0NZc2daN2tIZHZyNjdGdFRReTZkRk9sZlNzZm9CNXVqdGU1dVl4RXhadmZUTzkxNVZrbFBHZ3luaW9zal8yaU5GMHFIVmdQYWJ5NVBwWFg4Sk9DeW56QkNsXzdmUXZWby11U0NKRWNwUlRySzdyX0lVdmFTQjAyeEpkNXdFUVVhaE96Ym1COFhnMC1qWXhR?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "7d0831adf47fb406",
+      "headline": "Ross Stores raises annual profit forecast again on discounted apparel demand - Reuters",
+      "excerpt": "Ross Stores raises annual profit forecast again on discounted apparel demand Reuters",
+      "publishedAt": "2026-08-20T20:55:41.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFVKb3hYaVFIUG96TkNVVnhCaUJNRUlYelZmQ1RFUmhEMWxkelNZRVdjV21rMjlzbnNYaXBzblVKcU1HOTQyQ3pLZ0dvWGZoLXpIZklkME00Y3VSS0hzUnBORi1EV2dVNk9mek9WckNkd0E2Z3ZGdHJQVHFaVkVQelVob1JNaFI0eFMwMXdzRC1nRVVrM2xDcVpGVURHeXVYWXd6bXlMX09IdERfaXBpaUt0VXdVc2VpME9lTTI3QnozcHg0ZU41S2RWbURteGM?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -3558,6 +3594,15 @@
       "sourceName": "Electrive"
     },
     {
+      "id": "ca6a3bddf8fccd96",
+      "headline": "Indonesia wildfires damage nearly 95,000 hectares of land in July alone, minister says - Reuters",
+      "excerpt": "Indonesia wildfires damage nearly 95,000 hectares of land in July alone, minister says Reuters",
+      "publishedAt": "2026-08-18T10:44:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3lzTFJXQzdFc2o2WFhYenNXUXFuUHMxLW1JV19jX2lnaklXREpBUlpzZGczMU53cVQ5MWpvX3RiTkxScjhDcWRzRmxLOUp5eTlPNjdxa0lBNkhZajJGSVB0VnY2SFA5eWpCNHB1aE1FaTRsMTh5M2w5MUVIeVJRVHRSTkcwc2xDR3N2MjBOaGhZT2ZmdktUXzJUbmtqSnZzNFRtam9TRjVadmdERzlNN29HSVpGMUFaeUZZdnpFQ0U3LW9ob2dJX2JmSGVlMTlU?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "316efea0a54c5e29",
       "headline": "Indonesia wildfires damage nearly 95,000 hectares of land in July alone, minister says - Reuters",
       "excerpt": "Indonesia wildfires damage nearly 95,000 hectares of land in July alone, minister says Reuters",
@@ -5248,6 +5293,15 @@
       "url": "https://www.electrive.com/2026/08/15/tesla-offers-severance-packages-to-striking-workers-in-sweden/",
       "sourceId": "electrive",
       "sourceName": "Electrive"
+    },
+    {
+      "id": "861e3dd77f434aa0",
+      "headline": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+      "excerpt": "Japan defence minister visits contentious Yasukuni Shrine to war dead Reuters",
+      "publishedAt": "2026-08-15T06:41:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "f8c2fde84bb7278c",
@@ -44945,60 +44999,6 @@
       "excerpt": "Trump to assert voting machine vulnerabilities in Thursday speech Reuters",
       "publishedAt": "2026-07-13T21:08:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNTZsOUhDOHRqLTNSOUNGM2VMOVhkNXExcjd6Y1lPQlNiNkYxVk40RURyNDBTbW9Wb0kzdUg2Sm5WNFRuYW1oVHhOUk05S0x1aU1tMkVRNnF4Ui1NOFNqZE92UjdFRTZpTkVaOE54Q3hnaUhtcjFsNVhYRkhyUm85QzBUcjg2QXJzczhvSzlLd0lXXzVNOFNrVlJrUC0tM0NSUjFKdDZzNTNlcWdfdjFoQ0JlX3FwM3REZHpB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2db4d2a770e35614",
-      "headline": "Trump says the US will take out Pickaxe Mountain in Iran - Reuters",
-      "excerpt": "Trump says the US will take out Pickaxe Mountain in Iran Reuters",
-      "publishedAt": "2026-07-13T20:58:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0MxRE1KWWs1OXh4SkpMa3dwZWQzSEhxMm11YkNzX1diNFJxNWl6TkxBV1VNczl0c1hheGVMT0l4UVpFcW15YVotc3ZrV1E1bi1TM2tHS3dfdTN1YTJpUTVLdG95RUpELXo5dm9GUFNKSUZ2ekdNdHNfZ2NLQlRyVV94LVhsbVVLSWNvbndVbmpNWTJiMEFlSzBLVDFoeFpXc2FpRzJ3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0a6ac409f21b0879",
-      "headline": "9 Of The Quickest Street Legal Motorcycles Ranked By 0-60 - Jalopnik",
-      "excerpt": "9 Of The Quickest Street Legal Motorcycles Ranked By 0-60 Jalopnik",
-      "publishedAt": "2026-07-13T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlTXpVX2luNkxfOFQ2TjZjQzl4ZXlmY2dhTUhJeXY1Y1RzRnluNHU4Y3dEb0h6cmhTa2NfRGc0SlFqMmFhTjFvTExjNDZudFhlQUVTcnBjaF9vZk5mWElEQk1VWlVPUERpMXpremVONU5KcDN6M3c?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "2bdf9a4cef263577",
-      "headline": "This Is Why You Still Love Your Car - Jalopnik",
-      "excerpt": "This Is Why You Still Love Your Car Jalopnik",
-      "publishedAt": "2026-07-13T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3B4dDJWdjBfUjduRm9hZTFaNG5UcGxibTJtbmJKaVUtNk1JZW42OWFIZC1PQjBSWHhEVFNhaWdjV0F5NjZqQm1hWXR3MmNNb2ZuYm91d1dLRU5Pa2g4aERiWmZzbmVHenZLTWpXVXFBVTNrNkNXakExZEUzbS1McnV3?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "f141684f5102ac20",
-      "headline": "Ford, Canada's Unifor reach tentative deal on labor contract - Reuters",
-      "excerpt": "Ford, Canada's Unifor reach tentative deal on labor contract Reuters",
-      "publishedAt": "2026-07-13T20:27:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVIyLTBWVFN2UGNfWXZUY3pUajVmdkFTNnVlRVBUZFd1T3NWaUpqek9qRm9lV29ZLXJ5X2JqWGpuVEh4YnBnSjllVWlDOV9rSEhJVGNXLWtSZmRtRmpHUXQtcUNvNkpYYVJtTjB4M3p3VUR5czNuVkRkQmU3SE9PU1h5QndCMW5ZX3hBcGVkTzBDVEpsclVYd2g3MktJVGJxVGZLMk90RXNwUzR0Y2JOYS01WGs?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "42d9bde4fe6dd5ef",
-      "headline": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders - Jalopnik",
-      "excerpt": "NHTSA Is Sick Of Self-Driving Cars Getting In The Way Of Emergency Responders Jalopnik",
-      "publishedAt": "2026-07-13T20:05:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVxSHpkbmo2U3Y2eFVPWkZtQ0ttR20yeTVzLVlZMG9IVTh4alV1LVFPX2lSdnlYZ2VMaXBpN1FZMVFuckUtOWtyNFBCNHE0R0hzN3VaellMY2lRU0tqTUk1Z3RWSW1PcHB1TDI2VXpUelBSZ2I1Z252aVJwbFNsYzhHXzJkS3lWV09aRy03Zl8tTkhrZnZ4N2NHblpaTEQyN0E?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "252da7a116f2bb1d",
-      "headline": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels - Reuters",
-      "excerpt": "Oil up 9% to one-month high as US says it will blockade entire Iranian coastline, all vessels Reuters",
-      "publishedAt": "2026-07-13T19:57:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
