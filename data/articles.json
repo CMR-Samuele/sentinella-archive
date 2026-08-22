@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:56:17.543Z",
+  "lastUpdated": "2026-08-22T08:30:10.868Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -289,6 +289,15 @@
       "url": "https://www.carscoops.com/2026/08/tesla-robotaxi-austin-accident/",
       "sourceId": "carscoops",
       "sourceName": "Carscoops"
+    },
+    {
+      "id": "dc4b5fd40de85911",
+      "headline": "Petrobras enters negotiations for four offshore blocks in Ghana's Keta Basin - Reuters",
+      "excerpt": "Petrobras enters negotiations for four offshore blocks in Ghana's Keta Basin Reuters",
+      "publishedAt": "2026-08-21T15:52:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHp3enVMV2ZGMkJMQ2RjV0ZOdlZMY0txMmNrb0FoY1NWMXp3U2lQTUQ1SmNmWWg1bGl2UUtoNlg1Z0haQ2k4enBuUlFRMGhCNnQwOGFnRElKbFVOVTJyaGpWVXd0dnREOFotODlSOXJjLUxZczhMalhtZ3g1aFJjS3BtU29sMS1BcDRkVDQzY1R3YVpWUHN0WGd2V20xblNXUGZ5aHpJMmVBeElPQk1IQ1hUM28tbUhjTEVUMQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "2cabdc71a4ca7c25",
@@ -1745,6 +1754,15 @@
       "excerpt": "North Korea launches 10 ballistic missiles as US-South Korea drills near end Reuters",
       "publishedAt": "2026-08-20T11:44:51.000Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "19a0ee10cb1cbf32",
+      "headline": "EU not concerned about gas supply or storage filling, Commission says - Reuters",
+      "excerpt": "EU not concerned about gas supply or storage filling, Commission says Reuters",
+      "publishedAt": "2026-08-20T11:25:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHpENlZMLTBKaVN1cWJzcjQ4VW1lR05QS0hCbnAzbkhOOFhMS1hZNkNOQnkzQkpRNDJKa0dNRExkOTQ1anREcURtSzZjaENTZzBxcmwtSHU5S25Vcy1iNjl1SF9UbktlSFFHdEtwNlpRLW04c3dCeThlX0M0eVltek1lTWtNTkExX00xZ3BzTGp4ZjBjM3FvcU85RHNLZExFSWJrcVNxaTZnbHBQUktrNWh1NEpoWHlyNEJoSg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -4033,6 +4051,15 @@
       "url": "https://driveteslacanada.ca/robotaxi/tesla-las-vegas-robotaxi-permit-10-vehicles/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-las-vegas-robotaxi-permit-10-vehicles",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "468387ce648ef820",
+      "headline": "Oil settles up over $2 as Iran war stalemate stokes supply concerns - Reuters",
+      "excerpt": "Oil settles up over $2 as Iran war stalemate stokes supply concerns Reuters",
+      "publishedAt": "2026-08-17T20:14:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "fb8832e4eb718bea",
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "629a00319fd9ba33",
-      "headline": "EXCLUSIVE: China detains US seismologist who has studied North Korean nuclear tests - Reuters",
-      "excerpt": "EXCLUSIVE: China detains US seismologist who has studied North Korean nuclear tests Reuters",
-      "publishedAt": "2026-07-13T19:48:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "826d234357a7f255",
-      "headline": "OpenAI has not been great at managing partnerships, says Big Technology's Kantrowitz - CNBC",
-      "excerpt": "OpenAI has not been great at managing partnerships, says Big Technology's Kantrowitz CNBC",
-      "publishedAt": "2026-07-13T19:39:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHJTTmFCbWtjM2pmWm1vbW04ekMwSkRtQUhWN0VDTlh0VUg4Rjc1c2Z4ZVdORmtHOVB5UjVxSk1qUHV1OFUwNncwLWlGS3hnOHJVWDZRRnJWWE9mVmR2SWRfQ1RWMXVxOHRQN2RIQTE1MkJncXF4WURJTEdYdXZyckh1M0twdDdpaGVBWERGdGd3bl9SenVvRE9aLV9FUUVUcVVsOF9sZ1Zzbmp3VlRJQ0JrQVA5OVVObXNscQ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "17f2aaead20e9076",
-      "headline": "The Chrysler Conquest Wasn't Really A Chrysler, It Was Mitsubishi's Last Rear-Drive Sports Car - Jalopnik",
-      "excerpt": "The Chrysler Conquest Wasn't Really A Chrysler, It Was Mitsubishi's Last Rear-Drive Sports Car Jalopnik",
-      "publishedAt": "2026-07-13T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzNMb3RYaFhwTWU2dWF6eWYxZmxTV1Y4eTE4YUhNSm5ob1R2X29VQThoWS1jdzBRWWUtSkZkaUlSeXlQWTBkWjNTTHF2X2ZxQTZrdHVRS01EbDVlZGZmTklONmY0YS1nUUg3SFVzYXZneEhwRHIyay0xYVRncnZsZEFWTzEyTHZEOUtZbGNpb3VmcGJf?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
