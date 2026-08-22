@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-22T04:30:07.612Z",
+  "lastUpdated": "2026-08-22T05:01:34.717Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "81ef93b416507986",
+      "headline": "Who Was Right About Tesla Robotaxi Deployment in 2025?",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-22T03:55:58.000Z",
+      "url": "https://cleantechnica.com/2026/08/21/who-was-right-about-tesla-robotaxi-deployment-in-2025/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "114c4671df0fe50d",
       "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - Reuters",
@@ -44992,15 +45001,6 @@
       "url": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
-    },
-    {
-      "id": "77be50b2c82d2676",
-      "headline": "Tesla says its building a wheelchair-accessible robotaxi in Texas",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-13T17:57:55.000Z",
-      "url": "https://electrek.co/2026/07/13/tesla-wheelchair-accessible-robotaxi/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
     }
   ]
 }
