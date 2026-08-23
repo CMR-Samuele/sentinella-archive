@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-23T04:34:11.420Z",
+  "lastUpdated": "2026-08-23T05:26:48.692Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "81eefc4c5fb5a467",
+      "headline": "Il Nevada apre le porte a migliaia di robotaxi a pagamento: Tesla in vantaggio",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-23T05:00:00.000Z",
+      "url": "https://insideevs.it/news/805717/tesla-robotaxi-pagamento-nevada-novita/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
     {
       "id": "9b806e8cfe20b807",
       "headline": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
@@ -10,6 +19,15 @@
       "url": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "8c5f6c29b3398fb7",
+      "headline": "What Does The Ford Maverick's FX4 Package Include? - Jalopnik",
+      "excerpt": "What Does The Ford Maverick's FX4 Package Include? Jalopnik",
+      "publishedAt": "2026-08-22T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjJYS0JUMi1ENk1QR1poa0FRYng4aHJpeVpTNDdCRjB5aEN4Y3JuVUppcnF1UTdDSzJzTS14aUIzRC1Id3ZnRTlGbDl0aGk2cWtqR2tTMU1ESFF2NWlEa0puR0FKbms4Rll3VmIzY1Qtbm0yR3hTLUtXaHg0VDVBRE5CMFI?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "2e3a6d879f552735",
@@ -44,6 +62,15 @@
       "excerpt": "How Chrysler's M-Body Platform Helped It Survive The 1980s Jalopnik",
       "publishedAt": "2026-08-22T20:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGT3RzaWwyWlZzRXd4S3FaNGJOYTliU3E5cXY1X3diaFNGMkxmTGI4bjY4dFRrRXJnak52NVRjQU9URDVFZWZOanVFcnJrWHdnWHhSeENSN3FXNnBadEs0MWdYUGYtV0FOTE1VTTZRSnJPNkxZTkF0SzhB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "95131ef6c0ad44b8",
+      "headline": "Canada's Car Theft Epidemic Is Starting To Cool Off - Jalopnik",
+      "excerpt": "Canada's Car Theft Epidemic Is Starting To Cool Off Jalopnik",
+      "publishedAt": "2026-08-22T19:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfT01WSlVWd3FYQzU0YWNrQ2o0T2w0aXZlS3R1eEh4c1k3dm1YdnNDZUZSaGRJSWp4YTgyRGplTGo2MmhXOW51NzllWkFxTTlwLUVPdWZtel9jRTFzdEo4QUczVjlFWS1ZNTI4VWJ1eEc4cUZYR21VMWFteTA?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -2622,6 +2649,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "e184681b6be312fd",
+      "headline": "TSX snaps losing streak as materials sector jumps the most in six years - Reuters",
+      "excerpt": "TSX snaps losing streak as materials sector jumps the most in six years Reuters",
+      "publishedAt": "2026-08-19T20:30:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFgyY21Bazg1OWozbnhhUklDWmRtbVVqcUhsWWtfYzhyUlFXMDlyQ21UYzRSUkZ5UXVhRnFkRkF0YU4zbHdVMlpBemNpbU9yR3lNVWhkMUZwY1BpLVowdFJHSGl5S1ZUbzM3ZmtmZ19oRjhaN2FzMjhxQlVXRDd3MFpZdnc0NFhRal90VUNtTWw4dFhqXzhlVmI1Wmx1WUFDejh5VFpLQjRGSFJXMlRQeXFBQ1VFeEhPSHc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "4fe552a82da58876",
       "headline": "Alphabet raises $3.9 billion in inaugural Australian dollar bond - reuters.com",
       "excerpt": "Alphabet raises $3.9 billion in inaugural Australian dollar bond reuters.com",
@@ -3473,6 +3509,15 @@
       "excerpt": "US court delays hearing on Google's purchase of Spirit Airlines data as union objects Reuters",
       "publishedAt": "2026-08-19T00:05:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVFRkU3B0cnlDU25heVI5SHJ3aFI2MTBDT1dOVmNjbUhrLTVic2x1Y05XRC11cHNBMHZ1NEZqcW9tYmxFTDJfVjlkSUtLWHpfNG1rVElyTzBzZjBza2hiRkU4UWJlXzNKQnZEUmxuZXdZc19lVkdHMzZraV9ucGF1Ulo2a3pwb3NUeHRXYnNqZjlvRFpjd3FsWGR5VUx5SDJZTXllNUFrYkkxXzFYZDJuSVN0Q3V1OHZTZGp1UmNyLUxQNjVJSlZv?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "b27cc8264c24f5ee",
+      "headline": "Cerebras launches new server chip and system designed to speed AI chatbots - Reuters",
+      "excerpt": "Cerebras launches new server chip and system designed to speed AI chatbots Reuters",
+      "publishedAt": "2026-08-19T00:01:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU13WV9BblNQekV2Z3RoeUQ2dzFVQkkwQkZWVk5CSVA0LVVBZk16cnJ1YmNOeG9laGpSbTdqU2NNY212dlFYbnl4TjNVaUhOWmxVT0FXZDVjaGdvdGZxWW1mTFhtLWNiTmpUeEtiRUhSUnBPSUExYkE1aFd3VXFvajliLWxlRk9uSWdzbHZBWmxkRXZfcG5ucjc1TWJuR1Zod21zMjROT29TbjZHbWI5VHFtU1o?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44954,51 +44999,6 @@
       "excerpt": "Oil pangs resurface for rupee, options market gauge signals bearish bias Reuters",
       "publishedAt": "2026-07-14T09:23:18.000Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSXR4ZWZsd09NWExoakQ5aEpDdmdhNk5SVVNlQ1A3TmhtaXFFQnM3LTRSSzhSaFJxSHoxUWlVbFF5UTRzYnh2RG1qNEFWZTNHMzNFNTRuYlFUUHJiRldvakh4dEN6RU9FNXZkMlMtSW8tTGtPNW5sRXBYbVFRTWJOWDRRa2RxaVNuZFlBXzNtdVUxUFBMejZjOXNMTEVGUzRFWXEtYnltN2xEZ3I4aU9McnRnRTNDQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "35e05171d2cba24c",
-      "headline": "India draws nearly $10 billion under RBI's deposit drive to support rupee, sources say - Reuters",
-      "excerpt": "India draws nearly $10 billion under RBI's deposit drive to support rupee, sources say Reuters",
-      "publishedAt": "2026-07-14T09:16:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlBxaE9mWU9hTVk0TDRLWHRBWnY3MFNBNEF6LXRzcFhmd0dxWVJTVEFYVkZkaUhrSzFhS1ZBYWVjYXFVRE9sb0RycGlGZG1QeXNNdkV0dkNGSVZSR3l4cnFUYUtlaF91Z2wweldWM1cxaFBSd0p4TUVYX1JlZzduZ2JmYmJYQTZkUXF6cHBtcGE1ZWNnQkhoSkhSNEVENS00M1U4WVMxbXJRaG8zODVZRE9Cdmk4SFV2ekxsWUh0dERfRHJHNDhv?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "107f4f0ff454e464",
-      "headline": "China does not seek 'sphere of influence' in ties with Pacific island nations, foreign minister says - Reuters",
-      "excerpt": "China does not seek 'sphere of influence' in ties with Pacific island nations, foreign minister says Reuters",
-      "publishedAt": "2026-07-14T09:15:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWR5c05oemRjTjRNNUxCNW52VnJaMExKRUJDWmNwN0lUUDF3M1AwZHk0bTRVbmNKR283OE1DU29hcVVkMXZCUVVYZUNiczRCdlNFM1UxaHMtR1Y0VGlLeHc5S093ZU1rU19EcUxueV9IMGxxalRpRXBsV1pqZ3hCN3c2TTR1U0VhYmRBTEdsVG1zejhTdVFrWjJiSVcwWGJRaVpGZ182ZndleHZ5STU2QjB6cm8tblVBa3NUOHF1TDUtZ1k?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f9b3925381bcafa6",
-      "headline": "Indian activist urged to give up hunger strike over exam leaks - Reuters",
-      "excerpt": "Indian activist urged to give up hunger strike over exam leaks Reuters",
-      "publishedAt": "2026-07-14T08:55:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVp2cy1EZXc1WXVndEc4eXdGMHdLd2xvVklQRkgzaHBoSGE5ZzRBNkU2YjBtRldXanVFTVhJbnc0TEthLVJlZXQ4V2d5UXVLTzNreEVWdnZ3cjRSSzFZSTNUdnd6U3FIZGVJZ25XSDVoRTN5Y2FRY1FQdm1jMTJkVHM3N3Fnc2JuUGQ2a2Q5SGg5anB5QU55TmFrZFA4Z2RiQjY5aWhDejVLSTg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "851a97fcb0920fd1",
-      "headline": "Così Tesla converte la fabbrica delle Model S alla produzione di robot",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-14T08:00:00.000Z",
-      "url": "https://insideevs.it/news/801538/fabbrica-tesla-model-s-robot/",
-      "sourceId": "insideevs-it",
-      "sourceName": "InsideEVs Italia"
-    },
-    {
-      "id": "fbeac51556b9190d",
-      "headline": "China tells some banks not to re-discount bills at rates below 0.5%, sources say - Reuters",
-      "excerpt": "China tells some banks not to re-discount bills at rates below 0.5%, sources say Reuters",
-      "publishedAt": "2026-07-14T07:34:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWdzVVQ0N2Q3VXVnUVM1TkRUdnUwREE5NjZaRHp3QjliME95cGVaMkxfX3VZck1UTExFMG01QTlZWmxoVjhJZktHRG0zMlNQSU1jUlJha09yZ1RTS0FEOExDYzRNZExaMy1OYjA4aTcwU3ZMSF9WZDlIeG11UEcxVHRqRkRick9YSFVTY1ZiZlcxRkZmUVdmcVItYkoySENxMjFHcmlRb2NFc2djazVkOVh1S0lqaUpFa24zQktWb19Wdw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
