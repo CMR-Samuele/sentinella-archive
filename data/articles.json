@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T02:43:24.339Z",
+  "lastUpdated": "2026-08-23T03:48:26.876Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -10,6 +10,15 @@
       "url": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "2e3a6d879f552735",
+      "headline": "Analysis Shows All Those Data Centers Under Construction Will Output As Much CO2 As 24 Million Cars - Jalopnik",
+      "excerpt": "Analysis Shows All Those Data Centers Under Construction Will Output As Much CO2 As 24 Million Cars Jalopnik",
+      "publishedAt": "2026-08-22T21:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFhQeE9obld5bk5IVUZvVFg2NUZLSGZkbnM0ekEtVHJOQ3NtY0g5MGFVQnhTQ2hyRTJobFFpOHo5WkhidXlKWF9UOUxyb3RJdEVuOFZTU0NJQTlrZ3VYeXdEcHBiYXJfTnRVME5aYWV5bThPUVVRUlV1aEdsd2pwSXp1aXV6eGduR3d1eE92SEZ3RGxleFM2Q21sckRnM2Rm?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "72bbfc473705556d",
@@ -28,6 +37,15 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbE9qRThKRHpERnc2STFaNDFPT3Fxa19Cd2lDa2dCekQtZUVQQnFFM0NIRlZLY1JJY2w4bWM3MGhBWW1lbEJObURHRTRSUl9vMW5xZW9LOC1uT196QjRlWnpHai1kb1U2dEFBZGI4YVVORjNURDBPXzdfRDhxSzB5RklYR0hlaDIxakpqWTdGTEdURlpqWGNWZFRuMHNvQlhIdWZMRjgxVjlOcFVXdFE?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "8f460d506ff79d10",
+      "headline": "How Chrysler's M-Body Platform Helped It Survive The 1980s - Jalopnik",
+      "excerpt": "How Chrysler's M-Body Platform Helped It Survive The 1980s Jalopnik",
+      "publishedAt": "2026-08-22T20:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGT3RzaWwyWlZzRXd4S3FaNGJOYTliU3E5cXY1X3diaFNGMkxmTGI4bjY4dFRrRXJnak52NVRjQU9URDVFZWZOanVFcnJrWHdnWHhSeENSN3FXNnBadEs0MWdYUGYtV0FOTE1VTTZRSnJPNkxZTkF0SzhB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "5765ac6874f657c7",
@@ -4580,6 +4598,15 @@
       "excerpt": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
       "publishedAt": "2026-08-17T20:35:23.000Z",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "d383d8b7d54fed89",
+      "headline": "Record-early champagne harvest highlights climate change impact on French vineyards - Reuters",
+      "excerpt": "Record-early champagne harvest highlights climate change impact on French vineyards Reuters",
+      "publishedAt": "2026-08-17T20:26:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnlWOGp2RVhRYVJJal9Ka0pTNy1NUXJ2RnNZNnZGelUtelpoYXRjWHU3WHFaV1lQNG1GY0pVOWs4Zm1iQ0ZJNHA2Y3hOWDFxeFlpNnA5UXNvNVlEeG1QWjE2X1NDOHZScEVINV92d1pnM3lzRkthdGRqTTFlcnpFek9HaHNOMlIyYWZqcXFKdDBWb1d4QmpVdHJVcE44NHlHRGlTQ2hxMWZ4YkZPRXZRNW0wUGpENXVySUhhRlVsX1V5WjN3SENSV19UQU5lN196M2RF?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44974,33 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZheXdvZmxPZ09nRGcyYXQta1JHLXhGc2tFYXU3TmdoWFZtWXpfdU1zaXNTVG9LTnBKRkxwZ0kwWHBVNGJJU3Z5d2VIRWZiejlBMFFjekhlaWd6OTNIbjNPc01jazd0NWZBQTNMNWlqb01KWG8wRUItUVA2dkZ0cjVaMmxxT0t0QzAwXzEya2ZjNjYwdGdRYTFqLWJ6ZURhVnpFZU9QYkFTMktqWHE0aWlOZ1hsbUwyMnVnSGpPMlRTUQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ef8acbfa9d983178",
-      "headline": "Global investors turn most bullish since February, BofA survey shows - Reuters",
-      "excerpt": "Global investors turn most bullish since February, BofA survey shows Reuters",
-      "publishedAt": "2026-07-14T07:30:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0syUTRmeTBwZUxyX1E0eWxuZlBhRzJaeHp5bTJHYmhDRXdSTjI4aGxoNFBoVENYa1hTd0ozOXF0TVRaRTVGTmNsR3VXVHlqNjlNbjFkZHJFbWdYRDlmbUtobVU0QnZ6LW54V1pnLTcyRXRJUkVIelRvV0ltcmViNkdPcWlhMU5lV2FNd2NzckZzNmtwVVFyQ2ExNjhSWlpTdUEyWU1tZTlfTnNfSTE3cTllUHctSnhRVkVZR0R4aw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "3dc29fa9cea7ce0a",
-      "headline": "Sam Neill, Jurassic Park star, dies at 78 - Reuters",
-      "excerpt": "Sam Neill, Jurassic Park star, dies at 78 Reuters",
-      "publishedAt": "2026-07-14T07:20:22.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE03QUlhM0JXeU1TMXZ5S0VwaW5yYjhYbTVieFNzV3B0SFZENEVhMlJPMF9JWGhkNmE1Z3JDRW1xMFNqVV9lckwtaXVZNDJpX3k2SDlVa3h4Q1ZEUEtvd1duVmZvSHZYNXlXRWNRczBZQlItbHpReWhtZmxYajlvYzBtYTEwcmNZYUpJamlVaFQtQl9kWlE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "508958af545d355b",
-      "headline": "Zacks Investment Ideas feature highlights: Apple, Tesla and Intel - The Globe and Mail",
-      "excerpt": "Zacks Investment Ideas feature highlights: Apple, Tesla and Intel The Globe and Mail",
-      "publishedAt": "2026-07-14T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMUEwZnVPd3g5WEtuYUFwQXBaUFhDd0RoSXJSWWtVc2J0QWFxS1R3SzlTVjQ0ZlJRaU5BSHBodl9YY2VINVhUa0paZVNMS1lnaFl3TG9mNW4yZ2lWR3FJSklsbVkybVh3MVNfc2l1Y3Vybkctc2pqYUxnWEt4bGRGbWdvVXh3SjdxNml5emhTZnlYRnpuZWxFUWdhd3JRb2Iwbzk4SmNqVm5xc3dwbmNCa3JSTkNOVHVRT0ZlalBuWkxXWmpEYVNPaE9ka2gwcWd3V1ZyanlZdGFMVFd2TkVVaVpB?oc=5",
-      "sourceId": "tesla-press",
-      "sourceName": "Tesla Press Releases"
     }
   ]
 }
