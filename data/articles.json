@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-08-24T16:34:32.701Z",
+  "lastUpdated": "2026-08-24T17:28:32.054Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3bcd4ef58c3f28a4",
+      "headline": "Tesla confirms Cybercab launch coming next week",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-24T17:10:02.000Z",
+      "url": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "3bcd4ef58c3f28a4",
+      "headline": "Tesla confirms Cybercab launch coming next week",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-24T17:10:02.000Z",
+      "url": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "45ff1eced0e90af1",
+      "headline": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom - Reuters",
+      "excerpt": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom Reuters",
+      "publishedAt": "2026-08-24T16:42:51.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "8d62c91e85403afe",
+      "headline": "[object Object]",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-24T16:42:37.000Z",
+      "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "sourceId": "theverge-tesla",
+      "sourceName": "The Verge — Tesla"
+    },
     {
       "id": "c4e5ab86d33c1bbb",
       "headline": "2027 Nissan Ariya starts at $48,998 in Canada",
@@ -111,6 +147,24 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "70c0c13e9bc9933f",
+      "headline": "Move over, Warsh. Treasury's Bessent also has a credibility problem - Reuters",
+      "excerpt": "Move over, Warsh. Treasury's Bessent also has a credibility problem Reuters",
+      "publishedAt": "2026-08-24T13:04:26.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnpIYnF5aERab0NEQURhUm9aQ0k5dk1LdmpFSHpTVkhfUHdvTzhqb2swR2lseDczOUVqMGplQWl5NGFYUXJYVkVxemFydzFlQUtVSFR2cTNPZlg4U0FaNnJDMzJvWE04LTUtWkxxUUw1aW01Z0hiT0Q2U1MxV2pxc2lzckRVUlF6dkNiNmpZblcxRThoSlVvS2pwUmFLWDRLSlVBLWRiLURDZnpUbGhoN2pHNHpRVVRYUzkwc0lXdTIydm9langtZUstaw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "80cb6345435d3295",
+      "headline": "Here are Monday's biggest analyst calls: Nvidia, Jersey Mike's, Dell, Chipotle, Marvell, CoreWeave & more - CNBC",
+      "excerpt": "Here are Monday's biggest analyst calls: Nvidia, Jersey Mike's, Dell, Chipotle, Marvell, CoreWeave & more CNBC",
+      "publishedAt": "2026-08-24T12:40:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekhxdy1od2o1TXVmaFdzSllWZS1sSjB1Mkw3bXVRblRxTmVxTEVMNnpsZWxIdVp4ZkgwTnFldFdxbnB3TW1lQ3hfMmN6Rm9lV0U3U3V2ejhFcm0wZi1uVEswY0RzbG9YSXNybUhRNjNWN1d4aTB5TnNjc3BsdW8wT2prck1JRlVLOXcyRGFQTXl5VDlzOUQw?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
       "id": "ddfe7cff27db4e16",
       "headline": "Santoli: Why all the fuss about bond yields is happening now - CNBC",
       "excerpt": "Santoli: Why all the fuss about bond yields is happening now CNBC",
@@ -118,6 +172,15 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzdicjR1YXo0VEl4d2NJeG5HUjVOYzhiMjdOaE5nM0JvbnREX2VGY1VzRTJsYjJPTXRfa0NZajBMR01GU2ZTN2tFY2RUaWdadlloWWVnSThzUWdmMDk1ejNNVV9ZUHhhNV90bko5OWdnRWlzOEVKSnNuMUJDZEtzNG5yZ21tTG9kbFhpVlFWOWdvd9IBlwFBVV95cUxNQ2Jsb0lqT2hGTlM2ckEyek43UVRrV3ctd0tydFVHR200Tk1GZGhUblV2YTdlTlcwN2RWanRTOUk1bmpsNG5TNEdReXJXNndfZ0FjbzRHSUg3NE5pakY2MkhhSlkxWjNXRVpXczByQ3pZMTZEV3B1dFVsR2lvRFJkejhEUHVnaDZqc2Z2X0JJVW5hdExaanhr?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "03766c3d18b0b3b1",
+      "headline": "Here's How To Fix Common Power Tailgate (And Liftgate) Problems - Jalopnik",
+      "excerpt": "Here's How To Fix Common Power Tailgate (And Liftgate) Problems Jalopnik",
+      "publishedAt": "2026-08-24T11:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSV9EdHN3Z2RNeUZjU2Z0VUhCRkQ5OUQ5b1NyVU40UXhCMjg3cDVCTkxDYWc2bndVdTF4Z2dDcjZKRmRBdlJiRkQxNWdNWDhIaWx5dVpta3VGUnVDOHh6WkxORDd2MWY4S0tYV3UxZ3kwdnhTdGhSejlyYXlxR3dtMlFRSzI?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "03f801cdd013b2f3",
@@ -44936,69 +44999,6 @@
       "excerpt": "Death toll in Thai pub fire rises to 32, officials say, with dozens still in hospital Reuters",
       "publishedAt": "2026-07-15T04:32:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNei13T0xSRUVfc2dFNFRtbDZxOEdKVWMwWm1UNHAxSFMwdFVTUDB2S1hxRzQwUllFNTFhYmRrcXVPM2ZOYl93YU11Yk9jZ3RCVlVMaHVyQTNoclMzNlEtNFAydHNLQ3VObmlHQUtYaDU0MnU3R2J4Wm5HM1hlc2ZoTXNUakt2VXZOOVdkcml1Q0lyeGV3TWVfclpGYzNhMTJHYTEzd29UemJFSDlPQVo0RE5ldzRfd213NlpoQVlqQnhkbmFMQjloQg?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "40d38b88fbfd3716",
-      "headline": "Muslim man stabbed multiple times in Utah over his religion, police say - Reuters",
-      "excerpt": "Muslim man stabbed multiple times in Utah over his religion, police say Reuters",
-      "publishedAt": "2026-07-15T04:27:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEg4YVdVcmlIS09oVF9uTjZXM0tma2s0ektRMzhMUldYM1dNaFRBUHNleHV6VjBZYWsza2NZS3BjVFdWSUp2Wk9EYTNQRm9FSmFnSlEyVWx0dXpKb21Zei03dm1BcWZud3BLdzhkWlhXdk80WG00WTBsVXQtbFVXZ0Q5ZUxWNUZMeUxmQms4ZDUwQjRnYzRjNEttSXk2c0FjNFNiNVo0c18wYjU3ZkMyaVYxRnZDaXpSQVVEZQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "c27df842551d9654",
-      "headline": "Air India crash probe enters final stages after cockpit recorder, psychology reviews - Reuters",
-      "excerpt": "Air India crash probe enters final stages after cockpit recorder, psychology reviews Reuters",
-      "publishedAt": "2026-07-15T04:18:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNmRiTGh4Y0ZlV3Vjd1ZxRkN6d3FaZGQtdlBJb0JseHJPSkdsaUNaS2NUOGpzeWJJQk45X2NpS3Z6eUxreDJDVXZCU1pOT1hnTGNaSWZNNElCSWcybm1Vd05CVDJ3cFoxTHVjdmJCMFRnZFZEZF9tX0Nhb0Yxc3ZEYTBZWl9sbW02QzdrSmt0T3BHQnhkSmtqeUhmYjRTWVNoOWJiS2RUV1pWUFNFV0hJOWExVlM1ZWRMUXI2V0twNXFDX1VTX3c?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "9a080c2b3b3d1c22",
-      "headline": "The Replacement For The Replacement Of The Original A/C Refrigerant In Cars May Itself Need A Replacement - Jalopnik",
-      "excerpt": "The Replacement For The Replacement Of The Original A/C Refrigerant In Cars May Itself Need A Replacement Jalopnik",
-      "publishedAt": "2026-07-15T03:26:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3pCeWV0LTU3b1FQZDFBcEdWUVJDaURlOVBGYnlBakNqbmx1TjJkbHZ5eXlRX3lvZHJ4aExZR29pOUEwWEpGNDVmY2FmUXBZeTNHYVdoSl9QNUozWlRWUm9wd3o4V1JXN0h2Q2JPRkx0YlZHY3hEbnc4Yml0REdVem5WbUtGYUxuTFoteQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "279ad8246e44cd1a",
-      "headline": "Gold trims losses after US PPI data, focus on Middle East tensions - Reuters",
-      "excerpt": "Gold trims losses after US PPI data, focus on Middle East tensions Reuters",
-      "publishedAt": "2026-07-15T03:25:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjJUTW5TUVpyUkM5bDJ0NFJ2ZE9raUlKYUFGOUVrdUJ3Z24tSWE4c2NaLW9EMmpDamxPNjJkTjQ1Zi1WbVd4bWNDSlZSdkJzY29LbWNESGxyUURLMTl1Wm4tZFFZLWRvSzNPcnZJMnEzWEVaaEtBbWg3bTBCWnp3MzlGUGNXZE9uVHF2STRzRlp3S3RtbUR1ZE9fUTFOcXdFUVhyZk16S3ZCXzlZZGJj?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6f500d3e2376b381",
-      "headline": "EXCLUSIVE: Stripe, Advent offer to buy PayPal for more than $53 billion, sources say - Reuters",
-      "excerpt": "EXCLUSIVE: Stripe, Advent offer to buy PayPal for more than $53 billion, sources say Reuters",
-      "publishedAt": "2026-07-15T03:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJ6Wng1a0VaQXRFS3dXYml0Vk1TWTZEYWxOTElCNzJhNU5xamNacW0yczJVT3RZZ2oxcnE0VVhkTEYtS1FZWFIxZTJHNjNaXzVoci00aTNGcEFpTFRXcE1xaVA1cEZ1ZmFKZWRKcm1LcU0wUGZIRXJEMDdXaUM5ektPWUhaQU5mZmMxdWZIYTB3a2hqWlpfR3d3V0tIQWs0SmhKcVpuTVdfbS1VVEx2RjI5RXVkTFk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "737b410319154ff5",
-      "headline": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
-      "excerpt": "Iran-linked vessels pass through Hormuz ahead of US blockade Reuters",
-      "publishedAt": "2026-07-15T03:19:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTdNZVY3NU9GZkdKMHVSdHhqUTdmMm9ycmQ3a01SRnZhenFpM29SS2JhbWd4Z2N0ZDNEXzBYS0RDbWZnd1RnaHRBOVJHNWFLenA0WmtpSUV4X041WkMtYUxwMzhlS3BhREdGdGpMNnVmSlg1bFJJLTBBVGlVdFF0M01XQmE5aU5OMmpUcnFCdm9vWEU5LTFXalJsSnlGazlxSHZTOEJuZ0hZMnpiUkE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1e27afbd7f7cdd8e",
-      "headline": "Nepal court jails 2 former ministers, 14 others over refugee scam - Reuters",
-      "excerpt": "Nepal court jails 2 former ministers, 14 others over refugee scam Reuters",
-      "publishedAt": "2026-07-15T03:09:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPME1oZUlLVFZfVTV1TGwzblhhX2ROVGVDR3dIc0d6TFNiVXZJNXdncnRUeXQ3WlhLWmE5RGV2MWhCdUU2TUdNZm1mS1lraERpZTBKSDQ0UXItRVRfUVNzcFYxdExhcUNHeEwtaTJoUWFjS0UwR0plb2VPbnBnWU15b3FNMGtEaWtBblVfeUQzclpXakEyT2JPUXRyQWFJeXhpLVJOSmkyS1FuT1dFWkFkaGw0azZzZw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
