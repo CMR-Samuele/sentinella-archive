@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-08-25T16:34:24.233Z",
+  "lastUpdated": "2026-08-25T17:29:18.694Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "d1691c63462cb193",
+      "headline": "Deploying Megapack At Scale",
+      "excerpt": "At Tesla, we think about the full project as our product. Executing Megapack projects at scale is extremely complex. Our products are designed for fast and simple installation ensuring projects are deployed and connected to the grid on time and as fast as possible. Learn how Megapack goes from the…",
+      "publishedAt": "2026-08-25T17:06:56.000Z",
+      "url": "https://www.youtube.com/watch?v=32C0_8_296k",
+      "sourceId": "tesla-youtube",
+      "sourceName": "Tesla YouTube"
+    },
+    {
+      "id": "8e158c09129240ff",
+      "headline": "Tesla Just Made The Cybertruck An Even Tougher Sell",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-25T16:48:00.000Z",
+      "url": "https://insideevs.com/news/806045/tesla-cybertruck-price-increase-75k/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "c30fe9120d7fa120",
+      "headline": "Honda says it may not build new plant in North America without trade deal extension - Reuters",
+      "excerpt": "Honda says it may not build new plant in North America without trade deal extension Reuters",
+      "publishedAt": "2026-08-25T16:10:24.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT05YNDUxZnEtZmtuaDBmVUdfVzFVZ1RfTXhfdURkVEh3SjYzbVRSbUNZVnd6cnhheGVSQXlGY0xuU3MwRUVzd1ExWHJDODdRQzlNWTlnYmlhOWczc3NIblF4MDd4NTBIM3RLMjAxN0RZQU1HQUJWd0VrTWRQXzNhaks1N3pCSFU0WnJEWk1aZTZJdFVmSDJhQ3h5eWdkekpmaW15SHNQQmEtNUxGdEVZWnptbWplLWsxRHJnYmpQSnFRUGwtNGVxYTlIVGk2Ui1aTFZKbkRTWVJqck1NbHJJ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
     {
       "id": "964a3928fe3669dd",
       "headline": "NEWSLETTER: Concealed EV door handles expose a problem - Reuters",
@@ -46,6 +73,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-supercharger-voting-canada-new-round-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-supercharger-voting-canada-new-round-2026",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "f7a6ae09d6c8e13b",
+      "headline": "Trump's 50% Auto Tariffs On Canada Are Going To Ravage Jobs And Profits On Both Sides Of The Border - Jalopnik",
+      "excerpt": "Trump's 50% Auto Tariffs On Canada Are Going To Ravage Jobs And Profits On Both Sides Of The Border Jalopnik",
+      "publishedAt": "2026-08-25T14:29:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlF5Slk4Qng4bWM2WEFvVFQxWThWUTRKa0ZMeU1HZTVZdzdxMUNET0hwVVdMZzJoOWY4cmZpU1NCQ1BMaVBmVHZOc2N1bmRqVUFldFFYSUhCTUprWmpIbE5ZWFA1ZW11SWp4VHhXLVZJeWVHeXIxNDZjMlNrLWZHNDM5dUwya2xRLTFndVNB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c9eeaaec9307a29e",
@@ -44965,42 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUo0U1ltNXFqVDFfVWJISWxTX0p2M0pPWUhySS1XRXhYQ2RITmxSQS1ndDVSREl2RXpMWllPdGEyNEtRZllnNnR0SThEVEhvcEw1NGI1UmcxanBHa0k2YmoyRERpYWhRY3pMUTVUQlpBTG9ZQ0xFeE9qVFZkNEZYOG9fb05FOWQ1WjY4YV9HalBIaW1Hck9aaHhmVDVQcnVEdlI1QzdiOFY2NzV2WmdBM0hR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "29b26345862e6dd2",
-      "headline": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says - Reuters",
-      "excerpt": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says Reuters",
-      "publishedAt": "2026-07-16T05:03:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1JvOGNOVF9NekpFQlJZLWowNkRlZkpZa2JjcnBSalhndDhwb09Gel9TdnNwYUctMlc3VXlHTjlzV0hwMkdBWGdGS04zSUpxdmhnX0JVeU9rRFFMVXFTVkRLaHR4b21NTTFONGVVR1U4VVZ3ZmlUQmRHcHphczdnWExMNFNVS0tWLTE1OEwzakl2VmJZMC1qS2c2YlhxaGNkbi03RjVjbzNRcWhzWkZITjhMR3VrNXB2eU0xaDlCWFN1TThDUkJjVTRDRkI4UkV1T1E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "dff13133de3e0f44",
-      "headline": "Airbus picks Iliad's Scaleway for AI, defence work in sovereignty push - Reuters",
-      "excerpt": "Airbus picks Iliad's Scaleway for AI, defence work in sovereignty push Reuters",
-      "publishedAt": "2026-07-16T05:02:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDRoX3hSRGh6MF8tUDQ2MEVveXVtblNnNHdSUHcwOFU1bi1aNGpCRFNsUW9sWUdmaWZjbTY5ZDFjTkZzY0FSc0M3Sl9NU2dXRlU0X2hjVjV1by0zQnpPWUhwbHJHWU5jZ3pFSHpTbE8yMDBSRTNkOU0tcnQzeWZWaFZTN1ZRMEw1WE5zWWNsbU5ubFNSTkZrZzYwNG5FTmtHSE5VcmZVdkJ6NXdUWlpnYVRTejY?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "21d4ce042dbf766b",
-      "headline": "SpaceX selloff an ominous sign as lockup expiry looms - Reuters",
-      "excerpt": "SpaceX selloff an ominous sign as lockup expiry looms Reuters",
-      "publishedAt": "2026-07-16T05:01:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1p2NVJwV0xFRkxBbGtrOC05d1hxS3Z2dWZkZ2o4d3BFZklOelFfS0duWDBmMXVEMk9HU0RqeklJZ1JFZDg5d3Zsa0xIQ3d5Zm4wVWhJSVV2eG9zWkJzMVhza0lfWWE5X0Jkd3JnbXBqRC1BMXFSNHhtUXlYLUtOZ055WUMtV3YzM3BOX3lSU3ZNMkNXeTh2eTNCMXFJNG1yNGVkWEt5MmhIdw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "21d4ce042dbf766b",
-      "headline": "SpaceX selloff an ominous sign as lockup expiry looms - Reuters",
-      "excerpt": "SpaceX selloff an ominous sign as lockup expiry looms Reuters",
-      "publishedAt": "2026-07-16T05:01:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1p2NVJwV0xFRkxBbGtrOC05d1hxS3Z2dWZkZ2o4d3BFZklOelFfS0duWDBmMXVEMk9HU0RqeklJZ1JFZDg5d3Zsa0xIQ3d5Zm4wVWhJSVV2eG9zWkJzMVhza0lfWWE5X0Jkd3JnbXBqRC1BMXFSNHhtUXlYLUtOZ055WUMtV3YzM3BOX3lSU3ZNMkNXeTh2eTNCMXFJNG1yNGVkWEt5MmhIdw?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
     }
   ]
 }
