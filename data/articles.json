@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-08-26T08:40:04.110Z",
+  "lastUpdated": "2026-08-26T09:38:05.482Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "95c052f9ce201bae",
+      "headline": "Strano ma vero: il Tesla FSD se la cava bene anche sullo sterrato",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "url": "https://insideevs.it/news/806092/tesla-fsd-sterrato-prova/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
     {
       "id": "2b3582cc82251d44",
       "headline": "Tesla raises Cybertruck prices again in the US",
@@ -129,6 +138,15 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "1e6ebf415f9bdb72",
+      "headline": "Zohran Mamdani's Plan To Fix The Crumbling Brooklyn-Queens Expressway Is Bad, But It's The Best We Can Get - Jalopnik",
+      "excerpt": "Zohran Mamdani's Plan To Fix The Crumbling Brooklyn-Queens Expressway Is Bad, But It's The Best We Can Get Jalopnik",
+      "publishedAt": "2026-08-25T23:24:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUdHVWRCVVV3SEVVSXBPekI3d1A1VVhuZXJKZm0tYkJnTk9ucE45OVQ3anlfZzl4VWtrNVNiTV8yaEdVa1ZoQVU1X3BYVXZ0MmJieDRKUlNscDRvQkdTZS1Ub181dnRFVEE2ZWs4SnJITm56dlZiSV8zWkhKRktSSTVidDZTbTZLYjZZcHFuX0d5OGxaeDc0S2FEbFh4QQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "1c7d418e50235ecb",
       "headline": "Spain plans new, stricter data centres rules, sources say - Reuters",
       "excerpt": "Spain plans new, stricter data centres rules, sources say Reuters",
@@ -233,6 +251,15 @@
       "excerpt": "Cyclosporiasis cases in US climb to 17,180, CDC says Reuters",
       "publishedAt": "2026-08-25T21:18:25.000Z",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21vMENjY1NJdlRJbUFTZVYwUG91Z2xJTWVlTGZKdFcwX1MtWGJuUjA1ZXAxc3VmeUQxYmoyNXZjSDVTcVlIb0RDMERNcFp6QjNxUnVXNm01cXNJTzlvUEZnSUNXTUdoUHpKYjNhSHlKZkNaM0ZXZjBPSFJTYlpmcUVWTzZid3FCMkJPa3JmNE1SQzcxLW5SNkZIN09ibVBwZnhSN01feTNFX05xWHpqSk82VURmc3c?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "82c1e21320b036cc",
+      "headline": "Zoom forecasts quarterly profit below estimates - Reuters",
+      "excerpt": "Zoom forecasts quarterly profit below estimates Reuters",
+      "publishedAt": "2026-08-25T21:01:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQjVtekFiMFdTcnd6TlhGZGFYbW1ESWhOc21SUzZjNlNaRjdFeXQzaW8yMG1LSU9Wc1p3RkhyVVU2YUxhbDhkeWpiYjBMcmhyU1plX0ZmdzNQbUJwQUE3eEhLOHNSUE4wNFdLMFhaakZqNFR0NWRVd0tPb21UUWliOWZvM0FQd29ub3Jfd1Q1YmhPWlloV3pv?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -9091,6 +9118,15 @@
       "url": "https://insideevs.com/news/805116/tesla-model-y-premium-v2l-us-power-appliances/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "022f4948a6721ca9",
+      "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio - CNBC",
+      "excerpt": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio CNBC",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONTY0SXEyaEQ3Q1pRaUhyaVdKNzBHWUJNNVdQX3V5SHRSWVdfYmYzTWJpQjhKVHd5OGRmdjFzT25reUNJX21IWFc0Z2FwY0hQcWFSRm16bURnUVVydUVuT2FDYy11TmV0T09nMDJEdVBsbTdvRWN0ckoxQ2p4b3NPRVVSd3TSAYoBQVVfeXFMUGE1ZTROeEprR2lWenlwXy12a09IbkgwRGdzQ1lTSlhzSzRUb2M2LUF1OXVwT1g5NkxMeEFxX2hleklhU0Z0Q0pZVE40eDVNT2xzRGtFQnp0U2luSVQ3bjlGMkpYNlV6UzVSRXBqUXJqV2Q2SHpkdFZIWDdSRUk1R21LbThheEN5c1VB?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "8854b1b494158704",
@@ -44963,42 +44999,6 @@
       "excerpt": "US refiner margins hit new records as fuel shortage concerns grow Reuters",
       "publishedAt": "2026-07-16T19:55:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjVXZjc4dFFobFJYOVBYUUt4cjRwbjJoY2dmTGZJMmpkZGp5OGR6d3gxeEJLZXZhay1LOVRzSFNHTERFZWg1RG95Y0s1N2VzNmZVZFhsdjd2alRhckZXOGNMRTFoVm1zMmJyUTNMNnlTS1k0UW9pQU93b0ZCRjBTZDF3cEtvQlRWQzc1LVJTX0s1ODV1aE94Z2Q0QnAzSGR3UFVROE1YMDVObTVZV2ltV0dYdXk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d7045b75245b962b",
-      "headline": "Tesla to Buy Back Canadian Model 3 and Model Y Vehicles Incorrectly Imported Into the U.S.",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-16T19:39:00.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-to-buy-back-canadian-model-3-and-model-y-vehicles-incorrectly-imported-into-the-u-s/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-to-buy-back-canadian-model-3-and-model-y-vehicles-incorrectly-imported-into-the-u-s",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "d85c5130417ace00",
-      "headline": "Canada will not share bridge tolls with US until debt repaid, Carney says - Reuters",
-      "excerpt": "Canada will not share bridge tolls with US until debt repaid, Carney says Reuters",
-      "publishedAt": "2026-07-16T19:26:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUZtYlQwbVdsNXRkVk5UeGJXa2Z1NXBudThoWVJJTVh1TFk3UDdlUnQ2Z05zVHVqb0RlWnd5dVZraVVYWUJkSGp4SXZPa19XWU9ORkhnMWMwYlU5UllfenhfMHNXT3cxRHNscnBFcHhzT1Jyb1pyanJobjBRSG5JcDJFRWpzaHh0WUlHR01Beko1LU82THg5WEFuWTdIRFpaeVRkZnQ1LXZpeTVQX1RtMmZrX1g4dkx0?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6a7162d96ae401f5",
-      "headline": "Harley-Davidson's New 'Stripped-Down' Deadwood Is An $18,000 Tourer With No Bags - Jalopnik",
-      "excerpt": "Harley-Davidson's New 'Stripped-Down' Deadwood Is An $18,000 Tourer With No Bags Jalopnik",
-      "publishedAt": "2026-07-16T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3EwNFExdk5uNHlwa0hpUHJ0akw4d3lfcGJUZEFCNVo2N1ZFaFotOGpTajNXelNtV2NNdU5acHYyMUVmamhzYWdTaDExNUFrTThwd1RSb0NZZF9HUDFKcUhuS0xfUURHMEh0LUZtdkFlN0gyZVpiUDZiY3NJX25FaUMtSksxSksyU2RBVg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "b1f4c215c36f176c",
-      "headline": "India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO - Reuters",
-      "excerpt": "India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO Reuters",
-      "publishedAt": "2026-07-16T19:23:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYXoxbXhvcXM2aU56LUhpM0ZPLU9mMjlEXzFyTEF4cDVtUnlnYUpuVm9DcUxQVDBHRTlDbVlPbEVOSnhBbUpldk5QV1ZnNHFidnJqOEptV2tram1vbE1GX3VfVmstYUVXbzVkbWF4ZVNlY2ZyV0x0Y2JCNFJ5Ym9pSjBBNkhoYXFqdzFtbHZWUFVvMlh0RG9OMjJJSFZyYmR0R3E3NWhmZDM1NUZhOEN1dkxDLUhQR1F2UEZWYVZR?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
