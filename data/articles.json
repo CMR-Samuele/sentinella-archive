@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T17:40:28.393Z",
+  "lastUpdated": "2026-08-30T20:34:37.083Z",
   "totalArticles": 5000,
   "articles": [
     {
@@ -10,6 +10,33 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTW9EU05RS0NMM1VWUVY1aVJ1eVRDaDNwOS1sNEFmUXVTLVBXazhPNXZRQ29JRVJCUGgzSjB4UWRtaXVUWS1UY2p6TGVqSElNbnZtanliR1pQUjNUYU1OUEp6T2NkU24tS2Y3TnpmSnkxdWlaekdLYWR4ZVVESWh6c0E1RF9pS1dXUVp0bnJWSnFXMXBrNFplaU42cHRfd0FXVTRaTERZdjlxWWk1UG9OdzZ6VW4?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "735eae86d7dc32bb",
+      "headline": "Here's What Routine Maintenance Looks Like On An Older, Depreciated Aston Martin - Jalopnik",
+      "excerpt": "Here's What Routine Maintenance Looks Like On An Older, Depreciated Aston Martin Jalopnik",
+      "publishedAt": "2026-08-30T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFRsa0VvWTdOdldtajFxN25rMFBvYkVQaDE3djh3dFBtdkVKUHNQblIzZW1IWkZoMDRZZWpUcFYtcUtBcklBRTVWZ1B2R1pJcTlicEp0TWJzY1h5bDlHMzJhZ1oycWNaS1A1dE5wSnZ2aVRERU9acnJpNVVsb19rUkFIc3B3bTNaXzdTUA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "1149147b0f7c94b1",
+      "headline": "I'm Taking My Porsche To The Arctic Circle, Even If It Kills Me - Jalopnik",
+      "excerpt": "I'm Taking My Porsche To The Arctic Circle, Even If It Kills Me Jalopnik",
+      "publishedAt": "2026-08-30T13:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IN1B3Ynk2UzJObHdPeHoxajhoaTRKWnlGTUZrUE43clF6dHRUbTFkSVpSZXZTWE9UOWdYNld1bXlSUU1tcnZCNFBSWGhNRnMzRGFIZFlDTlp6WE1jQkx0YzBBNUUxa1pYa3ZYWQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "c8d95aef0aecf9fa",
+      "headline": "9 Used Cars That Offer Easier Access For People With Mobility Issues - Jalopnik",
+      "excerpt": "9 Used Cars That Offer Easier Access For People With Mobility Issues Jalopnik",
+      "publishedAt": "2026-08-30T12:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVZtek4xNU56NFZjX3FuODdTbTd0d2JJeVpUTzdIYzFZcjQ4bG10Vl96TXJIbkI3V29MSU5zXzltZnNWQ3lxeERDcDdfU2t3T3h3QmJRWTZtb2RROHVjOHJraURLWUlYb3BtcEREMkhDZWRxSFVZbndiNHVhNXd6TDlRdmJUR1lHVHoyRzBB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "c6e07e6823165a10",
@@ -631,6 +658,15 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWEJRMk1ILWI2b21fa1Y4bXRENEdRQmNKakVxUUk3R2JKQllQRWxzb3cwcmQyN2FOUnA3dXhRTjFpYjIzdXVwQjFnamZKR0RjdDk5Nk1qRVpsQlhlU0ZHVVE4NWN5ajc0eXd3VU9RTnlKNlRZeXBXRXZDUjVOYnJiRHkzVG5zRTQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ad563f804758bd40",
+      "headline": "Could a cyborg cockroach keep you alive? - Reuters",
+      "excerpt": "Could a cyborg cockroach keep you alive? Reuters",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTXltazlpdUFpLTR2X3NVNkxYQkZOSTRXMG82dWZUNjlneFhlaFF4eVIxQ3NRbm42dGROdHNKYkRzUm5kOWxGSjRiVEtjRlUwWVVz?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "9623db1a36ed5719",
@@ -44963,42 +44999,6 @@
       "excerpt": "UK's BT Group shareholder sells substantial position in $224 million offering Reuters",
       "publishedAt": "2026-07-20T17:21:34.000Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbnBabVdVNklPVlBCY1hjZDNwUGZEMnotNE5YOU42ZDFkNi1WUG5rVjhTandiUi1GYjBXN1EyOUdaYllWS3ZJWEFvcXgyVk1GeUhSRkptc0c3a3RKTnNCTEZSTzY1QlN5MFhncEgyc290SFVsb3FINTZ1TEdwWE5MR0E5ZlRIYlBVMFVnb2dsaHhoMGtyRUE5OGVkcnlIdTVpUUxQc29DbkxFdzVGdnF0czRxUkNlbVdCcEhOOHFJSlo2WWkzempB?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "36e52be11bf5f628",
-      "headline": "Sandwich chain Jersey Mike's targets $7.94 billion valuation in US IPO - Reuters",
-      "excerpt": "Sandwich chain Jersey Mike's targets $7.94 billion valuation in US IPO Reuters",
-      "publishedAt": "2026-07-20T17:17:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmRTRkdyVnF2WnRuUmFqZEs1aXVDbTZtczFsUkRhLUlOOGRnUkhfdDF3MUs1WkRkMG82bTNBRGFnRnRHZ1ZjeTZxZm1obi0ycnpKT1c4MkNpMWxjcnJWNl9yZGdwT3R3THNoaG1PcXFKUzdlWWc1Z285SHBzVEtfZGpoVG9XOFBBZWd5cEVVY09sMUhY?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fc5902de13ae6f5a",
-      "headline": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize - CNBC",
-      "excerpt": "The bar for Tesla earnings is sky-high. Here's why and how options traders can capitalize CNBC",
-      "publishedAt": "2026-07-20T17:15:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXVGbVh1NDc5TFIzeVRseUZRVTVBV1ZpWFJ3cXdIaWFXSFZOaXJkckF2dEg2Z0h3Z0x2OVNWeExMejVBU1hPdU4tcUQ3Y2tzOUY5TWl0dzBEOFRzb1czdzR2eTd5NnZKdk4zX1BmTHFkZURsb1hra1ZHSHppV1FsYWd0TkswTGJOMDR6eUx2clZDakZzMmRGUEI0ZDRFSV9WM2pMZ2V4VzloaGpRNll0bnotRTBRdnVCYW1pYWs5UXRXQdIBxwFBVV95cUxNbGdKTFJBWm41VThEZzhRUmJGWFFJQ1VEX3dSc2h2bURCSTVZeW13aDk2WnJidTZwc0x5YjZ6dkxkSVEwdk1NOHBCTTNXcWFvZWFVQTVwLXZNWFY4NEdwQkUybGxTRUxhTGFEZEFNTjRnSXRhZ2l6czJwWUctRzB6VHFUTXBEQzZSN1NrLVhZUFJycXBTQm41aVRmR2o2WXdUQ1NSQnN5NWFjX3VPMXJ0U1lTbDZrdUsyVDRYTkE4NDM5QjRtVW53?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "4acbd6d356c61447",
-      "headline": "Tesla Giga Berlin increased profit despite producing fewer vehicles in 2025",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-20T17:10:38.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-giga-berlin-profit-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-giga-berlin-profit-2025",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "6e2d0cef0441a58c",
-      "headline": "Ukraine's Zelenskiy meets commanders as street protests mount - Reuters",
-      "excerpt": "Ukraine's Zelenskiy meets commanders as street protests mount Reuters",
-      "publishedAt": "2026-07-20T17:08:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDVzdmxJOV9IMFQ1QmVxa2JjM1FVWnVmU0ZaU1hLOERCamplcEplYkhsZHNUTk5NY2RpMjhIV0RCUjZ2LV9VSUNYZ1pkbDVYZVMzc1NHcUJFZDZkWUowcGpiV18wYlR2Y1o5a1FGZEk3eVZSanVfR0FLc3dxSldmQUZHSmg2N2ljb2VSQXctUVFkaFFEaU9DT3JtcXlndkRj?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
