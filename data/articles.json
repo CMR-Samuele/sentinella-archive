@@ -1,13 +1,85 @@
 {
-  "lastUpdated": "2026-08-31T01:27:41.616Z",
+  "lastUpdated": "2026-08-31T07:26:02.661Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "7c54d3b58193c5b4",
+      "headline": "Tesla Model 3 base a 572 km WLTP: il trucco sono i pneumatici",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-31T06:30:00.000Z",
+      "url": "https://insideevs.it/news/806513/tesla-model-3-base-autonomia/",
+      "sourceId": "insideevs-it",
+      "sourceName": "InsideEVs Italia"
+    },
+    {
+      "id": "502b5223c13f0acb",
+      "headline": "Elon Musk says he knows how to save Earth for a billion years",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-08-31T05:16:47.000Z",
+      "url": "https://www.teslarati.com/elon-musk-says-he-knows-how-to-save-earth-for-a-billion-years/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "fba25dc26d85a9fe",
+      "headline": "Porsche Models Hold Their Value Well, But These Cars Depreciated The Fastest - Jalopnik",
+      "excerpt": "Porsche Models Hold Their Value Well, But These Cars Depreciated The Fastest Jalopnik",
+      "publishedAt": "2026-08-31T02:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ob2ZEOG4zeDVUZWtiRHN1YTRtZUlZZzctMHZwYVVicVBvYlMzeTBkMzFjdVNKS3RCNzRDRVlIQ3lDSHpqbjlOY0JZcTlnTy1GOXRKb21PUDdsR0s3dFptR2lOVEJDemk1Q2JrRUd6UHR2cmw2dEQ4?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "1454ce6e51b014bc",
+      "headline": "How World War II Rationing Led To 35 MPH Speed Limits And Bans On Driving For Fun - Jalopnik",
+      "excerpt": "How World War II Rationing Led To 35 MPH Speed Limits And Bans On Driving For Fun Jalopnik",
+      "publishedAt": "2026-08-30T23:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmtRLXVUTXd6N0VaczBUZUx6NUxEMmJwWUt4Tks3alo5bzlYZENicjNUOXgzb1VYcURUcmV5RldNSTJLeFJSNnhhbkEwMGVEY0JZc2pTaGRtUS1EZTZmM3ROYXB1X1pNUGpoeWZ0cnBTUVRROGNHQk1XTURSSUNmdHNRNTNySzNWLVEtVkxxTQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "e7f829be05e31953",
+      "headline": "eBay Finally Bans Airbag Sales Due To Counterfeit Concerns - Jalopnik",
+      "excerpt": "eBay Finally Bans Airbag Sales Due To Counterfeit Concerns Jalopnik",
+      "publishedAt": "2026-08-30T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WZHllNTJaVzdaLXpHcHFnQk5yWE1pQjFUSnk4bWx0SmZGMTE5S3VhWGZQTTBVcFE1aWFaT1lvaG9FdGF0bFd1Ym9TUU0xUHhUdllJcHJoeWZ6dUxxZnV0Qmc1VEJrb2k3SmV6MThWclN1YWtwQUNEVi1lcw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "39bcb41e32288044",
+      "headline": "Back When Standard A/C Was For Luxury Cars Only, This Sedan Brought It To The Masses - Jalopnik",
+      "excerpt": "Back When Standard A/C Was For Luxury Cars Only, This Sedan Brought It To The Masses Jalopnik",
+      "publishedAt": "2026-08-30T22:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWhJZFFaa18wWDFJalRVUWQ1X1dzZ2NTSE9zaGZfZW8zY19RSGEzQXJ5UGVlY2xCbnphQXdwZEpMRENmSl9FVzh5cHBobnhobWdlenNkay14VVNwU1YyN2tBMUFLaWItV0dUNXpiaUVobXJDcU43cDJuRjhCeURrWUhFOS1lV3oxdUJ4MGhraEdxZw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "77dbbd94873e00aa",
+      "headline": "It Took 60 Years To Finish The Last 8 Miles Of This 1,900-Mile Highway - Jalopnik",
+      "excerpt": "It Took 60 Years To Finish The Last 8 Miles Of This 1,900-Mile Highway Jalopnik",
+      "publishedAt": "2026-08-30T21:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkdWdXZESngyZ2l4VTJzM3MtNklBTUxGaWpETGxMSjlmVDE4S0poX2Z5bklpY0VvQS1raEFBN0d2ZlVmMUZrZ25oVGhOeXdhekwteFRGVVhQS20yR0EtaGdQb2N1ZXBnSWJrd2FPX0NVc2tJQTAwRV9wd1BBR2RBX2E4enZPLUc4QjhPOEVRaXNobzlkMF9PNVdGU2l2aVQyWlNRbEdB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "d3b77d25dd2bde5e",
       "headline": "8 Ostentatious Cars That Defined The Wedge-Shape Era - Jalopnik",
       "excerpt": "8 Ostentatious Cars That Defined The Wedge-Shape Era Jalopnik",
       "publishedAt": "2026-08-30T20:45:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00U1k5a2Z4Mko5U2pUaHhmd3YwcE03MS1SZXIxWkdGaXpfcFdFbGFObW5iMlBnRVRxTk5NTkxjMlBiNU02TTB4TFQ2M05PSExZNFNxRWlxTVlNam5fS0FJMWJISkRneXhNR0J3SW5zRQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "dd9446ced35b0d9f",
+      "headline": "5 Weird And Wild Child Car Seats From Back When We Were Figuring Out How Safety Worked - Jalopnik",
+      "excerpt": "5 Weird And Wild Child Car Seats From Back When We Were Figuring Out How Safety Worked Jalopnik",
+      "publishedAt": "2026-08-30T20:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnlkS05IQUFnSlIyVmFrY2tIWF9jaDdKZlI0dEdtYTViXzFQMWFOYl9paDFfUk1lR3VqREh5cjZJM3NobFFJWEdHS3A2QjFOVDVySnhmSnl3VVZFTnVxZTNSQkdsbzhVT2VjZHFuTHQyV3RDLXY3NTVsbnNuOFBFbjVlaUpGbEdVMFNTalcwRQ?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
     },
@@ -892,6 +964,15 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "9661406e0e08b1d7",
+      "headline": "IIHS Says Drivers Use Phones Before Crashing More Than Police Report - Jalopnik",
+      "excerpt": "IIHS Says Drivers Use Phones Before Crashing More Than Police Report Jalopnik",
+      "publishedAt": "2026-08-27T17:40:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TSlVqeUpibm5NcWpUNXRjS2xUT01vV1E4ejY0anNTTFk5WXVfN3VVMG9YbURnaE5QNFVaSTlFbkhNbzB2YWNEMS11V1pNRXM5RjdXNXZ1Z2pmeS1fRWZJY3V6WHo5UWx5cV85dzF3UGFrZkxLajZvcjRqenVPd1U?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "b50d90b6b5c310bd",
@@ -15074,6 +15155,15 @@
       "excerpt": "Explainer: How climate change and El Niño supercharged Typhoon Dolphin Reuters",
       "publishedAt": "2026-08-13T06:39:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDVsOWYxY2JrajgzazVjMEJtRG03bzBWM1Jrd3VZMHlnZkJ2ci1zWmM4UmNRb1EwV3N2a21fa3hMZkZhdGxuNFpJMkRiMG5wY2ZMNjYyUnhZMVllX2lQeno3V1dyWDd0ZG5pbldzUG8wQXc1TmpTU0RJVWJHZjlDR0hrc1FPMjZOZHpSbVhETlJYNXU2QXZ6TDBfNFRlUVhvZ0pKM1UxTTUtSlFkRFlrTg?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "19c0eaf25e304c16",
+      "headline": "Hyundai Motor Company - Reuters",
+      "excerpt": "Hyundai Motor Company Reuters",
+      "publishedAt": "2026-08-13T06:28:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00Q3hwTG9VenpKMm40a3gya1RJeTlEUWlualcwbXFicDM5eVNkcV9xaDdlVm1DMVVlQ2Y0ckVZZ0dHbmNiY1RyREVxVllEZlZlSVNOR2pvdk1kZ21pc0U2WDQ0YUo?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44911,96 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHdTd1JiRGlKNG9PLVdSZlZ0Z19rdm9FQldfQmpvOXlxczhleDZISXdoRDdvYXVVcnZ4STFVaVUyX2x1WS1telN1eF9xZC0xWm56TzJBZDRHYXRLWmVmRjctblQ5Qjd0QVdLX0xiSzRCOWkwX2Rxd3pwOWs0UXJ2Q25CX3NJUEttenA0YjZ3U1ZEQVJNTnlvNTFJOW1vRG9kT2J0aFpxTHVFS1dwdkNZ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "cb1e90b8f9208f7e",
-      "headline": "Here's What's On The Golden Record, NASA's Message To Aliens Carried By The Voyager Probes - Jalopnik",
-      "excerpt": "Here's What's On The Golden Record, NASA's Message To Aliens Carried By The Voyager Probes Jalopnik",
-      "publishedAt": "2026-07-20T18:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUw3QWt0QTk0Vmc0R3lRUmZhdDJDLTBDNmJ2eWw1LVRlV1NBcklaNnpibF90TV8xX0x2b3pVTjJXQTFZRjA1TlVNb0l1c21LV18xSkh4blZhRjR2U05pcFdsZXlUU0ZCaXNlb051bml0czFKZHFHNzdoaENiZG5SXzJoeXpkeHRKM3BaSURrTDJ0SGJu?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "92564a87e9501370",
-      "headline": "Why Carmakers Don’t Want to Fix Blinding Headlights - Yahoo Autos",
-      "excerpt": "Why Carmakers Don’t Want to Fix Blinding Headlights Yahoo Autos",
-      "publishedAt": "2026-07-20T18:16:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDFSNV9KWVZnNnl5UlBtUTN3blp4RVNLNEdSdnVWaUs2RG93ZjVnRTVqWF9KNDZwbmk3TnZpRXRUMFA5aGJza3c3c0tkTnM2ZTNIR0E2Um8wTXhMT0JFckVGdzRncHgwWjVkdERhZ01VczFTY2pYVHhMb3h6M0pJanFhZlFGQkNYUzFYcE1TaUMtc2U3SlE?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "a680793ec4924f19",
-      "headline": "Why Carmakers Don’t Want to Fix Blinding Headlights - Gadget Review",
-      "excerpt": "Why Carmakers Don’t Want to Fix Blinding Headlights Gadget Review",
-      "publishedAt": "2026-07-20T18:16:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0xZbnEtQ2UzaC1RN2RQV0RUUUR5dkk0THNINmxtdERpbDgtQk13UUdCbzRRTldyNTBFY2JDMnU4R1VkMVpLM3AwV2hIdDVsVC03aU56WkNLalBnZVJ2WDV2Y3JCWEZBczhJRkVHdnNVb2FNRVRkUEppYm03UHl2YnVvM3FMQQ?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "d0872f5eda7dc1bf",
-      "headline": "Tesla sales rebound in Canada as Model Y nearly doubles in Q2 2026",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-20T18:16:18.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-canada-sales-q2-2026-model-y/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-canada-sales-q2-2026-model-y",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "b6f35029811a37ea",
-      "headline": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options - Reuters",
-      "excerpt": "Netanyahu will not be arrested in US, Trump says, as New York mayor mulls options Reuters",
-      "publishedAt": "2026-07-20T18:14:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0FBLVV2MC1GcnJCd1YzRkhhaUVpVlI5dHZoRlJwZktDQXBkcHVKSTJKWTFIdVJaMmxlWmgwWmlueFNHMUtBWC1kX3RoZWhWcl9RX29feHJOLU03THVKZjRVbGJTMDhuR0lZNjMzQXdaRHFxV2xWZ3hjdWthUmVMWG9hN1kyVkhoeDljTnJhMUE5aTRkN1dxTlgwOVpqOTlIR0VWNWtHSF9nVXo2OU00TGw5YnVuUEVnQlE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a1dadd9ac012acef",
-      "headline": "Key ministers in new UK leader Burnham's cabinet - Reuters",
-      "excerpt": "Key ministers in new UK leader Burnham's cabinet Reuters",
-      "publishedAt": "2026-07-20T18:13:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkFWZ0hsTzFydFRhM09SczdPdVpzbWlIcktnb1FZSWtBWTFLdkZ4SjBNdEt6NzlsMmVEeTFxVENnZjJ4amxDcW5PbXg0LUlzUmFFaDlRVGRYWWgzOE9YejlSaGxSN2h3V1FMenJLMERyLUFZOGlZakFBTnlOTngtQU1aWWQtZ21GZXA5Zmc2cWQ0Y3FieXFMeDRMWmhBUQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "fb905e60d74e2fd8",
-      "headline": "Flash floods kill 20 in Afghanistan, 100 missing, authorities say - Reuters",
-      "excerpt": "Flash floods kill 20 in Afghanistan, 100 missing, authorities say Reuters",
-      "publishedAt": "2026-07-20T18:11:53.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWZMbUhWOW9EejhORUVZNHc2blR4alhtSGdfTGx0ZGhfUmFnRmFGRkQtY016N1JaLWdrQVVQUmxGV1lhbF92dUpKNlpSdW01OURnZFdHb0FtZWJ1ekFQMmN4bml3ZWxfRlAtNk1GbWU3b0pURy1XZ1hxbU5HRHVwNUlYaVR5elItX045d3lRXzRuLXNicjd5U2x6S1VobV9pN0pBV2YxVnRHLWpEWGhTXzhEajdFejRF?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6ce93c6a90ef89f0",
-      "headline": "Tesla Investors Share Their Most Burning Questions Ahead of Earnings - Moomoo",
-      "excerpt": "Tesla Investors Share Their Most Burning Questions Ahead of Earnings Moomoo",
-      "publishedAt": "2026-07-20T18:06:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFRNGVIUzFISHVXbEU0M3k1ZGF3VGk2NjF5cWY4b3J4R0xTS0xpcWM4TVdTN05VcnY4MFRqVnhtTUJsR212bXVmbTl1X3duM2pRMFEtV05vNXJxMUUybWJJTGplb3NUOEU2RHZ3eV9FbVdKeHlUVzdlRkVNT1hsbDRuY3o1RXdMZVZLWnp5dkxXUnpMbmlQdnYzeTZkYjRtN19yemdUNzkxN0g3bVNV?oc=5",
-      "sourceId": "tesla-ir",
-      "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "7d786feb64a9b909",
-      "headline": "Could ‘The Odyssey’ lead the 'apes' back home to AMC shares? - CNBC",
-      "excerpt": "Could ‘The Odyssey’ lead the 'apes' back home to AMC shares? CNBC",
-      "publishedAt": "2026-07-20T18:04:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDY2TVhHcnE4VjV1VGVMeVBnam9MOFhfT0doN05HZWpnVEZPWGZNWDFwX3Y5a2E1WjRkbkxnbHZtOFpzOHpZVzQ4dXg4clVBVWFVU19nRzUtUFphTFg5UW1FbjlRNC1fLTV4ZFdtalczdWktaS1uTk90UDZpdzc4QzQ2S0ZuM2dEcnpLNGN0eEhCNldidnpv0gGcAUFVX3lxTE5BSHh3ZlJsaGpIZEJZaWNXd0lKbnprRk16bjlVTGFkT1luckRDalpSeko2SGRCMDhpSFQxWTFfanpRcUhma1J2ajBlM0dOaHpoT2JzTHRKTUZoaHIxM0tJc2Q4bU1SNnpqWDU5OWxzZGQ0dVcwbTh6QWFjaUVXaldqZThBU29CX21kdjNrYlRLTEplSGIxcURHc0d6TA?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "8385934e59e24430",
-      "headline": "Don't be fooled by an AI stock bounce. Charts suggest more downside ahead - CNBC",
-      "excerpt": "Don't be fooled by an AI stock bounce. Charts suggest more downside ahead CNBC",
-      "publishedAt": "2026-07-20T18:03:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajFkQl9kdGJkYUhQVDBNQjdKVzh1WjhJakJDRlRUN2o4b3pVd3hneTNGSlE4NllrUldVajdvMGlqLWkzalc3dWQ1ZF83bDhqUmRXUlRSZ0ZnTzE5eFRvaHZjVHFjU0Q0Q0hneTVlcjI2QmRNVVFNa3VHaHFncTJITkZ3cVotNnk2Y041cUQ3OVhGazA1bTgyZk01NnVTRmJTR3Q4aFNMRWpOZlpQ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
