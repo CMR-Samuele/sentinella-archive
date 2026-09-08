@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-09-08T00:58:59.928Z",
+  "lastUpdated": "2026-09-08T05:49:10.191Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "bac258071025e2d0",
+      "headline": "Tesla Cybercabs narrowly miss deadly Amazon cargo plane crash",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-08T05:23:40.000Z",
+      "url": "https://www.teslarati.com/tesla-cybercabs-narrowly-miss-deadly-amazon-cargo-plane-crash/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "76537402fdae7c55",
+      "headline": "Aktuell: Tesla-Chef Musk lobt AfD nach Sieg in Sachsen-Anhalt, bestreitet Rechtsextremismus",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-08T05:02:12.000Z",
+      "url": "https://teslamag.de/news/tesla-chef-musk-lobt-afd-sieg-sachsen-anhalt-bestreitet-rechtsextremismus-67278",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "2ade95b1046c3109",
+      "headline": "Dallas Installed AI Cameras On Its Garbage Trucks That Photograph Every House And Scan For Code Violations - Jalopnik",
+      "excerpt": "Dallas Installed AI Cameras On Its Garbage Trucks That Photograph Every House And Scan For Code Violations Jalopnik",
+      "publishedAt": "2026-09-08T04:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDFJeGVBS0JqMzVEWFFZVzE1dWYxZHJvQ2toZW1WT0Z5UU83UWxscjdVdzB2Rk5lT1V2WllwT1B0b0d5c1VqcUFVS2VUUF9YdnhFSERoMEF5U0dPRWNHeDB6MFBtbXA4YlhSZE1hTUxXZmZGTERiZGRnYWc1QUN1ZE05MGY5QTNSdTlMa2lSR21WMlFv?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "d5360aff6d04eb8e",
+      "headline": "Dacia to bring popular EV Spring back home to Europe from China - Reuters",
+      "excerpt": "Dacia to bring popular EV Spring back home to Europe from China Reuters",
+      "publishedAt": "2026-09-08T04:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVVVSjRsSkZGQko0VThMZXZNRXN2WkE5OG9zX0ZjTVlSelNSZVNPQ3ZCb2VneERJUHJOak1pdkFENEp5TE1uYk5mOE4tR2loREpxbVFfaW1neTNqaDVfTmFKZ0JsZ1JLUkpZY0R2X1VES083ZVJoV1FfR01seXhpYU5vNDBJWjdHcEZPZVA2b2lXVklJbWYwdWJjNVVCVG43VlE?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "9038969f5d83190a",
+      "headline": "Inflation In Action: How Much A Porsche 911 Turbo Cost In 1976 Vs. 2026 - Jalopnik",
+      "excerpt": "Inflation In Action: How Much A Porsche 911 Turbo Cost In 1976 Vs. 2026 Jalopnik",
+      "publishedAt": "2026-09-08T03:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeWEybmtGcE5OV3l4RFhodDJwSmMzYWtqTjRLM1MzTmN2NWlseFNiN1prZ2ZuLXkyNEowTm9QaUJjUnltQXBUOUc4RkJjZE5yT0ZPbGRGdXA5a0pUTzZCcklQNEFldi1DMGxfRzZTd1BZVzFUVGREN1BkcENZZGlEaGtMcmN2cG44NHB0SEpXa2tyMUxyODZB?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "6c6a9d2560077a63",
+      "headline": "The Ford Fathom Platform May Underpin A Fiesta-Sized Hatchback - Jalopnik",
+      "excerpt": "The Ford Fathom Platform May Underpin A Fiesta-Sized Hatchback Jalopnik",
+      "publishedAt": "2026-09-07T22:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjlhOVIxQ2VBR1JUVzEtZTd5dkhYdnVva20yUTBfZVd1Q21OazU2VFRfckQ5UjZ1cWxucDhzdUkxMW01RE1PUjRRckdVb2RoLURyQXQtc3JTaHpUaTJpWHQwVnQwdTRkYTlNV1R6ZHRndWd4SUktRmN5TGNNSEVaSndqT2hzazktakhXbWhuaVE0andVS0lHdlhR?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "253e3c64fc13abc7",
       "headline": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says - CNBC",
@@ -271,6 +325,15 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXAwS2dwUUlFaHdFYjNVNjhUcGp5NUtROElxWHJlc1UzYnpKczNrM1BETmthaFZUY0JPcWZrUzRMLWlqSDEza21fN0VmVWE4Q2FsS1RkZC1XOXBtMVZ3ZnZwOV9jaktWZjhscVU4QUJSUE84SEJ4Y3M5TXNPTWlLT0E2akJEWFhQUWc?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "3e3193a0809e1be1",
+      "headline": "NHTSA Opens Audit Into Tesla Cybercab Hours After Austin Ride Launch - inkl.com",
+      "excerpt": "NHTSA Opens Audit Into Tesla Cybercab Hours After Austin Ride Launch inkl.com",
+      "publishedAt": "2026-09-07T10:21:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaER0YTJOcmRlVy1SRFR5ZUllSHJ5R1ljY0xOQmNCWDJjTU50STdfbW5MUlFGV3BxV1BCclNjZlFKV1dkUDlmMTBLeFFKdGFuQlZDcS1uZDkxSFVDQnBCb3g4RGdWMGVyME1iV3cyMXgwYy13Z29MOV9pZWhHeE9WYThYblNJRDJEYy1JZkZYSUZ5VDg4NVFZX3ZR?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "e6a7a9ab5d0f7c38",
@@ -4233,6 +4296,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "f1728650e3ad4807",
+      "headline": "Tyson Foods Updated Fiscal 2026 Outlook on Company’s Investor Relations Website - Yahoo Finance",
+      "excerpt": "Tyson Foods Updated Fiscal 2026 Outlook on Company’s Investor Relations Website Yahoo Finance",
+      "publishedAt": "2026-09-03T13:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkJPckVDVXJSWDhLYlBrclFQOUdxRzJvNUZ5bnhSRHdBUUdXczlWaFBWcm41dEZSVWNrdmF0cV8wVVB6ZEd5RlJyUllfZi0wdHlDZm5JbVRjVU1PSS1sZGQ3UlF0cmlUc1lvZXZrN3FqTXp0VWRITzIzeG5COG92VWtBYS1GMk5xd0VlLVM1djd0Mldwb2VwVko1T0k?oc=5",
+      "sourceId": "tesla-ir",
+      "sourceName": "Tesla Investor Relations"
+    },
+    {
       "id": "38ffd2d75c3d3a23",
       "headline": "Fords $30K Fathom Is Chasing A First-Year EV Sales Number Only Tesla Has Ever Hit",
       "excerpt": "[object Object]",
@@ -5311,6 +5383,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-model-y-suspension-recall-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-y-suspension-recall-2026",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "67e7d693a2d812b6",
+      "headline": "Ford, EEOC ink $2.3 million deal in probe over racist graffiti - Reuters",
+      "excerpt": "Ford, EEOC ink $2.3 million deal in probe over racist graffiti Reuters",
+      "publishedAt": "2026-09-02T15:21:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFNqRF83RWlLNlZjWmlTcEt5dU12VU9ZcnhWeXozY0tKNjVPQVEwWU5naG1va3NGeGVqakdsclZ1ZEZaVHljM3VWLXd2bkZPdkE5aUxPZFBvTmdBQUp2dHVfVlNWYllxbEdaa1BlMGZKbEJVVDdCVy04TU1oUlpxZ3FTXzE0NVdlMzVLdTZMTHBZSjIyd0J6a3ZtUURHTVBQOThjdlFZeWJHbkd0eUtIWk5B?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e9e0a700990031bb",
@@ -44920,87 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM2Y0QTlTSktrVE5tcHpNZ0l5dzBWWkZqMnJJUkd1cEptWUp4RmcwMTlEa2RZcldLQ0MzTVJfQ3NhblA3MEJXZGt4Rm1sVlNNal9qbkQxQUxCR1ozXy1pQnJYcnVnSXhfcGIyaV92Z2UzbGxSYlhIMnB0djVmdFNRbm8yNXJGdFk?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "f231dd137cfcf2a0",
-      "headline": "Trump says he is ready for military action if Iran talks fail, Axios reports - Reuters",
-      "excerpt": "Trump says he is ready for military action if Iran talks fail, Axios reports Reuters",
-      "publishedAt": "2026-07-27T15:24:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHNmNWt0aXlJdzB3MVVnbUhaOXkwZUhkWlp1RVF5YnpxU2t6R1c3b2VDM3h4LXh6cXJoMHU1RXg0SjU1MVhQMDc1a0tlbFRyYmY4VWFFWFRSRF9KZU91SjViZ0xJX2tCYVBtQ3E0N3hvRHVFOUdqOURqU0puUFdGWTV2c2FnTGZvR3N4NGwyZm44TG5JM3h6NU1BX3VpZW5remg0U3dJam9WQTJqdUdtaXZ0cGt3bjVETkxsOUc5d1N4VEU?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "03ae36685647f7fd",
-      "headline": "Tesla begins construction on Canadas northernmost Supercharger in Fort McMurray [Alberta]",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-27T15:10:22.000Z",
-      "url": "https://driveteslacanada.ca/news/fort-mcmurray-supercharger-construction/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fort-mcmurray-supercharger-construction",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "7517ed9f5a8b83b3",
-      "headline": "Tesla FSD sets new autonomous Cannonball Run record in under 48 hours",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-27T15:01:00.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-fsd-cannonball-run-record-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-cannonball-run-record-2026",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "cfdc1ecdddae3d7e",
-      "headline": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers - CNBC",
-      "excerpt": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers CNBC",
-      "publishedAt": "2026-07-27T15:00:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHI1ekYxNWp5RS1FOGJHT2FtTG9vNGo1bDZuakpvVkJCOVEzTW1pUnV1QUIzdHVnT2ZGc2FEZ3l2d2s4cURhYzJIVW5uYWU0QlpuOEJKVUlEN3dXamFGWkdaVTRiSVhlX1NZSnNBaGZGaHVfNTVHb21CYlJDZ0dsU2RLbjdBdFdHdmJYTFFR0gGTAUFVX3lxTE54MFNjcnBEWWZucm00aWFWazdBaDA5cWhtbFU4TFhHNm01TXRkeEpxeDFhWXhmLXZLWUFDaDZ3bV9LTjI4em1zNGEwNzVJOU1pY0FUNmZWc2hqY1dqX1V2VEVxTkc1cHo4aWRpdUNEV3QteHNkZ3phQVhJRUM2cTUyX3R0VmdMR2sxS1dOQ3prSmtDUQ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "2aa16f43fbe1b38e",
-      "headline": "Amazon's Leo proposes satellite constellation for direct-to-phone service - Reuters",
-      "excerpt": "Amazon's Leo proposes satellite constellation for direct-to-phone service Reuters",
-      "publishedAt": "2026-07-27T14:50:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVJFQWtQTlZOTjMydHlPTll6VW9UNF9YaTlwT3E5R04wdGlNaGFsX0l5LXNfMUcwQzA5VXBpdHE2ZFJmX2Rxa3lfTUV6V3V0clZMRVBqWm83OF93ZTl5U0V2ZUtKMU1NUXFFTjVHTEIzNkxUUnlSZWZXTFhLWFdRTG1RZGM4dkY5enhkY21DNV8wTXp3UWNGNEY0bERsc3JtZlRjdmZ4VWlWbDcwQkhmTHVfa2FEUHdZSGN0ZXFoQQ?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "11498530a27d6185",
-      "headline": "Trump to talk up economy in Michigan amid voter concerns ahead of November midterms - Reuters",
-      "excerpt": "Trump to talk up economy in Michigan amid voter concerns ahead of November midterms Reuters",
-      "publishedAt": "2026-07-27T14:43:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTN0VTR6RkpmeC14ZFQ4RDB0WnVka1ZibTlhM1dfNEJPXzZYc1YtQ3BZQU03ZWNpbUo3OHZaN013NkxVYzB1ZThqdFdLek5USVdwTTR3dmtQRzEwWGQwOXkwQzBkNVRDUmc5TTdWVDBzU2c0NGh4a0RFalFNRlJyREMyXzg0ZS1mMjlIYTYyRWtHTUNXV0pXZXQwXzU0MGhxMUtRekxScGpXcUNXRHNDNjV2WFVFRjB3ak9ISXFQclVJRnJvVXRrWUhWclhEMEt5dllXYkdqeU01Zw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "55697c93fe3d1f7b",
-      "headline": "Canadian EV fast chargers sit idle more than 90% of the time",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-27T14:35:00.000Z",
-      "url": "https://driveteslacanada.ca/news/canada-ev-fast-charger-utilization-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=canada-ev-fast-charger-utilization-2026",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "ac0723dce3208cbb",
-      "headline": "Honda Wants To Bring Back The Crosstour - Jalopnik",
-      "excerpt": "Honda Wants To Bring Back The Crosstour Jalopnik",
-      "publishedAt": "2026-07-27T14:27:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QTkp6ZFZxbkVaQXZ3R1NvdWpySllXTVJsc2t0ZGRlQzdmOEhvZjVPUG1MUGVqcGVncE5yc1ZtMXlqV1dlMkUybzMxLU9qbzRGbUxncTVYM0pJalptLTBrS2k2NnBmVTJPTm9YN205QXZ6U0Z4?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "8132120cef729c38",
-      "headline": "Porsche to axe one in five jobs by 2035 as China, EV woes bite - CNBC",
-      "excerpt": "Porsche to axe one in five jobs by 2035 as China, EV woes bite CNBC",
-      "publishedAt": "2026-07-27T14:27:08.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHVCU2twZGY0ek5Qcy13Z18yVWgxbXhoLUI4Q0o0RFVRS19SMFNzcU4yQ0VudHJvMWlzWHQxSmU4Y21kTVRyY2lFWU1jUjVQQUR5TkRUWmsyaHl6TGo3Y3lxa05uVWFobDdYdHBNT0dYR2pmb0p0a3ZYSjEtdFlTclNfblDSAYoBQVVfeXFMUFVsR0lJR0VYU193eE41YmVTNE5OaEVjd20wRl9jbVljUkhXa1pyTXZJNHMxcmt6dXFQeU1aUDJTR0hrWXdMMkdwOWU1MG9nYmtia0dqX1pGZF9uRHBTN0JVS1dIa3h6TmM1ck10bHdRYW43WTRvdVNPYV9XeU9XQkJyUF9LV0xkRm9R?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
