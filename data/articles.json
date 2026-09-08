@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-08T21:18:49.252Z",
+  "lastUpdated": "2026-09-08T23:31:06.825Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "55f30d3a6d342980",
+      "headline": "PSA: Dont Play Chicken With A Tesla Cybercab By Jumping In Front Of It",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-08T22:40:00.000Z",
+      "url": "https://www.carscoops.com/2026/09/tesla-cybercab-chicken/",
+      "sourceId": "carscoops",
+      "sourceName": "Carscoops"
+    },
+    {
+      "id": "732d4975383ecfc9",
+      "headline": "Tesla stock falls after Cybercab launch and NHTSA probe - usatoday.com",
+      "excerpt": "Tesla stock falls after Cybercab launch and NHTSA probe usatoday.com",
+      "publishedAt": "2026-09-08T22:02:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmRUck5rVFFWSmhQWUpvVWtqcXdXLUdweWFnY0x5MmVKc3MwODQ4YTZPYWdSX2VRVGhHS3JPLUlEOXBSS2p2dFhGT2FhOElubW5rR05RcFliQnlUd3g4dlZWaVN3eFd5M01udjVfdlFUNXBKT1NKdHA0OXZvTmUwZnBnSGtYNnotdjlONzRHVFhXOXBLX0dWMWRpQ2ZSS3RNWmw4Ulh5ZHc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "fdbfeb8400c56717",
       "headline": "Cybertruck Tailgate Pinch Hazard: What Owners Should Know Now - BASENOR - Tesla Accessories",
@@ -10,6 +28,15 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHZvMzUwTThnc0w2TTVtd2sxZnYzeWdVTzAwelRRamhmS1AwdGE1YnVrY0VFSGVkbk1IRTVJTnN3V0l3bFlSYnVhTnBFTjdsUGJWZEdmbmk1dzBMdHBrMFROdm9GdFhNX2pfbk1wYjJLajE3b3J3ZlBYQnRHTFJtMFpMTC1pQjRLLXNqUXpfZDJ2VXR6aC1YX25Jbw?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "3de37b373d51e13e",
+      "headline": "6 Android Auto Features That Help Make Long Highway Trips Better - Jalopnik",
+      "excerpt": "6 Android Auto Features That Help Make Long Highway Trips Better Jalopnik",
+      "publishedAt": "2026-09-08T20:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblUyc204TVpObmpmY0EtWG1fSmVqdHc1aEJNWjNMTTJUUHMtbEQ1S3N6dThmM1Q1V0hwTDMzbUxQMEZ5eHpTQzRWUjVlYmt3ZHFGQy1xakJxVG45TnVaYkhRcFZGcWFzVTJObTdRSFd1U3dpVTlNdWFLeTFiRjRoaEpnc2FzN296a2V1cXlSNVpCUQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "fd8a2431196bb0c8",
@@ -21,6 +48,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "263c0b512a2b358c",
+      "headline": "The US Army Was Using Drones Way Before Most People Realize - Jalopnik",
+      "excerpt": "The US Army Was Using Drones Way Before Most People Realize Jalopnik",
+      "publishedAt": "2026-09-08T20:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbWtiNHNoUU5NdXRwdEwxTmpaTS1oQlcwaVJrTG5PMlVIVy1md0pBSEYxLUlmWkhiM1kxRWF0QWVhUDFhYnBrWm8wQzViaVlRNG1hVTg4bjZ4UnZCYnZrUFphZlMyRW1Pb1hVVVFmd0g5cGdReFVETzFqUDZadW9pdzN3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "1776d4c8e162e4dc",
       "headline": "Tesla Cybercab has hidden manual driving controls — here’s how they work",
       "excerpt": "[object Object]",
@@ -28,6 +64,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-cybercab-virtual-joystick-manual-driving/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-cybercab-virtual-joystick-manual-driving",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "7b162c89108da90a",
+      "headline": "Republican War To Make Gas Expensive Has Cost Americans An Extra $100,000,000,000 At The Pump - Jalopnik",
+      "excerpt": "Republican War To Make Gas Expensive Has Cost Americans An Extra $100,000,000,000 At The Pump Jalopnik",
+      "publishedAt": "2026-09-08T19:34:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3FmdzJhbTR3dVQzbEFfak9vVnpzZktuMm1VeHFoMnQwRFNhVWhNaTBSMDNZZVpxUzBiWHhxOHNyS0JlLXBiTmJPZGJoUXBnQWc4NXF0OW9fSDlVeG55Wmh4Mno0SHllM0Q5N0FrRHprd2xpVXJhLUNKOEZOTTBWdmQtc3YyOTBYcElMZG9jbHVaQVdEQm9HYVNVOG9Udw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "8fd29217db0ce205",
@@ -44956,51 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTDY1bmVxaWUxbmJzcGZtMHNqSHo4VUtNZGxteGZvR2o3RDhSUGNTc1FHZlU0T3VoX2N5cnJzZThoalVReG55TWZHWjd1UDRzSWVxbWZtMzlkdmhDdm5kNEhLRGJiVU10WWF0R1pWamVxTTR5Qk1BZEpNQl9XLU5yYkdUaVFYVDh3S3VBR011SVhzS0xiSUdMMG1R0gGfAUFVX3lxTE1BZWl2NUpMdjItdDE4bVk0OWZiVFlhcU51TjR4aE5VM3pyRGJwUjdRVDczbndBMHFSSDlOWkdocHdPNlg1Z052cG5OdWVTbUFNdzVZM2xvUTZFX1VpS0Uta1ZhdXNHY3pjQ3lISWJUeGp1dnROODNYNElvc0RXNzM1VkdvWkJSUGFlcTJpSmJPenN4aWhYOEJGSkNZMWlCVQ?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "0f1c27a5e5914881",
-      "headline": "NHTSA Finally Begins Investigating Tesla's Flush Door Handles As A Safety Issue - Auto Spies",
-      "excerpt": "NHTSA Finally Begins Investigating Tesla's Flush Door Handles As A Safety Issue Auto Spies",
-      "publishedAt": "2026-07-28T12:10:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RSlpoZ1FrVmpWT2MtdWpoNkRmTmQyNmlLM2ZyRmJSQ1hmYVNZdWV1VG1idU45U3FXa2tuMFQwNTh2VWx6RHBWOG1QTEhvZy1WWEw2ajJoOW1TWFNRZ3B1NnBJTjFQOXFVNGJTdWFB?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "0fae6105bd3fd0ad",
-      "headline": "Meta, BlackRock partner on $14 billion El Paso data center venture - CNBC",
-      "excerpt": "Meta, BlackRock partner on $14 billion El Paso data center venture CNBC",
-      "publishedAt": "2026-07-28T12:00:26.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWpuMGFrU2NCMHJUMFl5aDREMDBSUlY5LS1WVzBuZzRWVkZUQU5yaHUyMkMtUVpzQkZKLUhidDdWSF9WOEhzeVR1UVJ2OW5jcGpQbS0xNFprZkUwZDRUZm5DU2J1Und2Qk5qaUJ2c21yMnRaS3poOS1JN3pkcTlIV084WWxfVVUxaWgyUFFQbURITV9TbS1pTNIBngFBVV95cUxNRFVCT05jU0JxYXF1RkZDTkxNcXJ6SG5meWdNNEhBUXRDdEJJeXRMeW9ZSGYtb1pjYU0zYTM2c194YzBJXzl6T1Jsa3V4Vy1XM1dBTWV5X1drZHBRTENnSzVJSWRnZzJieVJTVzQtWlhhTnlrYWpTSEh2MGV6ek5IVXpfUHdHZU5saUVoVDF2Skp2YlEyNmw5cmlXOW1YZw?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "65c82cb5ef095650",
-      "headline": "Unilever India signals more price hikes as commodity inflation persists - Reuters",
-      "excerpt": "Unilever India signals more price hikes as commodity inflation persists Reuters",
-      "publishedAt": "2026-07-28T11:55:57.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGVINmlFb1FqU1R4c0wtV3pET1UxX0NTdld0dkFZTjhVSWVwOUk4VC1KWmlxM1JKeVBiY0NwS3lHeFI0TVdSZzZDR3pQZHNhZ2hOck1WUTcwbnZhbnIwR2hyZkU5d0VsNkZ4MGVXSXdrbENweDhha2JjWEV6dGVnMUg3RE94X2ZXeExPTld5N01IOXh2cHhHbDB6RjQwOHdrUEhzdjhDQ1A?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "346d99735c509b07",
-      "headline": "Production at Libya's El Feel, Wafa oilfields resumes after disruption, NOC says - Reuters",
-      "excerpt": "Production at Libya's El Feel, Wafa oilfields resumes after disruption, NOC says Reuters",
-      "publishedAt": "2026-07-28T11:39:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLXN2Q2gzaEVSM1gtbm1JdlIyZHBUWmxzOEFra2FnZTB5OG9qV3JUODZyMzNqSWx0UThkTDFUV0YwSkE2amgxeTEwZU9LX2JOLVFqYU5lYVo1Yjh1VjRfN2NwdjRuY0FaUXpCUUpPUGROT2RPeVVQcUZiQm8zZS01R1A4a1dObVhGQnhyZS1MbG1iZUhPTVFxdw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e0cecf7d09159902",
-      "headline": "Poland's Tusk calls for end to hate crimes against Ukrainians - Reuters",
-      "excerpt": "Poland's Tusk calls for end to hate crimes against Ukrainians Reuters",
-      "publishedAt": "2026-07-28T11:29:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDN3bE5WNThSRjVnRnBkM29qbXdLUzBPNHBOTjd5TkhOVVpaSFI1LWlnaVh5X28tOFpSM2VLX0xJWXpiRDVCUmhSbmdNU21oUVVycW1KNk0xc3pBNUJYUi1YSlNYX3VPXzZlRHNMVnpWcjJXTDEyM1hNcF90elVQRmpISFNFNHNLRENjLTRmVmFvX0FwNkx1U3pZYw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
     }
   ]
 }
