@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-09-12T11:04:18.330Z",
+  "lastUpdated": "2026-09-12T14:16:58.139Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "1432d9aeaea46fac",
+      "headline": "This Tesla Model 3 Just Hit 250,000 Miles With Only One Minor Part Failure",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-12T14:00:00.000Z",
+      "url": "https://insideevs.com/news/807916/250000-miles-tesla-model-3-costs-maintenance-owner-review/",
+      "sourceId": "insideevs",
+      "sourceName": "InsideEVs"
+    },
+    {
+      "id": "942501ae4349b369",
+      "headline": "Tesla plans big safety improvements for Full Self-Driving v15",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-12T13:50:22.000Z",
+      "url": "https://www.teslarati.com/tesla-plans-big-safety-improvements-full-self-driving-v15/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "4588a96e0f7ce29b",
+      "headline": "Specifiche del Tesla Semi, in arrivo in Europa",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-12T13:18:45.000Z",
+      "url": "https://www.vaielettrico.it/specifiche-del-tesla-semi-in-arrivo-in-europa/",
+      "sourceId": "vaielettrico",
+      "sourceName": "Vaielettrico"
+    },
+    {
+      "id": "46d3e32cca5529e2",
+      "headline": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties - CNBC",
+      "excerpt": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties CNBC",
+      "publishedAt": "2026-09-12T12:00:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1lDTjdaSEpKV1RvSDl3LVhUMnFEN1FMcjZZSnZaMm5JdTh3N1BVSC1uYnJ1ZFlEdWEzRTdtbEhBMFZDUF9vaXdQYmxZTDdLbGRoSUtNQ0VtX3FCN1N3NnpmbEpHNUJTSnlyV2ZUOUhyZFhkajBQVXlFOXVjSk9lMjUtV3TSAYoBQVVfeXFMTTBuWjhWNTNEQXZlcVBuLWhNRjB6NmRkay12bmxESU04cEwwNWlIUHd0QjhaMjZtakNWaTFFcktWV3VNblotZXQ2SElGQkZaNkQzMDZaWS1BeEhyVWZKMHpvWXo1LVJnWFRhUVFjX0N6WjB3T0diWVNCZjlrSUlWNmNMQkVFcmxSTWdR?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "0ef95a0b145dcbab",
+      "headline": "Yes, Vinegar Will Clean Your Car's Windshield And Mirrors, But Avoid These Mistakes - Jalopnik",
+      "excerpt": "Yes, Vinegar Will Clean Your Car's Windshield And Mirrors, But Avoid These Mistakes Jalopnik",
+      "publishedAt": "2026-09-12T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTMzcWYxUjFKOWJFelE4X250UjZfMTdpVkdDTU8wX1haRy10YTljMmEtS3JPQ2d2eTN4ejAyRWxfaHZxOUNYWVdvV1VaN3VVaThKbDl5OXNEdHlyRVhvRHVWV1J2M1kxMVRsbnVLMEd5ZnJVMno2M0g5M0pXWXdwTVpzdFFOTlUwaGs1QUxCWUNNWk5QX0FHNw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "3ce02cea906b927b",
       "headline": "Tesla Semi for Europe offers decent range and excellent payload",
@@ -19,6 +64,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83WUhaLTN2MExEeU5kTVdiOHI3a0N4VllrLXBlODdwTi04Z2RMN3RQSVJrQ1NwRnVsRU1hVHZaZUhUWGQxZng0ZjktLUh2U0pfRUxSUUljUVk2a0VYOTVYR2dySWdRSW92ak81RFBhYVhZQ1ZrcXhN?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "a65dcaa26006ee33",
+      "headline": "Ford to recall about 223,500 US vehicles over fuel tank issues - Reuters",
+      "excerpt": "Ford to recall about 223,500 US vehicles over fuel tank issues Reuters",
+      "publishedAt": "2026-09-12T07:57:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmtmVGN5eUltdWZYNEJjUzdtRDd2SjFQZ2xwOVp3cDJFRnlzWVpHZ2NNY0ZndWxhZ0Y3bGRjcnRXVnc5UWF6V1R4STJqNVNrbEVPU2lwd1FnYmFKQjlabXlPRHh6Vmw5WVlDN1dSTkx5WHJsYjUxWi1kTDdmVGxySHRJaVdVT2ZLRHFDQUpNZURtamJsZHNRaHF4VU9HbjVSdExVVVEzdmF2clRjSi1iXw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "05bb81d3fb82e5ef",
@@ -3203,6 +3257,15 @@
       "excerpt": "OpenAI says working with Samsung on next-generation chips, deepening cooperation Reuters",
       "publishedAt": "2026-09-09T05:58:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2o2VUItNFg5QW81Z1pGUDRZejdleV9jLXpNTTRFWWd6aHVrRkEzYk04dHIwUU1DcXNBc2pGQ2hFU01UNUtkZVBseGd1RE9SdGotVkxnLWZoYk9BQ2owaHZKZ1NNQTEtUDdaSzMtZXFMcnB2RXNtbjBEMXhwUGJhQXgtNmZLTHNnODdPTVNYZ3c1ZXZJclUzOWJBTkZuaVREVWN3a2Z0TUh5MjY4MmFsTWMyWEdIVWF6LXNWQVpELXR1SXFucUNhQ3Nzbw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "c2cb19a462935cc8",
+      "headline": "Why did Renault's Dacia bring production back to Europe from China? - Reuters",
+      "excerpt": "Why did Renault's Dacia bring production back to Europe from China? Reuters",
+      "publishedAt": "2026-09-09T05:38:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9saHF1TzFoQ082SGxBQXlkcTVNM19mdnVOeF9DVTRMdGo0clNvMGI2Ry1LaHpJSFJrUDY5Y1F5Nlh0RWdWY1gtOExwU1VLcDV4QWkyQTJWaGJhWDdqMC1VN3VHTTZuZUU?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44938,69 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeExRemlHZEF4UnJ6elhWNXRLRmpVb01oanczX0phOFFoUWRxLVBOcjJ0MVVIY0xMMmNEQUpSY0pqSkdJeDhwSnNkZk1sYUozRGNHNzZRTndTX0lwV2xPd2hyRU5wQzdhUHhUOXk4MkdEaVhFV1B4VnI1VXF5M0tSTVRqZEvSAYoBQVVfeXFMT0VLeEdLR2lxckc5QXVNWVRVVXg4d3UwVDdOSFVXMmwtMzE2aGJpUENEZk54Ump3RlFJR0U1dEgxcWt4a0VCWnA3NmRhYVpySGY4NVdJdlphR3g1OEttQ1V5VEc5UmRCeFEyZHE0QUNmM1dNVW1iZ1pXUW5WcDl4N1Y5ZmlseGdoenZ3?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "dc36297fa77842ed",
-      "headline": "Tesla weighs selling China business to clear path for SpaceX merger",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-31T02:04:12.000Z",
-      "url": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "dc36297fa77842ed",
-      "headline": "Tesla weighs selling China business to clear path for SpaceX merger",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-31T02:04:12.000Z",
-      "url": "https://electrek.co/2026/07/30/tesla-weighs-selling-china-business-spacex-merger/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "0b7eef700082a777",
-      "headline": "People Want Us To Not Cover Elon Musks Politics, But Hes Using His Wealth Power From Tesla To Influence Elections",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-07-31T01:44:17.000Z",
-      "url": "https://cleantechnica.com/2026/07/30/people-want-us-to-not-cover-elon-musks-politics-but-hes-using-his-wealth-power-from-tesla-to-influence-elections/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "8e35e6f8b1a161d3",
-      "headline": "China's factory activity unexpectedly contracts in July on demand slump, typhoons - CNBC",
-      "excerpt": "China's factory activity unexpectedly contracts in July on demand slump, typhoons CNBC",
-      "publishedAt": "2026-07-31T01:43:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDNYWHhmR1lkYkU2ZHBDc0p1X0FrZU1aMkpCWEFYZVhXQ29GR2wycEJwSG56NUdxSDRzcXBfS01NdHlIWS03SUhRMzBhM0o3S0Iwei1LWndlRHB1VVBBLXNIMHZNbldZWFJJLWpad1YxdXBoY0dJYzRxQmszYjZVT3gzeWVSaUtkVEd1MDlJZFc1UdIBlwFBVV95cUxNYjdCaWo3b2ZUMldvdzB1TWNxel9UY0Y5Rm8yTlM2ZGt2bGJmQmFjWTRzOWYyaGwxWVhoTkVSa2pXcEF2a1pSSVpNc25aemFIVGRlS0JzcmNQdHBQZ2E4NC1OU1otbVRSRnNxZmFIYWlHeUp5eVVsNEx4TVRUeGlXNkZPYmtYaTdqRmp3OGdTWk1JUXlJcG9F?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "a9f2eb72e495764b",
-      "headline": "Gold retreats but poised to end best month since February - Reuters",
-      "excerpt": "Gold retreats but poised to end best month since February Reuters",
-      "publishedAt": "2026-07-31T01:29:34.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2tTZWFrV1E2TTVkdXlnRkRoZ1ZyZlJaUE5IQmREM1BWNWdKa2JWWHpuQm91NkltbXRaWWllTHNiWDJQQWRiYVBqd2xWN1FKdUxrQ0tucTE4S0VkcjhfcktHZEdvcTdJbVlvNnh2dDVURkU2OE9tbC1weWkxN2NFcFJrQ1JwT2xKNkhFZUF6NFhTQmFrR2M3cld6aGNYOXlLMmt2aVVSTjAyTUk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "11212cb3d3872714",
-      "headline": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters",
-      "excerpt": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports Reuters",
-      "publishedAt": "2026-07-31T01:12:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "11212cb3d3872714",
-      "headline": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters",
-      "excerpt": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports Reuters",
-      "publishedAt": "2026-07-31T01:12:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5",
-      "sourceId": "reuters-tsla",
-      "sourceName": "Reuters — TSLA Markets"
     }
   ]
 }
