@@ -1,7 +1,97 @@
 {
-  "lastUpdated": "2026-09-15T14:09:36.128Z",
+  "lastUpdated": "2026-09-15T18:22:10.595Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "ac8e3fbb39eba665",
+      "headline": "Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T18:08:50.000Z",
+      "url": "https://electrek.co/2026/09/15/tesla-roadster-cyber-treatment-redesign/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "ac8e3fbb39eba665",
+      "headline": "Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T18:08:50.000Z",
+      "url": "https://electrek.co/2026/09/15/tesla-roadster-cyber-treatment-redesign/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "f6c1e968e4f34860",
+      "headline": "Porsche Taycan Battery Fire Lawsuit Moves Ahead Despite Arbitration Agreement",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T18:08:47.000Z",
+      "url": "https://driveteslacanada.ca/news/porsche-taycan-battery-fire-class-action-lawsuit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=porsche-taycan-battery-fire-class-action-lawsuit",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "eb3f689e32ce4b4b",
+      "headline": "Tesla quietly changes Model Y L dimensions following rear suspension complaints",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T17:49:33.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-model-y-l-dimensions-revised-suspension-complaints/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-model-y-l-dimensions-revised-suspension-complaints",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "a916bea800280f0e",
+      "headline": "Regulators Press Tesla on Whether Cybercab May Have Option for Human Control - WSJ",
+      "excerpt": "Regulators Press Tesla on Whether Cybercab May Have Option for Human Control WSJ",
+      "publishedAt": "2026-09-15T17:29:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlRJZmhQV3g0TWgtRGIzQWt6dG1FU0M5aGQ4bk9SdEcxVWZfUGdVWnE3Ml9XWnFlTDltS2J0X1JCZWNEYVVVcWtQdXkzM0pudHJhbGxieE5IbXNjMVJjS0lLN09zcjIyQVFudjVhSnRXcTFMaTYwNmEyQ0ZlWU90ZXFFR1VfODVfRGEwcGZsSVdIaGVScndmYUZSdzVDeldGU0VnMnVSSXF4R200bmpaRDdGUnl3THZBdjFkSw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "27f0dbb79d79e811",
+      "headline": "Elon Musk gives his most telling Tesla-SpaceX merger conversation yet",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T16:45:55.000Z",
+      "url": "https://www.teslarati.com/elon-musk-gives-his-most-telling-tesla-spacex-merger-conversation-yet/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "ed2cb399873eca95",
+      "headline": "Tesla Roadster unveiling is getting hyped up by Elon Musk",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-15T15:58:15.000Z",
+      "url": "https://www.teslarati.com/tesla-roadster-unveiling-getting-hyped-up-elon-musk/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "1e6e92a04b2e3b56",
+      "headline": "Used Car Prices Climb To Pandemic Levels Once Again - Jalopnik",
+      "excerpt": "Used Car Prices Climb To Pandemic Levels Once Again Jalopnik",
+      "publishedAt": "2026-09-15T15:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTcwLTVadUhNMjJLRHJMUXg2aTBkMXl2cHF5YkFSMUo3NXlkeF9yTk5NRW9PNmpQOXFxYzZ0UHNqd1AtYjBaNmdRY2htSnBic2JkNjctVWNkd0tYSzE3eEYtcUpqRmZjc3BwYm1oaER6VmFCNk5FbWFfTmVlYnJxSWxUTEVnSWRoZFV6cnd3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "e6ce17b00fbb0f2e",
+      "headline": "Tesla Autopilot & FSD Crashes Hit Record Month, NHTSA Data Shows - BASENOR - Tesla Accessories",
+      "excerpt": "Tesla Autopilot & FSD Crashes Hit Record Month, NHTSA Data Shows BASENOR - Tesla Accessories",
+      "publishedAt": "2026-09-15T15:03:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUTA4WEJGTFhoME52ZGtIVGVkVlNQak5uSGpRaGxIcWJORldpQkI1cC1ibDlFS29oVmc2ekRVMXBHMWVQTHpQMXJBQVNHM3RqSUZBTTJlbG5WQm9YakdNamZaSGFNWHJHMUM5MktIcnlNOGdUYi1MdkxRLW1hNkZDU3NsRFN4OEJ2amowaUhEdW82d3BTdEpvUjNJVlc?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "e0207cf4841bd65e",
+      "headline": "These Are The Worst Car Choices Your Parents Ever Made - Jalopnik",
+      "excerpt": "These Are The Worst Car Choices Your Parents Ever Made Jalopnik",
+      "publishedAt": "2026-09-15T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRnJSZmRwR1Nxb1NhNGJfMndRLUlycHItVl9wdGVSd0dpcGlYTG16TjZ2T1NmcFRTa2NJeGpvZkdmNmxKOVBuR2RvLVJYMEgtVFlNYk5FelRfZWxCb2h4SHlnUXNLbUR5QVU1X2Yydl9CX2FnbWZMSHMzQ1doa3ZTYWVjNHJ6NUQ0LUtoUTl0WXR3ZmM?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "3c9f2435a643385e",
       "headline": "Teslas record month: 4 fatal Autopilot and Full Self-Driving crashes",
@@ -156,6 +246,15 @@
       "sourceName": "Jalopnik — Tesla"
     },
     {
+      "id": "73de7ea094baac73",
+      "headline": "(X3Wy.F) | Stock Price & Latest News - Reuters",
+      "excerpt": "(X3Wy.F) | Stock Price & Latest News Reuters",
+      "publishedAt": "2026-09-15T04:03:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mV2tNZmtkdHR1eW9WUzRTRUtVcmlsZC1CdVZpX0dwaUlWbU1PbERka3FIVXhCS2hyZV9KNVpoR1FoZDRyNlN2RGl3ZXZHa2FiMjhVM3FpM2ltQ3Qx?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "340901c0d2fbd8e0",
       "headline": "Tesla on Autopilot stopped before deadly Mesa crash: Here’s what filing says - AZ Family",
       "excerpt": "Tesla on Autopilot stopped before deadly Mesa crash: Here’s what filing says AZ Family",
@@ -300,6 +399,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "68d216596eefcd28",
+      "headline": "Oil News: Bad - Jalopnik",
+      "excerpt": "Oil News: Bad Jalopnik",
+      "publishedAt": "2026-09-14T17:27:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjJ2ZC1JQ29CS1h3QWN5UFZSUnFHLW1CSE41TXMxdWhCTmpUeXA4RjA5YUVUUEcyZ0kzV2tDVlVDM0NfNE55SHhaX2ViZmJ1WG9RclgtZWxYVF9DcXR0cjZPakJXSFpweGpDV3RfN1JmUFRwLTh0UTBielQ4T0UyUUZwVkdSZw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "2c3e867ad6b227fc",
       "headline": "Elon Musks companies made up with Apple but OpenAI still on the hook",
       "excerpt": "[object Object]",
@@ -343,6 +451,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-vietnam-subsidiary-ev-market-launch/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-vietnam-subsidiary-ev-market-launch",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "b6ff251c2ed868a4",
+      "headline": "What's The Difference Between A Highway And A Freeway? - Jalopnik",
+      "excerpt": "What's The Difference Between A Highway And A Freeway? Jalopnik",
+      "publishedAt": "2026-09-14T16:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nUUVEbmZwNDU2WUJZS3BmellnTlhLb2ZLUWlFZ0hOQl9YOHhveWl4M3ZvMjBxZUxmTmhXVUROejRwVkVrT2xMTGY1aFQ0cDFYZzM3OW5GNmV0QlhsQUVnc1ZLNFJjVmdsYThfSjJPT2F3eXZ4bUd3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "0bd205c02834c34b",
@@ -498,6 +615,24 @@
       "sourceName": "Reuters — Tesla"
     },
     {
+      "id": "fd1ed519a8b5b64a",
+      "headline": "These Are The Stars Of Your Dream Car Movies - Jalopnik",
+      "excerpt": "These Are The Stars Of Your Dream Car Movies Jalopnik",
+      "publishedAt": "2026-09-14T14:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjVOaURTN1N4UkF1QmtRaHdNcW9ZRUE4LUVZT0pJbldXLTN4blpmbkxySEV4MGpqcW1VaXJNVjRoWXd5OXJwRUtCR1J5cVp6SWo1RFNTMHlERkwydGVkcU85bFVCUTVvdHo5UDZ1MnN5NldFTThxd1B6RUd3ZGVNNk91ZmRHQQ?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "ff5b89629fd27e68",
+      "headline": "Tesla Market Share Is Slowly Recovering In The U.S. - Jalopnik",
+      "excerpt": "Tesla Market Share Is Slowly Recovering In The U.S. Jalopnik",
+      "publishedAt": "2026-09-14T14:15:46.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nR3QzbFV5Z0piemwxaE9DRWlFbVdpdlJPNWtzM0QwQ09sVkdUSVRkWkdjVFhMaDlRc0MtUVAyNS1hcERzUHFqZmVuQUcwQ2xpdE1GTU13aUphNUlVWVpEM1haOXJxN0s0UFc2QnJrdlBtbzJtT1JKQ25B?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "85ed9bb3c96fcf48",
       "headline": "Tesla Roadster may have been spotted testing cold gas thrusters back in April",
       "excerpt": "[object Object]",
@@ -505,6 +640,15 @@
       "url": "https://driveteslacanada.ca/news/tesla-roadster-mcgregor-testing-spacex-footage/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-roadster-mcgregor-testing-spacex-footage",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "55d152c172cb2039",
+      "headline": "Which Automotive Figure Would You Watch A 6-Hour Documentary About? - Jalopnik",
+      "excerpt": "Which Automotive Figure Would You Watch A 6-Hour Documentary About? Jalopnik",
+      "publishedAt": "2026-09-14T13:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEoyckZpYVAxODEyVTVXemtyNUNNb3RzX1FXb2QzRW9nMDFlR29fOGpFS3BLeEpUb3BNNkVvVkpXS0c0ZC1vZnJIZDg1TmJ6b1NSbUVJWjAtS2dJQUpyal9NdGkwbVJfT3pFeGhhZkJPQkI3ZV9pOHVIRy0wZVc5dHJUZG82UHpRLUpaSGxvQUZKYlUwWk9WMF8xRFMzTGFyTzBuVXg5NA?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "33c3997bb2f6575f",
@@ -10245,6 +10389,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "d92d86e6a57c1be7",
+      "headline": "Gold-colored Tesla Cybercabs arrive for an event in downtown Austin - Reuters",
+      "excerpt": "Gold-colored Tesla Cybercabs arrive for an event in downtown Austin Reuters",
+      "publishedAt": "2026-09-04T14:31:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2tuaHRlZXZsZ1N3TWduNHZKVHlxVUpLVFhOVGJ0THNhTmNaLV9SM05BWlU5NGxhT1dHcEhxbllycnA1Qmt4VFFrc2xSR3lSSXB5bldiaEFGVmZWeERHenk1S2pWWEw2Rld4cS1HdkFZaXhSaVdxMFlqQjkyNjBhamlKOGFtNFRZaGJoQkMwQllXeHBTZVFEZF9FYWl5dXJwMlUw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "4e8e8852147d50ef",
       "headline": "Gold-colored Tesla Cybercabs arrive for an event in downtown Austin - Reuters",
       "excerpt": "Gold-colored Tesla Cybercabs arrive for an event in downtown Austin Reuters",
@@ -11089,6 +11242,15 @@
       "url": "https://insideevs.com/news/807100/tesla-cybercab-robotaxi-public-rides-austin-official/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "c37b2a77a4b2910f",
+      "headline": "83rd Venice International Film Festival - ロイター",
+      "excerpt": "83rd Venice International Film Festival ロイター",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUk8za0FzcFprTzd2cVRCdTZJRG1lbWQyMmxVWHJNcFRLRU5HNG9pVGlpYm5zNGZsZmhXMHhXTmFHUUNxSkhTT1dqd2hhS1F2ZlYtd2llQ0RiQ05CSVdNcUdNM3BTMFNad1JCclpqZDVTb1g2QjBLM0dBOVEtWjRBXzFvTFIyZWw4Mk9BZXJpRzl3VGQteGhXWFp0Qm4yRnY4?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "b602055fc73f4972",
@@ -44839,168 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZW9PX3pUNDl3eTR6OTNXMk4wendUbVdtRGpkWi04VHhwRW5jWk1rRlNSRzRYQkc0RHFVVmd5Q1lqQmowd1FVMGNnaHFrZkZFQnp6dGw5NURvdDloVzEwRUlMOVpfM2xCelJSenVtQlFkTnhEZUp2YjE3LXV3c2cxdnpTY29ES003U3ExV25wNTRDVURfWk9BemVqcUQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "966439b3205267c4",
-      "headline": "Tesla Stock Climbs, Brushing Off Safety Probe And Class Action Settlement - Investor's Business Daily",
-      "excerpt": "Tesla Stock Climbs, Brushing Off Safety Probe And Class Action Settlement Investor's Business Daily",
-      "publishedAt": "2026-08-03T16:20:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEdWaHJKSFlrRzVWV25FOE93SktHQ1dDaHBsLTczN19CRDZUY3BXeUs5aGVaWjBLYmRjMTVlS0JsNzduMEpXaWxQcS1TNmh4Q1hHTWs1RE9oWEJaNC12RW8yZ05Rbm1PZ0gteEFMNkVTR3QwRlBJaFgzS3g0VEtzYQ?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "b404e00ee57ba261",
-      "headline": "England and Wales record driest-ever July - Reuters",
-      "excerpt": "England and Wales record driest-ever July Reuters",
-      "publishedAt": "2026-08-03T16:11:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWXgzUmpGSE5uV2FmVUJyeVI5YVhZVVdacFM0NXBEQU1SNGtjc19fMVBkWHVfNTZ5cHFCakZhV1VMU09HeDRoVGxvaTY4NUpMS2JZbElLMVNQZFNXWkpuUVMxRERHQ2pWOEJ2RjM1YzFxUkU5ZTRpeU9xbzBTMHdsWngzamFpb293XzJaelVFTERjdmJoTnhLZmV3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "106a7d8bfb19b0d3",
-      "headline": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T16:02:35.000Z",
-      "url": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "106a7d8bfb19b0d3",
-      "headline": "Tesla FSD v14 Lite tied to rising HW3 computer failures, owners report",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T16:02:35.000Z",
-      "url": "https://electrek.co/2026/08/03/tesla-fsd-v14-lite-hw3-computer-failures/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "009e73a74cf8741f",
-      "headline": "Wrecked Teslas are commanding high salvage prices",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T15:40:22.000Z",
-      "url": "https://chargedevs.com/newswire/wrecked-teslas-are-commanding-high-salvage-prices/",
-      "sourceId": "chargedevs",
-      "sourceName": "ChargeDevs"
-    },
-    {
-      "id": "15dab144fa5fa2ca",
-      "headline": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
-      "excerpt": "US signs deal to boost Patriot and THAAD missile parts production Reuters",
-      "publishedAt": "2026-08-03T15:35:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "76811cbd3e88a463",
-      "headline": "Volvo's New EX50 Will Be A Sub-$50,000 Tesla Model Y Fighter: Report",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T15:34:47.000Z",
-      "url": "https://insideevs.com/news/803575/volvo-ex50-electric-crossover-spa3-platform-tesla-rival/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "f33af3f36c0e1362",
-      "headline": "French soccer club Paris Saint Germain partners with Google on AI - Reuters",
-      "excerpt": "French soccer club Paris Saint Germain partners with Google on AI Reuters",
-      "publishedAt": "2026-08-03T15:31:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclRmOUZzbkc4SUNRMGoyMURCMmlWSklHdmttYW14NXBsbThOYU9NZi1DcXRiUlEtaHlPUjZUOEcyRzg3WE9rZ2Y1cGVMRF9fa3NHMWZPSThmVWRBOGROaFRjdEZzV3BlZHlSUXZzM3VuOG5MWGs2WTZMUWhBdUhzcXRYTW5aSmV3WVppRzdON2ZtcmZBMUhEbWtqRGt1OEhiNk1FNXRRYktzSTVaMms3Y1Nn?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "8aad5b94009107f4",
-      "headline": "Here's How Much A 2022 Hyundai Elantra N Has Depreciated In 4 Years - Jalopnik",
-      "excerpt": "Here's How Much A 2022 Hyundai Elantra N Has Depreciated In 4 Years Jalopnik",
-      "publishedAt": "2026-08-03T15:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1J6WGg3RVdNOFl4RDBoTHctVEZHaTN2LXg1RDBDaF9zRGNjTnY2VzNhdmM3RnA5MzJWZDIwZmc2dEJaZ2xDUks1djZtSkkxejl6UWVNajBRTjRQaW1LOTVSQkxod3YtVE56YXhReUQ2c1FzVG1XcWJjOGQ2WEpxc2RLNmVldzRPNk9oY3lHT2N2UjBxMURR?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "2b7f44f9ffbcdf52",
-      "headline": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal - Reuters",
-      "excerpt": "Visa beefs up cybersecurity offerings with $2.4 billion BioCatch deal Reuters",
-      "publishedAt": "2026-08-03T15:23:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVFQdnYtT25JcU9yZC1KUVlDaTN6djh5UjRtdDV0bFM2N2lXZWFfZXBoSFN5LXpuSFJDZkcxMWZUdzhyYzFfUFhtSS15OGxmR2N6X25zOEtkNjVMdWw3d3loUG1YNXVyMW9waHBELVNMMWdZMHNnNFJmZmFMaE9ZWDdKeWtrZGNPamRScm5SV2Q0UFBsaDFuUk1JX2hnSndseUVhV2VESW1zZDlVNnhjSVBn?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "b01e0e8000894ab9",
-      "headline": "Magnificent 7 ETF falls to record low valuation. Some stocks in the group could be great buys - CNBC",
-      "excerpt": "Magnificent 7 ETF falls to record low valuation. Some stocks in the group could be great buys CNBC",
-      "publishedAt": "2026-08-03T15:22:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3ZzN055bGpiQm1IejBCc3MzZTFXQU5EY0RYbUJ6NkRrTC1FX0JJbDlTZXh4QTNiTFVzc0phNDNwV1U4M3JjWTR6aXRzTm90MXdPdzVENmJmLUltb05JcTZQQWJiVnBVRTBIcWlhTW5ka0hUZDU0eDI3dUkwLTRBTWNCNTA1WjNGRVdXSk9kTG1oSW1Bbmxib1FOUkUwWlhXb3RpZGdUcHVkSVZSdlpZ?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "4aaaf57185535a90",
-      "headline": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration - CNBC",
-      "excerpt": "SpaceX short interest overtakes Tesla ahead of earnings, lockup expiration CNBC",
-      "publishedAt": "2026-08-03T15:17:37.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFhiaEFUd1lFWVBJckxCZTE1MjQyX1FRQUxMNWpBRnc4dU9VWGFkVnI2YWlockY4azFzdDBWZGJ1UTVyMHFzbG5oQS11M3I4eWMtV1R0OXFnLWVNWklpTk44OFBuN2VIQ2pmVGVOQ3hFaGlGQm9RUTVvQlNGdjB3d0FCRjNCbUN2T0ZwMk5DWXplSVZXc3VfTDk0SHIwN1oxN0RxRF9KN3NZZGFieE5N?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "f4ecdc87673b7095",
-      "headline": "India raises windfall tax on diesel, petrol, jet fuel - Reuters",
-      "excerpt": "India raises windfall tax on diesel, petrol, jet fuel Reuters",
-      "publishedAt": "2026-08-03T15:17:05.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSW44Z1FvV29kUmRCMGFWN0VpUUdhOWx3dmtnb1hpbUlwZVZNaDR5V2YtTVFsbVZUQ1h0RG1YS3AwQTJrSFpGdHZ4SmtHRFdJaElXT0tiRUFVSWFWU1F1WGtFOEdZT3Ffb3NQU0c3amJJTlhpSVROZzBkU1VZb1dzVXBMb2o2WU5xTzZtZXBJQXpIY3AzRFJKa3U3RFE2WEk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "24df92c0010346b7",
-      "headline": "Ford recalls 86,543 Mustang Mach-E over window trim that could fall off while driving",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T15:12:00.000Z",
-      "url": "https://driveteslacanada.ca/news/ford-mustang-mach-e-quarter-window-trim-recall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ford-mustang-mach-e-quarter-window-trim-recall",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "4a5e2dfa2572e5d4",
-      "headline": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T14:59:43.000Z",
-      "url": "https://electrek.co/2026/08/03/2026-tesla-model-y-rwd-review/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "4a5e2dfa2572e5d4",
-      "headline": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T14:59:43.000Z",
-      "url": "https://electrek.co/2026/08/03/2026-tesla-model-y-rwd-review/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "87f8e69545cd2674",
-      "headline": "Tesla quietly made the Cybertruck even stronger",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-03T14:50:32.000Z",
-      "url": "https://www.teslarati.com/tesla-quietly-made-cybertruck-even-stronger/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "ad42fe846f746857",
-      "headline": "Which Of The Dead Entry-Level Cars Do You Miss The Most? - Jalopnik",
-      "excerpt": "Which Of The Dead Entry-Level Cars Do You Miss The Most? Jalopnik",
-      "publishedAt": "2026-08-03T14:47:13.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFdGQ0VROEtXd3d4OUJBNTFDX3QyOXNMSS1hbVlVUXV4TXhPSmVVbXJQZmlfY29iTHRGbDVWdGdfdWxCZUdleFZ1bDNodjhNUGVEdUFMV1lQb08wSjU4LXdOVEhXc0F6QkZ4b0R4ekRZUWlYQXFuRldRRUYtdFhybTQ2bW1jNlZYTWc?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
     }
   ]
 }
