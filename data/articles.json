@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-09-27T11:25:09.591Z",
+  "lastUpdated": "2026-09-27T15:45:19.668Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "28130d8229ed6aa8",
+      "headline": "Family Sues Tesla After Model X Allegedly Surged Through Red Light",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-27T15:00:00.000Z",
+      "url": "https://www.carscoops.com/2026/09/family-sues-tesla/",
+      "sourceId": "carscoops",
+      "sourceName": "Carscoops"
+    },
+    {
+      "id": "81f23203bfaf3c61",
+      "headline": "6 SUVs That Can Only Seat Four Occupants - Jalopnik",
+      "excerpt": "6 SUVs That Can Only Seat Four Occupants Jalopnik",
+      "publishedAt": "2026-09-27T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LUVdpYXRweWpNVEYxcEc5Q1JydjlNQWMyZHN3OFJJMWJTbGMwaDBOSEQ5RG42N05wemhlRGNZbkticVdoNzh2dEdvLWtCNElVRURfQkRxRm1mbWFBN05Yd0xZOVhMSTdLcjQ4ZWkwSFM?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "795637e83e4f75dc",
+      "headline": "Can A Lithium Battery Destroy Your Alternator? - Jalopnik",
+      "excerpt": "Can A Lithium Battery Destroy Your Alternator? Jalopnik",
+      "publishedAt": "2026-09-27T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1RHTlk4QVVveFVNR1llN2hqMjE0MEV5MXJEcjRFUGdTeE1tWmtnVENYRU82X0lGZDlORnNsUUljRk82ckFyU2pnSUVodlhmUWdyVm1FRnB3VWZlMnh1YmN5YzJpNjJkM1ZjVnFCbWJIQ1RfcXdBX1VOOGVmeGluNmRsbGppcHM?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "98c4bc735a6a385f",
       "headline": "Tesla-Woche 39/26: Semi-Start, EU-FSD später, Büro brennt, Optimus-Leak, Laden mit 2,2 MW",
@@ -1767,6 +1794,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "b83bb48926b20309",
+      "headline": "AI Weekly: 'Super intelligence' and security risks - Reuters",
+      "excerpt": "AI Weekly: 'Super intelligence' and security risks Reuters",
+      "publishedAt": "2026-09-24T13:36:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90UVQxVm42OGtfUm9Xb0I1VHg0a05qYlBINzRVNEgyZWxhaHlpUDZzeE10VU9YSzVLeFgyTGtWTENhYk1CYm5UR1VSX29SUTUxZGk5b2tEVk9xOWdCWU1McVlxVmswTkk?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "ded8173f6ab737d0",
       "headline": "Tesla App now shows you what your Supercharger will look like upon arrival",
       "excerpt": "[object Object]",
@@ -1961,6 +1997,15 @@
       "excerpt": "Serbia to release reserve diesel due to global shortage, energy minister says Reuters",
       "publishedAt": "2026-09-24T10:13:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEtNdFN4aS1BR0VodGJLZzc3b1RFdjFQOS1fUDFpMzluYlNONEdnbkFWOXNCZGduRC1OWkNRUlJ4dGR4LW9icF9Qc3pfTDJLZV9Mc2hzV1QtNWhXMEh1OFZabHJLaTM0Sl80eW5kRnJwR3g1NDFNSFo1Vy1nbUsxYUFWZERYX1ZWN1kxWmdFMGhxRDhRb2FxNlBJck1vSkhrdHdicXVkR2w4TXNqdXZwNUUtWUxHVkRkTDlaX1M3Zw?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "0ef6e921ec6558cf",
+      "headline": "A closer look at Meta's camera-free AI glasses - Reuters",
+      "excerpt": "A closer look at Meta's camera-free AI glasses Reuters",
+      "publishedAt": "2026-09-24T09:56:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wN1E3bTdOUjRKV3pFUkViNXQzMkViMkROOUpQS0pOWmdSejZFazRseUJueUdPODhYUlBCNXBlNDFPYUlaM0tHQmd0SEJ0VjRyOXhKVldHUkVCRVFzZnBzdUJSTWl0X28?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44954,51 +44999,6 @@
       "excerpt": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center Reuters",
       "publishedAt": "2026-08-17T19:36:14.000Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "35dfba43f91de626",
-      "headline": "4 Classic Sports Cars That Aren't Quicker To 60 MPH Than The 2026 Toyota RAV4 GR Sport - Jalopnik",
-      "excerpt": "4 Classic Sports Cars That Aren't Quicker To 60 MPH Than The 2026 Toyota RAV4 GR Sport Jalopnik",
-      "publishedAt": "2026-08-17T19:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2hzOExyOTJxbzh4WWJfYjNqclFzbElJOEhWMmlvQldvOUNsU29WMVhteS1RWWd1dnM4TDE1aFQ3VXZRZDNYUUZhd1BvSk5EdklXY0kwTW11RVVqc3A5Tm9ubmZDOGh1Q1RqdWo2T0dHeUNPOEFieW9pdmVnUzVHcDdnZDdIUzZ5dXJWd1NNQjJOemlPZm80?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "677a3df5b5745950",
-      "headline": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says - Reuters",
-      "excerpt": "Pentagon pressure to move AI faster drives Smack's new funding round, CEO says Reuters",
-      "publishedAt": "2026-08-17T19:24:31.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY1dTS0lqOUpOSzY0S1R0eGJWS21MajNPNXVySXpTMkdWRVVhcXN5cWk0dnFnZkxEdUdrS1ZEZ2g3LXpjZFdqZVhERGdUSURLVTE2MUNOTHRNSFhTcmNoY3dMSzFfMnAxamx2Q3NQYXdlNWlJM0hjUF92REN3WE1hZUtEUzQ3SnJ2VXplS25nbm5zMWZyNnBqbktmMXVPZl9xWUVBRnJTMWJGTE1YZUdJTncza1lFLWxjaFFfcA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "2c691cc20ccdf717",
-      "headline": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions - Reuters",
-      "excerpt": "US diesel crack surpasses $100 a barrel for the first time on supply disruptions Reuters",
-      "publishedAt": "2026-08-17T19:13:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2p1clBfdVhTak9ubTVGRFROZ3BqSlB0U1k5MzNUNzUzYjdLUzNWQWdEajJHdDZXTzdfVWJBYlJHSk9iNTZROEJyWG55ZFBUYkhUalF6aXl2Ynkzakppczk0N3RLal9zZ0JNOXZqX2c5eFFTMmtVTlJhYTRNMjd6dnNmRER4YkFmZmp3YXA2VGdBWE1BQUJaenBkZnh1QkE0aGQ2cDA5VkRod3ZUVmsxZWVibWJBSUZzZXc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "27ce88c45c457438",
-      "headline": "Tesla Robotaxi Shows 0 At-Fault Crashes in NHTSA Latest Report - eletric-vehicles.com",
-      "excerpt": "Tesla Robotaxi Shows 0 At-Fault Crashes in NHTSA Latest Report eletric-vehicles.com",
-      "publishedAt": "2026-08-17T19:02:52.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalFvMkFVTE5DLUV4N013REpUbTg1N2NOVlYtMUFzeS05SlRBYWxncHdzOW5hV0wtU3hKeTFXRUZ3RG9XbnA0VTFCTFJXZDMyUTZpVU15ZE90ZjNWa0tuNldfejV0RkdIV1VPLUZoYlFwVWJQdGh0Vi1pemduTHNRbnRLYXZCSTk3UEtIQnJabVhLaXVpMlF5NVhEcGF6Q0E?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "3d1c03360db72b15",
-      "headline": "ExxonMobil awards $1.1 billion in contracts for Mozambique's Rovuma LNG project - Reuters",
-      "excerpt": "ExxonMobil awards $1.1 billion in contracts for Mozambique's Rovuma LNG project Reuters",
-      "publishedAt": "2026-08-17T18:58:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2RFc2lvczBlN2tNbE1QRkVpUnZhaUpkUmRfN1pZNXlHMmtZUHRJX0F2dHhaS0lyRUh4dWVHSk9VVU01WEFpaFdCclg5U0MyM2NBVHhvMFpzYXo5a0JrbkFXckdKWlFlMFBMYUJiYUdYRml4VlY5R0ZwVC02R0lSd3BGTXN4d3htdE5tYUljZkZ5WFFPeVBwSDJOb0xjM0JySi15VGhENTZKTEVrdkhjaVp1WmFVM1B5Zlg2Zndn?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
