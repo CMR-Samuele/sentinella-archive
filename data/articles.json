@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-09-28T01:24:13.241Z",
+  "lastUpdated": "2026-09-28T07:19:07.834Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "3b47a36cf01d930c",
+      "headline": "XPENG VLA 2.0 vs. Tesla FSD in Amsterdam — Part 1: XPENG L03",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-28T04:27:45.000Z",
+      "url": "https://cleantechnica.com/2026/09/28/xpeng-vla-2-0-vs-tesla-fsd-in-amsterdam-part-1-xpeng-l03/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "e43e8a1a4c96fdc8",
+      "headline": "Elon Musks AI Grok Bot can now handle banking while your Tesla FSD handles the road",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-09-28T02:56:54.000Z",
+      "url": "https://www.teslarati.com/spacexai-supergrok-bot-banking/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
     {
       "id": "66f92868e2010ab7",
       "headline": "Iran-linked diesel price spike makes electric trucks cheaper than diesel in key EU markets, environmental group says - Reuters",
@@ -10,6 +28,15 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZVBWUjdTSkRRcUtpSUp6djB6M1NoZHpMQmlsRXBpU3R2Z0ZuT2dOa09tYzBoQ1hQbXFGbVJGa3c2TmFiZ0JaUF85cU15bXVOcTBKdUgyYWdoUGRJT1htcmZEN0NJMGJlT0JtWHBPQjZJeDhiMzlQWFBYWFl3WDRMNE5nem12bkFobF8yMFJMaTZ4bkZwRVVQbEUwZG5UY0lXR1VZTnRFNVhZSkcxYnkxT3hsQTZlOF9UaEt4Q1VTem1PUURnQjdFRWViN0QtSzBVb0tlcFFpUnFFSFBMMnc?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "99df1d9d1c55035c",
+      "headline": "TSLA.D - Reuters",
+      "excerpt": "TSLA.D Reuters",
+      "publishedAt": "2026-09-27T21:51:38.000Z",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03elBITFJDUXVSN2NvS2RhWllHVklGajlvbV9ZOHpHMkJkRl96dXFNQW5oRjZkcGlzVEV4VzNKSVduV2huZzN4TnE5ZThQeDdaRXkxQXpLREI4TUk0cGN3dEpmUTRYc2NlU3JtMDk4dTNGdFBSZ2FGZnNRZw?oc=5",
+      "sourceId": "reuters-tsla",
+      "sourceName": "Reuters — TSLA Markets"
     },
     {
       "id": "881fdb996a38a7a0",
@@ -5061,6 +5088,15 @@
       "sourceName": "NHTSA — Tesla"
     },
     {
+      "id": "e9efc947239f3075",
+      "headline": "Sectors Up Close: 'Banks are back' in commercial real estate - Reuters",
+      "excerpt": "Sectors Up Close: 'Banks are back' in commercial real estate Reuters",
+      "publishedAt": "2026-09-22T00:51:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10cWRsR0xqRUhYZ1BPT05RZFg0bTBfbHBzcVNNVHR0WDVsc2dpY1FrdnZwT1VBNzRMaktCMExfUWR0XzlNQ2phaEJNOWl1c25HUDRPMExiNTdiaVQ3OEN1eEt0N3lYWmM?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "978b3d9972435abe",
       "headline": "Paramount's legal win sets the stage for a Hollywood shakeup - Reuters",
       "excerpt": "Paramount's legal win sets the stage for a Hollywood shakeup Reuters",
@@ -8796,6 +8832,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "52c7d49dd72a6970",
+      "headline": "Macro Matters: Fed hike 'goes a long way to improve credibility' - Reuters",
+      "excerpt": "Macro Matters: Fed hike 'goes a long way to improve credibility' Reuters",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nZFFxMXFCdm1NdVhzTTNzVUJWd3F6THd1RlZzdkRvMXhnN20yYV9Hd2M5bVRvNVFOWjhzNGVIdWtSdmtyVThST3ZjT1FUMm9MSC1BazZQOHJFQTRNb2h1cmF1RXotNU0?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "a99ccf8a67a2f390",
       "headline": "Market Talk: Are UK stocks too cheap to ignore? - Reuters",
       "excerpt": "Market Talk: Are UK stocks too cheap to ignore? Reuters",
@@ -12466,6 +12511,15 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUFPcmpkS0pfaEQ5Vlg2Qzd1eHIxMzlaV0FWVXlZVFMxWGozYTFUNmRhLUNIVklrLWtPRVFDZlNMdkJZVXU0OXhJTVlZZkFaTGRHUEV6OEd4enM4RS1uSnRwbXBkMldLLXBsaVBORUpWU0tPSldQdDBuZ1FqMm1oRXdTdnJINDRSUF9mVnN3QnViM29FNFVuMVZEY1FobTlCTTZwa2pwVkxSN05HejJ5cg?oc=5",
       "sourceId": "reuters-tsla",
       "sourceName": "Reuters — TSLA Markets"
+    },
+    {
+      "id": "42bb27174e565082",
+      "headline": "Tesla Model 3 Earns 5-Star Safety Rating from NHTSA - teslahubs.com",
+      "excerpt": "Tesla Model 3 Earns 5-Star Safety Rating from NHTSA teslahubs.com",
+      "publishedAt": "2026-09-14T16:01:20.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWE0akYtUW91ZF92NmpjOXBjczlUQm5RMjRyWTdQYm5zM0EwRlFBM1NpM0d4LWQxSl9NQ2R4VFpFTDh6M1lRenZjODdBODRFTmFsRVYzV2xxRlpNSEVoRktGeU84R0ozMFBKazQ1WVU1MGNiZEZCWWpXNkF4U1pXZlRfZFNpbThSRmsxUg?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "4e928e95f8989137",
@@ -24256,6 +24310,15 @@
       "url": "https://insideevs.com/news/807100/tesla-cybercab-robotaxi-public-rides-austin-official/",
       "sourceId": "insideevs",
       "sourceName": "InsideEVs"
+    },
+    {
+      "id": "c8874647ec9638d2",
+      "headline": "After Giorgio Armani's death, what's the future of the fashion empire? - Reuters",
+      "excerpt": "After Giorgio Armani's death, what's the future of the fashion empire? Reuters",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GSl96bkhRWDdMV0ZPakpIMGVuWDJNZHg1c2d0aFZmZ29va1RQcmdteEtJcml3Y0FmTWtDdmtyN2F0dTcxXzN0NzlrcGtyMGstX1RKeDdrMG5zZGZUdDViZTNNSHVDYnc?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e22851dd92412c6d",
@@ -44938,69 +45001,6 @@
       "url": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
       "sourceId": "electrek",
       "sourceName": "Electrek"
-    },
-    {
-      "id": "29a5ec2e0074bad4",
-      "headline": "Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-18T02:06:48.000Z",
-      "url": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "29e1082d8e985635",
-      "headline": "I Traded My Tesla Model Y For A Polestar 4",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-18T01:56:36.000Z",
-      "url": "https://cleantechnica.com/2026/08/17/i-traded-my-tesla-model-y-for-a-polestar-4/",
-      "sourceId": "cleantechnica",
-      "sourceName": "CleanTechnica"
-    },
-    {
-      "id": "a765ee4aa45b8f41",
-      "headline": "Tesla Cybercab launch preparations have begun",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-08-18T01:16:58.000Z",
-      "url": "https://www.teslarati.com/tesla-cybercab-launch-preparations-have-begun/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
-    },
-    {
-      "id": "5b789ee0fcd88258",
-      "headline": "Oil prices at near three-week high as US-Iran peace hopes fade - Reuters",
-      "excerpt": "Oil prices at near three-week high as US-Iran peace hopes fade Reuters",
-      "publishedAt": "2026-08-18T01:13:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a72c1d5e6442b816",
-      "headline": "Tesla Robotaxis Caused Zero Crashes in Latest NHTSA Data - TeslaNorth.com",
-      "excerpt": "Tesla Robotaxis Caused Zero Crashes in Latest NHTSA Data TeslaNorth.com",
-      "publishedAt": "2026-08-18T01:05:15.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN016UF9rcnpFVHdoU0puVXI2WkdHbjZzWTRhbnhBM3U3MG02N012TGRJOGRKYmZEU2drNjRTeVkyOElrSGJvdTA0WDhmNEtOMTVKMi1QV1hFUUxVSWM1djJpNU55UkFOME13c0ozOGtZV2NEbjJzNTNkZkcya0NBeXI2bk5IdUVNVlR3?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "0028260b041a0fe2",
-      "headline": "Cargill workers vote to end dispute at US beef plant idled since April - Reuters",
-      "excerpt": "Cargill workers vote to end dispute at US beef plant idled since April Reuters",
-      "publishedAt": "2026-08-17T23:52:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnVGc04xQW9lN3ZxMDdlZnd3a2Rya0tRRFBiRWNGcTh0bTdXNDBzMGV4THJmSGVaZFBvMHNGaDltMzdOdGVoamY2dXVmaUpnbHAtSXc4RWFwWFIyYlp5R2FIMTYydTZaN3JwTkVSbkZFaGl3VjNWNThpV1c0b1pDdUJyRk80SG1sQ0VBZFYzMkp1T1JkSWl3dWJuUTVTdnVMRFpOTUkwTEVPempqUDlLMDhyTmV0T2c?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1b218e63ab7b0a2d",
-      "headline": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets - CNBC",
-      "excerpt": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets CNBC",
-      "publishedAt": "2026-08-17T23:39:54.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHpTdzJUWTR6NVFLWWJZd2dnTWJwcWpOZ0xlcVpQRHE3aHRQeXFfcElaZWkyOVhOM3hqWG1xUnk4MU5OTjFpOF82VG83X01FMnhlaTN6VVdYcms3MUk3WG5HQ2MtX1Mtc0hqc1MyYWl6S1NhYVBGeS00b05RaEZKdjY1Wm9wczVvWDM5OFpmVUJZcXVSWnJLOVRJSlRuOEXSAaQBQVVfeXFMT1daNjdYdTJkekFUYVhwSm9MVTdlSWoteDRhaW5zaVlFTHFhNDVMUm4zNXpLTng4YU4wZml0WW4zb21ub0djLWVyQWg3X1psaUk2alNmTUlvcy15eVNIbFM0alNZdmppRTgwQ2FJYXZBTTZQYXlvZVZjWmNlWHA1RHd1LVY0dGFRdjJGMkV1RHpLa1ZFaXFIUHlKNGFIYTVmTWZoWk4?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
     }
   ]
 }
