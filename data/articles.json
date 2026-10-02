@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-10-01T23:20:27.039Z",
+  "lastUpdated": "2026-10-02T02:26:37.412Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "70339005d0202a51",
+      "headline": "Robotaxi operators will face fines for blocking first responders",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-02T00:57:57.000Z",
+      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "de8aa49451030e3e",
+      "headline": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-02T00:54:04.000Z",
+      "url": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "de8aa49451030e3e",
+      "headline": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-02T00:54:04.000Z",
+      "url": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "158fb2843102e348",
+      "headline": "Tesla addresses safety concerns with Supercharger Emergency Drive Away",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-01T23:31:00.000Z",
+      "url": "https://driveteslacanada.ca/news/tesla-emergency-drive-away-supercharger-update/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-emergency-drive-away-supercharger-update",
+      "sourceId": "driveteslacanada",
+      "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "6e9e9dc9ffb5877b",
+      "headline": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-01T23:28:32.000Z",
+      "url": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "6e9e9dc9ffb5877b",
+      "headline": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-01T23:28:32.000Z",
+      "url": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "6e669567193b86ed",
+      "headline": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "excerpt": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "publishedAt": "2026-10-01T23:09:35.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdERlV2xZeFRNUzVHTGh5UzNhYXpfdmpaVWtTVi1aV3ZPazNvRHJ3dWRYSkdULUZRMFNpWGcxQkcwX281U2wtU1VaR29INHA3eE1yOVVlTGdmeWJNLWtkaEtFa3NGZThKTU9IcWRKUTZreGpPRTE2YmxNWldkOFJvTXdWbTZTX0JCU2lqdzhkY0NRUEI3cmppTTh3?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
     {
       "id": "f54ba996f5d95b5a",
       "headline": "Tesla Teases Spooky Halloween Software Update",
@@ -64,6 +127,15 @@
       "url": "https://driveteslacanada.ca/news/southwest-rolls-out-starlink-services-for-the-first-time/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=southwest-rolls-out-starlink-services-for-the-first-time",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "edfdbd9d74fe310b",
+      "headline": "Trump's Now Using The Proposed Diesel Export Ban To Threaten European Allies - Jalopnik",
+      "excerpt": "Trump's Now Using The Proposed Diesel Export Ban To Threaten European Allies Jalopnik",
+      "publishedAt": "2026-10-01T20:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakxnQW1pdDJyWDBxWnZnekcyRlFCQU9weV9nQ2J1WEJtWS0tdEhYcTE5T3J2a1JqR25DUVJzNmZBRDZtN1lxQVlfc0ltRDNCYnkwaVdnamhNRTJRWlYyT0ZJUnVhbHNRc0hKcG9COEh4eWtyNWNCQ2w2Tng3bHNiSXZTTmZXY1VnUjh6MkEzWWxqd3VzVFE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "cb4cc4e59ac4c0e6",
@@ -44927,78 +44999,6 @@
       "excerpt": "July's Typhoon Maysak killed at least 159 in China's southwest region Reuters",
       "publishedAt": "2026-08-21T08:11:54.000Z",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2dZMVpTUGkyWWsxV0h1MjhSZXBvVUdJbDlTdXNJamk0aFNhOU9fZDJ4R2Ewc0FON01MWlpCSEYyTzJxUmNoRHVVUVc1cFo0UHpaNlFQOW9UWWJaeU01SFBPcHlNZG96M19maXpwT1F5elVFWk9HdDdRS0liRDhmbjNQb0JZdEFVczJySWxQQ2laaE51NUZJVHBNN0g5aXo5OUpCMmpXMllYWFU3b2FpZ2pyaXZaUW9rdHc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "faa78210c5bd20f9",
-      "headline": "From euphoria to despair, Korea reckons with stock mania's emotional toll - Reuters",
-      "excerpt": "From euphoria to despair, Korea reckons with stock mania's emotional toll Reuters",
-      "publishedAt": "2026-08-21T08:06:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkJ0MzlKWWZHOE5jQjh2ZGlGekRQZE1UQk53bDhmX05Jc2NfajBYOEI2eE16LXNfejc1Yk04OWs5clRULXBIMDhqNi10a19mTWM0Zlp1ZVp2YVdZRHhVWllMcnptRWRoNEJxRlgxaDZrOTNWVFJzcW01NWhuRzZvZkt4X1lVRUdrbU56Y0RhYjctSldQaG5KclZyazE4WDNfX2JxRUJEdGtLQUxpdlhpci04WTZNNXc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "aca9f03173559f01",
-      "headline": "Taiwan warns off, shadows Chinese research ship sailing to its west - Reuters",
-      "excerpt": "Taiwan warns off, shadows Chinese research ship sailing to its west Reuters",
-      "publishedAt": "2026-08-21T07:35:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEd0THR0cUZ5Z2JNME1SUEV4LWFjUHAwQ19JRHQyQ2htejQ1ek5HbFJsRmY2UWJ0YnFjUzM4dzBIRExsM1RWT1FPV2pQczA4VDRpUTNpUUlGRGNKRjdWdnBwREhQQzBIa2RocjkwUENhQ0FENEV6Z2otU0RhWnc1TlRGQlhuRGJaWnZ6Zl81MFBsZlo4SmhVZnh0aXBVa0xSaTBuMmVzMzl0Y3dHY0FZcA?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e6ed43a621c56d73",
-      "headline": "Singapore's plan to clear forest for housing faces a backlash - Reuters",
-      "excerpt": "Singapore's plan to clear forest for housing faces a backlash Reuters",
-      "publishedAt": "2026-08-21T07:32:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMV91WGprUzZ6RVpPZmdjY3ZJOE0ydThLaGM3aU9WTkhtOFExR1ByTXdQQXV5cUJJWkhWQnREalh5VkdWVE14dFR4MmlXc25ROFo1UmJxX0VwTHluTExadDdBakRBSXJxeVF3X3ZRN2tVLU0xN01RV01mQnRSdG40VDVONjJaVHhSYzdNbEZSaS05VXdHekJaSktWRnFvemxVOUZGbnlRQmhfR09C?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d743730d337e4d0b",
-      "headline": "India set to approve $1.2 billion incentive plan to make building equipment, sources say - Reuters",
-      "excerpt": "India set to approve $1.2 billion incentive plan to make building equipment, sources say Reuters",
-      "publishedAt": "2026-08-21T07:09:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWFozQy1XZHVfdTB4MmlpVmg1dWdvZzRqa1R5dl9iYWNtZXdKaXBHcjNHMlUtZV9pV2VWaXFGenBPckhaQ29zSXBFcWE1b2hnM3VSQ0lWOTdoMEhQTzhnakZJNVcwdHZXd1ZBcEJTUnZfT3JfWXhraTREa3hwREk2Vl9zR1Boa1FuUlpYNFF0SEowRnRJcGYxQy0yMnZ3X0lVOVluZWMtLXpoZGlWall4WURrenZGSktlanI1OURrZlJFUWlaRGc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "6dd3517bbb036a7a",
-      "headline": "Families protest in Nigeria over children abducted nearly 100 days ago - Reuters",
-      "excerpt": "Families protest in Nigeria over children abducted nearly 100 days ago Reuters",
-      "publishedAt": "2026-08-21T07:07:43.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOThfN0FQbkpkZWdqNGNvd0xuc05QQ0dKRVBFY0RhejROUnNWTm51eGs2allMemQzRjY2QVd2cmM3RzJZZndBSEFZN3YxM05kYUY5STRoV1hSM1RKT2UtNzNobG93c0NicTkxaUFzYnRhS2o2NWZfTjhNSjhhOWhQeUYwN1BHVkEyTS0xNmN6M3dWWnFwRGxkRlFmRlhDcGo1UG9OOGlqS0JqY3lyVnNaTUM2Nk9QWVk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "49dcea4408aa13c4",
-      "headline": "Tesla: Tailwinds Outweigh The Noise (NASDAQ:TSLA) - Seeking Alpha",
-      "excerpt": "Tesla: Tailwinds Outweigh The Noise (NASDAQ:TSLA) Seeking Alpha",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVNjWFBXVkNMVWwydkMxSmZFb05QVDdlT3ZKaUp6cHVDSlBoYkdYRDM5NFl1Y282UmR1T0ZlVGpUTHNfN0FtZTBITk9tMzhuYS1UWFprTUVNYW1wOEY4cW1WNFh0YXRxOEtIRFducTRZNkVVZndaN1dSSG83YVQzZw?oc=5",
-      "sourceId": "tesla-ir",
-      "sourceName": "Tesla Investor Relations"
-    },
-    {
-      "id": "0ef0833ec160caed",
-      "headline": "Waymo hands over documents in NHTSA’s child collision probe - TechCrunch",
-      "excerpt": "Waymo hands over documents in NHTSA’s child collision probe TechCrunch",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlZ3aFFXTm9WdEtLUmZLeGlQOFFncURzUFl0ZGMwR094c20tTVloc2RFM1hsU0o5NF93VGxUSGVJS3BnLVdQR1ZjY2NxbnMtc0kzX0JQZFhsSHR0Z2xxZkVqVjNaVXpPWE1PaENjdHFTSm4xdXFQdzMtbDdoMV85ckE5R2tmUjFBLXZ1OThMSDFYWEdiRTZzMA?oc=5",
-      "sourceId": "nhtsa-tesla",
-      "sourceName": "NHTSA — Tesla"
-    },
-    {
-      "id": "18a724835d5cd8bd",
-      "headline": "Waterspout comes ashore as tornado in New York - Reuters",
-      "excerpt": "Waterspout comes ashore as tornado in New York Reuters",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sR0hnc3pFMS1xaFhVbENiWmdWNjB4Y2lUN21vVEM5SGJtYjJLN1UwWVA5aFVCZjVBNXFwbENPLTNBLWdrb0JGSWFZRU9janRGay1KN2txUklZOGs3?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
