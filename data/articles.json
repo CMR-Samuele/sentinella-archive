@@ -1,7 +1,52 @@
 {
-  "lastUpdated": "2026-10-14T00:51:23.929Z",
+  "lastUpdated": "2026-10-14T05:48:50.535Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "d6e107e907ca7641",
+      "headline": "Tesla Roadster livestream: everything Tesla has revealed before Thursday night",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-14T05:31:44.000Z",
+      "url": "https://www.teslarati.com/tesla-roadster-livestream-waco-texas/",
+      "sourceId": "teslarati",
+      "sourceName": "Teslarati"
+    },
+    {
+      "id": "807afd4f4824bbd5",
+      "headline": "Aktuell: Musk will mit Tesla und SpaceX beste Chips produzieren, setzt auf deutsche Stärken",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-14T05:20:26.000Z",
+      "url": "https://teslamag.de/news/musk-tesla-spacex-beste-chips-produzieren-deutsche-staerken-67516",
+      "sourceId": "teslamag",
+      "sourceName": "Teslamag.de"
+    },
+    {
+      "id": "1221b95c70a0a514",
+      "headline": "Tesla is unveiling the new Roadster for real this time, promise",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-14T01:36:48.000Z",
+      "url": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
+      "sourceId": "electrek",
+      "sourceName": "Electrek"
+    },
+    {
+      "id": "1221b95c70a0a514",
+      "headline": "Tesla is unveiling the new Roadster for real this time, promise",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-14T01:36:48.000Z",
+      "url": "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
+      "sourceId": "electrek-tesla",
+      "sourceName": "Electrek — Tesla Guide"
+    },
+    {
+      "id": "221921b81aeb451a",
+      "headline": "Tesla Robotaxi Fart Mode Glitch: What Happened [2026] - https://tech-insider.org/",
+      "excerpt": "Tesla Robotaxi Fart Mode Glitch: What Happened [2026] https://tech-insider.org/",
+      "publishedAt": "2026-10-14T01:16:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Q0JqQkJtQW44Mm8wREl5NDk4MDNfUUU5d0lfZFpFbXE3bUlxeXU0Z3ljSEpqbnVDd1dHWVI0YzJablotMW9wTmlzQ2xhNlVwbHVFRFJCRnZyQ3pPRXI2N3RKY09ERDl1Y2lTVy1jaw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
     {
       "id": "6217d2c4d84feabd",
       "headline": "NHTSA Probes 1,000 Tesla Robotaxis in School Zones [2026] - https://tech-insider.org/",
@@ -39,6 +84,15 @@
       "sourceName": "Drive Tesla Canada"
     },
     {
+      "id": "903c9393105ec97e",
+      "headline": "Watch A Pickup Truck Pull Start This 102.4-Liter Engine Like It's A Lawnmower - Jalopnik",
+      "excerpt": "Watch A Pickup Truck Pull Start This 102.4-Liter Engine Like It's A Lawnmower Jalopnik",
+      "publishedAt": "2026-10-13T21:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVpWdVphS2oycllqalM0RUQtNG9OVHUtMmJxTzFGVVVyZjZPaW05clBqeER0ZEp4Ulh6RVU4V3gyVHR3cFl3cGVMakNhVmRWQWFRUzRCWEIxbGNJVTdlUW1LbUhQVFdva2pzUFA0Q0NDajlXUG5nT1E3YjdSc21IOGVCSmRFS2otZUNhMWdHVm1mdms2dWRnbENCRVlqdw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "409f0796043c93ba",
       "headline": "Feds Eye Probe Into Reports of Tesla Robotaxis Zooming Through School Zones - Gizmodo",
       "excerpt": "Feds Eye Probe Into Reports of Tesla Robotaxis Zooming Through School Zones Gizmodo",
@@ -46,6 +100,15 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHEwTHFpS1Y2TkZnbzJkelQ5dGpfeHpadV9ic2R1WURlYjFfVGRpT0E2YmtGZGE5U0h1STdNalR3WXI3SFF5eHpBVVhkN2lIRDBXRTJsOVIya0pZV1BnNVh2aS1oUjFNTW5JUnlvcXJyNjFKeHFpbTNiNTBFSEJNaHBreTFVWllhelNsSXFrZFBXdHliV0dHSVlYSVVuZEF3T01iTldWd3ZmUQ?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "7625f88ae0dc679c",
+      "headline": "Acura Is Working On A Passport-Based Off-Roader, An 8-Passenger SUV And A New V6 Hybrid - Jalopnik",
+      "excerpt": "Acura Is Working On A Passport-Based Off-Roader, An 8-Passenger SUV And A New V6 Hybrid Jalopnik",
+      "publishedAt": "2026-10-13T21:04:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnY5Zjl1aHRCUDZSd25Nc0Vydk9XaUUyMTJrSXN3S2M5bjRDNml5UkIxUHgyZmZsZlBjZ3M2YWJwZG8zdzJ3T2ZEV2VMRWtXeWVXdEhGQnJ4ZDVicXZ6dU1SLUU4NHVEQWMzUjdrZmRwaFVPSE1HNlVDVDNUdWZXWFJvRUpUUDhUdFl1dU93dTBWcW1SQVMw?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "6540001b0eea0732",
@@ -64,6 +127,24 @@
       "url": "https://driveteslacanada.ca/news/rivian-r2-ventilated-seats-downgrade-no-retrofits/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rivian-r2-ventilated-seats-downgrade-no-retrofits",
       "sourceId": "driveteslacanada",
       "sourceName": "Drive Tesla Canada"
+    },
+    {
+      "id": "bf4b349ccd638f9e",
+      "headline": "Formula 1 Signs 10-Year Deal To Race In Rwanda - Jalopnik",
+      "excerpt": "Formula 1 Signs 10-Year Deal To Race In Rwanda Jalopnik",
+      "publishedAt": "2026-10-13T20:41:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDJ0d2FiWDZmV0ZIR1dNb0o2Uk1SdG1mcDRVY0twcVEwTHo0bFlWR0ZqeWdMMjNIQWJjdGNJc21yWm52X2JhMGFvSTJsclQ2LTdqWGZKX0FHTjdwUGplSHFCSGhqbWdNYldvVzlQV3hCQU1yQWJsY0pWWWFHY09rT1llNlNCZ28?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "0f3d38bb0356313f",
+      "headline": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says - Reuters",
+      "excerpt": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says Reuters",
+      "publishedAt": "2026-10-13T19:59:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "e44bff606e047586",
@@ -505,6 +586,15 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObEtqUFMtamlkc01mUTFQOEN0ZVh6MnpjY3R1OXZvVk5RUWloZTNZQWNVcGo2UDQtbG41LWN0al9RLU1iNTIyMzB3TlVGWUdhRm9jdnZtOVdEVkZaYU84UUxoWkZCbl81WjUzZkdpRG0wTFltaGx4X1hKT1RxUmFKQTh1bEVLTExKN1dwSUlYTFFHZTQtWVd3OdIBngFBVV95cUxPZGJDcnZQYTE3a1R4SnJlMnF6OXU0cGRpM0pSQkNuQ1BfZ185cy1fQ2drTFFVZ2d0bnA2bzhhUVRZcTV2WFRNVlhYelFFMndlNWhDUHJJYV9yRTVzWWxTM3RPZUJ2SE9rMEpVQk5jN1NLU0lEUllwMkhtdnllR01NU3lhLVBvVlg3dUh6Ql9qaFh4U1dmOWhFSUp0c2RPQQ?oc=5",
       "sourceId": "cnbc-tesla",
       "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "630e50ae669a5010",
+      "headline": "Back to the future: the electric Citroen 2CV - Reuters",
+      "excerpt": "Back to the future: the electric Citroen 2CV Reuters",
+      "publishedAt": "2026-10-13T06:20:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rR1FaM1lpVUNlU3M1MTE2Ty1uRWZ6WElEY1NWUlpLZDZJMVlrczhRMlJlMFpxY0pBeW1IUk11ekx1NkQwdGJzNUNlNUhZZWhBWHJWTXNkWW9WZlZCMGxiSVR5Vjl5eExIZnJaM09XNWlQOWNkRWpGU3Vn?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "6b55b68681d87543",
@@ -1169,6 +1259,15 @@
       "excerpt": "U.S. regulators are probing Tesla's robotaxis for speeding in school zones Quartz",
       "publishedAt": "2026-10-12T12:34:35.000Z",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SktyMXY2NEMzQ3ZrQnItSG0wT2ZGZmJPV3BMU0g0ZTRMWG5UMWFmckRGQm1HT1QxSnVmbVprb0kwU0s1LXhpeFNzY2l6NE1UUTVrNGJZTDVYZU1xbnFMMG5lTmI4OGxvVWwxMFdFOHNwZw?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "eca529466b70ae8f",
+      "headline": "Tesla Facing NHTSA Probe Over Robotaxis Allegedly Speeding in School Zones - Yahoo Finance",
+      "excerpt": "Tesla Facing NHTSA Probe Over Robotaxis Allegedly Speeding in School Zones Yahoo Finance",
+      "publishedAt": "2026-10-12T12:32:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjRVZlBHaU4tYmpoYU5PM3Q1WERyV3VuNGZ5M2stNFRzN3dadWJnTFpjVHVCLXlvcEhhQ0ZwLTRpSFpfeHQxTEprMVdnTVhnNXBQdUdObGVHNVZGR3pURFR1dDhRNXZ4djdwd3VCZ0toa09URThzUzRfN0hTSXVOVzRlSEZLalFlVVhDRDJtUkhHcnNpZkxPbkNn?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
     },
@@ -7104,6 +7203,15 @@
       "sourceName": "CNBC — Tesla"
     },
     {
+      "id": "67e304a885f71cf1",
+      "headline": "US Senator Warren presses federal housing director to cooperate with probe - Reuters",
+      "excerpt": "US Senator Warren presses federal housing director to cooperate with probe Reuters",
+      "publishedAt": "2026-10-06T15:39:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeExfNlpiY2cyNkRlLXpWbGRlT0JCTW1yMV9Dbnl1dEhsSjc3cGxrbHFUVlhyN2tIS1JXNVlGUVBBQWM5VkNWSjBFd1Q4ODRLekVtcXFna1RaUkpsSVlWZlYwSzR0Y3VsWUJpMWVSZ1BxNkNJbmxJcU9Eb2xWSldqTGhlRmg4dWg2NGh5N0d3em1TV1pOa3VMRURNNmtTbjBrVWM2dnhqcy1zT2FKbTNqRm9telJ6NDQ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
       "id": "66f0de4fbdf1ffb1",
       "headline": "Germany Pushes for EU-Wide Tesla FSD Approval, Could Pursue Its Own Path",
       "excerpt": "[object Object]",
@@ -12788,6 +12896,15 @@
       "excerpt": "India power shortfall hits three-year peak despite higher coal burn Reuters",
       "publishedAt": "2026-10-01T07:09:44.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnZnVHN6V0tmMEZUOTNVWXdjbDFSMHhGMmRTUzRfczdlcVc4bmZQLXVyTGdCc1ktbkx2Uk42QUhUT2hqVUJBTzhHamhNRFZ0aG9oU1JrZ0JwMVZsZllRWXNzYjdhdUJoeFlieGpzNjZxRjhHUmpPSnBTaTdtUHJDZEN0QlVZLWN0NHdkeWdXYk9Pc3NkbHQ3VS1xQ0IxXzRFLTdKV2l2REdnRnJZUC1IaUJ3S25jU0J4MnVz?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "061768181b03a082",
+      "headline": "Strikes on the table as Volkswagen terminates union wage deals - Reuters",
+      "excerpt": "Strikes on the table as Volkswagen terminates union wage deals Reuters",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PMUFEVXNnemJ2YnVNSVNSeGpRazg3ZWlHejhEdVk3RHczdFF3WE5KcFY2UWZNbXljLTQzcnRPem9Rck9XNUYzMGJnMW5IZWQyNlJGWGVSWTdwRlBuZV9ZbEl5c1lKLU0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -25687,6 +25804,15 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3czanZhdWZIaURRTi05aWFKZHE0TGd6dVYtMUctTXd6bklmNTRNTWxLWS1xMFc2ZWtfUmxCZm1rMEkxQkxsUGdjNGhfVWNULTZaLTBHdG9YV21EZ3RFaTVMbW96Nm1NMGpNOEVUeDRtTzZnNjhhVXFwWFVuM2Q3elhCMUpsWmMtVG1yUmh2X2dvQUFqTWNxbGxCbHVLT0NHbENNUmlHUDJhNi1NZDI3bGtyRFN2dXZXNVJsTkVrTUhtdUE?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "cf0b8ac6ff531670",
+      "headline": "Trump extends push for $100,000 H-1B visas by another year - Reuters",
+      "excerpt": "Trump extends push for $100,000 H-1B visas by another year Reuters",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnBFNl9oTDFRanpweUNDNTNjNkFaMjdUS3g0a3BUTk5fa1g4UXRobG5hQ3hKZ2x6QzFNODJqUmhNSWJ4S2Y1eDJQWUV2Y1NmczVGUFd4cXZWNkFKVl8ySXRBWHIxdHJvZ3Rjek5HUDhQLTdNVkNRLWhMXzR6MEJIaV9NMW9Na3Q0RlRZOWEyVFlzeW1IaUstTzk0dFlJVlBqTzRQQkdUNjRHNGdYSUZDMkZHUng3Nlc2SGFJ?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
     },
     {
       "id": "6f57d1395021c6b8",
@@ -44875,132 +45001,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzRaMjFZOFNCczJMbnBJS2hMWTJ5b2szVjZFdU1nSHZRMWRaT2JKajlCeVMxRFFqeG5Bbm5JdG55Mkl1MzktZW00ZFJrdFQ2bk9lQjVFOE1xcGctLTBTNWxWc1pvaUc3UVFab3lpT2QyM2hQQ2hMNFZpZnBNbEprUEJrMVdreTdlWFRUZGtVSi0tVkdaT0UyZ0FFa2xFdngxRFR5TEZCY3czZ0oxb2N1c2FoYjA2ay1kYl9wcTEwOUJDcTIyek1BSQ?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "f98194a0837191d3",
-      "headline": "Mamdani imposes one-year ban on AI for most NYC students - Reuters",
-      "excerpt": "Mamdani imposes one-year ban on AI for most NYC students Reuters",
-      "publishedAt": "2026-09-02T19:53:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3pZYVc0QVRhMWllSnUwZHJsNDlzd1ZhWXZOTmpHVXZwcXU3T2FtTUl0b0ZrLTdFLVNJdmRNYjdUalY5cnVSV1VjZU82SlpPTkdqRS0zSENzd3N1dl9rcEpzSVpfeC12cVp6V21TSDJwYmdmVmEtVXNOdkMtb0F6QXIzZ3d4eDVEekxHMkZ3UHI0WGphSVFrcDd3UWE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "cb02fd32c9d73c10",
-      "headline": "Boeing paid $3.1 million fine to FAA over widespread safety violations - Reuters",
-      "excerpt": "Boeing paid $3.1 million fine to FAA over widespread safety violations Reuters",
-      "publishedAt": "2026-09-02T19:49:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXJXcWZlVnVmS0JMMTlmQ3NrSTFaRy1WMzlXRzBId0dQS0JRNXA1YmlfNklkOFFGQUdrQ2h3dXh4UkNETF9xcjlKMi03MS1kLUhGcDlYMU0yUy1LdjkyRm0xWENIQ2ZQOUIyVXA3WllPRzYyQ0xWZl9JamxQQ3E3TXFZU1Zwck53ZHFkX3RsT3BabGpQUWthVFp0d1ZEUF9Qa2xLS3dFVDE2MGs?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "1db0b8f56b04e365",
-      "headline": "EXCLUSIVE: Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say - Reuters",
-      "excerpt": "EXCLUSIVE: Private equity firms Carlyle, Bain, Oaktree readying bids for Serie A international media unit, sources say Reuters",
-      "publishedAt": "2026-09-02T19:43:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUERGRVpPb0FBQlRqVXBZaWhBSzBSSW0zaWpVOWt3eWlyU2h2Ukp1aC1EZkRieVlmVDA1ZXJzcy1CLVJvR2VxcTRCZ241MVZMekRBNzBIeHhhaFM5WnJkRGJMN19hYllxWFFaTmR3UWZmblU0OFFZanVzVXhFYzRJU2NheDlnaVJhTndrWHZ5X1JialFLX291MW1vRW5TNkRDZlVUVTFMdlhLSU5vN09MU1ZiUDJGT05Hem5VQmFn?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "a5b4cd1198da1a1c",
-      "headline": "Waymo taps Pimco, Blackstone to raise $3 billion debt, Bloomberg News reports - Reuters",
-      "excerpt": "Waymo taps Pimco, Blackstone to raise $3 billion debt, Bloomberg News reports Reuters",
-      "publishedAt": "2026-09-02T19:40:09.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU29YQk9RWTlVZm1OQzdHZWlaNzBXVHVjNjJwQjZIS25SWElyUDJ4Qm9pQ0paTHRRR2IyTXBYOWNva2ZNdVA3WlZvTi14cElERzZuMVlmdUQ5bDRLSWItRHJibk9qaFB1OUNUQTZCazBnR2s3R1cwWl9zay1OTm5GUXVGWnZISUIxSmpiLWtXTHJDaVBVQW1kd20wS0pqZTk2SmJ0YkQtWVZpYnRCRXJFMnF0c0MtNVU5bkZjMW1xR0UzWmFkSGc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "0aa0a4fced2fe1a4",
-      "headline": "US government backs OpenAI in New York Times copyright case - Reuters",
-      "excerpt": "US government backs OpenAI in New York Times copyright case Reuters",
-      "publishedAt": "2026-09-02T19:37:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODVsb2JiWUlRc3pRYm51czFaekswTjZmUXNCc3N6R0FhVllZNTJ3OXp6dHBiamNYazFmdHNpTUswSUZ3U3AwbENheHhKbjJmN2hwaS0zZUlMcEp5cm9LWDlLUkZUZlBLc21NZk5IMkNtQ3JzVFdUcGhVaWJCemgxZGtRdkFpR0lpbzA4WUhEX0FqQjZVaklRdUVuU2o3SkxWVEpFRkZyNUt0cThiTVE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "ac59085e8965f1ad",
-      "headline": "Over 153 Million Scanned Driver's License Found For Sale On Dark Web, Some For Just $100 - Jalopnik",
-      "excerpt": "Over 153 Million Scanned Driver's License Found For Sale On Dark Web, Some For Just $100 Jalopnik",
-      "publishedAt": "2026-09-02T19:36:51.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDlGdzNyNjAtbGd4ZV9WX3hTYXpzZmY4ZXVRRFhhVTZjdHhMUmNXYkpLbUdkSVpMdmRzUVpSQk5adjM0cXNLVWtOMmNKYmZYMjB2TFVEcXRJeFFCcGRkS3N0dDRzZlNSRkVGRlE1cjJydF82US1lczNJd3NuUlYzTTBjdjJkZHZZWU1nWk9ia3dIOHlpbmE0cU9lRkk5Nzg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "65a85c77e22137b8",
-      "headline": "Latest Camouflaged Ford Fathom Prototype Photos Don't Show Anything New, But You're Still Excited, Right? - Jalopnik",
-      "excerpt": "Latest Camouflaged Ford Fathom Prototype Photos Don't Show Anything New, But You're Still Excited, Right? Jalopnik",
-      "publishedAt": "2026-09-02T19:23:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbzNyNFdfcmEtclFfazVLX252QXQ0XzMtTndvMEY2M0prTkpTQzhJOWdQckgtWnBxN1NCM25ZM19waVQyNjRWeVNMdF9ETmotZ3FCX0tNbzdsYk9nOTVRTVNTdjN1ajZwZDBaVkUyM0JfWEREQVo3WGN6LUhENlQ3NTFHLXpxeVRXQzdhTjFkb1Q2aHM5Y0xB?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "9730125a28a1926c",
-      "headline": "The Devil Works Hard, But Whoever Is Keeping The IS Alive At Lexus Works Harder - Jalopnik",
-      "excerpt": "The Devil Works Hard, But Whoever Is Keeping The IS Alive At Lexus Works Harder Jalopnik",
-      "publishedAt": "2026-09-02T19:20:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm56RjA5WlFFR0tzTzV2QndSVEFudlBsNHdTM0xYUnpsMnVkRThQSDIwcVA3MGJ0TmNvN0R5MU5GN2NMVlMyNVhHMGlGekRJTGlWY2NVSW1UdnE3enBudlZSeTV1eEVTU0lqUS1iRFBwdm0yc2s5RHNfZHhaRjZKYjRadlJNQzM5dEZjUk1QaXVrMkJyaXlkNA?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "c3d969115a41b7c5",
-      "headline": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq - CNBC",
-      "excerpt": "Traders are piling into this international stock market that just pulled ahead of the Nasdaq CNBC",
-      "publishedAt": "2026-09-02T19:11:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZUl4RjhSVlFLRXRXcjYxVHhGSDh2ZTF6VlNPNEpZbFVEZ2dkdmluUnRHaGt4WkZRWTVpUHp1bzZ6T3E1NzRadFI3VEJvUmNXd25UcDM3YUU5VEhXU2hYTVhDOUR1OGVsa2lKbFAzX0RBbWZ6b0NUaDRJNEhRM2NPRGEyZlZBR3JyaEZ6aXVnb1UtN1N0Q0NFcmpKa0ZWNG1TZ1paeEZ5S21CMEdHWURIZtIBtgFBVV95cUxOcUdtQ2JmZDFUZDU0R2d0aVhfZVE0ZHR1Um05M3ZqbE0wVDFyRElNQVplVW5zWXd0WVJENVFoNVY1R05qRXlsVGRGSVZjRnBTMzdUU2ZRRHNkemR4a1NidHhRbXhKcWk3SmtoLWlTZGY0RG1hdmN3ZklpTjhGLUpSSkQ0SXNEMTJvTnVjTWhrdnNOQWNRYkR4QkNCN3lsYW5QWVNQUEpvYy1rWjllMUNVNUtLRXRSZw?oc=5",
-      "sourceId": "cnbc-tesla",
-      "sourceName": "CNBC — Tesla"
-    },
-    {
-      "id": "b79ccf30036be5ec",
-      "headline": "DIW raises German economic growth forecasts as exports beat expectations - Reuters",
-      "excerpt": "DIW raises German economic growth forecasts as exports beat expectations Reuters",
-      "publishedAt": "2026-09-02T18:53:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUxPdDZBNFl4bE42a0NNZkVLWkFLMzVFUlU4aXZkUjAyYVRVWG9FOXE1UUhneXV2emVwLVZIRU9tWEIyYjROR3N4ajB6NzdYMkhrYlJ5bldEVU1wSmE2OVBvNkxwWWhPdnMxY0RiQjlPMnJiTHN2NGhwLTlwUkNFbFQ4aGJqXy1jS2NEUl9oSnhiY0FvQS1XQV9DWnVncE5fcHVOcXR1azVKLW9zWkJncWdlcW8?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "98b4aed273c61377",
-      "headline": "Key US bar exam score suggests poorer showing on latest test - Reuters",
-      "excerpt": "Key US bar exam score suggests poorer showing on latest test Reuters",
-      "publishedAt": "2026-09-02T18:45:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlB3djNSeTBkX3V0TjhQdXRaZ1ZheGdHRlVHemUwTmdPd1BTN0d4aEY1TXoyVW04dWdrQzZMZkZrN1hJWUE1ajFJWHdvRzhXcFlLeVRaY1hhajNHUGNPLXlzeWFpbXVVcWZjckJMWDFMMjQzUTFFLU9vdl9EQjdqMmc0bDVVTHNXNUVQRHB3SFhkak1NMGpCNVlSdkw2NWN2cndkc2FIZ3hJN2tYQWplRlU4cw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "907590e4fd04773e",
-      "headline": "Shell to acquire stake in BP-operated Conifer prospect in Gulf of Mexico - Reuters",
-      "excerpt": "Shell to acquire stake in BP-operated Conifer prospect in Gulf of Mexico Reuters",
-      "publishedAt": "2026-09-02T18:27:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2N6YVV2MHpNWHFaSWo5a0luWGgwR2tnQV9XTFlnc3E3Xy1tSkg4eWlqSFQwVy0wZVdGVDlYZmpxTmhpMDZnS3ZkeHVFQ2xkM21iaFU4MTdJSU1HRjdWUmRkdUNoMm5OUmxER1dyLV9rWEQ2bmM1bjY3dGhUNThabFpkQ0Q1MHdoNmtpOGpfcm1neHl4c3hJeERmSkZQS05KYkxER29fRnlPcl9ZUEtPSTl3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "03f19c8858743cfd",
-      "headline": "Five Ford Models Are Being Recalled For The Same EcoBoost Engine Problem - Jalopnik",
-      "excerpt": "Five Ford Models Are Being Recalled For The Same EcoBoost Engine Problem Jalopnik",
-      "publishedAt": "2026-09-02T18:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3RIS1RfclQtVzEtazY3Wm5IeVVKM1g1ODF0Ums2WmRibkE4dFBUWmxCVWR2VHBSbE5BNjVBWlVObWtjYzdrUUx1NDk1Z2RsaUtQVkJHRmw2eXpSRnpZNEF1ek91WEN2ZWlhN01zNzNJblRtbTI5eU1OOTVJMk5tTFlLMWNHXzFOb21sQlhIX0NYUQ?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "a853316280a1cad5",
-      "headline": "Tesla Model Y L gets suspension complaints in over odd issue China",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-02T18:05:40.000Z",
-      "url": "https://www.teslarati.com/tesla-model-y-l-gets-suspension-complaints-odd-issue-china/",
-      "sourceId": "teslarati",
-      "sourceName": "Teslarati"
     }
   ]
 }
