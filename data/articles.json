@@ -1,7 +1,16 @@
 {
-  "lastUpdated": "2026-10-18T08:13:41.241Z",
+  "lastUpdated": "2026-10-18T12:42:25.835Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "a4a291aed7734504",
+      "headline": "Electric Vehicle Chargers Or Flying Cars? Tesla And The State Of Florida Cant Decide",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-18T11:42:09.000Z",
+      "url": "https://cleantechnica.com/2026/10/18/electric-vehicle-chargers-or-flying-cars-tesla-and-the-state-of-florida-cant-decide/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
     {
       "id": "a64dd8e909a2ba0c",
       "headline": "China proposes export controls on solar-manufacturing technologies - Reuters",
@@ -39,6 +48,15 @@
       "sourceName": "InsideEVs Italia"
     },
     {
+      "id": "70362c6a607eeedb",
+      "headline": "If You've Ever Wanted To Drive Through A Tree, There's A California Redwood Waiting For You - Jalopnik",
+      "excerpt": "If You've Ever Wanted To Drive Through A Tree, There's A California Redwood Waiting For You Jalopnik",
+      "publishedAt": "2026-10-18T04:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWM0Y1l1WGZJbmR0TzZXZmxQbTAxbVRmd1gySUZqcEZSd1JYRmZnTlJSMUVUOVMyeVBzSHdvaWxEODREOWh5Ykx2eDZhaG8xeFoxTDlFR1k2YWxTd3ZhX2R5TmR1Z3V6Z1VWSldtYXpIRG5RLUdoMmhBcE9MMVVpNDRvUmhMV2cwZnBETUR3?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
       "id": "88dcbade6f08615c",
       "headline": "Why Cars With Cylinder Deactivation Can Experience More Mechanical Problems - Jalopnik",
       "excerpt": "Why Cars With Cylinder Deactivation Can Experience More Mechanical Problems Jalopnik",
@@ -46,6 +64,15 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEctWENsV2l5Y2duYW5GUDVlTXpLVTBQekNMcnFrUlhielhOTGFvT2VfU3U4OVNLM2xGclZJblBQZGlnUl9pQnRnZnViZWRMbkpieGFoZ2VXbms5YmdRVXJDalZwV1RrczNHZjlXbTN5b1V6OGVpOHRqb3l2ZVNvRFRoaWE?oc=5",
       "sourceId": "jalopnik-tesla",
       "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "19d05219a0838316",
+      "headline": "Tesla Roadster SpaceX Package: 2 Agencies, 0 Rules [2026] - https://tech-insider.org/",
+      "excerpt": "Tesla Roadster SpaceX Package: 2 Agencies, 0 Rules [2026] https://tech-insider.org/",
+      "publishedAt": "2026-10-18T02:24:23.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3pIZUZMMnpiT2VjOThqdHQ5RmxvT0N1eXRpbVNVVjlmT1NuNHRLUUhMWFZXdVZrczM3Rklvdy1GRHZnZ0tHelhpR0V2eDdXcmVNN25lY2ZsTUFINkU4RlFzSXlEdV81WGxsc2VFY09HQ0p0Q2NLZ3hxZVpSSnB2TUNqbmNRV2lz?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
     },
     {
       "id": "c903c2122a8c4b59",
@@ -1763,6 +1790,15 @@
       "excerpt": "UK watchdog moves to protect energy market from wholesale price swings Reuters",
       "publishedAt": "2026-10-16T06:46:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenRiT0NLdHdEVVlBVUVzNmpCemctNi1rSGl2VjNvaE91ZnZLSFZBUlJZY2ljVkw3LTY0S0pWZmxiRlNxbHVyQmV4T0hSV044dWNPT2Nyckk2Njg5UklOTTRLVXh4V3praHZQU1lTWk5Nb2pSaklDU01BQTg1NDlUTzgxTHV6Z1d5RkdTaDIzcEtQRnB2QURnNmFFanQ0Y3JsNk8ybDhucVl6NUtWMmcwazQzWEk?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "2dc28d8e0663ee66",
+      "headline": "We have liftoff: Tesla's new Roadster can fly, sort of - Reuters",
+      "excerpt": "We have liftoff: Tesla's new Roadster can fly, sort of Reuters",
+      "publishedAt": "2026-10-16T06:34:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tcExxdkV3SkVrdVY1MzJFV2lRQTRfSUpnZGZicDYzNEJMVWtybWlCejZ4VGItUzFSRnprRmtiQ2xYQnQydm9lSW9Hd2lsRWFWZF9xeDZ3bFNZLXNxYXFrc0FMZTE4UXBOQm51NFJCNERIbDlpenhoOGdXUURGdw?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -3797,6 +3833,15 @@
       "excerpt": "Equinor halts Troll gas field modification, boosting output Reuters",
       "publishedAt": "2026-10-15T08:27:43.000Z",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE5kV016bXJ3azJEcS1FeU8td1pjSklSNkRwWTIyM29xNmgxX3FvTjNBZ3h5NlV0LWx6YjVhbGllVzNjQXNoRFNLR3l5TG9ZY3ZqTHNNdDh6Sk5jdkY3blRMRm5qSUNTbW1MZFVoOW9zNmlKVWZqSURkYzFxU21zZHQ1VlIxZG55ZTlVLXNBQzFMQUN0SDg0dVMwdWFMbWxMazRiTnNPaVpyUTVaT1Bj?oc=5",
+      "sourceId": "reuters-tesla",
+      "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "78552f3e2c6606ac",
+      "headline": "Novo valuation beats Tesla on experimental obesity drug data - Reuters",
+      "excerpt": "Novo valuation beats Tesla on experimental obesity drug data Reuters",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tTnAtV1ZzRnBqUDc1MzJFNGxDTWpQR25QX1ZTUDdsRTJaM0ZmRUFWREdfUnRubUJqZ2JmeXczQjUtWVdydkNyTzFmQWYzN1FfRS1XUEtGbEN1SW1qd0gyNWs3clFaTTg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     },
@@ -44954,51 +44999,6 @@
       "excerpt": "Granite Asia seeks middle-market opportunities in Asia private credit Reuters",
       "publishedAt": "2026-09-08T14:05:06.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGxXbElPa2dzMy1iMElIbnA1TE9VbU13UGNCRk9sQ3Ixd3ctTF9IVm56YXVOTE9PZTMwb2RXZ3I1czhfX3VIS0NxZnRNcjU5TTJQWVk5YklyendmaVhSYkY3MzZGZkdEbTgyWXVfMkx3Tl9USEFaZnhMQWJvUExHaWEzWUFNVVZ6amRrR3ROWGJmYnJZSFdtWE5GXzNMV2kyRHZUalNLdGNGelBvVV9jRVFsaVRDSnUwNVQ0?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "e97734bf5251c587",
-      "headline": "Romanian intelligence service says it prevented Russian sabotage operation - Reuters",
-      "excerpt": "Romanian intelligence service says it prevented Russian sabotage operation Reuters",
-      "publishedAt": "2026-09-08T14:03:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUtMaFc5ZHJDWWNvWFNvTHRFX2dsLVg1cEsxSkNYaGYxQTlCM290OUI0Z1JsMkVhbDlJazBpVnhNbklQVDNpT2l2SnVjRDlkbW14dXd4M0VFeXptei1pRXhxc3hHYU85VmFZTjNBSGRmVUN0Rk0zZVZzWnRRZldiNE43cGVPR3FSblpETEdwTEdvQ1FyNTJHeU54VUJKZk5VR2Q3WTM3Y25VNHpVOVlkY3U1ZXZXOUE?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "7df6eedde1f78a64",
-      "headline": "Director Gibney says fear shadowed making of Musk documentary - Reuters",
-      "excerpt": "Director Gibney says fear shadowed making of Musk documentary Reuters",
-      "publishedAt": "2026-09-08T13:59:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3ZxLV80RlBraTk0dzQ1MHd5Z1ZGVC1KOE9qYlgtbURMQlVRVFVxUWI5Q0doOFg0MjVBNEZTOUYzcWVPX0FuLTRUckd1V25nTUtjQnZvcnBLUkpGUENjSk9kZjRBTjdOUzRMR2s5bFF6TlgwSUJUVFEtSFp1TkVxVzdmWHZFNTRtUTFDd2RHck9xdmNYMFg2VnNZNjZENm1jdHE0U25SU20yV3J4OUhBcm5rY0JvUXlX?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "4562b863d91587ce",
-      "headline": "Tunisian journalists protest over media crackdown after colleague’s arrest - Reuters",
-      "excerpt": "Tunisian journalists protest over media crackdown after colleague’s arrest Reuters",
-      "publishedAt": "2026-09-08T13:55:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0llMUtvb1ZmTFZLWkdZWjhPSVZpdU1hTXpUZnJRY3kwWDhVODdMbkVHMGprTm1LcnU1Ykt4Z29xbHNDOUNQdzdRWVUyWWpJZVZBd1RuZzFkT3FkaTk2bUxjOTY0cGhFSFlUejlia3Q2UFR4bkM3VHhXWUdyRUNaSmdsYzZtRzBXQTYzRWN2YUNUb2xwMHZENFF3Wk1CTm9ua01DNVdzTjR5bDJDbE95eVI0b0NKMVNRdUpGZlhacUV1NWVRTTJoc3Byalc?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "196de9910d742f1c",
-      "headline": "Watch Tesla FSD Navigate Denmark's Tightest, Toughest Street",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-08T13:45:31.000Z",
-      "url": "https://insideevs.com/news/807526/tesla-fsd-aarhus-center-ride/",
-      "sourceId": "insideevs",
-      "sourceName": "InsideEVs"
-    },
-    {
-      "id": "0fba6bf5d83a8946",
-      "headline": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack - Reuters",
-      "excerpt": "Boston Scientific says unlikely to meet 2026 sales, profit forecast after cyberattack Reuters",
-      "publishedAt": "2026-09-08T13:43:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV0hfNmdmb2ZPZlZjVU9TOVduRl8zU0d6c1VDOUVRd2lBX09oWGtLdTBNZ1hjWGJpZkY3UFFBZnlZU0doQWdOTXNMeWQ0RTUzLW5hTUlsbk1ZVmItcXJHY2hyTUF2UnZ0OGE5ZTdOMHF6ZVB5UW1UektuMTc4NlQwV09mNzBVQ3R2anNxb05mNVhHMm9yUkxDQUxjZGV0eTRVYTlSdlBZMTY3bm00bUJLTg?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
