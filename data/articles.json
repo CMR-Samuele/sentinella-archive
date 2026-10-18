@@ -1,7 +1,61 @@
 {
-  "lastUpdated": "2026-10-18T12:42:25.835Z",
+  "lastUpdated": "2026-10-18T16:20:29.705Z",
   "totalArticles": 5000,
   "articles": [
+    {
+      "id": "1e22e9d984020bf1",
+      "headline": "TechCrunch Mobility: Rivians next act",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-18T16:05:00.000Z",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch"
+    },
+    {
+      "id": "7c885beb620b0f67",
+      "headline": "Even Elon Musk isn't sure Tesla's flying Roadster is legal — but he still says it'll be a real car you can buy - MoneyWise.com",
+      "excerpt": "Even Elon Musk isn't sure Tesla's flying Roadster is legal — but he still says it'll be a real car you can buy MoneyWise.com",
+      "publishedAt": "2026-10-18T14:16:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRG9SZTZISVpYY1VxLXNuMVI3Vmtqbk1Wc0IyYnpsemtuMThWOURmLTRkWmFhdVNTUTdkMXRIb2VwcnhsU29nOHhvd3Z6YU5zVVBPZmhub1hfY0hNWFFvQTRkY0E1Y2dNRDVvY0gtNUtlc2F3NzNMYjNVdlZKTGN6VW15QzdSYnBY?oc=5",
+      "sourceId": "nhtsa-tesla",
+      "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "c0b1935fa540a812",
+      "headline": "Tesla Implements New Accident-Avoidance Automation, But Millions of Tesla Customers Don’t Have Access To It",
+      "excerpt": "[object Object]",
+      "publishedAt": "2026-10-18T14:04:03.000Z",
+      "url": "https://cleantechnica.com/2026/10/18/tesla-implements-new-accident-avoidance-automation-but-millions-of-tesla-customers-dont-have-access-to-it/",
+      "sourceId": "cleantechnica",
+      "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "b8c0c4bbb9d9a84e",
+      "headline": "We Spied The Facelifted Santa Fe That Will Be Hyundai's First Range-Extender Hybrid - Jalopnik",
+      "excerpt": "We Spied The Facelifted Santa Fe That Will Be Hyundai's First Range-Extender Hybrid Jalopnik",
+      "publishedAt": "2026-10-18T13:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZldtNVUtNnR4Rmw2Y3NSb1VpVjFhbXd5MlpFbm9wcVUzVkZFUVZkNmpkT1h4dkFBS3pJWENOMC01b3R6ZFp4ajhUTUFaQU5jVDNtbW1zc25yeUpGOWs0MTVUb0MwVzNUdGRPUmRkNnU5SFFIWFg1UWx3N05INXZ6WGQ2a0V1bk8yN3Nqb0N0dzJJUkFUTklV?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "9931f646b13acb3f",
+      "headline": "Meta Platforms and Tesla are among the companies set to report next week. What to expect - CNBC",
+      "excerpt": "Meta Platforms and Tesla are among the companies set to report next week. What to expect CNBC",
+      "publishedAt": "2026-10-18T12:41:18.000Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
+    },
+    {
+      "id": "72b6b96be8091f67",
+      "headline": "5 Exotics That Use Parts From Cheap Normie Cars (And Even Buses) - Jalopnik",
+      "excerpt": "5 Exotics That Use Parts From Cheap Normie Cars (And Even Buses) Jalopnik",
+      "publishedAt": "2026-10-18T12:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2xWM0VHcjNEc3MxOFBwcUYteEF0OFdEV2x0aERWZjJYTlNqSGJfYmJHUmo1b1hGWnNCR1c4T29aN1g4dkJYVXZZS05EQlhMS1hiUkRYdl9sdUZtLVE3dko2OElYUFFoN21kUkEtTkRfYmFPeDl1VGdneG1qU0MtT01CNTdNX01QR2lGQWdhaWFQQi1wb3c4?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
     {
       "id": "a4a291aed7734504",
       "headline": "Electric Vehicle Chargers Or Flying Cars? Tesla And The State Of Florida Cant Decide",
@@ -10,6 +64,24 @@
       "url": "https://cleantechnica.com/2026/10/18/electric-vehicle-chargers-or-flying-cars-tesla-and-the-state-of-florida-cant-decide/",
       "sourceId": "cleantechnica",
       "sourceName": "CleanTechnica"
+    },
+    {
+      "id": "fad1092df640c5d7",
+      "headline": "The Last Chryslers Blessed With The 440 Big Block Under The Hood - Jalopnik",
+      "excerpt": "The Last Chryslers Blessed With The 440 Big Block Under The Hood Jalopnik",
+      "publishedAt": "2026-10-18T11:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9HMngxSzIwbVVqQS15N2tqUGRvTlEzUlJia3R1blZ6cVE4TkxxMzFNcmdIeWViTlNZRHZ3MjNWanNSVkp4MVdJRDlaT1J4VFNFVXM2MWlJUzIxalFYWEJkV3M3UDRJeW5tOW0yNGd3SkRYRDY5Z2FaZWVweUxrekZ2Q2lQNE5E?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
+    },
+    {
+      "id": "2d4ee1c02fcb1535",
+      "headline": "Civilians Can Own Hummers Thanks To Arnold Schwarzenegger - Jalopnik",
+      "excerpt": "Civilians Can Own Hummers Thanks To Arnold Schwarzenegger Jalopnik",
+      "publishedAt": "2026-10-18T09:25:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdi11SGxUQjROWG9KRmpHMWphSEhHZ2pXQUZtZUhubUZoSXZmZU1teUUyM3cxNWVndlRnbGFHa1B5ejc4YVZHWmRiT3JNcERJdFJ0YkJLN2hmV3V0cTZBRkRYbGh1YXhtbFNleEViNlVaRHR0c0hyYkIzVGV0Y20zRHQ1eEoxNlNLUVVkMjBlZWJDMGZ0TlE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "a64dd8e909a2ba0c",
@@ -127,6 +199,15 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieTladHpTcDQyMzVtUFJILWo1eXV0U25yNE5nWS1LVVRIelFVNF84cWhsbjIzcUdHUGlyZzN4aHBoZHFKelZiOVZRd0pfTnAtM2IxaG5JT3h2elNfZE9OalJNWVRxTlpmY0tDLXJqWnI?oc=5",
       "sourceId": "nhtsa-tesla",
       "sourceName": "NHTSA — Tesla"
+    },
+    {
+      "id": "660c46894119909a",
+      "headline": "7 Puncture-Resistant Off-Road Tires That Say They Can Take Those Sharp Rocks Over There - Jalopnik",
+      "excerpt": "7 Puncture-Resistant Off-Road Tires That Say They Can Take Those Sharp Rocks Over There Jalopnik",
+      "publishedAt": "2026-10-17T20:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbzdxeUY1TUE4MThuTm5kSndUcTJlMHBlUjFFNVJkYjBwZGE5QV85bGJsMnZyQ3V6TEdfdFNMUEJyNTVMRUJFTmVlaG9NazBEMVFWN2FsTDRGb3Z5V1pKUHk0WTVKQ3NiUy1KZlRzOVRlVzBfNlE?oc=5",
+      "sourceId": "jalopnik-tesla",
+      "sourceName": "Jalopnik — Tesla"
     },
     {
       "id": "921ecad9c429b79c",
@@ -280,6 +361,15 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
+    },
+    {
+      "id": "755965d238fc8acf",
+      "headline": "These tech stocks are a buy ahead of their earnings reports, Bank of America says - CNBC",
+      "excerpt": "These tech stocks are a buy ahead of their earnings reports, Bank of America says CNBC",
+      "publishedAt": "2026-10-17T12:49:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUxGQXNoaUVFWEEweEtSZWo2RHVaZ2lsZjk2ZWVVZWEwTUFTZXJ2SFVmM1JoWWRzcXRUNkF4Z0tTSlZZemI3LVVVeW53Zl9Ndy10Z196N3Y0UjZpa0x0Q0UtODdQMmx0TlczSUdzSkRDYlhMTHJGeTQ0bVByMU05cmhJTjh4RElqWlg0T1UwLW56VFU?oc=5",
+      "sourceId": "cnbc-tesla",
+      "sourceName": "CNBC — Tesla"
     },
     {
       "id": "06f6e848f386b625",
@@ -44909,96 +44999,6 @@
       "excerpt": "Why did Renault's Dacia bring production back to Europe from China? Reuters",
       "publishedAt": "2026-09-08T14:50:24.000Z",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mR2dCeHE3UDNqNVBKaEgwakdXMWRNNlNnT19MRnYxdjl1UkhXaGpRRnpzZDhpcTJITmtudDlFLUZGTUYwVTg3T1RmSms3bFl3Z05XZURJcGZtcFpJVGRDZnhFZFFKdw?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "5dc428193da00229",
-      "headline": "Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks - Reuters",
-      "excerpt": "Germany to send more Patriot missiles to Ukraine, warns of stepped-up Russian winter attacks Reuters",
-      "publishedAt": "2026-09-08T14:50:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdlRUdC0wWEtieFkxa2dibzVNNWxEc1lhUzRwcG1MWVpPMUtDOW5EaTVfdzJwR3JBQWx5bjc2VHBUUG96bTR5VXg0SDVNYk0wMU13MmlzamFkMkVaWjdVZDdqeGxFcThXdTZNZU9TOXdXcjRXYnVwMUl2N19oc3VzR2xGRWZxenk2b3NFazZ4RlVucmNxZUtKQ1hCYjRaazE1MWF0MmduOURqdGtBMEF6MFU0UVZZY1BJUFJmZGNBT1hxdkQ2bFNZOHVvMUh1M0JvVHNj?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "d84c6955d131e00e",
-      "headline": "Why did Renault's Dacia bring production back to Europe from China? - Reuters",
-      "excerpt": "Why did Renault's Dacia bring production back to Europe from China? Reuters",
-      "publishedAt": "2026-09-08T14:48:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1OHkzNHdRZ3BOcUFoenRCOV8xNHBzNzdXazJFYm4wYUtRZVNVOWp0aVl1bldmSXJibktMWHBHZV9nbjN6SkpUU1VfSEdhSzFZR1RpazNrdTdRRmsxZnVjaVMyQ0xTQXRhaGNaU0x3NlRibENiTlZfb1p3?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "9b9e46e35626bf16",
-      "headline": "Tesla Cybercab has a hidden virtual joystick to drive it manually",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-08T14:48:24.000Z",
-      "url": "https://electrek.co/2026/09/08/tesla-cybercab-hidden-virtual-joystick-manual-driving/",
-      "sourceId": "electrek",
-      "sourceName": "Electrek"
-    },
-    {
-      "id": "9b9e46e35626bf16",
-      "headline": "Tesla Cybercab has a hidden virtual joystick to drive it manually",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-08T14:48:24.000Z",
-      "url": "https://electrek.co/2026/09/08/tesla-cybercab-hidden-virtual-joystick-manual-driving/",
-      "sourceId": "electrek-tesla",
-      "sourceName": "Electrek — Tesla Guide"
-    },
-    {
-      "id": "d804d03e995e173a",
-      "headline": "Stoke Space plans more powerful rocket, raises $1 billion - Reuters",
-      "excerpt": "Stoke Space plans more powerful rocket, raises $1 billion Reuters",
-      "publishedAt": "2026-09-08T14:32:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUDFTS1I1WXB4UjJqcHdsdW9FWDhFUUE1NktRREJ6cjdjRUtQR3BDQTVwajR4M1F3RUFDM3Y4S3dYeVIwb0JHWjU3dDlhUUdnWVF2am8waFlSTWhTVkFfbkZmQkpnSUkxcmo0cEVXOUg2WUVBTWdKb2RiM0o2Q19tdXE5NFZLSDFHdHRVR21odk1UaE1yYlAzZDVYdUhhX18xOERzWThLT21heExTbjhYTkZCSTk?oc=5",
-      "sourceId": "reuters-tesla",
-      "sourceName": "Reuters — Tesla"
-    },
-    {
-      "id": "bf663ef353a0b1a1",
-      "headline": "These Are The Best Cars To Be Chauffeured In - Jalopnik",
-      "excerpt": "These Are The Best Cars To Be Chauffeured In Jalopnik",
-      "publishedAt": "2026-09-08T14:25:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTk3SEVIS0t3cHA5TnhtSzVRTDNDWFprVW9HT2JRNDNFSHhDUmU3cDBGNHZyQ1Njbmh3WUN5MnFBdUx5ZEdYeWZlU2ptek1kLUVNSENQbkM0RXJORjNkb0lqNV9XVWpQWWNycTNQaDBBQ3VPQTE2NHlTYWNIWkdxVzQtRXM?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "3497eebd27a39e22",
-      "headline": "Tesla FSD V14 Lite for Model S and Model X could finally be coming soon",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-08T14:24:00.000Z",
-      "url": "https://driveteslacanada.ca/news/tesla-fsd-v14-lite-hw3-model-s-model-x-soon/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tesla-fsd-v14-lite-hw3-model-s-model-x-soon",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "5456a6dac1139406",
-      "headline": "Volkswagen's Downsizing Starts With Selling A Factory To Israeli Arms Manufacturers - Jalopnik",
-      "excerpt": "Volkswagen's Downsizing Starts With Selling A Factory To Israeli Arms Manufacturers Jalopnik",
-      "publishedAt": "2026-09-08T14:13:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekE3eU5kcXMtWlFOQktMZkZzUjFZeGZXRTl1MHlPMHR5MFRGdTdVQzZucjJCempfRzM3Ykg1eEw3QURLVEZrekRpUUFlNHVhUldtRW52aWxLVTg2NHV5VGhCMEV2TGIydWs0VDgyY200cllVQnBTV21fQ1dTVGJySkxGLV9SeVBqeXY4OVU4S0QzQTBUR1NUdVNfYlBicTg?oc=5",
-      "sourceId": "jalopnik-tesla",
-      "sourceName": "Jalopnik — Tesla"
-    },
-    {
-      "id": "dcdb4ea4471d7923",
-      "headline": "Starlink Goes Live on Austrian Airlines With First Passenger Flight",
-      "excerpt": "[object Object]",
-      "publishedAt": "2026-09-08T14:08:00.000Z",
-      "url": "https://driveteslacanada.ca/spacex/austrian-airlines-starlink-first-flight/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=austrian-airlines-starlink-first-flight",
-      "sourceId": "driveteslacanada",
-      "sourceName": "Drive Tesla Canada"
-    },
-    {
-      "id": "86233652737f4b98",
-      "headline": "Granite Asia seeks middle-market opportunities in Asia private credit - Reuters",
-      "excerpt": "Granite Asia seeks middle-market opportunities in Asia private credit Reuters",
-      "publishedAt": "2026-09-08T14:05:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGxXbElPa2dzMy1iMElIbnA1TE9VbU13UGNCRk9sQ3Ixd3ctTF9IVm56YXVOTE9PZTMwb2RXZ3I1czhfX3VIS0NxZnRNcjU5TTJQWVk5YklyendmaVhSYkY3MzZGZkdEbTgyWXVfMkx3Tl9USEFaZnhMQWJvUExHaWEzWUFNVVZ6amRrR3ROWGJmYnJZSFdtWE5GXzNMV2kyRHZUalNLdGNGelBvVV9jRVFsaVRDSnUwNVQ0?oc=5",
       "sourceId": "reuters-tesla",
       "sourceName": "Reuters — Tesla"
     }
